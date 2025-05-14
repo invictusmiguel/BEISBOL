@@ -1,0 +1,22 @@
+{
+  "id": 5,
+  "name": "Over/Under",
+  "values": [
+    {
+      "value": "Over 8",
+      "odd": "1.91"
+    },
+    {
+      "value": "Under 8",
+      "odd": "1.91"
+    },
+    {
+      "value": "Over 7.5",
+      "odd": "1.80"
+    },
+    {
+      "value": "Under 7.5",
+      "odd": "2.00"
+    }
+  ]
+}

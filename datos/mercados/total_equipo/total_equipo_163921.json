@@ -1,0 +1,86 @@
+{
+  "id": 43,
+  "name": "Home Team Total Goals (Including OT)",
+  "values": [
+    {
+      "value": "Over 1.5",
+      "odd": "1.13"
+    },
+    {
+      "value": "Under 1.5",
+      "odd": "5.50"
+    },
+    {
+      "value": "Over 2.5",
+      "odd": "1.33"
+    },
+    {
+      "value": "Under 2.5",
+      "odd": "3.10"
+    },
+    {
+      "value": "Over 3.5",
+      "odd": "1.74"
+    },
+    {
+      "value": "Under 3.5",
+      "odd": "2.05"
+    },
+    {
+      "value": "Over 0.5",
+      "odd": "1.03"
+    },
+    {
+      "value": "Under 0.5",
+      "odd": "12.00"
+    },
+    {
+      "value": "Over 8.5",
+      "odd": "11.00"
+    },
+    {
+      "value": "Under 8.5",
+      "odd": "1.04"
+    },
+    {
+      "value": "Over 9.5",
+      "odd": "15.00"
+    },
+    {
+      "value": "Under 9.5",
+      "odd": "1.02"
+    },
+    {
+      "value": "Over 4.5",
+      "odd": "2.35"
+    },
+    {
+      "value": "Under 4.5",
+      "odd": "1.55"
+    },
+    {
+      "value": "Over 7.5",
+      "odd": "7.25"
+    },
+    {
+      "value": "Under 7.5",
+      "odd": "1.08"
+    },
+    {
+      "value": "Over 5.5",
+      "odd": "3.30"
+    },
+    {
+      "value": "Under 5.5",
+      "odd": "1.30"
+    },
+    {
+      "value": "Over 6.5",
+      "odd": "5.00"
+    },
+    {
+      "value": "Under 6.5",
+      "odd": "1.15"
+    }
+  ]
+}

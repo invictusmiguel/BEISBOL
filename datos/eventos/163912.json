@@ -1,0 +1,256 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163912"
+  },
+  "errors": [],
+  "results": 11,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 12,
+        "extra": null
+      },
+      "team": {
+        "id": 2562,
+        "name": "Cienciano",
+        "logo": "https://media.api-sports.io/football/teams/2562.png"
+      },
+      "player": {
+        "id": 39986,
+        "name": "L. Garc\u00eda"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 13,
+        "extra": null
+      },
+      "team": {
+        "id": 2571,
+        "name": "Sport Loreto",
+        "logo": "https://media.api-sports.io/football/teams/2571.png"
+      },
+      "player": {
+        "id": 40127,
+        "name": "J. Jayo"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 38,
+        "extra": null
+      },
+      "team": {
+        "id": 2571,
+        "name": "Sport Loreto",
+        "logo": "https://media.api-sports.io/football/teams/2571.png"
+      },
+      "player": {
+        "id": 39759,
+        "name": "W. Calder\u00f3n"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 45,
+        "extra": 3
+      },
+      "team": {
+        "id": 2562,
+        "name": "Cienciano",
+        "logo": "https://media.api-sports.io/football/teams/2562.png"
+      },
+      "player": {
+        "id": 39996,
+        "name": "H. Valencia"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2562,
+        "name": "Cienciano",
+        "logo": "https://media.api-sports.io/football/teams/2562.png"
+      },
+      "player": {
+        "id": 39994,
+        "name": "R. Tito"
+      },
+      "assist": {
+        "id": 39989,
+        "name": "E. Kuncho"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 57,
+        "extra": null
+      },
+      "team": {
+        "id": 2571,
+        "name": "Sport Loreto",
+        "logo": "https://media.api-sports.io/football/teams/2571.png"
+      },
+      "player": {
+        "id": 67926,
+        "name": "L. Montoya"
+      },
+      "assist": {
+        "id": 67928,
+        "name": "Diego Silva"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 60,
+        "extra": null
+      },
+      "team": {
+        "id": 2562,
+        "name": "Cienciano",
+        "logo": "https://media.api-sports.io/football/teams/2562.png"
+      },
+      "player": {
+        "id": 39978,
+        "name": "J. Cuero"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 62,
+        "extra": null
+      },
+      "team": {
+        "id": 2562,
+        "name": "Cienciano",
+        "logo": "https://media.api-sports.io/football/teams/2562.png"
+      },
+      "player": {
+        "id": 39996,
+        "name": "H. Valencia"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 69,
+        "extra": null
+      },
+      "team": {
+        "id": 2562,
+        "name": "Cienciano",
+        "logo": "https://media.api-sports.io/football/teams/2562.png"
+      },
+      "player": {
+        "id": 39988,
+        "name": "R. G\u00f3mez"
+      },
+      "assist": {
+        "id": 39985,
+        "name": "H. Ancajima"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 74,
+        "extra": null
+      },
+      "team": {
+        "id": 2571,
+        "name": "Sport Loreto",
+        "logo": "https://media.api-sports.io/football/teams/2571.png"
+      },
+      "player": {
+        "id": 40128,
+        "name": "J. L\u00f3pez de Castilla"
+      },
+      "assist": {
+        "id": 40105,
+        "name": "J. Barrera"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 77,
+        "extra": null
+      },
+      "team": {
+        "id": 2562,
+        "name": "Cienciano",
+        "logo": "https://media.api-sports.io/football/teams/2562.png"
+      },
+      "player": {
+        "id": 39976,
+        "name": "Y. Baz\u00e1n"
+      },
+      "assist": {
+        "id": 39984,
+        "name": "M. Vinces"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ]
+}

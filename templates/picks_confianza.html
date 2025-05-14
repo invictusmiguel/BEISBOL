@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Picks Clasificados — {{ fecha }}</title>
+    <style>
+        body {
+            background-color: #111;
+            color: #fff;
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        h1 {
+            color: #00ffff;
+            text-align: center;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 30px;
+        }
+        th, td {
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: #222;
+            color: #0ff;
+            border-bottom: 2px solid #0ff;
+        }
+        td {
+            background-color: #1a1a1a;
+            border-bottom: 1px solid #444;
+        }
+        td:nth-child(1) {
+            text-align: left;
+        }
+        .confianza-alta {
+            color: lime;
+            font-weight: bold;
+        }
+        .confianza-media {
+            color: orange;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>🎯 Picks Clasificados con Confianza — {{ fecha }}</h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Partido</th>
+                <th>Pick</th>
+                <th>Probabilidad</th>
+                <th>Cuota</th>
+                <th>Valor Esperado</th>
+                <th>Confianza</th>
+                <th>Hora</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for pick in picks %}
+            <tr>
+                <td>{{ pick.partido }}</td>
+                <td>{{ pick.pick }}</td>
+                <td>{{ "%.1f%%"|format(pick.probabilidad * 100) }}</td>
+                <td>{{ pick.cuota }}</td>
+                <td>{{ pick.valor }}</td>
+                <td class="confianza-{{ pick.confianza | lower }}">{{ pick.confianza }}</td>
+                <td>{{ pick.hora or "--:--" }}</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

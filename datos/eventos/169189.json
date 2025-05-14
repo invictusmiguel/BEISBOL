@@ -1,0 +1,300 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "169189"
+  },
+  "errors": [],
+  "results": 13,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 2,
+        "extra": null
+      },
+      "team": {
+        "id": 2279,
+        "name": "Tigres UANL",
+        "logo": "https://media.api-sports.io/football/teams/2279.png"
+      },
+      "player": {
+        "id": 35534,
+        "name": "E. Vargas"
+      },
+      "assist": {
+        "id": 35530,
+        "name": "A. Gignac"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 4,
+        "extra": null
+      },
+      "team": {
+        "id": 2279,
+        "name": "Tigres UANL",
+        "logo": "https://media.api-sports.io/football/teams/2279.png"
+      },
+      "player": {
+        "id": 35530,
+        "name": "A. Gignac"
+      },
+      "assist": {
+        "id": 35534,
+        "name": "E. Vargas"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 8,
+        "extra": null
+      },
+      "team": {
+        "id": 2279,
+        "name": "Tigres UANL",
+        "logo": "https://media.api-sports.io/football/teams/2279.png"
+      },
+      "player": {
+        "id": 35534,
+        "name": "E. Vargas"
+      },
+      "assist": {
+        "id": 35521,
+        "name": "Rafael Carioca"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 26,
+        "extra": null
+      },
+      "team": {
+        "id": 2279,
+        "name": "Tigres UANL",
+        "logo": "https://media.api-sports.io/football/teams/2279.png"
+      },
+      "player": {
+        "id": 35522,
+        "name": "Jes\u00fas Due\u00f1as"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 42,
+        "extra": null
+      },
+      "team": {
+        "id": 2294,
+        "name": "Veracruz",
+        "logo": "https://media.api-sports.io/football/teams/2294.png"
+      },
+      "player": {
+        "id": 47006,
+        "name": "Gabriel Pe\u00f1alba"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 45,
+        "extra": null
+      },
+      "team": {
+        "id": 2294,
+        "name": "Veracruz",
+        "logo": "https://media.api-sports.io/football/teams/2294.png"
+      },
+      "player": {
+        "id": 36006,
+        "name": "Carlos Salcido"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2294,
+        "name": "Veracruz",
+        "logo": "https://media.api-sports.io/football/teams/2294.png"
+      },
+      "player": {
+        "id": 35998,
+        "name": "D. Ch\u00e1vez"
+      },
+      "assist": {
+        "id": 36026,
+        "name": "C. Kazim-Richards"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2279,
+        "name": "Tigres UANL",
+        "logo": "https://media.api-sports.io/football/teams/2279.png"
+      },
+      "player": {
+        "id": 35528,
+        "name": "L. Zelaray\u00e1n"
+      },
+      "assist": {
+        "id": 35518,
+        "name": "J. Aquino"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2279,
+        "name": "Tigres UANL",
+        "logo": "https://media.api-sports.io/football/teams/2279.png"
+      },
+      "player": {
+        "id": 35534,
+        "name": "E. Vargas"
+      },
+      "assist": {
+        "id": 35531,
+        "name": "L. Qui\u00f1\u00f3nes"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 51,
+        "extra": null
+      },
+      "team": {
+        "id": 2294,
+        "name": "Veracruz",
+        "logo": "https://media.api-sports.io/football/teams/2294.png"
+      },
+      "player": {
+        "id": 36006,
+        "name": "C. Salcido"
+      },
+      "assist": {
+        "id": 129946,
+        "name": "L. Galicia"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 72,
+        "extra": null
+      },
+      "team": {
+        "id": 2294,
+        "name": "Veracruz",
+        "logo": "https://media.api-sports.io/football/teams/2294.png"
+      },
+      "player": {
+        "id": 35997,
+        "name": "B. Carrasco"
+      },
+      "assist": {
+        "id": 92547,
+        "name": "J. Henestrosa"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 2279,
+        "name": "Tigres UANL",
+        "logo": "https://media.api-sports.io/football/teams/2279.png"
+      },
+      "player": {
+        "id": 35530,
+        "name": "A. Gignac"
+      },
+      "assist": {
+        "id": 35533,
+        "name": "E. Valencia"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": null
+      },
+      "team": {
+        "id": 2294,
+        "name": "Veracruz",
+        "logo": "https://media.api-sports.io/football/teams/2294.png"
+      },
+      "player": {
+        "id": 36026,
+        "name": "C. Kazim-Richards"
+      },
+      "assist": {
+        "id": 92547,
+        "name": "J. Henestrosa"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

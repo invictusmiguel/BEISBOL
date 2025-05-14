@@ -1,0 +1,30 @@
+{
+  "id": 43,
+  "name": "Home Team Total Goals (Including OT)",
+  "values": [
+    {
+      "value": "Over 5",
+      "odd": "1.51"
+    },
+    {
+      "value": "Under 5",
+      "odd": "2.35"
+    },
+    {
+      "value": "Over 5.5",
+      "odd": "1.69"
+    },
+    {
+      "value": "Under 5.5",
+      "odd": "2.02"
+    },
+    {
+      "value": "Over 6",
+      "odd": "1.85"
+    },
+    {
+      "value": "Under 6",
+      "odd": "1.83"
+    }
+  ]
+}

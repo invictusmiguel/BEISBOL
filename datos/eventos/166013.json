@@ -1,0 +1,212 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "166013"
+  },
+  "errors": [],
+  "results": 9,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 12,
+        "extra": null
+      },
+      "team": {
+        "id": 428,
+        "name": "Jong Utrecht",
+        "logo": "https://media.api-sports.io/football/teams/428.png"
+      },
+      "player": {
+        "id": 37588,
+        "name": "O. Velanas"
+      },
+      "assist": {
+        "id": 37120,
+        "name": "H. Acheffay"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 27,
+        "extra": null
+      },
+      "team": {
+        "id": 409,
+        "name": "Dordrecht",
+        "logo": "https://media.api-sports.io/football/teams/409.png"
+      },
+      "player": {
+        "id": 8806,
+        "name": "Danzell Gravenberch"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 63,
+        "extra": null
+      },
+      "team": {
+        "id": 409,
+        "name": "Dordrecht",
+        "logo": "https://media.api-sports.io/football/teams/409.png"
+      },
+      "player": {
+        "id": 37158,
+        "name": "Jordy Wehrmann"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 63,
+        "extra": null
+      },
+      "team": {
+        "id": 409,
+        "name": "Dordrecht",
+        "logo": "https://media.api-sports.io/football/teams/409.png"
+      },
+      "player": {
+        "id": 36869,
+        "name": "K. Vermeulen"
+      },
+      "assist": {
+        "id": 37720,
+        "name": "Q. Hogesteger"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 68,
+        "extra": null
+      },
+      "team": {
+        "id": 428,
+        "name": "Jong Utrecht",
+        "logo": "https://media.api-sports.io/football/teams/428.png"
+      },
+      "player": {
+        "id": 37120,
+        "name": "H. Acheffay"
+      },
+      "assist": {
+        "id": 92951,
+        "name": "M. Mallahi"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 68,
+        "extra": null
+      },
+      "team": {
+        "id": 409,
+        "name": "Dordrecht",
+        "logo": "https://media.api-sports.io/football/teams/409.png"
+      },
+      "player": {
+        "id": 37713,
+        "name": "R. Smith"
+      },
+      "assist": {
+        "id": 37710,
+        "name": "T. Kok"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 69,
+        "extra": null
+      },
+      "team": {
+        "id": 428,
+        "name": "Jong Utrecht",
+        "logo": "https://media.api-sports.io/football/teams/428.png"
+      },
+      "player": {
+        "id": 38725,
+        "name": "J. Lonwijk"
+      },
+      "assist": {
+        "id": 93008,
+        "name": "G. de la Vega"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 84,
+        "extra": null
+      },
+      "team": {
+        "id": 409,
+        "name": "Dordrecht",
+        "logo": "https://media.api-sports.io/football/teams/409.png"
+      },
+      "player": {
+        "id": 129046,
+        "name": "A. El Bouchataoui"
+      },
+      "assist": {
+        "id": 37722,
+        "name": "T. Schalekamp"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 3
+      },
+      "team": {
+        "id": 409,
+        "name": "Dordrecht",
+        "logo": "https://media.api-sports.io/football/teams/409.png"
+      },
+      "player": {
+        "id": 37722,
+        "name": "T. Schalekamp"
+      },
+      "assist": {
+        "id": 8806,
+        "name": "D. Gravenberch"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

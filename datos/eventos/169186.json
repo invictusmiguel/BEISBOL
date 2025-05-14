@@ -1,0 +1,212 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "169186"
+  },
+  "errors": [],
+  "results": 9,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 21,
+        "extra": null
+      },
+      "team": {
+        "id": 2314,
+        "name": "Atletico San Luis",
+        "logo": "https://media.api-sports.io/football/teams/2314.png"
+      },
+      "player": {
+        "id": 36034,
+        "name": "Unai Bilbao"
+      },
+      "assist": {
+        "id": 35815,
+        "name": "\u00d3. Mac\u00edas"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 45,
+        "extra": 2
+      },
+      "team": {
+        "id": 2298,
+        "name": "FC Juarez",
+        "logo": "https://media.api-sports.io/football/teams/2298.png"
+      },
+      "player": {
+        "id": 47373,
+        "name": "D. Rolan"
+      },
+      "assist": {
+        "id": 35800,
+        "name": "J. Esquivel"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2314,
+        "name": "Atletico San Luis",
+        "logo": "https://media.api-sports.io/football/teams/2314.png"
+      },
+      "player": {
+        "id": 6051,
+        "name": "J. Laso"
+      },
+      "assist": {
+        "id": 36054,
+        "name": "J. Castro"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 2298,
+        "name": "FC Juarez",
+        "logo": "https://media.api-sports.io/football/teams/2298.png"
+      },
+      "player": {
+        "id": 36475,
+        "name": "G. Hachen"
+      },
+      "assist": {
+        "id": 36469,
+        "name": "E. Brambila"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 2314,
+        "name": "Atletico San Luis",
+        "logo": "https://media.api-sports.io/football/teams/2314.png"
+      },
+      "player": {
+        "id": 6001,
+        "name": "C. Mayada"
+      },
+      "assist": {
+        "id": 5913,
+        "name": "R. Centuri\u00f3n"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 75,
+        "extra": null
+      },
+      "team": {
+        "id": 2298,
+        "name": "FC Juarez",
+        "logo": "https://media.api-sports.io/football/teams/2298.png"
+      },
+      "player": {
+        "id": 36490,
+        "name": "F. Santos"
+      },
+      "assist": {
+        "id": 36482,
+        "name": "Leandro Carrijo"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 2314,
+        "name": "Atletico San Luis",
+        "logo": "https://media.api-sports.io/football/teams/2314.png"
+      },
+      "player": {
+        "id": 36033,
+        "name": "Mario Abrante"
+      },
+      "assist": {
+        "id": 36049,
+        "name": "J. Portales"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": null
+      },
+      "team": {
+        "id": 2314,
+        "name": "Atletico San Luis",
+        "logo": "https://media.api-sports.io/football/teams/2314.png"
+      },
+      "player": {
+        "id": 36059,
+        "name": "Nicol\u00e1s Iba\u00f1ez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 2
+      },
+      "team": {
+        "id": 2314,
+        "name": "Atletico San Luis",
+        "logo": "https://media.api-sports.io/football/teams/2314.png"
+      },
+      "player": {
+        "id": 36059,
+        "name": "N. Ib\u00e1\u00f1ez"
+      },
+      "assist": {
+        "id": 35597,
+        "name": "R. Reyes"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

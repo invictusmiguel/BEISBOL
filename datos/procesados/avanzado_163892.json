@@ -1,0 +1,16 @@
+{
+  "game_id": 163892,
+  "fecha": "2025-05-13T01:40:00+00:00",
+  "home": {
+    "team": "Seattle Mariners",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  },
+  "away": {
+    "team": "New York Yankees",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  }
+}

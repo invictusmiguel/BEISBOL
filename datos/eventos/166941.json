@@ -1,0 +1,124 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "166941"
+  },
+  "errors": [],
+  "results": 5,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 59,
+        "extra": null
+      },
+      "team": {
+        "id": 2761,
+        "name": "Jeju United FC",
+        "logo": "https://media.api-sports.io/football/teams/2761.png"
+      },
+      "player": {
+        "id": 9222,
+        "name": "Henan"
+      },
+      "assist": {
+        "id": 9850,
+        "name": "Marcelo Toscano"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 62,
+        "extra": null
+      },
+      "team": {
+        "id": 2757,
+        "name": "Seongnam FC",
+        "logo": "https://media.api-sports.io/football/teams/2757.png"
+      },
+      "player": {
+        "id": 34559,
+        "name": "Yong-Ji Park"
+      },
+      "assist": {
+        "id": 73502,
+        "name": "Dong-Hee Kim"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 71,
+        "extra": null
+      },
+      "team": {
+        "id": 2761,
+        "name": "Jeju United FC",
+        "logo": "https://media.api-sports.io/football/teams/2761.png"
+      },
+      "player": {
+        "id": 34569,
+        "name": "Wanderson"
+      },
+      "assist": {
+        "id": 34773,
+        "name": "Ho-Nam Kim"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 87,
+        "extra": null
+      },
+      "team": {
+        "id": 2757,
+        "name": "Seongnam FC",
+        "logo": "https://media.api-sports.io/football/teams/2757.png"
+      },
+      "player": {
+        "id": 70920,
+        "name": "Do-Heon Kim"
+      },
+      "assist": {
+        "id": 34172,
+        "name": "Hu-Kwon Lee"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 3
+      },
+      "team": {
+        "id": 2761,
+        "name": "Jeju United FC",
+        "logo": "https://media.api-sports.io/football/teams/2761.png"
+      },
+      "player": {
+        "id": 34441,
+        "name": "Keun-Ho Lee"
+      },
+      "assist": {
+        "id": 34622,
+        "name": "Sang-Yun Moon"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ]
+}

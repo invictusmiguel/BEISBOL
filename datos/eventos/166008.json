@@ -1,0 +1,256 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "166008"
+  },
+  "errors": [],
+  "results": 11,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 30,
+        "extra": null
+      },
+      "team": {
+        "id": 196,
+        "name": "Excelsior",
+        "logo": "https://media.api-sports.io/football/teams/196.png"
+      },
+      "player": {
+        "id": 8509,
+        "name": "R. Vloet"
+      },
+      "assist": {
+        "id": 37153,
+        "name": "W. Burger"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 53,
+        "extra": null
+      },
+      "team": {
+        "id": 203,
+        "name": "NAC Breda",
+        "logo": "https://media.api-sports.io/football/teams/203.png"
+      },
+      "player": {
+        "id": 37587,
+        "name": "J. van der Gaag"
+      },
+      "assist": {
+        "id": 129061,
+        "name": "J. Bohui"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 60,
+        "extra": null
+      },
+      "team": {
+        "id": 203,
+        "name": "NAC Breda",
+        "logo": "https://media.api-sports.io/football/teams/203.png"
+      },
+      "player": {
+        "id": 31735,
+        "name": "T. Haye"
+      },
+      "assist": {
+        "id": 38713,
+        "name": "S. van Hooijdonk"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 71,
+        "extra": null
+      },
+      "team": {
+        "id": 196,
+        "name": "Excelsior",
+        "logo": "https://media.api-sports.io/football/teams/196.png"
+      },
+      "player": {
+        "id": 92966,
+        "name": "T. Verhaar"
+      },
+      "assist": {
+        "id": 38805,
+        "name": "A. Mendes Moreira"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 73,
+        "extra": null
+      },
+      "team": {
+        "id": 203,
+        "name": "NAC Breda",
+        "logo": "https://media.api-sports.io/football/teams/203.png"
+      },
+      "player": {
+        "id": 38694,
+        "name": "Pele Van Anholt"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 73,
+        "extra": null
+      },
+      "team": {
+        "id": 196,
+        "name": "Excelsior",
+        "logo": "https://media.api-sports.io/football/teams/196.png"
+      },
+      "player": {
+        "id": 37881,
+        "name": "L. Bruins"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Penalty",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 79,
+        "extra": null
+      },
+      "team": {
+        "id": 203,
+        "name": "NAC Breda",
+        "logo": "https://media.api-sports.io/football/teams/203.png"
+      },
+      "player": {
+        "id": 38699,
+        "name": "L. Ili\u0107"
+      },
+      "assist": {
+        "id": 37028,
+        "name": "F. Stokkers"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 82,
+        "extra": null
+      },
+      "team": {
+        "id": 196,
+        "name": "Excelsior",
+        "logo": "https://media.api-sports.io/football/teams/196.png"
+      },
+      "player": {
+        "id": 37153,
+        "name": "W. Burger"
+      },
+      "assist": {
+        "id": 37874,
+        "name": "S. Horemans"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 84,
+        "extra": null
+      },
+      "team": {
+        "id": 196,
+        "name": "Excelsior",
+        "logo": "https://media.api-sports.io/football/teams/196.png"
+      },
+      "player": {
+        "id": 37896,
+        "name": "E. \u00d3marsson"
+      },
+      "assist": {
+        "id": 37691,
+        "name": "S. Meijer"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 87,
+        "extra": null
+      },
+      "team": {
+        "id": 203,
+        "name": "NAC Breda",
+        "logo": "https://media.api-sports.io/football/teams/203.png"
+      },
+      "player": {
+        "id": 38695,
+        "name": "J. van Hecke"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 4
+      },
+      "team": {
+        "id": 203,
+        "name": "NAC Breda",
+        "logo": "https://media.api-sports.io/football/teams/203.png"
+      },
+      "player": {
+        "id": 38706,
+        "name": "A. Verschueren"
+      },
+      "assist": {
+        "id": 38698,
+        "name": "M. El Allouchi"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

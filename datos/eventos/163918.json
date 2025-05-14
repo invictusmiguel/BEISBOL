@@ -1,0 +1,212 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163918"
+  },
+  "errors": [],
+  "results": 9,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 24,
+        "extra": null
+      },
+      "team": {
+        "id": 2563,
+        "name": "Union Huaral",
+        "logo": "https://media.api-sports.io/football/teams/2563.png"
+      },
+      "player": {
+        "id": 40153,
+        "name": "J. Viza"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 45,
+        "extra": 4
+      },
+      "team": {
+        "id": 2559,
+        "name": "Juan Aurich",
+        "logo": "https://media.api-sports.io/football/teams/2559.png"
+      },
+      "player": {
+        "id": 40039,
+        "name": "J. Mayo"
+      },
+      "assist": {
+        "id": 40045,
+        "name": "M. Castro"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2563,
+        "name": "Union Huaral",
+        "logo": "https://media.api-sports.io/football/teams/2563.png"
+      },
+      "player": {
+        "id": 40161,
+        "name": "M. Silva"
+      },
+      "assist": {
+        "id": 40158,
+        "name": "J. Gonz\u00e1les Vigil"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 61,
+        "extra": null
+      },
+      "team": {
+        "id": 2559,
+        "name": "Juan Aurich",
+        "logo": "https://media.api-sports.io/football/teams/2559.png"
+      },
+      "player": {
+        "id": 40048,
+        "name": "B. Pajuelo"
+      },
+      "assist": {
+        "id": 70109,
+        "name": "J. Mendoza"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 71,
+        "extra": null
+      },
+      "team": {
+        "id": 2563,
+        "name": "Union Huaral",
+        "logo": "https://media.api-sports.io/football/teams/2563.png"
+      },
+      "player": {
+        "id": 40146,
+        "name": "L. Aguirre"
+      },
+      "assist": {
+        "id": 70406,
+        "name": "D. L\u00f3pez"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 75,
+        "extra": null
+      },
+      "team": {
+        "id": 2563,
+        "name": "Union Huaral",
+        "logo": "https://media.api-sports.io/football/teams/2563.png"
+      },
+      "player": {
+        "id": 40150,
+        "name": "K. Rosell"
+      },
+      "assist": {
+        "id": 40026,
+        "name": "J. Cotrina"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 82,
+        "extra": null
+      },
+      "team": {
+        "id": 2559,
+        "name": "Juan Aurich",
+        "logo": "https://media.api-sports.io/football/teams/2559.png"
+      },
+      "player": {
+        "id": 40054,
+        "name": "A. Carrillo"
+      },
+      "assist": {
+        "id": 40056,
+        "name": "P. Sabroso"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 83,
+        "extra": null
+      },
+      "team": {
+        "id": 2559,
+        "name": "Juan Aurich",
+        "logo": "https://media.api-sports.io/football/teams/2559.png"
+      },
+      "player": {
+        "id": 40052,
+        "name": "R. Acosta"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 2559,
+        "name": "Juan Aurich",
+        "logo": "https://media.api-sports.io/football/teams/2559.png"
+      },
+      "player": {
+        "id": 40056,
+        "name": "P. Sabroso"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

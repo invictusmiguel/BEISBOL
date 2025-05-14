@@ -1,0 +1,300 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "169194"
+  },
+  "errors": [],
+  "results": 13,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 22,
+        "extra": null
+      },
+      "team": {
+        "id": 2289,
+        "name": "Leon",
+        "logo": "https://media.api-sports.io/football/teams/2289.png"
+      },
+      "player": {
+        "id": 2487,
+        "name": "William Tesillo"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 33,
+        "extra": null
+      },
+      "team": {
+        "id": 2286,
+        "name": "U.N.A.M. - Pumas",
+        "logo": "https://media.api-sports.io/football/teams/2286.png"
+      },
+      "player": {
+        "id": 2518,
+        "name": "C. Gonz\u00e1lez"
+      },
+      "assist": {
+        "id": 35926,
+        "name": "P. Barrera"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 38,
+        "extra": null
+      },
+      "team": {
+        "id": 2289,
+        "name": "Leon",
+        "logo": "https://media.api-sports.io/football/teams/2289.png"
+      },
+      "player": {
+        "id": 35503,
+        "name": "J. Mac\u00edas"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 58,
+        "extra": null
+      },
+      "team": {
+        "id": 2289,
+        "name": "Leon",
+        "logo": "https://media.api-sports.io/football/teams/2289.png"
+      },
+      "player": {
+        "id": 2487,
+        "name": "W. Tesillo"
+      },
+      "assist": {
+        "id": 2586,
+        "name": "\u00c1. Mena"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 61,
+        "extra": null
+      },
+      "team": {
+        "id": 2289,
+        "name": "Leon",
+        "logo": "https://media.api-sports.io/football/teams/2289.png"
+      },
+      "player": {
+        "id": 2845,
+        "name": "J. Campbell"
+      },
+      "assist": {
+        "id": 35505,
+        "name": "I. Ochoa"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 65,
+        "extra": null
+      },
+      "team": {
+        "id": 2286,
+        "name": "U.N.A.M. - Pumas",
+        "logo": "https://media.api-sports.io/football/teams/2286.png"
+      },
+      "player": {
+        "id": 35902,
+        "name": "J. Angulo"
+      },
+      "assist": {
+        "id": 2564,
+        "name": "F. Mora"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 71,
+        "extra": null
+      },
+      "team": {
+        "id": 2286,
+        "name": "U.N.A.M. - Pumas",
+        "logo": "https://media.api-sports.io/football/teams/2286.png"
+      },
+      "player": {
+        "id": 16464,
+        "name": "Nicolas Freire"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 72,
+        "extra": null
+      },
+      "team": {
+        "id": 2286,
+        "name": "U.N.A.M. - Pumas",
+        "logo": "https://media.api-sports.io/football/teams/2286.png"
+      },
+      "player": {
+        "id": 2518,
+        "name": "C. Gonz\u00e1lez"
+      },
+      "assist": {
+        "id": 35925,
+        "name": "M. Rodr\u00edguez"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 2286,
+        "name": "U.N.A.M. - Pumas",
+        "logo": "https://media.api-sports.io/football/teams/2286.png"
+      },
+      "player": {
+        "id": 35909,
+        "name": "L. Quintana"
+      },
+      "assist": {
+        "id": 35907,
+        "name": "P. Jaquez"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 79,
+        "extra": null
+      },
+      "team": {
+        "id": 2289,
+        "name": "Leon",
+        "logo": "https://media.api-sports.io/football/teams/2289.png"
+      },
+      "player": {
+        "id": 35503,
+        "name": "J. Mac\u00edas"
+      },
+      "assist": {
+        "id": 35485,
+        "name": "O. Rodr\u00edguez"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 89,
+        "extra": null
+      },
+      "team": {
+        "id": 2289,
+        "name": "Leon",
+        "logo": "https://media.api-sports.io/football/teams/2289.png"
+      },
+      "player": {
+        "id": 35671,
+        "name": "V. Sosa"
+      },
+      "assist": {
+        "id": 35889,
+        "name": "J. God\u00ednez"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": null
+      },
+      "team": {
+        "id": 2286,
+        "name": "U.N.A.M. - Pumas",
+        "logo": "https://media.api-sports.io/football/teams/2286.png"
+      },
+      "player": {
+        "id": 35921,
+        "name": "Victor Malcorra"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": null
+      },
+      "team": {
+        "id": 2286,
+        "name": "U.N.A.M. - Pumas",
+        "logo": "https://media.api-sports.io/football/teams/2286.png"
+      },
+      "player": {
+        "id": 35901,
+        "name": "Alfredo Sald\u00edvar"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    }
+  ]
+}

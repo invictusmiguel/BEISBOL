@@ -1,0 +1,124 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163901"
+  },
+  "errors": [],
+  "results": 5,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 51,
+        "extra": null
+      },
+      "team": {
+        "id": 2572,
+        "name": "Cultural Santa Rosa",
+        "logo": "https://media.api-sports.io/football/teams/2572.png"
+      },
+      "player": {
+        "id": 67916,
+        "name": "W. Castro"
+      },
+      "assist": {
+        "id": 64246,
+        "name": "L. Roca"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 60,
+        "extra": null
+      },
+      "team": {
+        "id": 2572,
+        "name": "Cultural Santa Rosa",
+        "logo": "https://media.api-sports.io/football/teams/2572.png"
+      },
+      "player": {
+        "id": 40005,
+        "name": "D. del Castillo"
+      },
+      "assist": {
+        "id": 40125,
+        "name": "S. Hern\u00e1ndez"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 63,
+        "extra": null
+      },
+      "team": {
+        "id": 4226,
+        "name": "Santos",
+        "logo": "https://media.api-sports.io/football/teams/4226.png"
+      },
+      "player": {
+        "id": 95802,
+        "name": "L. Spataro"
+      },
+      "assist": {
+        "id": 40108,
+        "name": "J. Sotil"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 74,
+        "extra": null
+      },
+      "team": {
+        "id": 2572,
+        "name": "Cultural Santa Rosa",
+        "logo": "https://media.api-sports.io/football/teams/2572.png"
+      },
+      "player": {
+        "id": 67913,
+        "name": "A. Jim\u00e9nez"
+      },
+      "assist": {
+        "id": 40078,
+        "name": "A. Llanos"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 2
+      },
+      "team": {
+        "id": 4226,
+        "name": "Santos",
+        "logo": "https://media.api-sports.io/football/teams/4226.png"
+      },
+      "player": {
+        "id": 95800,
+        "name": "K. Barrios"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

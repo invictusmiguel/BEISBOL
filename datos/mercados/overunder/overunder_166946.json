@@ -1,0 +1,94 @@
+{
+  "id": 5,
+  "name": "Over/Under",
+  "values": [
+    {
+      "value": "Over 8",
+      "odd": "1.36"
+    },
+    {
+      "value": "Under 8",
+      "odd": "2.90"
+    },
+    {
+      "value": "Over 8.5",
+      "odd": "1.35"
+    },
+    {
+      "value": "Under 8.5",
+      "odd": "3.00"
+    },
+    {
+      "value": "Over 9",
+      "odd": "1.41"
+    },
+    {
+      "value": "Under 9",
+      "odd": "2.70"
+    },
+    {
+      "value": "Over 9.5",
+      "odd": "1.55"
+    },
+    {
+      "value": "Under 9.5",
+      "odd": "2.30"
+    },
+    {
+      "value": "Over 10",
+      "odd": "1.62"
+    },
+    {
+      "value": "Under 10",
+      "odd": "2.20"
+    },
+    {
+      "value": "Over 10.5",
+      "odd": "1.83"
+    },
+    {
+      "value": "Under 10.5",
+      "odd": "2.00"
+    },
+    {
+      "value": "Over 11",
+      "odd": "2.00"
+    },
+    {
+      "value": "Under 11",
+      "odd": "1.83"
+    },
+    {
+      "value": "Over 11.5",
+      "odd": "2.20"
+    },
+    {
+      "value": "Under 11.5",
+      "odd": "1.62"
+    },
+    {
+      "value": "Over 12",
+      "odd": "2.40"
+    },
+    {
+      "value": "Under 12",
+      "odd": "1.52"
+    },
+    {
+      "value": "Over 12.5",
+      "odd": "2.55"
+    },
+    {
+      "value": "Under 12.5",
+      "odd": "1.47"
+    },
+    {
+      "value": "Over 13",
+      "odd": "2.90"
+    },
+    {
+      "value": "Under 13",
+      "odd": "1.36"
+    }
+  ]
+}

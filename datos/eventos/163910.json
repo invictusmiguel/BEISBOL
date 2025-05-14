@@ -1,0 +1,212 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163910"
+  },
+  "errors": [],
+  "results": 9,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 50,
+        "extra": null
+      },
+      "team": {
+        "id": 2572,
+        "name": "Cultural Santa Rosa",
+        "logo": "https://media.api-sports.io/football/teams/2572.png"
+      },
+      "player": {
+        "id": 39923,
+        "name": "A. Fajardo"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 56,
+        "extra": null
+      },
+      "team": {
+        "id": 2566,
+        "name": "Sport Victoria",
+        "logo": "https://media.api-sports.io/football/teams/2566.png"
+      },
+      "player": {
+        "id": 70123,
+        "name": "M. Salgado"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 57,
+        "extra": null
+      },
+      "team": {
+        "id": 2572,
+        "name": "Cultural Santa Rosa",
+        "logo": "https://media.api-sports.io/football/teams/2572.png"
+      },
+      "player": {
+        "id": 40005,
+        "name": "D. del Castillo"
+      },
+      "assist": {
+        "id": 64246,
+        "name": "L. Roca"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 65,
+        "extra": null
+      },
+      "team": {
+        "id": 2572,
+        "name": "Cultural Santa Rosa",
+        "logo": "https://media.api-sports.io/football/teams/2572.png"
+      },
+      "player": {
+        "id": 40081,
+        "name": "L. Muchotrigo"
+      },
+      "assist": {
+        "id": 67918,
+        "name": "C. Ruiz"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 67,
+        "extra": null
+      },
+      "team": {
+        "id": 2566,
+        "name": "Sport Victoria",
+        "logo": "https://media.api-sports.io/football/teams/2566.png"
+      },
+      "player": {
+        "id": 70123,
+        "name": "M. Salgado"
+      },
+      "assist": {
+        "id": 70125,
+        "name": "C. Zambrano"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 77,
+        "extra": null
+      },
+      "team": {
+        "id": 2566,
+        "name": "Sport Victoria",
+        "logo": "https://media.api-sports.io/football/teams/2566.png"
+      },
+      "player": {
+        "id": 64249,
+        "name": "J. Espinoza"
+      },
+      "assist": {
+        "id": 64244,
+        "name": "J. Montoya"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 82,
+        "extra": null
+      },
+      "team": {
+        "id": 2572,
+        "name": "Cultural Santa Rosa",
+        "logo": "https://media.api-sports.io/football/teams/2572.png"
+      },
+      "player": {
+        "id": 67912,
+        "name": "J. Asenjo"
+      },
+      "assist": {
+        "id": 67914,
+        "name": "A. Morales"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 2566,
+        "name": "Sport Victoria",
+        "logo": "https://media.api-sports.io/football/teams/2566.png"
+      },
+      "player": {
+        "id": 70125,
+        "name": "C. Zambrano"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": null
+      },
+      "team": {
+        "id": 2566,
+        "name": "Sport Victoria",
+        "logo": "https://media.api-sports.io/football/teams/2566.png"
+      },
+      "player": {
+        "id": 70407,
+        "name": "A. Navarro"
+      },
+      "assist": {
+        "id": 40134,
+        "name": "P. Valverde"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163929"
+  },
+  "errors": [],
+  "results": 8,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 8,
+        "extra": null
+      },
+      "team": {
+        "id": 4226,
+        "name": "Santos",
+        "logo": "https://media.api-sports.io/football/teams/4226.png"
+      },
+      "player": {
+        "id": 74821,
+        "name": "M. Mansilla"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 32,
+        "extra": null
+      },
+      "team": {
+        "id": 2562,
+        "name": "Cienciano",
+        "logo": "https://media.api-sports.io/football/teams/2562.png"
+      },
+      "player": {
+        "id": 39986,
+        "name": "L. Garc\u00eda"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 4226,
+        "name": "Santos",
+        "logo": "https://media.api-sports.io/football/teams/4226.png"
+      },
+      "player": {
+        "id": 95803,
+        "name": "A. Li\u00f1\u00e1n"
+      },
+      "assist": {
+        "id": 95806,
+        "name": "J. L\u00f3pez"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 70,
+        "extra": null
+      },
+      "team": {
+        "id": 2562,
+        "name": "Cienciano",
+        "logo": "https://media.api-sports.io/football/teams/2562.png"
+      },
+      "player": {
+        "id": 39976,
+        "name": "Y. Baz\u00e1n"
+      },
+      "assist": {
+        "id": 39526,
+        "name": "B. Naranjo"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 77,
+        "extra": null
+      },
+      "team": {
+        "id": 4226,
+        "name": "Santos",
+        "logo": "https://media.api-sports.io/football/teams/4226.png"
+      },
+      "player": {
+        "id": 95799,
+        "name": "M. Ahmed"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 83,
+        "extra": null
+      },
+      "team": {
+        "id": 2562,
+        "name": "Cienciano",
+        "logo": "https://media.api-sports.io/football/teams/2562.png"
+      },
+      "player": {
+        "id": 39992,
+        "name": "R. Palomino"
+      },
+      "assist": {
+        "id": 39994,
+        "name": "R. Tito"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 2562,
+        "name": "Cienciano",
+        "logo": "https://media.api-sports.io/football/teams/2562.png"
+      },
+      "player": {
+        "id": 39982,
+        "name": "D. Reyes"
+      },
+      "assist": {
+        "id": 39989,
+        "name": "E. Kuncho"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 88,
+        "extra": null
+      },
+      "team": {
+        "id": 4226,
+        "name": "Santos",
+        "logo": "https://media.api-sports.io/football/teams/4226.png"
+      },
+      "player": {
+        "id": 40108,
+        "name": "J. Sotil"
+      },
+      "assist": {
+        "id": 95802,
+        "name": "L. Spataro"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    }
+  ]
+}

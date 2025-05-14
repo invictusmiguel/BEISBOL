@@ -1,0 +1,16 @@
+{
+  "game_id": 169180,
+  "fecha": "2025-05-12T00:30:00+00:00",
+  "home": {
+    "team": "Laguna",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  },
+  "away": {
+    "team": "Toros de Tijuana",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  }
+}

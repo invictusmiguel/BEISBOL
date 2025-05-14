@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Picks del día</title>
+    <style>
+        body { font-family: Arial; background: #111; color: #fff; }
+        img {
+            width: 400px;
+            margin: 10px;
+            border: 2px solid #ccc;
+            border-radius: 5px;
+        }
+        h3 { color: #0f0; }
+    </style>
+</head>
+<body>
+    <h1>Picks Visuales — Mercado Ganador</h1>
+
+    {% for partido in partidos %}
+        <div>
+            <h3>{{ partido.replace("_ganador.png", "").replace("_vs_", " vs ") }}</h3>
+            <img src="{{ url_for('imagen_ganador', filename=partido) }}" alt="Visual de {{ partido }}">
+        </div>
+    {% endfor %}
+</body>
+</html>

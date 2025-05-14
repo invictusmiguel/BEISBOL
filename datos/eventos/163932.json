@@ -1,0 +1,102 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163932"
+  },
+  "errors": [],
+  "results": 4,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 6,
+        "extra": null
+      },
+      "team": {
+        "id": 4241,
+        "name": "Persik Kediri",
+        "logo": "https://media.api-sports.io/football/teams/4241.png"
+      },
+      "player": {
+        "id": null,
+        "name": "R. Prahalabenta"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 11,
+        "extra": null
+      },
+      "team": {
+        "id": 4241,
+        "name": "Persik Kediri",
+        "logo": "https://media.api-sports.io/football/teams/4241.png"
+      },
+      "player": {
+        "id": null,
+        "name": "I. Samsu"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 23,
+        "extra": null
+      },
+      "team": {
+        "id": 4241,
+        "name": "Persik Kediri",
+        "logo": "https://media.api-sports.io/football/teams/4241.png"
+      },
+      "player": {
+        "id": null,
+        "name": "I. Samsu"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 88,
+        "extra": null
+      },
+      "team": {
+        "id": 4241,
+        "name": "Persik Kediri",
+        "logo": "https://media.api-sports.io/football/teams/4241.png"
+      },
+      "player": {
+        "id": null,
+        "name": "S. Bagaskara"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

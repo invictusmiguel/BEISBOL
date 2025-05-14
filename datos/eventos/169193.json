@@ -1,0 +1,300 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "169193"
+  },
+  "errors": [],
+  "results": 13,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 15,
+        "extra": null
+      },
+      "team": {
+        "id": 2288,
+        "name": "Necaxa",
+        "logo": "https://media.api-sports.io/football/teams/2288.png"
+      },
+      "player": {
+        "id": 11493,
+        "name": "Maximiliano Salas"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 17,
+        "extra": null
+      },
+      "team": {
+        "id": 2288,
+        "name": "Necaxa",
+        "logo": "https://media.api-sports.io/football/teams/2288.png"
+      },
+      "player": {
+        "id": 36227,
+        "name": "Rodrigo Noya"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 38,
+        "extra": null
+      },
+      "team": {
+        "id": 2287,
+        "name": "Club America",
+        "logo": "https://media.api-sports.io/football/teams/2287.png"
+      },
+      "player": {
+        "id": 2476,
+        "name": "Guido Rodr\u00edguez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 44,
+        "extra": null
+      },
+      "team": {
+        "id": 2288,
+        "name": "Necaxa",
+        "logo": "https://media.api-sports.io/football/teams/2288.png"
+      },
+      "player": {
+        "id": 35616,
+        "name": "Fernando Meza"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2287,
+        "name": "Club America",
+        "logo": "https://media.api-sports.io/football/teams/2287.png"
+      },
+      "player": {
+        "id": 35589,
+        "name": "N. Benedetti"
+      },
+      "assist": {
+        "id": 180734,
+        "name": "R. Del Castillo"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 65,
+        "extra": null
+      },
+      "team": {
+        "id": 2287,
+        "name": "Club America",
+        "logo": "https://media.api-sports.io/football/teams/2287.png"
+      },
+      "player": {
+        "id": 35590,
+        "name": "F. C\u00f3rdova"
+      },
+      "assist": {
+        "id": 35623,
+        "name": "R. Gonz\u00e1lez"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 67,
+        "extra": null
+      },
+      "team": {
+        "id": 2287,
+        "name": "Club America",
+        "logo": "https://media.api-sports.io/football/teams/2287.png"
+      },
+      "player": {
+        "id": 2578,
+        "name": "A. Ibarra"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 70,
+        "extra": null
+      },
+      "team": {
+        "id": 2288,
+        "name": "Necaxa",
+        "logo": "https://media.api-sports.io/football/teams/2288.png"
+      },
+      "player": {
+        "id": 35616,
+        "name": "F. Meza"
+      },
+      "assist": {
+        "id": 35640,
+        "name": "E. Herrera"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 72,
+        "extra": null
+      },
+      "team": {
+        "id": 2288,
+        "name": "Necaxa",
+        "logo": "https://media.api-sports.io/football/teams/2288.png"
+      },
+      "player": {
+        "id": 11588,
+        "name": "M. Quiroga"
+      },
+      "assist": {
+        "id": 35613,
+        "name": "C. Calder\u00f3n"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 75,
+        "extra": null
+      },
+      "team": {
+        "id": 2287,
+        "name": "Club America",
+        "logo": "https://media.api-sports.io/football/teams/2287.png"
+      },
+      "player": {
+        "id": 2578,
+        "name": "A. Ibarra"
+      },
+      "assist": {
+        "id": 35601,
+        "name": "A. Ibarg\u00fcen"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 2288,
+        "name": "Necaxa",
+        "logo": "https://media.api-sports.io/football/teams/2288.png"
+      },
+      "player": {
+        "id": 35584,
+        "name": "E. Aguilera"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Own Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 87,
+        "extra": null
+      },
+      "team": {
+        "id": 2287,
+        "name": "Club America",
+        "logo": "https://media.api-sports.io/football/teams/2287.png"
+      },
+      "player": {
+        "id": 35603,
+        "name": "H. Mart\u00edn"
+      },
+      "assist": {
+        "id": 2506,
+        "name": "B. Valdez"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 88,
+        "extra": null
+      },
+      "team": {
+        "id": 2288,
+        "name": "Necaxa",
+        "logo": "https://media.api-sports.io/football/teams/2288.png"
+      },
+      "player": {
+        "id": 11493,
+        "name": "M. Salas"
+      },
+      "assist": {
+        "id": 35637,
+        "name": "R. Contreras"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    }
+  ]
+}

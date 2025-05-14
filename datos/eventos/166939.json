@@ -1,0 +1,256 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "166939"
+  },
+  "errors": [],
+  "results": 11,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 4,
+        "extra": null
+      },
+      "team": {
+        "id": 2762,
+        "name": "Jeonbuk Motors",
+        "logo": "https://media.api-sports.io/football/teams/2762.png"
+      },
+      "player": {
+        "id": 34428,
+        "name": "Bo-Kyung Kim"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 8,
+        "extra": null
+      },
+      "team": {
+        "id": 2766,
+        "name": "FC Seoul",
+        "logo": "https://media.api-sports.io/football/teams/2766.png"
+      },
+      "player": {
+        "id": 34705,
+        "name": "D. Damjanovi\u0107"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 59,
+        "extra": null
+      },
+      "team": {
+        "id": 2762,
+        "name": "Jeonbuk Motors",
+        "logo": "https://media.api-sports.io/football/teams/2762.png"
+      },
+      "player": {
+        "id": 34405,
+        "name": "Ricardo Lopes"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 62,
+        "extra": null
+      },
+      "team": {
+        "id": 2766,
+        "name": "FC Seoul",
+        "logo": "https://media.api-sports.io/football/teams/2766.png"
+      },
+      "player": {
+        "id": 34761,
+        "name": "Dong-Woo Kim"
+      },
+      "assist": {
+        "id": 34786,
+        "name": "Il-Lok Yun"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 2762,
+        "name": "Jeonbuk Motors",
+        "logo": "https://media.api-sports.io/football/teams/2762.png"
+      },
+      "player": {
+        "id": 50354,
+        "name": "Leonardo"
+      },
+      "assist": {
+        "id": 34400,
+        "name": "Shin-Wook Kim"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 74,
+        "extra": null
+      },
+      "team": {
+        "id": 2766,
+        "name": "FC Seoul",
+        "logo": "https://media.api-sports.io/football/teams/2766.png"
+      },
+      "player": {
+        "id": 32867,
+        "name": "Y. Takahagi"
+      },
+      "assist": {
+        "id": 34551,
+        "name": "Sang-Hyup Lee"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 2766,
+        "name": "FC Seoul",
+        "logo": "https://media.api-sports.io/football/teams/2766.png"
+      },
+      "player": {
+        "id": 99271,
+        "name": "Chan-Ho Cho"
+      },
+      "assist": {
+        "id": 99627,
+        "name": "Woo-Yeon Sim"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 83,
+        "extra": null
+      },
+      "team": {
+        "id": 2762,
+        "name": "Jeonbuk Motors",
+        "logo": "https://media.api-sports.io/football/teams/2762.png"
+      },
+      "player": {
+        "id": 34381,
+        "name": "Won-Jae Park"
+      },
+      "assist": {
+        "id": 34718,
+        "name": "Jae-Soo Choi"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 84,
+        "extra": null
+      },
+      "team": {
+        "id": 2762,
+        "name": "Jeonbuk Motors",
+        "logo": "https://media.api-sports.io/football/teams/2762.png"
+      },
+      "player": {
+        "id": 34405,
+        "name": "Ricardo Lopes"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 88,
+        "extra": null
+      },
+      "team": {
+        "id": 2762,
+        "name": "Jeonbuk Motors",
+        "logo": "https://media.api-sports.io/football/teams/2762.png"
+      },
+      "player": {
+        "id": 33779,
+        "name": "Jong-Ho Lee"
+      },
+      "assist": {
+        "id": 99184,
+        "name": "Mu-Yeol Ko"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 4
+      },
+      "team": {
+        "id": 2766,
+        "name": "FC Seoul",
+        "logo": "https://media.api-sports.io/football/teams/2766.png"
+      },
+      "player": {
+        "id": 34509,
+        "name": "Osmar"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

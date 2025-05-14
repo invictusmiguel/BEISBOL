@@ -1,0 +1,1072 @@
+[
+  {
+    "id": 162547,
+    "fecha": "2025-05-14T00:35:00+00:00",
+    "pick": "Tacoma Rainiers +1.5",
+    "equipos": "Albuquerque Isotopes vs Tacoma Rainiers",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 162548,
+    "fecha": "2025-05-14T01:35:00+00:00",
+    "pick": "El Paso Chihuahuas +1.5",
+    "equipos": "Las Vegas Aviators vs El Paso Chihuahuas",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 162549,
+    "fecha": "2025-05-14T00:05:00+00:00",
+    "pick": "Oklahoma City Dodgers +1.5",
+    "equipos": "Round Rock Express vs Oklahoma City Dodgers",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 162550,
+    "fecha": "2025-05-13T19:05:00+00:00",
+    "pick": "Salt Lake Bees +1.5",
+    "equipos": "Sacramento River Cats vs Salt Lake Bees",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 162551,
+    "fecha": "2025-05-13T23:05:00+00:00",
+    "pick": "Reno Aces +1.5",
+    "equipos": "Sugar Land vs Reno Aces",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 162553,
+    "fecha": "2025-05-14T16:05:00+00:00",
+    "pick": "Reno Aces +1.5",
+    "equipos": "Sugar Land vs Reno Aces",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163891,
+    "fecha": "2025-05-12T23:10:00+00:00",
+    "pick": "Pittsburgh Pirates +1.5",
+    "equipos": "New York Mets vs Pittsburgh Pirates",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163892,
+    "fecha": "2025-05-13T01:40:00+00:00",
+    "pick": "New York Yankees +1.5",
+    "equipos": "Seattle Mariners vs New York Yankees",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163893,
+    "fecha": "2025-05-13T01:40:00+00:00",
+    "pick": "Los Angeles Angels +1.5",
+    "equipos": "San Diego Padres vs Los Angeles Angels",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163894,
+    "fecha": "2025-05-12T23:15:00+00:00",
+    "pick": "Washington Nationals +1.5",
+    "equipos": "Atlanta Braves vs Washington Nationals",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163896,
+    "fecha": "2025-05-13T00:10:00+00:00",
+    "pick": "Kansas City Royals +1.5",
+    "equipos": "Houston Astros vs Kansas City Royals",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163897,
+    "fecha": "2025-05-12T22:40:00+00:00",
+    "pick": "Boston Red Sox +1.5",
+    "equipos": "Detroit Tigers vs Boston Red Sox",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163898,
+    "fecha": "2025-05-12T22:10:00+00:00",
+    "pick": "Milwaukee Brewers +1.5",
+    "equipos": "Cleveland Guardians vs Milwaukee Brewers",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163899,
+    "fecha": "2025-05-13T00:05:00+00:00",
+    "pick": "Colorado Rockies +1.5",
+    "equipos": "Texas Rangers vs Colorado Rockies",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163900,
+    "fecha": "2025-05-12T22:45:00+00:00",
+    "pick": "St.Louis Cardinals +1.5",
+    "equipos": "Philadelphia Phillies vs St.Louis Cardinals",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163901,
+    "fecha": "2025-05-12T23:40:00+00:00",
+    "pick": "Miami Marlins +1.5",
+    "equipos": "Chicago Cubs vs Miami Marlins",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163902,
+    "fecha": "2025-05-13T01:45:00+00:00",
+    "pick": "Arizona Diamondbacks +1.5",
+    "equipos": "San Francisco Giants vs Arizona Diamondbacks",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163903,
+    "fecha": "2025-05-13T23:15:00+00:00",
+    "pick": "Washington Nationals +1.5",
+    "equipos": "Atlanta Braves vs Washington Nationals",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163904,
+    "fecha": "2025-05-14T18:35:00+00:00",
+    "pick": "Minnesota Twins +1.5",
+    "equipos": "Baltimore Orioles vs Minnesota Twins",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163905,
+    "fecha": "2025-05-13T22:40:00+00:00",
+    "pick": "Chicago White Sox +1.5",
+    "equipos": "Cincinnati Reds vs Chicago White Sox",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163906,
+    "fecha": "2025-05-13T22:10:00+00:00",
+    "pick": "Milwaukee Brewers +1.5",
+    "equipos": "Cleveland Guardians vs Milwaukee Brewers",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163907,
+    "fecha": "2025-05-13T22:40:00+00:00",
+    "pick": "Boston Red Sox +1.5",
+    "equipos": "Detroit Tigers vs Boston Red Sox",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163908,
+    "fecha": "2025-05-14T00:10:00+00:00",
+    "pick": "Kansas City Royals +1.5",
+    "equipos": "Houston Astros vs Kansas City Royals",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163909,
+    "fecha": "2025-05-14T02:10:00+00:00",
+    "pick": "Athletics +1.5",
+    "equipos": "Los Angeles Dodgers vs Athletics",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163910,
+    "fecha": "2025-05-13T23:10:00+00:00",
+    "pick": "Pittsburgh Pirates +1.5",
+    "equipos": "New York Mets vs Pittsburgh Pirates",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163911,
+    "fecha": "2025-05-14T01:40:00+00:00",
+    "pick": "Los Angeles Angels +1.5",
+    "equipos": "San Diego Padres vs Los Angeles Angels",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163912,
+    "fecha": "2025-05-14T01:40:00+00:00",
+    "pick": "New York Yankees +1.5",
+    "equipos": "Seattle Mariners vs New York Yankees",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163913,
+    "fecha": "2025-05-14T00:05:00+00:00",
+    "pick": "Colorado Rockies +1.5",
+    "equipos": "Texas Rangers vs Colorado Rockies",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163914,
+    "fecha": "2025-05-14T22:15:00+00:00",
+    "pick": "St.Louis Cardinals +1.5",
+    "equipos": "Philadelphia Phillies vs St.Louis Cardinals",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163915,
+    "fecha": "2025-05-13T23:07:00+00:00",
+    "pick": "Tampa Bay Rays +1.5",
+    "equipos": "Toronto Blue Jays vs Tampa Bay Rays",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163916,
+    "fecha": "2025-05-13T23:40:00+00:00",
+    "pick": "Miami Marlins +1.5",
+    "equipos": "Chicago Cubs vs Miami Marlins",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163917,
+    "fecha": "2025-05-14T01:45:00+00:00",
+    "pick": "Arizona Diamondbacks +1.5",
+    "equipos": "San Francisco Giants vs Arizona Diamondbacks",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163918,
+    "fecha": "2025-05-14T17:05:00+00:00",
+    "pick": "St.Louis Cardinals +1.5",
+    "equipos": "Philadelphia Phillies vs St.Louis Cardinals",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163919,
+    "fecha": "2025-05-14T19:45:00+00:00",
+    "pick": "Arizona Diamondbacks +1.5",
+    "equipos": "San Francisco Giants vs Arizona Diamondbacks",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163921,
+    "fecha": "2025-05-14T20:10:00+00:00",
+    "pick": "New York Yankees +1.5",
+    "equipos": "Seattle Mariners vs New York Yankees",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163923,
+    "fecha": "2025-05-14T23:10:00+00:00",
+    "pick": "Pittsburgh Pirates +1.5",
+    "equipos": "New York Mets vs Pittsburgh Pirates",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163926,
+    "fecha": "2025-05-14T22:40:00+00:00",
+    "pick": "Boston Red Sox +1.5",
+    "equipos": "Detroit Tigers vs Boston Red Sox",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163927,
+    "fecha": "2025-05-14T17:10:00+00:00",
+    "pick": "Milwaukee Brewers +1.5",
+    "equipos": "Cleveland Guardians vs Milwaukee Brewers",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163928,
+    "fecha": "2025-05-14T23:14:00+00:00",
+    "pick": "Chicago White Sox +1.5",
+    "equipos": "Cincinnati Reds vs Chicago White Sox",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163929,
+    "fecha": "2025-05-14T16:05:00+00:00",
+    "pick": "Minnesota Twins +1.5",
+    "equipos": "Baltimore Orioles vs Minnesota Twins",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163930,
+    "fecha": "2025-05-14T23:15:00+00:00",
+    "pick": "Washington Nationals +1.5",
+    "equipos": "Atlanta Braves vs Washington Nationals",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163931,
+    "fecha": "2025-05-14T23:07:00+00:00",
+    "pick": "Tampa Bay Rays +1.5",
+    "equipos": "Toronto Blue Jays vs Tampa Bay Rays",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 163932,
+    "fecha": "2025-05-14T23:40:00+00:00",
+    "pick": "Miami Marlins +1.5",
+    "equipos": "Chicago Cubs vs Miami Marlins",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 166007,
+    "fecha": "2025-05-13T04:00:00+00:00",
+    "pick": "Orix Buffaloes +1.5",
+    "equipos": "Nippon Ham Fighters vs Orix Buffaloes",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 166008,
+    "fecha": "2025-05-13T09:00:00+00:00",
+    "pick": "Hanshin Tigers +1.5",
+    "equipos": "Yokohama BayStars vs Hanshin Tigers",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 166009,
+    "fecha": "2025-05-13T04:00:00+00:00",
+    "pick": "Chiba Lotte Marines +1.5",
+    "equipos": "Rakuten Gold. Eagles vs Chiba Lotte Marines",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 166010,
+    "fecha": "2025-05-13T09:00:00+00:00",
+    "pick": "Yomiuri Giants +1.5",
+    "equipos": "Hiroshima Carp vs Yomiuri Giants",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 166011,
+    "fecha": "2025-05-13T09:00:00+00:00",
+    "pick": "Seibu Lions +1.5",
+    "equipos": "Fukuoka S. Hawks vs Seibu Lions",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 166012,
+    "fecha": "2025-05-13T09:00:00+00:00",
+    "pick": "Yakult Swallows +1.5",
+    "equipos": "Chunichi Dragons vs Yakult Swallows",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 166013,
+    "fecha": "2025-05-14T09:00:00+00:00",
+    "pick": "Yakult Swallows +1.5",
+    "equipos": "Chunichi Dragons vs Yakult Swallows",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 166014,
+    "fecha": "2025-05-14T09:00:00+00:00",
+    "pick": "Seibu Lions +1.5",
+    "equipos": "Fukuoka S. Hawks vs Seibu Lions",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 166015,
+    "fecha": "2025-05-14T09:00:00+00:00",
+    "pick": "Yomiuri Giants +1.5",
+    "equipos": "Hiroshima Carp vs Yomiuri Giants",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 166016,
+    "fecha": "2025-05-14T04:00:00+00:00",
+    "pick": "Orix Buffaloes +1.5",
+    "equipos": "Nippon Ham Fighters vs Orix Buffaloes",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 166017,
+    "fecha": "2025-05-14T04:00:00+00:00",
+    "pick": "Chiba Lotte Marines +1.5",
+    "equipos": "Rakuten Gold. Eagles vs Chiba Lotte Marines",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 166937,
+    "fecha": "2025-05-13T09:30:00+00:00",
+    "pick": "Doosan Bears +1.5",
+    "equipos": "Hanwha Eagles vs Doosan Bears",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 166938,
+    "fecha": "2025-05-13T09:30:00+00:00",
+    "pick": "Lotte Giants +1.5",
+    "equipos": "KIA Tigers vs Lotte Giants",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 166939,
+    "fecha": "2025-05-13T09:30:00+00:00",
+    "pick": "Kiwoom Heroes +1.5",
+    "equipos": "LG Twins vs Kiwoom Heroes",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 166940,
+    "fecha": "2025-05-13T09:30:00+00:00",
+    "pick": "KT Wiz Suwon +1.5",
+    "equipos": "Samsung Lions vs KT Wiz Suwon",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 166941,
+    "fecha": "2025-05-13T09:30:00+00:00",
+    "pick": "NC Dinos +1.5",
+    "equipos": "SSG Landers vs NC Dinos",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 166942,
+    "fecha": "2025-05-14T09:30:00+00:00",
+    "pick": "KT Wiz Suwon +1.5",
+    "equipos": "Samsung Lions vs KT Wiz Suwon",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 166943,
+    "fecha": "2025-05-14T09:30:00+00:00",
+    "pick": "NC Dinos +1.5",
+    "equipos": "SSG Landers vs NC Dinos",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 166944,
+    "fecha": "2025-05-14T09:30:00+00:00",
+    "pick": "Kiwoom Heroes +1.5",
+    "equipos": "LG Twins vs Kiwoom Heroes",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 166945,
+    "fecha": "2025-05-14T09:30:00+00:00",
+    "pick": "Doosan Bears +1.5",
+    "equipos": "Hanwha Eagles vs Doosan Bears",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 166946,
+    "fecha": "2025-05-14T09:30:00+00:00",
+    "pick": "Lotte Giants +1.5",
+    "equipos": "KIA Tigers vs Lotte Giants",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 169176,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "pick": "Saltillo +1.5",
+    "equipos": "Aguascalientes vs Saltillo",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 169180,
+    "fecha": "2025-05-12T00:30:00+00:00",
+    "pick": "Toros de Tijuana +1.5",
+    "equipos": "Laguna vs Toros de Tijuana",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 169184,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "pick": "Bravos de Leon +1.5",
+    "equipos": "Tabasco vs Bravos de Leon",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 169185,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "pick": "Veracruz +1.5",
+    "equipos": "Yucatan vs Veracruz",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 169186,
+    "fecha": "2025-05-13T01:30:00+00:00",
+    "pick": "Toros de Tijuana +1.5",
+    "equipos": "Laguna vs Toros de Tijuana",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 169187,
+    "fecha": "2025-05-14T01:30:00+00:00",
+    "pick": "Oaxaca +1.5",
+    "equipos": "Bravos de Leon vs Oaxaca",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 169188,
+    "fecha": "2025-05-14T01:35:00+00:00",
+    "pick": "Jalisco +1.5",
+    "equipos": "Caliente de Durango vs Jalisco",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 169189,
+    "fecha": "2025-05-14T01:30:00+00:00",
+    "pick": "Veracruz +1.5",
+    "equipos": "Campeche vs Veracruz",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 169190,
+    "fecha": "2025-05-14T01:30:00+00:00",
+    "pick": "Aguascalientes +1.5",
+    "equipos": "Laguna vs Aguascalientes",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 169191,
+    "fecha": "2025-05-14T01:00:00+00:00",
+    "pick": "Tabasco +1.5",
+    "equipos": "Diablos Rojos vs Tabasco",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 169192,
+    "fecha": "2025-05-14T01:45:00+00:00",
+    "pick": "Toros de Tijuana +1.5",
+    "equipos": "Monclova vs Toros de Tijuana",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 169193,
+    "fecha": "2025-05-14T01:30:00+00:00",
+    "pick": "Chihuahua +1.5",
+    "equipos": "Monterrey vs Chihuahua",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 169194,
+    "fecha": "2025-05-14T01:00:00+00:00",
+    "pick": "Yucatan +1.5",
+    "equipos": "Puebla vs Yucatan",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 169195,
+    "fecha": "2025-05-14T01:00:00+00:00",
+    "pick": "Quintana Roo +1.5",
+    "equipos": "Queretaro vs Quintana Roo",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 169196,
+    "fecha": "2025-05-14T01:30:00+00:00",
+    "pick": "Dos Laredos +1.5",
+    "equipos": "Saltillo vs Dos Laredos",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 169992,
+    "fecha": "2025-05-12T18:00:00+00:00",
+    "pick": "Las Tunas +1.5",
+    "equipos": "Santiago de Cuba vs Las Tunas",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 169993,
+    "fecha": "2025-05-14T18:00:00+00:00",
+    "pick": "Granma +1.5",
+    "equipos": "Las Tunas vs Granma",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 170276,
+    "fecha": "2025-05-13T10:35:00+00:00",
+    "pick": "TSG Hawks +1.5",
+    "equipos": "Fubon Guardians vs TSG Hawks",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 170277,
+    "fecha": "2025-05-13T10:35:00+00:00",
+    "pick": "Chinatrust Brothers +1.5",
+    "equipos": "Wei Chuan Dragons vs Chinatrust Brothers",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 170278,
+    "fecha": "2025-05-14T10:35:00+00:00",
+    "pick": "TSG Hawks +1.5",
+    "equipos": "Fubon Guardians vs TSG Hawks",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 170279,
+    "fecha": "2025-05-14T10:35:00+00:00",
+    "pick": "Uni Lions +1.5",
+    "equipos": "Rakuten Monkeys vs Uni Lions",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 170280,
+    "fecha": "2025-05-14T10:35:00+00:00",
+    "pick": "Chinatrust Brothers +1.5",
+    "equipos": "Wei Chuan Dragons vs Chinatrust Brothers",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 170586,
+    "fecha": "2025-05-13T17:00:00+00:00",
+    "pick": "Draci Brno +1.5",
+    "equipos": "Trebic vs Draci Brno",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 171070,
+    "fecha": "2025-05-13T15:05:00+00:00",
+    "pick": "Charlotte Knights +1.5",
+    "equipos": "Gwinnett Stripers vs Charlotte Knights",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 171071,
+    "fecha": "2025-05-13T22:05:00+00:00",
+    "pick": "Worcester +1.5",
+    "equipos": "Buffalo Bisons vs Worcester",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 171072,
+    "fecha": "2025-05-13T22:05:00+00:00",
+    "pick": "Durham Bulls +1.5",
+    "equipos": "Rochester Red Wings vs Durham Bulls",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 171073,
+    "fecha": "2025-05-13T22:05:00+00:00",
+    "pick": "Toledo Mud Hens +1.5",
+    "equipos": "Scranton/WB vs Toledo Mud Hens",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 171074,
+    "fecha": "2025-05-13T22:05:00+00:00",
+    "pick": "Lehigh Valley IronPigs +1.5",
+    "equipos": "Syracuse Mets vs Lehigh Valley IronPigs",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 171075,
+    "fecha": "2025-05-13T22:35:00+00:00",
+    "pick": "Louisville Bats +1.5",
+    "equipos": "Indianapolis Indians vs Louisville Bats",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 171076,
+    "fecha": "2025-05-13T22:35:00+00:00",
+    "pick": "Jacksonville Jumbo Shrimp +1.5",
+    "equipos": "Norfolk Tides vs Jacksonville Jumbo Shrimp",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 171077,
+    "fecha": "2025-05-13T23:35:00+00:00",
+    "pick": "Columbus Clippers +1.5",
+    "equipos": "Omaha Storm Chasers vs Columbus Clippers",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 171078,
+    "fecha": "2025-05-13T23:38:00+00:00",
+    "pick": "St. Paul +1.5",
+    "equipos": "Iowa Cubs vs St. Paul",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 171079,
+    "fecha": "2025-05-14T19:05:00+00:00",
+    "pick": "Nashville Sounds +1.5",
+    "equipos": "Memphis Redbirds vs Nashville Sounds",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 171080,
+    "fecha": "2025-05-14T15:05:00+00:00",
+    "pick": "Toledo Mud Hens +1.5",
+    "equipos": "Scranton/WB vs Toledo Mud Hens",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 171081,
+    "fecha": "2025-05-14T15:05:00+00:00",
+    "pick": "Lehigh Valley IronPigs +1.5",
+    "equipos": "Syracuse Mets vs Lehigh Valley IronPigs",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 171082,
+    "fecha": "2025-05-14T17:05:00+00:00",
+    "pick": "Nashville Sounds +1.5",
+    "equipos": "Memphis Redbirds vs Nashville Sounds",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 171083,
+    "fecha": "2025-05-14T17:08:00+00:00",
+    "pick": "St. Paul +1.5",
+    "equipos": "Iowa Cubs vs St. Paul",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 171084,
+    "fecha": "2025-05-14T22:05:00+00:00",
+    "pick": "Worcester +1.5",
+    "equipos": "Buffalo Bisons vs Worcester",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 171085,
+    "fecha": "2025-05-14T22:05:00+00:00",
+    "pick": "Louisville Bats +1.5",
+    "equipos": "Indianapolis Indians vs Louisville Bats",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 171086,
+    "fecha": "2025-05-14T22:05:00+00:00",
+    "pick": "Durham Bulls +1.5",
+    "equipos": "Rochester Red Wings vs Durham Bulls",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 171087,
+    "fecha": "2025-05-14T22:35:00+00:00",
+    "pick": "Jacksonville Jumbo Shrimp +1.5",
+    "equipos": "Norfolk Tides vs Jacksonville Jumbo Shrimp",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 171088,
+    "fecha": "2025-05-14T23:05:00+00:00",
+    "pick": "Charlotte Knights +1.5",
+    "equipos": "Gwinnett Stripers vs Charlotte Knights",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  },
+  {
+    "id": 171089,
+    "fecha": "2025-05-14T23:35:00+00:00",
+    "pick": "Columbus Clippers +1.5",
+    "equipos": "Omaha Storm Chasers vs Columbus Clippers",
+    "cuota": 1.9,
+    "probabilidad": 0.7058,
+    "valor_esperado": 0.341,
+    "confianza": "alta"
+  }
+]

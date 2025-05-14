@@ -1,0 +1,234 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163909"
+  },
+  "errors": [],
+  "results": 10,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2568,
+        "name": "Deportivo Coopsol",
+        "logo": "https://media.api-sports.io/football/teams/2568.png"
+      },
+      "player": {
+        "id": 40028,
+        "name": "E. Gonz\u00e1les"
+      },
+      "assist": {
+        "id": 40033,
+        "name": "S. Ciganda"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 49,
+        "extra": null
+      },
+      "team": {
+        "id": 2568,
+        "name": "Deportivo Coopsol",
+        "logo": "https://media.api-sports.io/football/teams/2568.png"
+      },
+      "player": {
+        "id": 40034,
+        "name": "C. P\u00e9rez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 56,
+        "extra": null
+      },
+      "team": {
+        "id": 2558,
+        "name": "Comerciantes Unidos",
+        "logo": "https://media.api-sports.io/football/teams/2558.png"
+      },
+      "player": {
+        "id": 40014,
+        "name": "L. Ze\u00f1a"
+      },
+      "assist": {
+        "id": 67908,
+        "name": "J. Goicochea"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 60,
+        "extra": null
+      },
+      "team": {
+        "id": 2558,
+        "name": "Comerciantes Unidos",
+        "logo": "https://media.api-sports.io/football/teams/2558.png"
+      },
+      "player": {
+        "id": 39862,
+        "name": "L. Carrillo"
+      },
+      "assist": {
+        "id": 40012,
+        "name": "J. Palacios"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 63,
+        "extra": null
+      },
+      "team": {
+        "id": 2558,
+        "name": "Comerciantes Unidos",
+        "logo": "https://media.api-sports.io/football/teams/2558.png"
+      },
+      "player": {
+        "id": 40011,
+        "name": "F. Gil"
+      },
+      "assist": {
+        "id": 40004,
+        "name": "O. Burga"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 68,
+        "extra": null
+      },
+      "team": {
+        "id": 2568,
+        "name": "Deportivo Coopsol",
+        "logo": "https://media.api-sports.io/football/teams/2568.png"
+      },
+      "player": {
+        "id": 40032,
+        "name": "C. Seminario"
+      },
+      "assist": {
+        "id": 40027,
+        "name": "J. G\u00f3mez"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 73,
+        "extra": null
+      },
+      "team": {
+        "id": 2568,
+        "name": "Deportivo Coopsol",
+        "logo": "https://media.api-sports.io/football/teams/2568.png"
+      },
+      "player": {
+        "id": 40023,
+        "name": "H. Campos"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 76,
+        "extra": null
+      },
+      "team": {
+        "id": 2568,
+        "name": "Deportivo Coopsol",
+        "logo": "https://media.api-sports.io/football/teams/2568.png"
+      },
+      "player": {
+        "id": 40030,
+        "name": "I. Kahn"
+      },
+      "assist": {
+        "id": 40022,
+        "name": "E. Silva"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 77,
+        "extra": null
+      },
+      "team": {
+        "id": 2568,
+        "name": "Deportivo Coopsol",
+        "logo": "https://media.api-sports.io/football/teams/2568.png"
+      },
+      "player": {
+        "id": 40022,
+        "name": "E. Silva"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 88,
+        "extra": null
+      },
+      "team": {
+        "id": 2568,
+        "name": "Deportivo Coopsol",
+        "logo": "https://media.api-sports.io/football/teams/2568.png"
+      },
+      "player": {
+        "id": 40033,
+        "name": "S. Ciganda"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

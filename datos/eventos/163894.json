@@ -1,0 +1,168 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163894"
+  },
+  "errors": [],
+  "results": 7,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 25,
+        "extra": null
+      },
+      "team": {
+        "id": 2563,
+        "name": "Union Huaral",
+        "logo": "https://media.api-sports.io/football/teams/2563.png"
+      },
+      "player": {
+        "id": 40141,
+        "name": "J. Barreda"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2563,
+        "name": "Union Huaral",
+        "logo": "https://media.api-sports.io/football/teams/2563.png"
+      },
+      "player": {
+        "id": 40026,
+        "name": "J. Cotrina"
+      },
+      "assist": {
+        "id": 40152,
+        "name": "D. S\u00e1nchez"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2566,
+        "name": "Sport Victoria",
+        "logo": "https://media.api-sports.io/football/teams/2566.png"
+      },
+      "player": {
+        "id": 64241,
+        "name": "A. Aguilar"
+      },
+      "assist": {
+        "id": 64239,
+        "name": "P. Pe\u00f1a"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 51,
+        "extra": null
+      },
+      "team": {
+        "id": 2566,
+        "name": "Sport Victoria",
+        "logo": "https://media.api-sports.io/football/teams/2566.png"
+      },
+      "player": {
+        "id": 39957,
+        "name": "P. Basilio"
+      },
+      "assist": {
+        "id": 64249,
+        "name": "J. Espinoza"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 57,
+        "extra": null
+      },
+      "team": {
+        "id": 2566,
+        "name": "Sport Victoria",
+        "logo": "https://media.api-sports.io/football/teams/2566.png"
+      },
+      "player": {
+        "id": 70124,
+        "name": "R. S\u00e1nchez"
+      },
+      "assist": {
+        "id": 70407,
+        "name": "A. Navarro"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 70,
+        "extra": null
+      },
+      "team": {
+        "id": 2563,
+        "name": "Union Huaral",
+        "logo": "https://media.api-sports.io/football/teams/2563.png"
+      },
+      "player": {
+        "id": 40146,
+        "name": "L. Aguirre"
+      },
+      "assist": {
+        "id": 40150,
+        "name": "K. Rosell"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 81,
+        "extra": null
+      },
+      "team": {
+        "id": 2563,
+        "name": "Union Huaral",
+        "logo": "https://media.api-sports.io/football/teams/2563.png"
+      },
+      "player": {
+        "id": 40151,
+        "name": "D. Saffadi"
+      },
+      "assist": {
+        "id": 40160,
+        "name": "I. Rey"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ]
+}

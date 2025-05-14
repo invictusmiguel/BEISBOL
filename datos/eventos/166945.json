@@ -1,0 +1,190 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "166945"
+  },
+  "errors": [],
+  "results": 8,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 62,
+        "extra": null
+      },
+      "team": {
+        "id": 2767,
+        "name": "Ulsan Hyundai FC",
+        "logo": "https://media.api-sports.io/football/teams/2767.png"
+      },
+      "player": {
+        "id": 34413,
+        "name": "Dong-Ho Jeong"
+      },
+      "assist": {
+        "id": 34429,
+        "name": "In-Sung Kim"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 65,
+        "extra": null
+      },
+      "team": {
+        "id": 2767,
+        "name": "Ulsan Hyundai FC",
+        "logo": "https://media.api-sports.io/football/teams/2767.png"
+      },
+      "player": {
+        "id": 34429,
+        "name": "In-Sung Kim"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 71,
+        "extra": null
+      },
+      "team": {
+        "id": 2767,
+        "name": "Ulsan Hyundai FC",
+        "logo": "https://media.api-sports.io/football/teams/2767.png"
+      },
+      "player": {
+        "id": 35031,
+        "name": "Chi-Gon Kim"
+      },
+      "assist": {
+        "id": 34605,
+        "name": "Chang-Yong Lee"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 73,
+        "extra": null
+      },
+      "team": {
+        "id": 2762,
+        "name": "Jeonbuk Motors",
+        "logo": "https://media.api-sports.io/football/teams/2762.png"
+      },
+      "player": {
+        "id": 34718,
+        "name": "Jae-Soo Choi"
+      },
+      "assist": {
+        "id": 99184,
+        "name": "Mu-Yeol Ko"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 73,
+        "extra": null
+      },
+      "team": {
+        "id": 2762,
+        "name": "Jeonbuk Motors",
+        "logo": "https://media.api-sports.io/football/teams/2762.png"
+      },
+      "player": {
+        "id": 50354,
+        "name": "Leonardo"
+      },
+      "assist": {
+        "id": 34381,
+        "name": "Won-Jae Park"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 76,
+        "extra": null
+      },
+      "team": {
+        "id": 2762,
+        "name": "Jeonbuk Motors",
+        "logo": "https://media.api-sports.io/football/teams/2762.png"
+      },
+      "player": {
+        "id": 34405,
+        "name": "Ricardo Lopes"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 2762,
+        "name": "Jeonbuk Motors",
+        "logo": "https://media.api-sports.io/football/teams/2762.png"
+      },
+      "player": {
+        "id": 34400,
+        "name": "Shin-Wook Kim"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 79,
+        "extra": null
+      },
+      "team": {
+        "id": 2767,
+        "name": "Ulsan Hyundai FC",
+        "logo": "https://media.api-sports.io/football/teams/2767.png"
+      },
+      "player": {
+        "id": 34429,
+        "name": "In-Sung Kim"
+      },
+      "assist": {
+        "id": 34749,
+        "name": "Seung-Jun Kim"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ]
+}

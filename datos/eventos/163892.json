@@ -1,0 +1,168 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163892"
+  },
+  "errors": [],
+  "results": 7,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 34,
+        "extra": null
+      },
+      "team": {
+        "id": 2571,
+        "name": "Sport Loreto",
+        "logo": "https://media.api-sports.io/football/teams/2571.png"
+      },
+      "player": {
+        "id": 67923,
+        "name": "D. Mart\u00ednez"
+      },
+      "assist": {
+        "id": 70127,
+        "name": "D. Ca\u00f1ari"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 2560,
+        "name": "Alianza Atletico",
+        "logo": "https://media.api-sports.io/football/teams/2560.png"
+      },
+      "player": {
+        "id": 64213,
+        "name": "K. Lugo"
+      },
+      "assist": {
+        "id": 39934,
+        "name": "A. Campos"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 70,
+        "extra": null
+      },
+      "team": {
+        "id": 2571,
+        "name": "Sport Loreto",
+        "logo": "https://media.api-sports.io/football/teams/2571.png"
+      },
+      "player": {
+        "id": 67926,
+        "name": "L. Montoya"
+      },
+      "assist": {
+        "id": 40105,
+        "name": "J. Barrera"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 73,
+        "extra": null
+      },
+      "team": {
+        "id": 2560,
+        "name": "Alianza Atletico",
+        "logo": "https://media.api-sports.io/football/teams/2560.png"
+      },
+      "player": {
+        "id": 70117,
+        "name": "V. Perlaza"
+      },
+      "assist": {
+        "id": 64215,
+        "name": "S. C\u00f3rdoba"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 86,
+        "extra": null
+      },
+      "team": {
+        "id": 2571,
+        "name": "Sport Loreto",
+        "logo": "https://media.api-sports.io/football/teams/2571.png"
+      },
+      "player": {
+        "id": 39759,
+        "name": "W. Calder\u00f3n"
+      },
+      "assist": {
+        "id": 67921,
+        "name": "R. Alzamora"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 87,
+        "extra": null
+      },
+      "team": {
+        "id": 2571,
+        "name": "Sport Loreto",
+        "logo": "https://media.api-sports.io/football/teams/2571.png"
+      },
+      "player": {
+        "id": 40105,
+        "name": "J. Barrera"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 88,
+        "extra": null
+      },
+      "team": {
+        "id": 2560,
+        "name": "Alianza Atletico",
+        "logo": "https://media.api-sports.io/football/teams/2560.png"
+      },
+      "player": {
+        "id": 64217,
+        "name": "C. Correa"
+      },
+      "assist": {
+        "id": 64210,
+        "name": "F. Carranza"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ]
+}

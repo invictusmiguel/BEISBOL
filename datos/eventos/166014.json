@@ -1,0 +1,344 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "166014"
+  },
+  "errors": [],
+  "results": 15,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 12,
+        "extra": null
+      },
+      "team": {
+        "id": 425,
+        "name": "Jong Ajax",
+        "logo": "https://media.api-sports.io/football/teams/425.png"
+      },
+      "player": {
+        "id": 553,
+        "name": "Danilo"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Penalty",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 16,
+        "extra": null
+      },
+      "team": {
+        "id": 410,
+        "name": "GO Ahead Eagles",
+        "logo": "https://media.api-sports.io/football/teams/410.png"
+      },
+      "player": {
+        "id": 37602,
+        "name": "Hobie Verhulst"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 17,
+        "extra": null
+      },
+      "team": {
+        "id": 425,
+        "name": "Jong Ajax",
+        "logo": "https://media.api-sports.io/football/teams/425.png"
+      },
+      "player": {
+        "id": 38750,
+        "name": "B. Brobbey"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Penalty",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 33,
+        "extra": null
+      },
+      "team": {
+        "id": 425,
+        "name": "Jong Ajax",
+        "logo": "https://media.api-sports.io/football/teams/425.png"
+      },
+      "player": {
+        "id": 553,
+        "name": "Danilo"
+      },
+      "assist": {
+        "id": 161894,
+        "name": "N. \u00dcn\u00fcvar"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 50,
+        "extra": null
+      },
+      "team": {
+        "id": 425,
+        "name": "Jong Ajax",
+        "logo": "https://media.api-sports.io/football/teams/425.png"
+      },
+      "player": {
+        "id": 38749,
+        "name": "K. Taylor"
+      },
+      "assist": {
+        "id": 102840,
+        "name": "A. M\u00e9ndez"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 55,
+        "extra": null
+      },
+      "team": {
+        "id": 425,
+        "name": "Jong Ajax",
+        "logo": "https://media.api-sports.io/football/teams/425.png"
+      },
+      "player": {
+        "id": 553,
+        "name": "Danilo"
+      },
+      "assist": {
+        "id": 161894,
+        "name": "N. \u00dcn\u00fcvar"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 56,
+        "extra": null
+      },
+      "team": {
+        "id": 410,
+        "name": "GO Ahead Eagles",
+        "logo": "https://media.api-sports.io/football/teams/410.png"
+      },
+      "player": {
+        "id": 38788,
+        "name": "Elso Brito"
+      },
+      "assist": {
+        "id": 125740,
+        "name": "N. Abdat"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 62,
+        "extra": null
+      },
+      "team": {
+        "id": 425,
+        "name": "Jong Ajax",
+        "logo": "https://media.api-sports.io/football/teams/425.png"
+      },
+      "player": {
+        "id": 36972,
+        "name": "Kik Pierie"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 64,
+        "extra": null
+      },
+      "team": {
+        "id": 425,
+        "name": "Jong Ajax",
+        "logo": "https://media.api-sports.io/football/teams/425.png"
+      },
+      "player": {
+        "id": 161894,
+        "name": "N. \u00dcn\u00fcvar"
+      },
+      "assist": {
+        "id": 38737,
+        "name": "B. Kemper"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 64,
+        "extra": null
+      },
+      "team": {
+        "id": 410,
+        "name": "GO Ahead Eagles",
+        "logo": "https://media.api-sports.io/football/teams/410.png"
+      },
+      "player": {
+        "id": 93168,
+        "name": "S. Ahannach"
+      },
+      "assist": {
+        "id": 37626,
+        "name": "M. Pouwels"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 70,
+        "extra": null
+      },
+      "team": {
+        "id": 410,
+        "name": "GO Ahead Eagles",
+        "logo": "https://media.api-sports.io/football/teams/410.png"
+      },
+      "player": {
+        "id": 37606,
+        "name": "Gino Bosz"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 75,
+        "extra": null
+      },
+      "team": {
+        "id": 410,
+        "name": "GO Ahead Eagles",
+        "logo": "https://media.api-sports.io/football/teams/410.png"
+      },
+      "player": {
+        "id": 37611,
+        "name": "J. Veldmate"
+      },
+      "assist": {
+        "id": 97856,
+        "name": "J. Swart"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 77,
+        "extra": null
+      },
+      "team": {
+        "id": 425,
+        "name": "Jong Ajax",
+        "logo": "https://media.api-sports.io/football/teams/425.png"
+      },
+      "player": {
+        "id": 553,
+        "name": "Danilo"
+      },
+      "assist": {
+        "id": 161884,
+        "name": "S. Hansen"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 81,
+        "extra": null
+      },
+      "team": {
+        "id": 410,
+        "name": "GO Ahead Eagles",
+        "logo": "https://media.api-sports.io/football/teams/410.png"
+      },
+      "player": {
+        "id": 37626,
+        "name": "M. Pouwels"
+      },
+      "assist": {
+        "id": 36791,
+        "name": "E. Lieftink"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 89,
+        "extra": null
+      },
+      "team": {
+        "id": 425,
+        "name": "Jong Ajax",
+        "logo": "https://media.api-sports.io/football/teams/425.png"
+      },
+      "player": {
+        "id": 38747,
+        "name": "Q. Timber"
+      },
+      "assist": {
+        "id": 161884,
+        "name": "S. Hansen"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

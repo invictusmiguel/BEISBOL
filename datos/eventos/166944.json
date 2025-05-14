@@ -1,0 +1,212 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "166944"
+  },
+  "errors": [],
+  "results": 9,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 10,
+        "extra": null
+      },
+      "team": {
+        "id": 2760,
+        "name": "Jeonnam Dragons",
+        "logo": "https://media.api-sports.io/football/teams/2760.png"
+      },
+      "player": {
+        "id": 99594,
+        "name": "Chun-Suk Bae"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 44,
+        "extra": null
+      },
+      "team": {
+        "id": 2760,
+        "name": "Jeonnam Dragons",
+        "logo": "https://media.api-sports.io/football/teams/2760.png"
+      },
+      "player": {
+        "id": 6964,
+        "name": "Jair"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2765,
+        "name": "Suwon Bluewings",
+        "logo": "https://media.api-sports.io/football/teams/2765.png"
+      },
+      "player": {
+        "id": 34696,
+        "name": "Jong-Sung Lee"
+      },
+      "assist": {
+        "id": 48956,
+        "name": "Yong-Rae Lee"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 58,
+        "extra": null
+      },
+      "team": {
+        "id": 2760,
+        "name": "Jeonnam Dragons",
+        "logo": "https://media.api-sports.io/football/teams/2760.png"
+      },
+      "player": {
+        "id": 99610,
+        "name": "Young-Min Hyun"
+      },
+      "assist": {
+        "id": 99312,
+        "name": "Ji-Min Lee"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 58,
+        "extra": null
+      },
+      "team": {
+        "id": 2765,
+        "name": "Suwon Bluewings",
+        "logo": "https://media.api-sports.io/football/teams/2765.png"
+      },
+      "player": {
+        "id": 34695,
+        "name": "Seung-Beom Ko"
+      },
+      "assist": {
+        "id": 97850,
+        "name": "R. Castelen"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 59,
+        "extra": null
+      },
+      "team": {
+        "id": 2760,
+        "name": "Jeonnam Dragons",
+        "logo": "https://media.api-sports.io/football/teams/2760.png"
+      },
+      "player": {
+        "id": 33407,
+        "name": "Yong-Woo Ahn"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 69,
+        "extra": null
+      },
+      "team": {
+        "id": 2765,
+        "name": "Suwon Bluewings",
+        "logo": "https://media.api-sports.io/football/teams/2765.png"
+      },
+      "player": {
+        "id": 80269,
+        "name": "Santos Junior"
+      },
+      "assist": {
+        "id": 34556,
+        "name": "Gun-Hee Kim"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 88,
+        "extra": null
+      },
+      "team": {
+        "id": 2760,
+        "name": "Jeonnam Dragons",
+        "logo": "https://media.api-sports.io/football/teams/2760.png"
+      },
+      "player": {
+        "id": 34347,
+        "name": "Ji-Nam Lee"
+      },
+      "assist": {
+        "id": 34536,
+        "name": "Kyeong-Jae Kim"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 1
+      },
+      "team": {
+        "id": 2760,
+        "name": "Jeonnam Dragons",
+        "logo": "https://media.api-sports.io/football/teams/2760.png"
+      },
+      "player": {
+        "id": 6964,
+        "name": "Jair"
+      },
+      "assist": {
+        "id": 99269,
+        "name": "Ji-Won Han"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ]
+}

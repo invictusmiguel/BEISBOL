@@ -1,0 +1,54 @@
+{
+  "id": 15,
+  "name": "Goals Over/Under 1st Half",
+  "values": [
+    {
+      "value": "Over 1.5",
+      "odd": "1.41"
+    },
+    {
+      "value": "Under 1.5",
+      "odd": "2.93"
+    },
+    {
+      "value": "Over 2.5",
+      "odd": "1.88"
+    },
+    {
+      "value": "Under 2.5",
+      "odd": "1.95"
+    },
+    {
+      "value": "Over 3.5",
+      "odd": "2.61"
+    },
+    {
+      "value": "Under 3.5",
+      "odd": "1.50"
+    },
+    {
+      "value": "Over 2",
+      "odd": "1.56"
+    },
+    {
+      "value": "Under 2",
+      "odd": "2.46"
+    },
+    {
+      "value": "Over 3",
+      "odd": "2.25"
+    },
+    {
+      "value": "Under 3",
+      "odd": "1.67"
+    },
+    {
+      "value": "Over 4",
+      "odd": "2.82"
+    },
+    {
+      "value": "Under 4",
+      "odd": "1.44"
+    }
+  ]
+}

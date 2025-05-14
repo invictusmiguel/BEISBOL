@@ -1,0 +1,17 @@
+Categoría,Factor,Impacto
+Lanzadores,ERA (Earned Run Average),Medida base de efectividad del abridor
+Lanzadores,"WHIP, K/9, BB/9",Dominancia y control del lanzador
+Lanzadores,Descanso y lanzamientos recientes,Fatiga e impacto en rendimiento
+Bateadores,"BA, OBP, SLG",Poder ofensivo general
+Bateadores,xwOBA y splits por zurdo/derecho,Matchup específico con el lanzador
+Bateadores,Forma reciente,Indica tendencia de producción ofensiva
+Estadísticas de Equipo,Carreras anotadas/permitidas,Potencial de producción y defensa
+Estadísticas de Equipo,Bullpen ERA,Rendimiento del relevo después del abridor
+Estadísticas de Equipo,Errores defensivos,Probabilidad de permitir carreras no merecidas
+Matchups,Historial bateadores vs. lanzador,Predice el rendimiento individual
+Matchups,Zurdos vs. derechos (splits),Ventajas/desventajas tácticas
+Condiciones del Estadio,"Tamaño, viento, altitud","Impacta HR, hits y carreras esperadas"
+Historial Head-to-Head,Resultados recientes entre ambos equipos,Tendencias psicológicas y tácticas
+Calendario,Fatiga acumulada por partidos o viajes,Rendimiento físico y mental
+Cuotas de Apuestas,"Moneyline, total de carreras, run line",Expectativas colectivas del mercado
+Cuotas de Apuestas,Variaciones recientes,Señales de información interna o valor

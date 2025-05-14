@@ -1,0 +1,256 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163902"
+  },
+  "errors": [],
+  "results": 11,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 8,
+        "extra": null
+      },
+      "team": {
+        "id": 2569,
+        "name": "LOS Caimanes",
+        "logo": "https://media.api-sports.io/football/teams/2569.png"
+      },
+      "player": {
+        "id": 40065,
+        "name": "A. Fern\u00e1ndez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 18,
+        "extra": null
+      },
+      "team": {
+        "id": 2564,
+        "name": "Atletico Grau",
+        "logo": "https://media.api-sports.io/football/teams/2564.png"
+      },
+      "player": {
+        "id": 95798,
+        "name": "J. Marina"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 25,
+        "extra": null
+      },
+      "team": {
+        "id": 2564,
+        "name": "Atletico Grau",
+        "logo": "https://media.api-sports.io/football/teams/2564.png"
+      },
+      "player": {
+        "id": 95797,
+        "name": "M. Sen"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 53,
+        "extra": null
+      },
+      "team": {
+        "id": 2564,
+        "name": "Atletico Grau",
+        "logo": "https://media.api-sports.io/football/teams/2564.png"
+      },
+      "player": {
+        "id": 95845,
+        "name": "C. Tr\u00edas"
+      },
+      "assist": {
+        "id": 39970,
+        "name": "D. Gonz\u00e1les"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 53,
+        "extra": null
+      },
+      "team": {
+        "id": 2569,
+        "name": "LOS Caimanes",
+        "logo": "https://media.api-sports.io/football/teams/2569.png"
+      },
+      "player": {
+        "id": 40065,
+        "name": "A. Fern\u00e1ndez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 60,
+        "extra": null
+      },
+      "team": {
+        "id": 2569,
+        "name": "LOS Caimanes",
+        "logo": "https://media.api-sports.io/football/teams/2569.png"
+      },
+      "player": {
+        "id": 64221,
+        "name": "P. Colchado"
+      },
+      "assist": {
+        "id": 73848,
+        "name": "W. Monteza"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 2564,
+        "name": "Atletico Grau",
+        "logo": "https://media.api-sports.io/football/teams/2564.png"
+      },
+      "player": {
+        "id": 95656,
+        "name": "J. Neira"
+      },
+      "assist": {
+        "id": 95689,
+        "name": "M. Rios"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 2569,
+        "name": "LOS Caimanes",
+        "logo": "https://media.api-sports.io/football/teams/2569.png"
+      },
+      "player": {
+        "id": 73851,
+        "name": "D. Aldea"
+      },
+      "assist": {
+        "id": 73853,
+        "name": "R. Ferreyros"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 2569,
+        "name": "LOS Caimanes",
+        "logo": "https://media.api-sports.io/football/teams/2569.png"
+      },
+      "player": {
+        "id": 40067,
+        "name": "C. Vel\u00e1zquez"
+      },
+      "assist": {
+        "id": 64227,
+        "name": "G. Carty"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 82,
+        "extra": null
+      },
+      "team": {
+        "id": 2564,
+        "name": "Atletico Grau",
+        "logo": "https://media.api-sports.io/football/teams/2564.png"
+      },
+      "player": {
+        "id": 95797,
+        "name": "M. Sen"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": null
+      },
+      "team": {
+        "id": 2564,
+        "name": "Atletico Grau",
+        "logo": "https://media.api-sports.io/football/teams/2564.png"
+      },
+      "player": {
+        "id": 95798,
+        "name": "J. Marina"
+      },
+      "assist": {
+        "id": 39963,
+        "name": "R. Torres"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163931"
+  },
+  "errors": [],
+  "results": 12,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 39,
+        "extra": null
+      },
+      "team": {
+        "id": 2558,
+        "name": "Comerciantes Unidos",
+        "logo": "https://media.api-sports.io/football/teams/2558.png"
+      },
+      "player": {
+        "id": 40002,
+        "name": "E. Silva"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 45,
+        "extra": 4
+      },
+      "team": {
+        "id": 2560,
+        "name": "Alianza Atletico",
+        "logo": "https://media.api-sports.io/football/teams/2560.png"
+      },
+      "player": {
+        "id": 64215,
+        "name": "S. C\u00f3rdoba"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 55,
+        "extra": null
+      },
+      "team": {
+        "id": 2558,
+        "name": "Comerciantes Unidos",
+        "logo": "https://media.api-sports.io/football/teams/2558.png"
+      },
+      "player": {
+        "id": 40049,
+        "name": "A. Ramos"
+      },
+      "assist": {
+        "id": 39862,
+        "name": "L. Carrillo"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 61,
+        "extra": null
+      },
+      "team": {
+        "id": 2560,
+        "name": "Alianza Atletico",
+        "logo": "https://media.api-sports.io/football/teams/2560.png"
+      },
+      "player": {
+        "id": null,
+        "name": null
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 62,
+        "extra": null
+      },
+      "team": {
+        "id": 2558,
+        "name": "Comerciantes Unidos",
+        "logo": "https://media.api-sports.io/football/teams/2558.png"
+      },
+      "player": {
+        "id": 40010,
+        "name": "E. Borges"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 65,
+        "extra": null
+      },
+      "team": {
+        "id": 2560,
+        "name": "Alianza Atletico",
+        "logo": "https://media.api-sports.io/football/teams/2560.png"
+      },
+      "player": {
+        "id": 64214,
+        "name": "I. Talavera"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 68,
+        "extra": null
+      },
+      "team": {
+        "id": 2560,
+        "name": "Alianza Atletico",
+        "logo": "https://media.api-sports.io/football/teams/2560.png"
+      },
+      "player": {
+        "id": 64218,
+        "name": "P. Joya"
+      },
+      "assist": {
+        "id": 64210,
+        "name": "F. Carranza"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 72,
+        "extra": null
+      },
+      "team": {
+        "id": 2558,
+        "name": "Comerciantes Unidos",
+        "logo": "https://media.api-sports.io/football/teams/2558.png"
+      },
+      "player": {
+        "id": 40009,
+        "name": "J. Urteaga"
+      },
+      "assist": {
+        "id": 40011,
+        "name": "F. Gil"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 74,
+        "extra": null
+      },
+      "team": {
+        "id": 2558,
+        "name": "Comerciantes Unidos",
+        "logo": "https://media.api-sports.io/football/teams/2558.png"
+      },
+      "player": {
+        "id": 67908,
+        "name": "J. Goicochea"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 75,
+        "extra": null
+      },
+      "team": {
+        "id": 2560,
+        "name": "Alianza Atletico",
+        "logo": "https://media.api-sports.io/football/teams/2560.png"
+      },
+      "player": {
+        "id": 64217,
+        "name": "C. Correa"
+      },
+      "assist": {
+        "id": 39935,
+        "name": "R. Carre\u00f1o"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 2560,
+        "name": "Alianza Atletico",
+        "logo": "https://media.api-sports.io/football/teams/2560.png"
+      },
+      "player": {
+        "id": 64213,
+        "name": "K. Lugo"
+      },
+      "assist": {
+        "id": 39941,
+        "name": "J. Soto"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 83,
+        "extra": null
+      },
+      "team": {
+        "id": 2558,
+        "name": "Comerciantes Unidos",
+        "logo": "https://media.api-sports.io/football/teams/2558.png"
+      },
+      "player": {
+        "id": 39895,
+        "name": "C. Cleque"
+      },
+      "assist": {
+        "id": 40000,
+        "name": "A. Laura"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "169192"
+  },
+  "errors": [],
+  "results": 16,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 40,
+        "extra": null
+      },
+      "team": {
+        "id": 2298,
+        "name": "FC Juarez",
+        "logo": "https://media.api-sports.io/football/teams/2298.png"
+      },
+      "player": {
+        "id": 36461,
+        "name": "Eder Borelli"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 45,
+        "extra": null
+      },
+      "team": {
+        "id": 2292,
+        "name": "Pachuca",
+        "logo": "https://media.api-sports.io/football/teams/2292.png"
+      },
+      "player": {
+        "id": 35659,
+        "name": "Ra\u00fal L\u00f3pez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 45,
+        "extra": null
+      },
+      "team": {
+        "id": 2298,
+        "name": "FC Juarez",
+        "logo": "https://media.api-sports.io/football/teams/2298.png"
+      },
+      "player": {
+        "id": 36465,
+        "name": "Jonathan Lacerda"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 45,
+        "extra": null
+      },
+      "team": {
+        "id": 2298,
+        "name": "FC Juarez",
+        "logo": "https://media.api-sports.io/football/teams/2298.png"
+      },
+      "player": {
+        "id": 47373,
+        "name": "Diego Rol\u00e1n"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 47,
+        "extra": null
+      },
+      "team": {
+        "id": 2298,
+        "name": "FC Juarez",
+        "logo": "https://media.api-sports.io/football/teams/2298.png"
+      },
+      "player": {
+        "id": 36487,
+        "name": "M. Fern\u00e1ndez"
+      },
+      "assist": {
+        "id": 25225,
+        "name": "D. Lezcano"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 57,
+        "extra": null
+      },
+      "team": {
+        "id": 2292,
+        "name": "Pachuca",
+        "logo": "https://media.api-sports.io/football/teams/2292.png"
+      },
+      "player": {
+        "id": 35655,
+        "name": "E. Cardona"
+      },
+      "assist": {
+        "id": 2585,
+        "name": "R. Ibarra"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 61,
+        "extra": null
+      },
+      "team": {
+        "id": 2298,
+        "name": "FC Juarez",
+        "logo": "https://media.api-sports.io/football/teams/2298.png"
+      },
+      "player": {
+        "id": 36465,
+        "name": "J. Lacerda"
+      },
+      "assist": {
+        "id": 36470,
+        "name": "E. Castro"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 68,
+        "extra": null
+      },
+      "team": {
+        "id": 2292,
+        "name": "Pachuca",
+        "logo": "https://media.api-sports.io/football/teams/2292.png"
+      },
+      "player": {
+        "id": 10005,
+        "name": "J. Copete"
+      },
+      "assist": {
+        "id": 35668,
+        "name": "V. D\u00e1vila"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 70,
+        "extra": null
+      },
+      "team": {
+        "id": 2292,
+        "name": "Pachuca",
+        "logo": "https://media.api-sports.io/football/teams/2292.png"
+      },
+      "player": {
+        "id": 47428,
+        "name": "Gustavo Cabral"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 73,
+        "extra": null
+      },
+      "team": {
+        "id": 2298,
+        "name": "FC Juarez",
+        "logo": "https://media.api-sports.io/football/teams/2298.png"
+      },
+      "player": {
+        "id": 36487,
+        "name": "M. Fern\u00e1ndez"
+      },
+      "assist": {
+        "id": 35665,
+        "name": "\u00c1. Sagal"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 74,
+        "extra": null
+      },
+      "team": {
+        "id": 2298,
+        "name": "FC Juarez",
+        "logo": "https://media.api-sports.io/football/teams/2298.png"
+      },
+      "player": {
+        "id": 35665,
+        "name": "Angelo Sagal"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 2292,
+        "name": "Pachuca",
+        "logo": "https://media.api-sports.io/football/teams/2292.png"
+      },
+      "player": {
+        "id": 2871,
+        "name": "V. Guzm\u00e1n"
+      },
+      "assist": {
+        "id": 35669,
+        "name": "R. De La Rosa"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 2292,
+        "name": "Pachuca",
+        "logo": "https://media.api-sports.io/football/teams/2292.png"
+      },
+      "player": {
+        "id": 35670,
+        "name": "Franco Jara"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 89,
+        "extra": null
+      },
+      "team": {
+        "id": 2298,
+        "name": "FC Juarez",
+        "logo": "https://media.api-sports.io/football/teams/2298.png"
+      },
+      "player": {
+        "id": 36490,
+        "name": "F. Santos"
+      },
+      "assist": {
+        "id": 36478,
+        "name": "F. Nevarez"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": null
+      },
+      "team": {
+        "id": 2292,
+        "name": "Pachuca",
+        "logo": "https://media.api-sports.io/football/teams/2292.png"
+      },
+      "player": {
+        "id": 35497,
+        "name": "Rubens Sambueza"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": null
+      },
+      "team": {
+        "id": 2298,
+        "name": "FC Juarez",
+        "logo": "https://media.api-sports.io/football/teams/2298.png"
+      },
+      "player": {
+        "id": 35512,
+        "name": "Israel Jim\u00e9nez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163916"
+  },
+  "errors": [],
+  "results": 7,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2568,
+        "name": "Deportivo Coopsol",
+        "logo": "https://media.api-sports.io/football/teams/2568.png"
+      },
+      "player": {
+        "id": 40034,
+        "name": "C. P\u00e9rez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 61,
+        "extra": null
+      },
+      "team": {
+        "id": 2560,
+        "name": "Alianza Atletico",
+        "logo": "https://media.api-sports.io/football/teams/2560.png"
+      },
+      "player": {
+        "id": 39934,
+        "name": "A. Campos"
+      },
+      "assist": {
+        "id": 64213,
+        "name": "K. Lugo"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 64,
+        "extra": null
+      },
+      "team": {
+        "id": 2568,
+        "name": "Deportivo Coopsol",
+        "logo": "https://media.api-sports.io/football/teams/2568.png"
+      },
+      "player": {
+        "id": 40030,
+        "name": "I. Kahn"
+      },
+      "assist": {
+        "id": 40027,
+        "name": "J. G\u00f3mez"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 70,
+        "extra": null
+      },
+      "team": {
+        "id": 2568,
+        "name": "Deportivo Coopsol",
+        "logo": "https://media.api-sports.io/football/teams/2568.png"
+      },
+      "player": {
+        "id": 40032,
+        "name": "C. Seminario"
+      },
+      "assist": {
+        "id": 40023,
+        "name": "H. Campos"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 75,
+        "extra": null
+      },
+      "team": {
+        "id": 2560,
+        "name": "Alianza Atletico",
+        "logo": "https://media.api-sports.io/football/teams/2560.png"
+      },
+      "player": {
+        "id": 39942,
+        "name": "J. Ram\u00edrez"
+      },
+      "assist": {
+        "id": 64215,
+        "name": "S. C\u00f3rdoba"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 2568,
+        "name": "Deportivo Coopsol",
+        "logo": "https://media.api-sports.io/football/teams/2568.png"
+      },
+      "player": {
+        "id": 40029,
+        "name": "P. Guti\u00e9rrez"
+      },
+      "assist": {
+        "id": 39908,
+        "name": "E. Machahuay"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 89,
+        "extra": null
+      },
+      "team": {
+        "id": 2560,
+        "name": "Alianza Atletico",
+        "logo": "https://media.api-sports.io/football/teams/2560.png"
+      },
+      "player": {
+        "id": 64210,
+        "name": "F. Carranza"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": null
+    }
+  ]
+}

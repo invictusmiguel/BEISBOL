@@ -1,0 +1,168 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163900"
+  },
+  "errors": [],
+  "results": 7,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 4,
+        "extra": null
+      },
+      "team": {
+        "id": 2569,
+        "name": "LOS Caimanes",
+        "logo": "https://media.api-sports.io/football/teams/2569.png"
+      },
+      "player": {
+        "id": 40065,
+        "name": "A. Fern\u00e1ndez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2569,
+        "name": "LOS Caimanes",
+        "logo": "https://media.api-sports.io/football/teams/2569.png"
+      },
+      "player": {
+        "id": 73851,
+        "name": "D. Aldea"
+      },
+      "assist": {
+        "id": 64225,
+        "name": "J. Iriarte"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2569,
+        "name": "LOS Caimanes",
+        "logo": "https://media.api-sports.io/football/teams/2569.png"
+      },
+      "player": {
+        "id": 64227,
+        "name": "G. Carty"
+      },
+      "assist": {
+        "id": 64228,
+        "name": "J. Viveros"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 62,
+        "extra": null
+      },
+      "team": {
+        "id": 2571,
+        "name": "Sport Loreto",
+        "logo": "https://media.api-sports.io/football/teams/2571.png"
+      },
+      "player": {
+        "id": 67926,
+        "name": "L. Montoya"
+      },
+      "assist": {
+        "id": 40127,
+        "name": "J. Jayo"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 65,
+        "extra": null
+      },
+      "team": {
+        "id": 2571,
+        "name": "Sport Loreto",
+        "logo": "https://media.api-sports.io/football/teams/2571.png"
+      },
+      "player": {
+        "id": 70126,
+        "name": "A. Ca\u00f1ari"
+      },
+      "assist": {
+        "id": 40105,
+        "name": "J. Barrera"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 67,
+        "extra": null
+      },
+      "team": {
+        "id": 2569,
+        "name": "LOS Caimanes",
+        "logo": "https://media.api-sports.io/football/teams/2569.png"
+      },
+      "player": {
+        "id": 40067,
+        "name": "C. Vel\u00e1zquez"
+      },
+      "assist": {
+        "id": 64222,
+        "name": "J. Vidales"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 67,
+        "extra": null
+      },
+      "team": {
+        "id": 2571,
+        "name": "Sport Loreto",
+        "logo": "https://media.api-sports.io/football/teams/2571.png"
+      },
+      "player": {
+        "id": 39889,
+        "name": "S. Montesinos"
+      },
+      "assist": {
+        "id": 70128,
+        "name": "C. Velarde"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ]
+}

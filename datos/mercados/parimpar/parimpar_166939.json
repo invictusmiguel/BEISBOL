@@ -1,0 +1,14 @@
+{
+  "id": 9,
+  "name": "Odd/Even (Including OT)",
+  "values": [
+    {
+      "value": "Odd",
+      "odd": "1.70"
+    },
+    {
+      "value": "Even",
+      "odd": "2.05"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "get": "fixtures/statistics",
+  "parameters": {
+    "fixture": "169190"
+  },
+  "errors": [],
+  "results": 2,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "team": {
+        "id": 2285,
+        "name": "Santos Laguna",
+        "logo": "https://media.api-sports.io/football/teams/2285.png"
+      },
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 10
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 4
+        },
+        {
+          "type": "Total Shots",
+          "value": 15
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 1
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 11
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 4
+        },
+        {
+          "type": "Fouls",
+          "value": 22
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 2
+        },
+        {
+          "type": "Offsides",
+          "value": 0
+        },
+        {
+          "type": "Ball Possession",
+          "value": "48%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 2
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 3
+        },
+        {
+          "type": "Total passes",
+          "value": 311
+        },
+        {
+          "type": "Passes accurate",
+          "value": 235
+        },
+        {
+          "type": "Passes %",
+          "value": "76%"
+        }
+      ]
+    },
+    {
+      "team": {
+        "id": 2280,
+        "name": "Club Tijuana",
+        "logo": "https://media.api-sports.io/football/teams/2280.png"
+      },
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 4
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 4
+        },
+        {
+          "type": "Total Shots",
+          "value": 15
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 7
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 8
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 7
+        },
+        {
+          "type": "Fouls",
+          "value": 16
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 5
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "52%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 4
+        },
+        {
+          "type": "Total passes",
+          "value": 324
+        },
+        {
+          "type": "Passes accurate",
+          "value": 243
+        },
+        {
+          "type": "Passes %",
+          "value": "75%"
+        }
+      ]
+    }
+  ]
+}

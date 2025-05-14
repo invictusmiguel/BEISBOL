@@ -1,0 +1,80 @@
+[
+  {
+    "id": 163891,
+    "fecha": "2025-05-12T23:10:00+00:00",
+    "home": "New York Mets",
+    "away": "Pittsburgh Pirates",
+    "favorito": "Draw",
+    "cuota": 7.5,
+    "probabilidad_modelo": 0.5,
+    "probabilidad_implícita": 0.133,
+    "valor_esperado": 2.75,
+    "diferencial": 0.0,
+    "confianza": "alta"
+  },
+  {
+    "id": 163894,
+    "fecha": "2025-05-12T23:15:00+00:00",
+    "home": "Atlanta Braves",
+    "away": "Washington Nationals",
+    "favorito": "Draw",
+    "cuota": 8.0,
+    "probabilidad_modelo": 0.5,
+    "probabilidad_implícita": 0.125,
+    "valor_esperado": 3.0,
+    "diferencial": 0.0,
+    "confianza": "alta"
+  },
+  {
+    "id": 163897,
+    "fecha": "2025-05-12T22:40:00+00:00",
+    "home": "Detroit Tigers",
+    "away": "Boston Red Sox",
+    "favorito": "Draw",
+    "cuota": 9.0,
+    "probabilidad_modelo": 0.5,
+    "probabilidad_implícita": 0.111,
+    "valor_esperado": 3.5,
+    "diferencial": 0.0,
+    "confianza": "alta"
+  },
+  {
+    "id": 163898,
+    "fecha": "2025-05-12T22:10:00+00:00",
+    "home": "Cleveland Guardians",
+    "away": "Milwaukee Brewers",
+    "favorito": "Draw",
+    "cuota": 8.0,
+    "probabilidad_modelo": 0.5,
+    "probabilidad_implícita": 0.125,
+    "valor_esperado": 3.0,
+    "diferencial": 0.0,
+    "confianza": "alta"
+  },
+  {
+    "id": 163900,
+    "fecha": "2025-05-12T22:45:00+00:00",
+    "home": "Philadelphia Phillies",
+    "away": "St.Louis Cardinals",
+    "favorito": "Draw",
+    "cuota": 9.0,
+    "probabilidad_modelo": 0.5,
+    "probabilidad_implícita": 0.111,
+    "valor_esperado": 3.5,
+    "diferencial": 0.0,
+    "confianza": "alta"
+  },
+  {
+    "id": 163901,
+    "fecha": "2025-05-12T23:40:00+00:00",
+    "home": "Chicago Cubs",
+    "away": "Miami Marlins",
+    "favorito": "Draw",
+    "cuota": 8.0,
+    "probabilidad_modelo": 0.5,
+    "probabilidad_implícita": 0.125,
+    "valor_esperado": 3.0,
+    "diferencial": 0.0,
+    "confianza": "alta"
+  }
+]

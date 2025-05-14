@@ -1,0 +1,16 @@
+{
+  "game_id": 163905,
+  "fecha": "2025-05-13T22:40:00+00:00",
+  "home": {
+    "team": "Cincinnati Reds",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  },
+  "away": {
+    "team": "Chicago White Sox",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  }
+}

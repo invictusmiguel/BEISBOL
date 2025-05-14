@@ -1,0 +1,212 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163930"
+  },
+  "errors": [],
+  "results": 9,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 30,
+        "extra": null
+      },
+      "team": {
+        "id": 2569,
+        "name": "LOS Caimanes",
+        "logo": "https://media.api-sports.io/football/teams/2569.png"
+      },
+      "player": {
+        "id": 64227,
+        "name": "G. Carty"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2572,
+        "name": "Cultural Santa Rosa",
+        "logo": "https://media.api-sports.io/football/teams/2572.png"
+      },
+      "player": {
+        "id": 67918,
+        "name": "C. Ruiz"
+      },
+      "assist": {
+        "id": 70121,
+        "name": "K. Caraza"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2572,
+        "name": "Cultural Santa Rosa",
+        "logo": "https://media.api-sports.io/football/teams/2572.png"
+      },
+      "player": {
+        "id": 67913,
+        "name": "A. Jim\u00e9nez"
+      },
+      "assist": {
+        "id": 40005,
+        "name": "D. del Castillo"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 53,
+        "extra": null
+      },
+      "team": {
+        "id": 2572,
+        "name": "Cultural Santa Rosa",
+        "logo": "https://media.api-sports.io/football/teams/2572.png"
+      },
+      "player": {
+        "id": 74536,
+        "name": "Ronaille Calheira"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 57,
+        "extra": null
+      },
+      "team": {
+        "id": 2569,
+        "name": "LOS Caimanes",
+        "logo": "https://media.api-sports.io/football/teams/2569.png"
+      },
+      "player": {
+        "id": 40059,
+        "name": "K. Lebogang"
+      },
+      "assist": {
+        "id": 180456,
+        "name": "D. Dami\u00e1n"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 71,
+        "extra": null
+      },
+      "team": {
+        "id": 2572,
+        "name": "Cultural Santa Rosa",
+        "logo": "https://media.api-sports.io/football/teams/2572.png"
+      },
+      "player": {
+        "id": 95882,
+        "name": "R. Ag\u00e1mez"
+      },
+      "assist": {
+        "id": 40125,
+        "name": "S. Hern\u00e1ndez"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 75,
+        "extra": null
+      },
+      "team": {
+        "id": 2569,
+        "name": "LOS Caimanes",
+        "logo": "https://media.api-sports.io/football/teams/2569.png"
+      },
+      "player": {
+        "id": 64225,
+        "name": "J. Iriarte"
+      },
+      "assist": {
+        "id": 73848,
+        "name": "W. Monteza"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 77,
+        "extra": null
+      },
+      "team": {
+        "id": 2572,
+        "name": "Cultural Santa Rosa",
+        "logo": "https://media.api-sports.io/football/teams/2572.png"
+      },
+      "player": {
+        "id": 74536,
+        "name": "Ronaille Calheira"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 2572,
+        "name": "Cultural Santa Rosa",
+        "logo": "https://media.api-sports.io/football/teams/2572.png"
+      },
+      "player": {
+        "id": 70121,
+        "name": "K. Caraza"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

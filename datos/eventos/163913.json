@@ -1,0 +1,212 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163913"
+  },
+  "errors": [],
+  "results": 9,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 8,
+        "extra": null
+      },
+      "team": {
+        "id": 2564,
+        "name": "Atletico Grau",
+        "logo": "https://media.api-sports.io/football/teams/2564.png"
+      },
+      "player": {
+        "id": 95797,
+        "name": "M. Sen"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 15,
+        "extra": null
+      },
+      "team": {
+        "id": 2563,
+        "name": "Union Huaral",
+        "logo": "https://media.api-sports.io/football/teams/2563.png"
+      },
+      "player": {
+        "id": 40146,
+        "name": "L. Aguirre"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 21,
+        "extra": null
+      },
+      "team": {
+        "id": 2563,
+        "name": "Union Huaral",
+        "logo": "https://media.api-sports.io/football/teams/2563.png"
+      },
+      "player": {
+        "id": 40161,
+        "name": "M. Silva"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 36,
+        "extra": null
+      },
+      "team": {
+        "id": 2564,
+        "name": "Atletico Grau",
+        "logo": "https://media.api-sports.io/football/teams/2564.png"
+      },
+      "player": {
+        "id": 95798,
+        "name": "J. Marina"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 62,
+        "extra": null
+      },
+      "team": {
+        "id": 2564,
+        "name": "Atletico Grau",
+        "logo": "https://media.api-sports.io/football/teams/2564.png"
+      },
+      "player": {
+        "id": 95652,
+        "name": "R. Huaccha"
+      },
+      "assist": {
+        "id": 39970,
+        "name": "D. Gonz\u00e1les"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 62,
+        "extra": null
+      },
+      "team": {
+        "id": 2564,
+        "name": "Atletico Grau",
+        "logo": "https://media.api-sports.io/football/teams/2564.png"
+      },
+      "player": {
+        "id": 95689,
+        "name": "M. Rios"
+      },
+      "assist": {
+        "id": 39963,
+        "name": "R. Torres"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 72,
+        "extra": null
+      },
+      "team": {
+        "id": 2563,
+        "name": "Union Huaral",
+        "logo": "https://media.api-sports.io/football/teams/2563.png"
+      },
+      "player": {
+        "id": 40153,
+        "name": "J. Viza"
+      },
+      "assist": {
+        "id": 70406,
+        "name": "D. L\u00f3pez"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 79,
+        "extra": null
+      },
+      "team": {
+        "id": 2563,
+        "name": "Union Huaral",
+        "logo": "https://media.api-sports.io/football/teams/2563.png"
+      },
+      "player": {
+        "id": 40161,
+        "name": "M. Silva"
+      },
+      "assist": {
+        "id": 40158,
+        "name": "J. Gonz\u00e1les Vigil"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 2563,
+        "name": "Union Huaral",
+        "logo": "https://media.api-sports.io/football/teams/2563.png"
+      },
+      "player": {
+        "id": 40151,
+        "name": "D. Saffadi"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

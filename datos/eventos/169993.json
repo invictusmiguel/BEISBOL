@@ -1,0 +1,190 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "169993"
+  },
+  "errors": [],
+  "results": 8,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 37,
+        "extra": null
+      },
+      "team": {
+        "id": 2579,
+        "name": "AFC Hermannstadt",
+        "logo": "https://media.api-sports.io/football/teams/2579.png"
+      },
+      "player": {
+        "id": 104427,
+        "name": "Afonso Taira"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2583,
+        "name": "Politehnica Iasi",
+        "logo": "https://media.api-sports.io/football/teams/2583.png"
+      },
+      "player": {
+        "id": 42559,
+        "name": "A. Ha\u0163iegan"
+      },
+      "assist": {
+        "id": 89883,
+        "name": "Platini"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 60,
+        "extra": null
+      },
+      "team": {
+        "id": 2579,
+        "name": "AFC Hermannstadt",
+        "logo": "https://media.api-sports.io/football/teams/2579.png"
+      },
+      "player": {
+        "id": 30697,
+        "name": "A. Cordea"
+      },
+      "assist": {
+        "id": 72472,
+        "name": "Jo\u00e1lisson"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 61,
+        "extra": null
+      },
+      "team": {
+        "id": 2583,
+        "name": "Politehnica Iasi",
+        "logo": "https://media.api-sports.io/football/teams/2583.png"
+      },
+      "player": {
+        "id": 15557,
+        "name": "D\u00eddac Devesa"
+      },
+      "assist": {
+        "id": 43251,
+        "name": "D. Popadiuc"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 61,
+        "extra": null
+      },
+      "team": {
+        "id": 2579,
+        "name": "AFC Hermannstadt",
+        "logo": "https://media.api-sports.io/football/teams/2579.png"
+      },
+      "player": {
+        "id": 43301,
+        "name": "D. T\u0103tar"
+      },
+      "assist": {
+        "id": 14474,
+        "name": "K. Rimane"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 81,
+        "extra": null
+      },
+      "team": {
+        "id": 2579,
+        "name": "AFC Hermannstadt",
+        "logo": "https://media.api-sports.io/football/teams/2579.png"
+      },
+      "player": {
+        "id": 119277,
+        "name": "G. Debeljuh"
+      },
+      "assist": {
+        "id": 43172,
+        "name": "Yazalde"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 82,
+        "extra": null
+      },
+      "team": {
+        "id": 2583,
+        "name": "Politehnica Iasi",
+        "logo": "https://media.api-sports.io/football/teams/2583.png"
+      },
+      "player": {
+        "id": 42492,
+        "name": "O. Hor\u0219ia"
+      },
+      "assist": {
+        "id": 97171,
+        "name": "R. Onea"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 2579,
+        "name": "AFC Hermannstadt",
+        "logo": "https://media.api-sports.io/football/teams/2579.png"
+      },
+      "player": {
+        "id": 41380,
+        "name": "Cristiano Pereira"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    }
+  ]
+}

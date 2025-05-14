@@ -1,0 +1,16 @@
+{
+  "game_id": 163896,
+  "fecha": "2025-05-13T00:10:00+00:00",
+  "home": {
+    "team": "Houston Astros",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  },
+  "away": {
+    "team": "Kansas City Royals",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  }
+}

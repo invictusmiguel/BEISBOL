@@ -1,0 +1,322 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "169190"
+  },
+  "errors": [],
+  "results": 14,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 33,
+        "extra": null
+      },
+      "team": {
+        "id": 2285,
+        "name": "Santos Laguna",
+        "logo": "https://media.api-sports.io/football/teams/2285.png"
+      },
+      "player": {
+        "id": 35783,
+        "name": "B. Lozano"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 42,
+        "extra": null
+      },
+      "team": {
+        "id": 2285,
+        "name": "Santos Laguna",
+        "logo": "https://media.api-sports.io/football/teams/2285.png"
+      },
+      "player": {
+        "id": 2561,
+        "name": "D. Vald\u00e9s"
+      },
+      "assist": {
+        "id": 35783,
+        "name": "B. Lozano"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 45,
+        "extra": 4
+      },
+      "team": {
+        "id": 2285,
+        "name": "Santos Laguna",
+        "logo": "https://media.api-sports.io/football/teams/2285.png"
+      },
+      "player": {
+        "id": 35792,
+        "name": "J. Furch"
+      },
+      "assist": {
+        "id": 28337,
+        "name": "F. Gorriar\u00e1n"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 57,
+        "extra": null
+      },
+      "team": {
+        "id": 2280,
+        "name": "Club Tijuana",
+        "logo": "https://media.api-sports.io/football/teams/2280.png"
+      },
+      "player": {
+        "id": 35701,
+        "name": "E. Torres"
+      },
+      "assist": {
+        "id": 35813,
+        "name": "M. La\u00ednez"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 59,
+        "extra": null
+      },
+      "team": {
+        "id": 2285,
+        "name": "Santos Laguna",
+        "logo": "https://media.api-sports.io/football/teams/2285.png"
+      },
+      "player": {
+        "id": 35688,
+        "name": "Erick Castillo"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 60,
+        "extra": null
+      },
+      "team": {
+        "id": 2285,
+        "name": "Santos Laguna",
+        "logo": "https://media.api-sports.io/football/teams/2285.png"
+      },
+      "player": {
+        "id": 35777,
+        "name": "D\u00f3ria"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 67,
+        "extra": null
+      },
+      "team": {
+        "id": 2285,
+        "name": "Santos Laguna",
+        "logo": "https://media.api-sports.io/football/teams/2285.png"
+      },
+      "player": {
+        "id": 35783,
+        "name": "B. Lozano"
+      },
+      "assist": {
+        "id": 2884,
+        "name": "J. V\u00e1zquez"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 68,
+        "extra": null
+      },
+      "team": {
+        "id": 2280,
+        "name": "Club Tijuana",
+        "logo": "https://media.api-sports.io/football/teams/2280.png"
+      },
+      "player": {
+        "id": 35697,
+        "name": "Miller Bola\u00f1os"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 71,
+        "extra": null
+      },
+      "team": {
+        "id": 2280,
+        "name": "Club Tijuana",
+        "logo": "https://media.api-sports.io/football/teams/2280.png"
+      },
+      "player": {
+        "id": 35681,
+        "name": "O. Mendoza"
+      },
+      "assist": {
+        "id": 31553,
+        "name": "C. Falletti"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 2285,
+        "name": "Santos Laguna",
+        "logo": "https://media.api-sports.io/football/teams/2285.png"
+      },
+      "player": {
+        "id": 35792,
+        "name": "J. Furch"
+      },
+      "assist": {
+        "id": 51590,
+        "name": "O. Rivero"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 84,
+        "extra": null
+      },
+      "team": {
+        "id": 2280,
+        "name": "Club Tijuana",
+        "logo": "https://media.api-sports.io/football/teams/2280.png"
+      },
+      "player": {
+        "id": 35694,
+        "name": "I. Rivero"
+      },
+      "assist": {
+        "id": 35980,
+        "name": "J. Rojas"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 2285,
+        "name": "Santos Laguna",
+        "logo": "https://media.api-sports.io/football/teams/2285.png"
+      },
+      "player": {
+        "id": 2561,
+        "name": "D. Vald\u00e9s"
+      },
+      "assist": {
+        "id": 125668,
+        "name": "A. Lozano"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 2280,
+        "name": "Club Tijuana",
+        "logo": "https://media.api-sports.io/football/teams/2280.png"
+      },
+      "player": {
+        "id": 36169,
+        "name": "F. Arce"
+      },
+      "assist": {
+        "id": 35645,
+        "name": "A. Sep\u00falveda"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 86,
+        "extra": null
+      },
+      "team": {
+        "id": 2285,
+        "name": "Santos Laguna",
+        "logo": "https://media.api-sports.io/football/teams/2285.png"
+      },
+      "player": {
+        "id": 51590,
+        "name": "O. Rivero"
+      },
+      "assist": {
+        "id": 125668,
+        "name": "A. Lozano"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

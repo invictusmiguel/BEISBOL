@@ -1,0 +1,168 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163919"
+  },
+  "errors": [],
+  "results": 7,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 29,
+        "extra": null
+      },
+      "team": {
+        "id": 4226,
+        "name": "Santos",
+        "logo": "https://media.api-sports.io/football/teams/4226.png"
+      },
+      "player": {
+        "id": 95661,
+        "name": "J. Aliaga"
+      },
+      "assist": {
+        "id": 107380,
+        "name": "R. Maceda"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2569,
+        "name": "LOS Caimanes",
+        "logo": "https://media.api-sports.io/football/teams/2569.png"
+      },
+      "player": {
+        "id": 40059,
+        "name": "K. Lebogang"
+      },
+      "assist": {
+        "id": 64222,
+        "name": "J. Vidales"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 53,
+        "extra": null
+      },
+      "team": {
+        "id": 2569,
+        "name": "LOS Caimanes",
+        "logo": "https://media.api-sports.io/football/teams/2569.png"
+      },
+      "player": {
+        "id": 40066,
+        "name": "P. Orosco"
+      },
+      "assist": {
+        "id": 64227,
+        "name": "G. Carty"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 59,
+        "extra": null
+      },
+      "team": {
+        "id": 4226,
+        "name": "Santos",
+        "logo": "https://media.api-sports.io/football/teams/4226.png"
+      },
+      "player": {
+        "id": 95800,
+        "name": "K. Barrios"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 60,
+        "extra": null
+      },
+      "team": {
+        "id": 2569,
+        "name": "LOS Caimanes",
+        "logo": "https://media.api-sports.io/football/teams/2569.png"
+      },
+      "player": {
+        "id": 40058,
+        "name": "J. Cerna"
+      },
+      "assist": {
+        "id": 40061,
+        "name": "A. Campos"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 72,
+        "extra": null
+      },
+      "team": {
+        "id": 4226,
+        "name": "Santos",
+        "logo": "https://media.api-sports.io/football/teams/4226.png"
+      },
+      "player": {
+        "id": 95799,
+        "name": "M. Ahmed"
+      },
+      "assist": {
+        "id": 95802,
+        "name": "L. Spataro"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 87,
+        "extra": null
+      },
+      "team": {
+        "id": 4226,
+        "name": "Santos",
+        "logo": "https://media.api-sports.io/football/teams/4226.png"
+      },
+      "player": {
+        "id": 95807,
+        "name": "V. Castrill\u00f3n"
+      },
+      "assist": {
+        "id": 95757,
+        "name": "P. Alva"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ]
+}

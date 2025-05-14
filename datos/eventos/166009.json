@@ -1,0 +1,212 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "166009"
+  },
+  "errors": [],
+  "results": 9,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 39,
+        "extra": null
+      },
+      "team": {
+        "id": 420,
+        "name": "Cambuur",
+        "logo": "https://media.api-sports.io/football/teams/420.png"
+      },
+      "player": {
+        "id": 38819,
+        "name": "J. Jacobs"
+      },
+      "assist": {
+        "id": 38127,
+        "name": "M. Breij"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 55,
+        "extra": null
+      },
+      "team": {
+        "id": 420,
+        "name": "Cambuur",
+        "logo": "https://media.api-sports.io/football/teams/420.png"
+      },
+      "player": {
+        "id": 37046,
+        "name": "Robin Maulun"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 57,
+        "extra": null
+      },
+      "team": {
+        "id": 420,
+        "name": "Cambuur",
+        "logo": "https://media.api-sports.io/football/teams/420.png"
+      },
+      "player": {
+        "id": 38710,
+        "name": "R. M\u00fchren"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Penalty",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 59,
+        "extra": null
+      },
+      "team": {
+        "id": 420,
+        "name": "Cambuur",
+        "logo": "https://media.api-sports.io/football/teams/420.png"
+      },
+      "player": {
+        "id": 15331,
+        "name": "J. Antonia"
+      },
+      "assist": {
+        "id": 37075,
+        "name": "M. Paulissen"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 413,
+        "name": "NEC Nijmegen",
+        "logo": "https://media.api-sports.io/football/teams/413.png"
+      },
+      "player": {
+        "id": 37382,
+        "name": "J. Okita"
+      },
+      "assist": {
+        "id": 37384,
+        "name": "R. Wolters"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 68,
+        "extra": null
+      },
+      "team": {
+        "id": 413,
+        "name": "NEC Nijmegen",
+        "logo": "https://media.api-sports.io/football/teams/413.png"
+      },
+      "player": {
+        "id": 93699,
+        "name": "E. Velikonja"
+      },
+      "assist": {
+        "id": 37383,
+        "name": "O. ter Haar Romeny"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 74,
+        "extra": null
+      },
+      "team": {
+        "id": 413,
+        "name": "NEC Nijmegen",
+        "logo": "https://media.api-sports.io/football/teams/413.png"
+      },
+      "player": {
+        "id": 37369,
+        "name": "R. van Eijden"
+      },
+      "assist": {
+        "id": 37368,
+        "name": "F. Sturing"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 76,
+        "extra": null
+      },
+      "team": {
+        "id": 420,
+        "name": "Cambuur",
+        "logo": "https://media.api-sports.io/football/teams/420.png"
+      },
+      "player": {
+        "id": 37049,
+        "name": "A. Bangura"
+      },
+      "assist": {
+        "id": 127801,
+        "name": "K. van der Kaap"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 77,
+        "extra": null
+      },
+      "team": {
+        "id": 420,
+        "name": "Cambuur",
+        "logo": "https://media.api-sports.io/football/teams/420.png"
+      },
+      "player": {
+        "id": 38710,
+        "name": "R. M\u00fchren"
+      },
+      "assist": {
+        "id": 36898,
+        "name": "M. Hoedemakers"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

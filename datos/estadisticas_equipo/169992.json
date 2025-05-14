@@ -1,0 +1,160 @@
+{
+  "get": "fixtures/statistics",
+  "parameters": {
+    "fixture": "169992"
+  },
+  "errors": [],
+  "results": 2,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "team": {
+        "id": 570,
+        "name": "Viitorul Constanta",
+        "logo": "https://media.api-sports.io/football/teams/570.png"
+      },
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 12
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 1
+        },
+        {
+          "type": "Total Shots",
+          "value": 13
+        },
+        {
+          "type": "Blocked Shots",
+          "value": null
+        },
+        {
+          "type": "Shots insidebox",
+          "value": null
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": null
+        },
+        {
+          "type": "Fouls",
+          "value": 20
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 7
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "54%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 3
+        },
+        {
+          "type": "Red Cards",
+          "value": 0
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 5
+        },
+        {
+          "type": "Total passes",
+          "value": null
+        },
+        {
+          "type": "Passes accurate",
+          "value": null
+        },
+        {
+          "type": "Passes %",
+          "value": null
+        }
+      ]
+    },
+    {
+      "team": {
+        "id": 2577,
+        "name": "GAZ Metan Medias",
+        "logo": "https://media.api-sports.io/football/teams/2577.png"
+      },
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 7
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 6
+        },
+        {
+          "type": "Total Shots",
+          "value": 13
+        },
+        {
+          "type": "Blocked Shots",
+          "value": null
+        },
+        {
+          "type": "Shots insidebox",
+          "value": null
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": null
+        },
+        {
+          "type": "Fouls",
+          "value": 15
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 3
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "46%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 3
+        },
+        {
+          "type": "Red Cards",
+          "value": 0
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 8
+        },
+        {
+          "type": "Total passes",
+          "value": null
+        },
+        {
+          "type": "Passes accurate",
+          "value": null
+        },
+        {
+          "type": "Passes %",
+          "value": null
+        }
+      ]
+    }
+  ]
+}

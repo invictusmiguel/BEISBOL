@@ -1,0 +1,160 @@
+{
+  "get": "fixtures/statistics",
+  "parameters": {
+    "fixture": "169184"
+  },
+  "errors": [],
+  "results": 2,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "team": {
+        "id": 2278,
+        "name": "Guadalajara Chivas",
+        "logo": "https://media.api-sports.io/football/teams/2278.png"
+      },
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 5
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 4
+        },
+        {
+          "type": "Total Shots",
+          "value": 10
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 1
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 4
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 6
+        },
+        {
+          "type": "Fouls",
+          "value": 17
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 2
+        },
+        {
+          "type": "Offsides",
+          "value": 5
+        },
+        {
+          "type": "Ball Possession",
+          "value": "48%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 5
+        },
+        {
+          "type": "Red Cards",
+          "value": 2
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 1
+        },
+        {
+          "type": "Total passes",
+          "value": 352
+        },
+        {
+          "type": "Passes accurate",
+          "value": 280
+        },
+        {
+          "type": "Passes %",
+          "value": "80%"
+        }
+      ]
+    },
+    {
+      "team": {
+        "id": 2286,
+        "name": "U.N.A.M. - Pumas",
+        "logo": "https://media.api-sports.io/football/teams/2286.png"
+      },
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 2
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 5
+        },
+        {
+          "type": "Total Shots",
+          "value": 9
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 2
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 4
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 5
+        },
+        {
+          "type": "Fouls",
+          "value": 18
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 5
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "52%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 4
+        },
+        {
+          "type": "Red Cards",
+          "value": 0
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 4
+        },
+        {
+          "type": "Total passes",
+          "value": 373
+        },
+        {
+          "type": "Passes accurate",
+          "value": 296
+        },
+        {
+          "type": "Passes %",
+          "value": "79%"
+        }
+      ]
+    }
+  ]
+}

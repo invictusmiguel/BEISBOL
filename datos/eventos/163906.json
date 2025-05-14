@@ -1,0 +1,190 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163906"
+  },
+  "errors": [],
+  "results": 8,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 24,
+        "extra": null
+      },
+      "team": {
+        "id": 2559,
+        "name": "Juan Aurich",
+        "logo": "https://media.api-sports.io/football/teams/2559.png"
+      },
+      "player": {
+        "id": 40045,
+        "name": "M. Castro"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 60,
+        "extra": null
+      },
+      "team": {
+        "id": 2560,
+        "name": "Alianza Atletico",
+        "logo": "https://media.api-sports.io/football/teams/2560.png"
+      },
+      "player": {
+        "id": 64217,
+        "name": "C. Correa"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 61,
+        "extra": null
+      },
+      "team": {
+        "id": 2559,
+        "name": "Juan Aurich",
+        "logo": "https://media.api-sports.io/football/teams/2559.png"
+      },
+      "player": {
+        "id": 40045,
+        "name": "M. Castro"
+      },
+      "assist": {
+        "id": 70109,
+        "name": "J. Mendoza"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 61,
+        "extra": null
+      },
+      "team": {
+        "id": 2559,
+        "name": "Juan Aurich",
+        "logo": "https://media.api-sports.io/football/teams/2559.png"
+      },
+      "player": {
+        "id": 40052,
+        "name": "R. Acosta"
+      },
+      "assist": {
+        "id": 40054,
+        "name": "A. Carrillo"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 62,
+        "extra": null
+      },
+      "team": {
+        "id": 2559,
+        "name": "Juan Aurich",
+        "logo": "https://media.api-sports.io/football/teams/2559.png"
+      },
+      "player": {
+        "id": 70113,
+        "name": "F. P\u00e9rez"
+      },
+      "assist": {
+        "id": 40044,
+        "name": "E. \u00c1vila"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 82,
+        "extra": null
+      },
+      "team": {
+        "id": 2560,
+        "name": "Alianza Atletico",
+        "logo": "https://media.api-sports.io/football/teams/2560.png"
+      },
+      "player": {
+        "id": 70117,
+        "name": "V. Perlaza"
+      },
+      "assist": {
+        "id": 39934,
+        "name": "A. Campos"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 84,
+        "extra": null
+      },
+      "team": {
+        "id": 2560,
+        "name": "Alianza Atletico",
+        "logo": "https://media.api-sports.io/football/teams/2560.png"
+      },
+      "player": {
+        "id": 64213,
+        "name": "K. Lugo"
+      },
+      "assist": {
+        "id": 39941,
+        "name": "J. Soto"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 89,
+        "extra": null
+      },
+      "team": {
+        "id": 2560,
+        "name": "Alianza Atletico",
+        "logo": "https://media.api-sports.io/football/teams/2560.png"
+      },
+      "player": {
+        "id": 64218,
+        "name": "P. Joya"
+      },
+      "assist": {
+        "id": 39935,
+        "name": "R. Carre\u00f1o"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ]
+}

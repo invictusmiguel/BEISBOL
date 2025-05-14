@@ -1,0 +1,190 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163896"
+  },
+  "errors": [],
+  "results": 8,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 35,
+        "extra": null
+      },
+      "team": {
+        "id": 2560,
+        "name": "Alianza Atletico",
+        "logo": "https://media.api-sports.io/football/teams/2560.png"
+      },
+      "player": {
+        "id": 70117,
+        "name": "V. Perlaza"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 58,
+        "extra": null
+      },
+      "team": {
+        "id": 2560,
+        "name": "Alianza Atletico",
+        "logo": "https://media.api-sports.io/football/teams/2560.png"
+      },
+      "player": {
+        "id": 64213,
+        "name": "K. Lugo"
+      },
+      "assist": {
+        "id": 39934,
+        "name": "A. Campos"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 62,
+        "extra": null
+      },
+      "team": {
+        "id": 2560,
+        "name": "Alianza Atletico",
+        "logo": "https://media.api-sports.io/football/teams/2560.png"
+      },
+      "player": {
+        "id": 64217,
+        "name": "C. Correa"
+      },
+      "assist": {
+        "id": 39935,
+        "name": "R. Carre\u00f1o"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 69,
+        "extra": null
+      },
+      "team": {
+        "id": 2564,
+        "name": "Atletico Grau",
+        "logo": "https://media.api-sports.io/football/teams/2564.png"
+      },
+      "player": {
+        "id": 95797,
+        "name": "M. Sen"
+      },
+      "assist": {
+        "id": 39969,
+        "name": "L. Celi"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 74,
+        "extra": null
+      },
+      "team": {
+        "id": 2560,
+        "name": "Alianza Atletico",
+        "logo": "https://media.api-sports.io/football/teams/2560.png"
+      },
+      "player": {
+        "id": 39942,
+        "name": "J. Ram\u00edrez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 82,
+        "extra": null
+      },
+      "team": {
+        "id": 2560,
+        "name": "Alianza Atletico",
+        "logo": "https://media.api-sports.io/football/teams/2560.png"
+      },
+      "player": {
+        "id": 64218,
+        "name": "P. Joya"
+      },
+      "assist": {
+        "id": 39941,
+        "name": "J. Soto"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 82,
+        "extra": null
+      },
+      "team": {
+        "id": 2564,
+        "name": "Atletico Grau",
+        "logo": "https://media.api-sports.io/football/teams/2564.png"
+      },
+      "player": {
+        "id": 95798,
+        "name": "J. Marina"
+      },
+      "assist": {
+        "id": 95811,
+        "name": "R. Alguedas"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 84,
+        "extra": null
+      },
+      "team": {
+        "id": 2564,
+        "name": "Atletico Grau",
+        "logo": "https://media.api-sports.io/football/teams/2564.png"
+      },
+      "player": {
+        "id": 95688,
+        "name": "R. C\u00e9spedes"
+      },
+      "assist": {
+        "id": 95804,
+        "name": "I. Plasencia"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ]
+}

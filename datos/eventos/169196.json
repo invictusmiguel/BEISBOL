@@ -1,0 +1,234 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "169196"
+  },
+  "errors": [],
+  "results": 10,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 13,
+        "extra": null
+      },
+      "team": {
+        "id": 2282,
+        "name": "Monterrey",
+        "logo": "https://media.api-sports.io/football/teams/2282.png"
+      },
+      "player": {
+        "id": 2881,
+        "name": "J. Gallardo"
+      },
+      "assist": {
+        "id": 35552,
+        "name": "R. Funes Mori"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 32,
+        "extra": null
+      },
+      "team": {
+        "id": 2278,
+        "name": "Guadalajara Chivas",
+        "logo": "https://media.api-sports.io/football/teams/2278.png"
+      },
+      "player": {
+        "id": 35882,
+        "name": "M. P\u00e9rez"
+      },
+      "assist": {
+        "id": 35878,
+        "name": "A. Cervantes"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 42,
+        "extra": null
+      },
+      "team": {
+        "id": 2278,
+        "name": "Guadalajara Chivas",
+        "logo": "https://media.api-sports.io/football/teams/2278.png"
+      },
+      "player": {
+        "id": 35873,
+        "name": "M. Ponce"
+      },
+      "assist": {
+        "id": 35606,
+        "name": "O. Peralta"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2282,
+        "name": "Monterrey",
+        "logo": "https://media.api-sports.io/football/teams/2282.png"
+      },
+      "player": {
+        "id": 35546,
+        "name": "A. Gonz\u00e1lez"
+      },
+      "assist": {
+        "id": 2888,
+        "name": "C. Rodr\u00edguez"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 62,
+        "extra": null
+      },
+      "team": {
+        "id": 2278,
+        "name": "Guadalajara Chivas",
+        "logo": "https://media.api-sports.io/football/teams/2278.png"
+      },
+      "player": {
+        "id": 35606,
+        "name": "O. Peralta"
+      },
+      "assist": {
+        "id": 2889,
+        "name": "E. Vega"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 71,
+        "extra": null
+      },
+      "team": {
+        "id": 2282,
+        "name": "Monterrey",
+        "logo": "https://media.api-sports.io/football/teams/2282.png"
+      },
+      "player": {
+        "id": 35539,
+        "name": "Stefan Medina"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 73,
+        "extra": null
+      },
+      "team": {
+        "id": 2282,
+        "name": "Monterrey",
+        "logo": "https://media.api-sports.io/football/teams/2282.png"
+      },
+      "player": {
+        "id": 35555,
+        "name": "D. Pab\u00f3n"
+      },
+      "assist": {
+        "id": 183,
+        "name": "V. Janssen"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 2282,
+        "name": "Monterrey",
+        "logo": "https://media.api-sports.io/football/teams/2282.png"
+      },
+      "player": {
+        "id": 35543,
+        "name": "L. Vangioni"
+      },
+      "assist": {
+        "id": 35550,
+        "name": "M. Meza"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 2278,
+        "name": "Guadalajara Chivas",
+        "logo": "https://media.api-sports.io/football/teams/2278.png"
+      },
+      "player": {
+        "id": 35894,
+        "name": "A. Pulido"
+      },
+      "assist": {
+        "id": 35874,
+        "name": "G. Sep\u00falveda"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 84,
+        "extra": null
+      },
+      "team": {
+        "id": 2282,
+        "name": "Monterrey",
+        "logo": "https://media.api-sports.io/football/teams/2282.png"
+      },
+      "player": {
+        "id": 2509,
+        "name": "Celso Ortiz"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    }
+  ]
+}

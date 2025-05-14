@@ -1,0 +1,234 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "166943"
+  },
+  "errors": [],
+  "results": 10,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 4,
+        "extra": null
+      },
+      "team": {
+        "id": 2759,
+        "name": "Gwangju FC",
+        "logo": "https://media.api-sports.io/football/teams/2759.png"
+      },
+      "player": {
+        "id": 34587,
+        "name": "Seung-Min Song"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2768,
+        "name": "Sangju Sangmu FC",
+        "logo": "https://media.api-sports.io/football/teams/2768.png"
+      },
+      "player": {
+        "id": 33645,
+        "name": "Young-Cheol Cho"
+      },
+      "assist": {
+        "id": 34426,
+        "name": "Il-Soo Hwang"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2768,
+        "name": "Sangju Sangmu FC",
+        "logo": "https://media.api-sports.io/football/teams/2768.png"
+      },
+      "player": {
+        "id": 49313,
+        "name": "Sung-Hwan Kim"
+      },
+      "assist": {
+        "id": 99552,
+        "name": "Joon-Tae Park"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2759,
+        "name": "Gwangju FC",
+        "logo": "https://media.api-sports.io/football/teams/2759.png"
+      },
+      "player": {
+        "id": 99270,
+        "name": "Yong-Tae Cho"
+      },
+      "assist": {
+        "id": 34614,
+        "name": "Hyun-Woo Ju"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 54,
+        "extra": null
+      },
+      "team": {
+        "id": 2759,
+        "name": "Gwangju FC",
+        "logo": "https://media.api-sports.io/football/teams/2759.png"
+      },
+      "player": {
+        "id": 34614,
+        "name": "Hyun-Woo Ju"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 56,
+        "extra": null
+      },
+      "team": {
+        "id": 2768,
+        "name": "Sangju Sangmu FC",
+        "logo": "https://media.api-sports.io/football/teams/2768.png"
+      },
+      "player": {
+        "id": 34235,
+        "name": "Jun-Sung Yoon"
+      },
+      "assist": {
+        "id": 34124,
+        "name": "Jun-Yeon Jeong"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 62,
+        "extra": null
+      },
+      "team": {
+        "id": 2759,
+        "name": "Gwangju FC",
+        "logo": "https://media.api-sports.io/football/teams/2759.png"
+      },
+      "player": {
+        "id": 34617,
+        "name": "Jeong-Hyun Kim"
+      },
+      "assist": {
+        "id": 34668,
+        "name": "Jo-Gook Jung"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 2759,
+        "name": "Gwangju FC",
+        "logo": "https://media.api-sports.io/football/teams/2759.png"
+      },
+      "player": {
+        "id": 34668,
+        "name": "Jo-Gook Jung"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 79,
+        "extra": null
+      },
+      "team": {
+        "id": 2759,
+        "name": "Gwangju FC",
+        "logo": "https://media.api-sports.io/football/teams/2759.png"
+      },
+      "player": {
+        "id": 34537,
+        "name": "Young-Bin Kim"
+      },
+      "assist": {
+        "id": 99621,
+        "name": "Do-Hyun Oh"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 2759,
+        "name": "Gwangju FC",
+        "logo": "https://media.api-sports.io/football/teams/2759.png"
+      },
+      "player": {
+        "id": 99621,
+        "name": "Do-Hyun Oh"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

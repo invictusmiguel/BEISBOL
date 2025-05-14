@@ -1,0 +1,256 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "166011"
+  },
+  "errors": [],
+  "results": 11,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 15,
+        "extra": null
+      },
+      "team": {
+        "id": 418,
+        "name": "Jong AZ",
+        "logo": "https://media.api-sports.io/football/teams/418.png"
+      },
+      "player": {
+        "id": 38815,
+        "name": "Joey Jacobs"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 19,
+        "extra": null
+      },
+      "team": {
+        "id": 421,
+        "name": "Den Bosch",
+        "logo": "https://media.api-sports.io/football/teams/421.png"
+      },
+      "player": {
+        "id": 37468,
+        "name": "O. Bouyaghlafen"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 24,
+        "extra": null
+      },
+      "team": {
+        "id": 421,
+        "name": "Den Bosch",
+        "logo": "https://media.api-sports.io/football/teams/421.png"
+      },
+      "player": {
+        "id": 37472,
+        "name": "D. Verbeek"
+      },
+      "assist": {
+        "id": 1499,
+        "name": "Marques"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 52,
+        "extra": null
+      },
+      "team": {
+        "id": 421,
+        "name": "Den Bosch",
+        "logo": "https://media.api-sports.io/football/teams/421.png"
+      },
+      "player": {
+        "id": 36841,
+        "name": "Alexander Laukart"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 52,
+        "extra": null
+      },
+      "team": {
+        "id": 421,
+        "name": "Den Bosch",
+        "logo": "https://media.api-sports.io/football/teams/421.png"
+      },
+      "player": {
+        "id": 37461,
+        "name": "K. Felida"
+      },
+      "assist": {
+        "id": 36841,
+        "name": "A. Laukart"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 418,
+        "name": "Jong AZ",
+        "logo": "https://media.api-sports.io/football/teams/418.png"
+      },
+      "player": {
+        "id": 135749,
+        "name": "F\u00e9lix Correia"
+      },
+      "assist": {
+        "id": 38818,
+        "name": "J. Baas"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 69,
+        "extra": null
+      },
+      "team": {
+        "id": 421,
+        "name": "Den Bosch",
+        "logo": "https://media.api-sports.io/football/teams/421.png"
+      },
+      "player": {
+        "id": 37468,
+        "name": "O. Bouyaghlafen"
+      },
+      "assist": {
+        "id": 135748,
+        "name": "R. Mulders"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 74,
+        "extra": null
+      },
+      "team": {
+        "id": 418,
+        "name": "Jong AZ",
+        "logo": "https://media.api-sports.io/football/teams/418.png"
+      },
+      "player": {
+        "id": 37124,
+        "name": "R. Margaret"
+      },
+      "assist": {
+        "id": 38821,
+        "name": "D. Kunst"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 79,
+        "extra": null
+      },
+      "team": {
+        "id": 418,
+        "name": "Jong AZ",
+        "logo": "https://media.api-sports.io/football/teams/418.png"
+      },
+      "player": {
+        "id": 38812,
+        "name": "Justin Bakker"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 81,
+        "extra": null
+      },
+      "team": {
+        "id": 418,
+        "name": "Jong AZ",
+        "logo": "https://media.api-sports.io/football/teams/418.png"
+      },
+      "player": {
+        "id": 36904,
+        "name": "M. Taabouni"
+      },
+      "assist": {
+        "id": 194646,
+        "name": "B. Franken"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 88,
+        "extra": null
+      },
+      "team": {
+        "id": 421,
+        "name": "Den Bosch",
+        "logo": "https://media.api-sports.io/football/teams/421.png"
+      },
+      "player": {
+        "id": 36841,
+        "name": "A. Laukart"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

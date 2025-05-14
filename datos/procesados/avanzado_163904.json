@@ -1,0 +1,16 @@
+{
+  "game_id": 163904,
+  "fecha": "2025-05-14T18:35:00+00:00",
+  "home": {
+    "team": "Baltimore Orioles",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  },
+  "away": {
+    "team": "Minnesota Twins",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  }
+}

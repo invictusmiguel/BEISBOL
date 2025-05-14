@@ -1,0 +1,212 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163907"
+  },
+  "errors": [],
+  "results": 9,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 40,
+        "extra": null
+      },
+      "team": {
+        "id": 2562,
+        "name": "Cienciano",
+        "logo": "https://media.api-sports.io/football/teams/2562.png"
+      },
+      "player": {
+        "id": 39978,
+        "name": "J. Cuero"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 47,
+        "extra": null
+      },
+      "team": {
+        "id": 2562,
+        "name": "Cienciano",
+        "logo": "https://media.api-sports.io/football/teams/2562.png"
+      },
+      "player": {
+        "id": 64238,
+        "name": "J. Chumpit\u00e1z"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Own Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 56,
+        "extra": null
+      },
+      "team": {
+        "id": 2566,
+        "name": "Sport Victoria",
+        "logo": "https://media.api-sports.io/football/teams/2566.png"
+      },
+      "player": {
+        "id": 64249,
+        "name": "J. Espinoza"
+      },
+      "assist": {
+        "id": 64244,
+        "name": "J. Montoya"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 60,
+        "extra": null
+      },
+      "team": {
+        "id": 2562,
+        "name": "Cienciano",
+        "logo": "https://media.api-sports.io/football/teams/2562.png"
+      },
+      "player": {
+        "id": 39990,
+        "name": "J. Molina"
+      },
+      "assist": {
+        "id": 39987,
+        "name": "I. Garrafa"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 64,
+        "extra": null
+      },
+      "team": {
+        "id": 2562,
+        "name": "Cienciano",
+        "logo": "https://media.api-sports.io/football/teams/2562.png"
+      },
+      "player": {
+        "id": 39989,
+        "name": "E. Kuncho"
+      },
+      "assist": {
+        "id": 39994,
+        "name": "R. Tito"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 69,
+        "extra": null
+      },
+      "team": {
+        "id": 2562,
+        "name": "Cienciano",
+        "logo": "https://media.api-sports.io/football/teams/2562.png"
+      },
+      "player": {
+        "id": 39994,
+        "name": "R. Tito"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 70,
+        "extra": null
+      },
+      "team": {
+        "id": 2566,
+        "name": "Sport Victoria",
+        "logo": "https://media.api-sports.io/football/teams/2566.png"
+      },
+      "player": {
+        "id": 70407,
+        "name": "A. Navarro"
+      },
+      "assist": {
+        "id": 73838,
+        "name": "Johnny De Freitas"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 73,
+        "extra": null
+      },
+      "team": {
+        "id": 2562,
+        "name": "Cienciano",
+        "logo": "https://media.api-sports.io/football/teams/2562.png"
+      },
+      "player": {
+        "id": 39996,
+        "name": "H. Valencia"
+      },
+      "assist": {
+        "id": 70118,
+        "name": "A. Saravia"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 87,
+        "extra": null
+      },
+      "team": {
+        "id": 2566,
+        "name": "Sport Victoria",
+        "logo": "https://media.api-sports.io/football/teams/2566.png"
+      },
+      "player": {
+        "id": 64248,
+        "name": "P. Bautista"
+      },
+      "assist": {
+        "id": 40134,
+        "name": "P. Valverde"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ]
+}

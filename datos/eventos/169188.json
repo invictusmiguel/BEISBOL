@@ -1,0 +1,190 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "169188"
+  },
+  "errors": [],
+  "results": 8,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2291,
+        "name": "Puebla",
+        "logo": "https://media.api-sports.io/football/teams/2291.png"
+      },
+      "player": {
+        "id": 13651,
+        "name": "C. Marrugo"
+      },
+      "assist": {
+        "id": 35766,
+        "name": "L. Cavallini"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 55,
+        "extra": null
+      },
+      "team": {
+        "id": 2283,
+        "name": "Atlas",
+        "logo": "https://media.api-sports.io/football/teams/2283.png"
+      },
+      "player": {
+        "id": 6588,
+        "name": "M. Cuero"
+      },
+      "assist": {
+        "id": 35849,
+        "name": "J. Isijara"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 60,
+        "extra": null
+      },
+      "team": {
+        "id": 2291,
+        "name": "Puebla",
+        "logo": "https://media.api-sports.io/football/teams/2291.png"
+      },
+      "player": {
+        "id": 35747,
+        "name": "A. Acosta"
+      },
+      "assist": {
+        "id": 35760,
+        "name": "A. Tab\u00f3"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 69,
+        "extra": null
+      },
+      "team": {
+        "id": 2291,
+        "name": "Puebla",
+        "logo": "https://media.api-sports.io/football/teams/2291.png"
+      },
+      "player": {
+        "id": 35754,
+        "name": "Pablo Gonz\u00e1lez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 75,
+        "extra": null
+      },
+      "team": {
+        "id": 2291,
+        "name": "Puebla",
+        "logo": "https://media.api-sports.io/football/teams/2291.png"
+      },
+      "player": {
+        "id": 35725,
+        "name": "D. Abella"
+      },
+      "assist": {
+        "id": 35748,
+        "name": "F. Acu\u00f1a"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 76,
+        "extra": null
+      },
+      "team": {
+        "id": 2283,
+        "name": "Atlas",
+        "logo": "https://media.api-sports.io/football/teams/2283.png"
+      },
+      "player": {
+        "id": 35856,
+        "name": "E. Zaldivar"
+      },
+      "assist": {
+        "id": 94561,
+        "name": "C. Trejo"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 2283,
+        "name": "Atlas",
+        "logo": "https://media.api-sports.io/football/teams/2283.png"
+      },
+      "player": {
+        "id": 35857,
+        "name": "F. Barcelo"
+      },
+      "assist": {
+        "id": 94561,
+        "name": "C. Trejo"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 88,
+        "extra": null
+      },
+      "team": {
+        "id": 2283,
+        "name": "Atlas",
+        "logo": "https://media.api-sports.io/football/teams/2283.png"
+      },
+      "player": {
+        "id": 35857,
+        "name": "F. Barcelo"
+      },
+      "assist": {
+        "id": 35838,
+        "name": "B. V\u00e1zquez"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ]
+}

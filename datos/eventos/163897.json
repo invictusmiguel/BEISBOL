@@ -1,0 +1,146 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163897"
+  },
+  "errors": [],
+  "results": 6,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 22,
+        "extra": null
+      },
+      "team": {
+        "id": 2559,
+        "name": "Juan Aurich",
+        "logo": "https://media.api-sports.io/football/teams/2559.png"
+      },
+      "player": {
+        "id": 40042,
+        "name": "J. Tapia"
+      },
+      "assist": {
+        "id": 70114,
+        "name": "H. Santisteban"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 42,
+        "extra": null
+      },
+      "team": {
+        "id": 2558,
+        "name": "Comerciantes Unidos",
+        "logo": "https://media.api-sports.io/football/teams/2558.png"
+      },
+      "player": {
+        "id": 40010,
+        "name": "E. Borges"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2558,
+        "name": "Comerciantes Unidos",
+        "logo": "https://media.api-sports.io/football/teams/2558.png"
+      },
+      "player": {
+        "id": 40004,
+        "name": "O. Burga"
+      },
+      "assist": {
+        "id": 40011,
+        "name": "F. Gil"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 50,
+        "extra": null
+      },
+      "team": {
+        "id": 2558,
+        "name": "Comerciantes Unidos",
+        "logo": "https://media.api-sports.io/football/teams/2558.png"
+      },
+      "player": {
+        "id": 67908,
+        "name": "J. Goicochea"
+      },
+      "assist": {
+        "id": 40013,
+        "name": "G. Panduro"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 64,
+        "extra": null
+      },
+      "team": {
+        "id": 2559,
+        "name": "Juan Aurich",
+        "logo": "https://media.api-sports.io/football/teams/2559.png"
+      },
+      "player": {
+        "id": 40045,
+        "name": "M. Castro"
+      },
+      "assist": {
+        "id": 40054,
+        "name": "A. Carrillo"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 72,
+        "extra": null
+      },
+      "team": {
+        "id": 2558,
+        "name": "Comerciantes Unidos",
+        "logo": "https://media.api-sports.io/football/teams/2558.png"
+      },
+      "player": {
+        "id": 40009,
+        "name": "J. Urteaga"
+      },
+      "assist": {
+        "id": 39968,
+        "name": "A. Carnero"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ]
+}

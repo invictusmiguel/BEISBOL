@@ -1,0 +1,16 @@
+{
+  "game_id": 163891,
+  "fecha": "2025-05-12T23:10:00+00:00",
+  "home": {
+    "team": "New York Mets",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  },
+  "away": {
+    "team": "Pittsburgh Pirates",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  }
+}

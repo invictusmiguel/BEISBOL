@@ -1,0 +1,16 @@
+Mercado,Datos necesarios
+Moneyline (Ganador del partido),"Carreras esperadas (λ) por equipo, diferencial de carreras, abridores, bullpen, forma reciente"
+Run Line Spread (±1.5),"Diferencia esperada de carreras, varianza histórica, coberturas previas"
+Carreras en total (Over/Under),"λ total = λ_local + λ_visitante, condiciones del estadio, clima"
+Carreras totales del equipo local,"λ del equipo local, matchup bateadores vs. abridor rival"
+Carreras totales del visitante,"λ del equipo visitante, bullpen del local, splits ofensivos"
+Ambos equipos anotan,Probabilidad de al menos 1 carrera por equipo (Poisson)
+Ambos equipos anotan al menos 2 carreras,Probabilidad conjunta de anotar ≥2 carreras cada uno
+Ambos equipos anotan al menos 3 carreras,Probabilidad conjunta de anotar ≥3 carreras cada uno
+Run Line Spread: 3 opciones,"Distribución de margen de victoria (por 1, >1 o empate en 9 entradas)"
+Primero en llegar a 5 carreras,"Simulación de entradas, λ por inning, productividad ofensiva"
+Primero en llegar a 6 carreras,"Como anterior, con umbral en 6"
+Primero en llegar a 7 carreras,"Como anterior, con umbral en 7"
+Carreras totales del local: par/impar,Modelado con Poisson: probabilidad de carrera par
+Carreras totales del visitante: par/impar,Modelado con Poisson: probabilidad de carrera impar
+Ganador + carreras totales (combinado),Resultado probable del partido + total estimado de carreras

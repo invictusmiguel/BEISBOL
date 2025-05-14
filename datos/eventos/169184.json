@@ -1,0 +1,410 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "169184"
+  },
+  "errors": [],
+  "results": 18,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 14,
+        "extra": null
+      },
+      "team": {
+        "id": 2286,
+        "name": "U.N.A.M. - Pumas",
+        "logo": "https://media.api-sports.io/football/teams/2286.png"
+      },
+      "player": {
+        "id": 35909,
+        "name": "Luis Quintana"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 29,
+        "extra": null
+      },
+      "team": {
+        "id": 2286,
+        "name": "U.N.A.M. - Pumas",
+        "logo": "https://media.api-sports.io/football/teams/2286.png"
+      },
+      "player": {
+        "id": 16464,
+        "name": "N. Freire"
+      },
+      "assist": {
+        "id": 35907,
+        "name": "P. Jaquez"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 37,
+        "extra": null
+      },
+      "team": {
+        "id": 2278,
+        "name": "Guadalajara Chivas",
+        "logo": "https://media.api-sports.io/football/teams/2278.png"
+      },
+      "player": {
+        "id": 35894,
+        "name": "A. Pulido"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Penalty",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 41,
+        "extra": null
+      },
+      "team": {
+        "id": 2278,
+        "name": "Guadalajara Chivas",
+        "logo": "https://media.api-sports.io/football/teams/2278.png"
+      },
+      "player": {
+        "id": 46844,
+        "name": "Oswaldo Alan\u00eds"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 56,
+        "extra": null
+      },
+      "team": {
+        "id": 2278,
+        "name": "Guadalajara Chivas",
+        "logo": "https://media.api-sports.io/football/teams/2278.png"
+      },
+      "player": {
+        "id": 35880,
+        "name": "Jesus Molina"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 57,
+        "extra": null
+      },
+      "team": {
+        "id": 2286,
+        "name": "U.N.A.M. - Pumas",
+        "logo": "https://media.api-sports.io/football/teams/2286.png"
+      },
+      "player": {
+        "id": 35918,
+        "name": "B. Figueroa"
+      },
+      "assist": {
+        "id": 2564,
+        "name": "F. Mora"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 59,
+        "extra": null
+      },
+      "team": {
+        "id": 2286,
+        "name": "U.N.A.M. - Pumas",
+        "logo": "https://media.api-sports.io/football/teams/2286.png"
+      },
+      "player": {
+        "id": 2564,
+        "name": "Felipe Mora"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 63,
+        "extra": null
+      },
+      "team": {
+        "id": 2278,
+        "name": "Guadalajara Chivas",
+        "logo": "https://media.api-sports.io/football/teams/2278.png"
+      },
+      "player": {
+        "id": 35884,
+        "name": "Dieter Villalpando"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 70,
+        "extra": null
+      },
+      "team": {
+        "id": 2286,
+        "name": "U.N.A.M. - Pumas",
+        "logo": "https://media.api-sports.io/football/teams/2286.png"
+      },
+      "player": {
+        "id": 35902,
+        "name": "J. Angulo"
+      },
+      "assist": {
+        "id": 35923,
+        "name": "B. Mendoza"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 71,
+        "extra": null
+      },
+      "team": {
+        "id": 2286,
+        "name": "U.N.A.M. - Pumas",
+        "logo": "https://media.api-sports.io/football/teams/2286.png"
+      },
+      "player": {
+        "id": 35908,
+        "name": "Alan Mozo"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 74,
+        "extra": null
+      },
+      "team": {
+        "id": 2278,
+        "name": "Guadalajara Chivas",
+        "logo": "https://media.api-sports.io/football/teams/2278.png"
+      },
+      "player": {
+        "id": 2889,
+        "name": "Alexis Vega"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 77,
+        "extra": null
+      },
+      "team": {
+        "id": 2278,
+        "name": "Guadalajara Chivas",
+        "logo": "https://media.api-sports.io/football/teams/2278.png"
+      },
+      "player": {
+        "id": 35884,
+        "name": "D. Villalpando"
+      },
+      "assist": {
+        "id": 35882,
+        "name": "M. P\u00e9rez"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 83,
+        "extra": null
+      },
+      "team": {
+        "id": 2278,
+        "name": "Guadalajara Chivas",
+        "logo": "https://media.api-sports.io/football/teams/2278.png"
+      },
+      "player": {
+        "id": 35894,
+        "name": "A. Pulido"
+      },
+      "assist": {
+        "id": 36111,
+        "name": "C. Huerta"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 86,
+        "extra": null
+      },
+      "team": {
+        "id": 2278,
+        "name": "Guadalajara Chivas",
+        "logo": "https://media.api-sports.io/football/teams/2278.png"
+      },
+      "player": {
+        "id": 36111,
+        "name": "Cesar Huerta"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": null
+      },
+      "team": {
+        "id": 2286,
+        "name": "U.N.A.M. - Pumas",
+        "logo": "https://media.api-sports.io/football/teams/2286.png"
+      },
+      "player": {
+        "id": 35855,
+        "name": "Juan Vig\u00f3n"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": null
+      },
+      "team": {
+        "id": 2278,
+        "name": "Guadalajara Chivas",
+        "logo": "https://media.api-sports.io/football/teams/2278.png"
+      },
+      "player": {
+        "id": 36111,
+        "name": "Cesar Huerta"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": null
+      },
+      "team": {
+        "id": 2278,
+        "name": "Guadalajara Chivas",
+        "logo": "https://media.api-sports.io/football/teams/2278.png"
+      },
+      "player": {
+        "id": 36111,
+        "name": "Cesar Huerta"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 1
+      },
+      "team": {
+        "id": 2286,
+        "name": "U.N.A.M. - Pumas",
+        "logo": "https://media.api-sports.io/football/teams/2286.png"
+      },
+      "player": {
+        "id": 2518,
+        "name": "C. Gonz\u00e1lez"
+      },
+      "assist": {
+        "id": 35921,
+        "name": "I. Malcorra"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163905"
+  },
+  "errors": [],
+  "results": 8,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 21,
+        "extra": null
+      },
+      "team": {
+        "id": 2572,
+        "name": "Cultural Santa Rosa",
+        "logo": "https://media.api-sports.io/football/teams/2572.png"
+      },
+      "player": {
+        "id": 64246,
+        "name": "L. Roca"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 27,
+        "extra": null
+      },
+      "team": {
+        "id": 2572,
+        "name": "Cultural Santa Rosa",
+        "logo": "https://media.api-sports.io/football/teams/2572.png"
+      },
+      "player": {
+        "id": 64246,
+        "name": "L. Roca"
+      },
+      "assist": {
+        "id": 67918,
+        "name": "C. Ruiz"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2572,
+        "name": "Cultural Santa Rosa",
+        "logo": "https://media.api-sports.io/football/teams/2572.png"
+      },
+      "player": {
+        "id": 40078,
+        "name": "A. Llanos"
+      },
+      "assist": {
+        "id": 67914,
+        "name": "A. Morales"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 58,
+        "extra": null
+      },
+      "team": {
+        "id": 2568,
+        "name": "Deportivo Coopsol",
+        "logo": "https://media.api-sports.io/football/teams/2568.png"
+      },
+      "player": {
+        "id": 40028,
+        "name": "E. Gonz\u00e1les"
+      },
+      "assist": {
+        "id": 39908,
+        "name": "E. Machahuay"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 63,
+        "extra": null
+      },
+      "team": {
+        "id": 2568,
+        "name": "Deportivo Coopsol",
+        "logo": "https://media.api-sports.io/football/teams/2568.png"
+      },
+      "player": {
+        "id": 70409,
+        "name": "D. Kong"
+      },
+      "assist": {
+        "id": 40034,
+        "name": "C. P\u00e9rez"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 68,
+        "extra": null
+      },
+      "team": {
+        "id": 2572,
+        "name": "Cultural Santa Rosa",
+        "logo": "https://media.api-sports.io/football/teams/2572.png"
+      },
+      "player": {
+        "id": 70121,
+        "name": "K. Caraza"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 2568,
+        "name": "Deportivo Coopsol",
+        "logo": "https://media.api-sports.io/football/teams/2568.png"
+      },
+      "player": {
+        "id": 67929,
+        "name": "J. Casanova"
+      },
+      "assist": {
+        "id": 40018,
+        "name": "B. Arana"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 2572,
+        "name": "Cultural Santa Rosa",
+        "logo": "https://media.api-sports.io/football/teams/2572.png"
+      },
+      "player": {
+        "id": 40005,
+        "name": "D. del Castillo"
+      },
+      "assist": {
+        "id": 73830,
+        "name": "A. Cce\u00f1ua"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ]
+}

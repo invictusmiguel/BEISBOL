@@ -1,0 +1,1580 @@
+==============================
+   INICIANDO B├ëISBOL SAMPRO
+==============================
+
+🟡 Ejecutando: descargar_datos_beisbol.py
+📅 Buscando partidos de béisbol para 2025-05-14...
+📌 Partidos encontrados: 58
+✅ Guardado: D:\sampro_v6\beisbol\datos\juegos_hoy.json
+🎯 ¡Descarga completa del módulo BÉISBOL!
+
+🟡 Ejecutando: descargar_datos_por_partido_beisbol.py
+📦 Descargando datos detallados de 58 partidos...
+⚾ Round Rock Express vs Oklahoma City Dodgers — ID: 162549
+✅ Guardado: datos detallados de 162549
+⚾ Texas Rangers vs Colorado Rockies — ID: 163913
+✅ Guardado: datos detallados de 163913
+⚾ Houston Astros vs Kansas City Royals — ID: 163908
+✅ Guardado: datos detallados de 163908
+⚾ Albuquerque Isotopes vs Tacoma Rainiers — ID: 162547
+✅ Guardado: datos detallados de 162547
+⚾ Diablos Rojos vs Tabasco — ID: 169191
+✅ Guardado: datos detallados de 169191
+⚾ Puebla vs Yucatan — ID: 169194
+✅ Guardado: datos detallados de 169194
+⚾ Queretaro vs Quintana Roo — ID: 169195
+✅ Guardado: datos detallados de 169195
+⚾ Bravos de Leon vs Oaxaca — ID: 169187
+✅ Guardado: datos detallados de 169187
+⚾ Campeche vs Veracruz — ID: 169189
+✅ Guardado: datos detallados de 169189
+⚾ Laguna vs Aguascalientes — ID: 169190
+✅ Guardado: datos detallados de 169190
+⚾ Monterrey vs Chihuahua — ID: 169193
+✅ Guardado: datos detallados de 169193
+⚾ Saltillo vs Dos Laredos — ID: 169196
+✅ Guardado: datos detallados de 169196
+⚾ Las Vegas Aviators vs El Paso Chihuahuas — ID: 162548
+✅ Guardado: datos detallados de 162548
+⚾ Caliente de Durango vs Jalisco — ID: 169188
+✅ Guardado: datos detallados de 169188
+⚾ San Diego Padres vs Los Angeles Angels — ID: 163911
+✅ Guardado: datos detallados de 163911
+⚾ Seattle Mariners vs New York Yankees — ID: 163912
+✅ Guardado: datos detallados de 163912
+⚾ San Francisco Giants vs Arizona Diamondbacks — ID: 163917
+✅ Guardado: datos detallados de 163917
+⚾ Monclova vs Toros de Tijuana — ID: 169192
+✅ Guardado: datos detallados de 169192
+⚾ Los Angeles Dodgers vs Athletics — ID: 163909
+✅ Guardado: datos detallados de 163909
+⚾ Nippon Ham Fighters vs Orix Buffaloes — ID: 166016
+✅ Guardado: datos detallados de 166016
+⚾ Rakuten Gold. Eagles vs Chiba Lotte Marines — ID: 166017
+✅ Guardado: datos detallados de 166017
+⚾ Chunichi Dragons vs Yakult Swallows — ID: 166013
+✅ Guardado: datos detallados de 166013
+⚾ Fukuoka S. Hawks vs Seibu Lions — ID: 166014
+✅ Guardado: datos detallados de 166014
+⚾ Hiroshima Carp vs Yomiuri Giants — ID: 166015
+✅ Guardado: datos detallados de 166015
+⚾ Samsung Lions vs KT Wiz Suwon — ID: 166942
+✅ Guardado: datos detallados de 166942
+⚾ SSG Landers vs NC Dinos — ID: 166943
+✅ Guardado: datos detallados de 166943
+⚾ LG Twins vs Kiwoom Heroes — ID: 166944
+✅ Guardado: datos detallados de 166944
+⚾ Hanwha Eagles vs Doosan Bears — ID: 166945
+✅ Guardado: datos detallados de 166945
+⚾ KIA Tigers vs Lotte Giants — ID: 166946
+✅ Guardado: datos detallados de 166946
+⚾ Fubon Guardians vs TSG Hawks — ID: 170278
+✅ Guardado: datos detallados de 170278
+⚾ Rakuten Monkeys vs Uni Lions — ID: 170279
+✅ Guardado: datos detallados de 170279
+⚾ Wei Chuan Dragons vs Chinatrust Brothers — ID: 170280
+✅ Guardado: datos detallados de 170280
+⚾ Scranton/WB vs Toledo Mud Hens — ID: 171080
+✅ Guardado: datos detallados de 171080
+⚾ Syracuse Mets vs Lehigh Valley IronPigs — ID: 171081
+✅ Guardado: datos detallados de 171081
+⚾ Sugar Land vs Reno Aces — ID: 162553
+✅ Guardado: datos detallados de 162553
+⚾ Baltimore Orioles vs Minnesota Twins — ID: 163929
+✅ Guardado: datos detallados de 163929
+⚾ Philadelphia Phillies vs St.Louis Cardinals — ID: 163918
+✅ Guardado: datos detallados de 163918
+⚾ Memphis Redbirds vs Nashville Sounds — ID: 171082
+✅ Guardado: datos detallados de 171082
+⚾ Iowa Cubs vs St. Paul — ID: 171083
+✅ Guardado: datos detallados de 171083
+⚾ Cleveland Guardians vs Milwaukee Brewers — ID: 163927
+✅ Guardado: datos detallados de 163927
+⚾ Las Tunas vs Granma — ID: 169993
+✅ Guardado: datos detallados de 169993
+⚾ Baltimore Orioles vs Minnesota Twins — ID: 163904
+✅ Guardado: datos detallados de 163904
+⚾ Memphis Redbirds vs Nashville Sounds — ID: 171079
+✅ Guardado: datos detallados de 171079
+⚾ San Francisco Giants vs Arizona Diamondbacks — ID: 163919
+✅ Guardado: datos detallados de 163919
+⚾ Seattle Mariners vs New York Yankees — ID: 163921
+✅ Guardado: datos detallados de 163921
+⚾ Buffalo Bisons vs Worcester — ID: 171084
+✅ Guardado: datos detallados de 171084
+⚾ Indianapolis Indians vs Louisville Bats — ID: 171085
+✅ Guardado: datos detallados de 171085
+⚾ Rochester Red Wings vs Durham Bulls — ID: 171086
+✅ Guardado: datos detallados de 171086
+⚾ Philadelphia Phillies vs St.Louis Cardinals — ID: 163914
+✅ Guardado: datos detallados de 163914
+⚾ Norfolk Tides vs Jacksonville Jumbo Shrimp — ID: 171087
+✅ Guardado: datos detallados de 171087
+⚾ Detroit Tigers vs Boston Red Sox — ID: 163926
+✅ Guardado: datos detallados de 163926
+⚾ Gwinnett Stripers vs Charlotte Knights — ID: 171088
+✅ Guardado: datos detallados de 171088
+⚾ Toronto Blue Jays vs Tampa Bay Rays — ID: 163931
+✅ Guardado: datos detallados de 163931
+⚾ New York Mets vs Pittsburgh Pirates — ID: 163923
+✅ Guardado: datos detallados de 163923
+⚾ Cincinnati Reds vs Chicago White Sox — ID: 163928
+✅ Guardado: datos detallados de 163928
+⚾ Atlanta Braves vs Washington Nationals — ID: 163930
+✅ Guardado: datos detallados de 163930
+⚾ Omaha Storm Chasers vs Columbus Clippers — ID: 171089
+✅ Guardado: datos detallados de 171089
+⚾ Chicago Cubs vs Miami Marlins — ID: 163932
+✅ Guardado: datos detallados de 163932
+🎯 Descarga completa por partido.
+
+🟡 Ejecutando: procesar_datos_avanzados_beisbol.py
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_162549.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_163913.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_163908.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_162547.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_169191.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_169194.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_169195.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_169187.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_169189.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_169190.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_169193.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_169196.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_162548.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_169188.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_163911.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_163912.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_163917.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_169192.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_163909.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_166016.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_166017.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_166013.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_166014.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_166015.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_166942.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_166943.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_166944.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_166945.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_166946.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_170278.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_170279.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_170280.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_171080.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_171081.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_162553.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_163929.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_163918.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_171082.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_171083.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_163927.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_169993.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_163904.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_171079.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_163919.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_163921.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_171084.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_171085.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_171086.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_163914.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_171087.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_163926.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_171088.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_163931.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_163923.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_163928.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_163930.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_171089.json
+✅ Procesado: D:\sampro_v6\beisbol\datos\procesados\avanzado_163932.json
+
+🟡 Ejecutando: descargar_mercado_ganador.py
+🔍 Procesando 58 partidos...
+⚾ Round Rock Express vs Oklahoma City Dodgers — ID: 162549
+⚠️ No se encontró mercado 'ganador' para 162549
+⚾ Texas Rangers vs Colorado Rockies — ID: 163913
+✅ Guardado: ganador_163913.json
+⚾ Houston Astros vs Kansas City Royals — ID: 163908
+✅ Guardado: ganador_163908.json
+⚾ Albuquerque Isotopes vs Tacoma Rainiers — ID: 162547
+⚠️ No se encontró mercado 'ganador' para 162547
+⚾ Diablos Rojos vs Tabasco — ID: 169191
+⚠️ No se encontró mercado 'ganador' para 169191
+⚾ Puebla vs Yucatan — ID: 169194
+⚠️ No se encontró mercado 'ganador' para 169194
+⚾ Queretaro vs Quintana Roo — ID: 169195
+⚠️ No se encontró mercado 'ganador' para 169195
+⚾ Bravos de Leon vs Oaxaca — ID: 169187
+⚠️ No se encontró mercado 'ganador' para 169187
+⚾ Campeche vs Veracruz — ID: 169189
+⚠️ No se encontró mercado 'ganador' para 169189
+⚾ Laguna vs Aguascalientes — ID: 169190
+⚠️ No se encontró mercado 'ganador' para 169190
+⚾ Monterrey vs Chihuahua — ID: 169193
+⚠️ No se encontró mercado 'ganador' para 169193
+⚾ Saltillo vs Dos Laredos — ID: 169196
+⚠️ No se encontró mercado 'ganador' para 169196
+⚾ Las Vegas Aviators vs El Paso Chihuahuas — ID: 162548
+⚠️ No se encontró mercado 'ganador' para 162548
+⚾ Caliente de Durango vs Jalisco — ID: 169188
+⚠️ No se encontró mercado 'ganador' para 169188
+⚾ San Diego Padres vs Los Angeles Angels — ID: 163911
+✅ Guardado: ganador_163911.json
+⚾ Seattle Mariners vs New York Yankees — ID: 163912
+✅ Guardado: ganador_163912.json
+⚾ San Francisco Giants vs Arizona Diamondbacks — ID: 163917
+✅ Guardado: ganador_163917.json
+⚾ Monclova vs Toros de Tijuana — ID: 169192
+⚠️ No se encontró mercado 'ganador' para 169192
+⚾ Los Angeles Dodgers vs Athletics — ID: 163909
+✅ Guardado: ganador_163909.json
+⚾ Nippon Ham Fighters vs Orix Buffaloes — ID: 166016
+✅ Guardado: ganador_166016.json
+⚾ Rakuten Gold. Eagles vs Chiba Lotte Marines — ID: 166017
+✅ Guardado: ganador_166017.json
+⚾ Chunichi Dragons vs Yakult Swallows — ID: 166013
+✅ Guardado: ganador_166013.json
+⚾ Fukuoka S. Hawks vs Seibu Lions — ID: 166014
+✅ Guardado: ganador_166014.json
+⚾ Hiroshima Carp vs Yomiuri Giants — ID: 166015
+✅ Guardado: ganador_166015.json
+⚾ Samsung Lions vs KT Wiz Suwon — ID: 166942
+✅ Guardado: ganador_166942.json
+⚾ SSG Landers vs NC Dinos — ID: 166943
+✅ Guardado: ganador_166943.json
+⚾ LG Twins vs Kiwoom Heroes — ID: 166944
+✅ Guardado: ganador_166944.json
+⚾ Hanwha Eagles vs Doosan Bears — ID: 166945
+✅ Guardado: ganador_166945.json
+⚾ KIA Tigers vs Lotte Giants — ID: 166946
+✅ Guardado: ganador_166946.json
+⚾ Fubon Guardians vs TSG Hawks — ID: 170278
+⚠️ No se encontró mercado 'ganador' para 170278
+⚾ Rakuten Monkeys vs Uni Lions — ID: 170279
+⚠️ No se encontró mercado 'ganador' para 170279
+⚾ Wei Chuan Dragons vs Chinatrust Brothers — ID: 170280
+⚠️ No se encontró mercado 'ganador' para 170280
+⚾ Scranton/WB vs Toledo Mud Hens — ID: 171080
+⚠️ No se encontró mercado 'ganador' para 171080
+⚾ Syracuse Mets vs Lehigh Valley IronPigs — ID: 171081
+⚠️ No se encontró mercado 'ganador' para 171081
+⚾ Sugar Land vs Reno Aces — ID: 162553
+⚠️ No se encontró mercado 'ganador' para 162553
+⚾ Baltimore Orioles vs Minnesota Twins — ID: 163929
+✅ Guardado: ganador_163929.json
+⚾ Philadelphia Phillies vs St.Louis Cardinals — ID: 163918
+✅ Guardado: ganador_163918.json
+⚾ Memphis Redbirds vs Nashville Sounds — ID: 171082
+⚠️ No se encontró mercado 'ganador' para 171082
+⚾ Iowa Cubs vs St. Paul — ID: 171083
+⚠️ No se encontró mercado 'ganador' para 171083
+⚾ Cleveland Guardians vs Milwaukee Brewers — ID: 163927
+✅ Guardado: ganador_163927.json
+⚾ Las Tunas vs Granma — ID: 169993
+⚠️ No se encontró mercado 'ganador' para 169993
+⚾ Baltimore Orioles vs Minnesota Twins — ID: 163904
+✅ Guardado: ganador_163904.json
+⚾ Memphis Redbirds vs Nashville Sounds — ID: 171079
+⚠️ No se encontró mercado 'ganador' para 171079
+⚾ San Francisco Giants vs Arizona Diamondbacks — ID: 163919
+✅ Guardado: ganador_163919.json
+⚾ Seattle Mariners vs New York Yankees — ID: 163921
+✅ Guardado: ganador_163921.json
+⚾ Buffalo Bisons vs Worcester — ID: 171084
+⚠️ No se encontró mercado 'ganador' para 171084
+⚾ Indianapolis Indians vs Louisville Bats — ID: 171085
+⚠️ No se encontró mercado 'ganador' para 171085
+⚾ Rochester Red Wings vs Durham Bulls — ID: 171086
+⚠️ No se encontró mercado 'ganador' para 171086
+⚾ Philadelphia Phillies vs St.Louis Cardinals — ID: 163914
+✅ Guardado: ganador_163914.json
+⚾ Norfolk Tides vs Jacksonville Jumbo Shrimp — ID: 171087
+⚠️ No se encontró mercado 'ganador' para 171087
+⚾ Detroit Tigers vs Boston Red Sox — ID: 163926
+✅ Guardado: ganador_163926.json
+⚾ Gwinnett Stripers vs Charlotte Knights — ID: 171088
+⚠️ No se encontró mercado 'ganador' para 171088
+⚾ Toronto Blue Jays vs Tampa Bay Rays — ID: 163931
+✅ Guardado: ganador_163931.json
+⚾ New York Mets vs Pittsburgh Pirates — ID: 163923
+✅ Guardado: ganador_163923.json
+⚾ Cincinnati Reds vs Chicago White Sox — ID: 163928
+✅ Guardado: ganador_163928.json
+⚾ Atlanta Braves vs Washington Nationals — ID: 163930
+✅ Guardado: ganador_163930.json
+⚾ Omaha Storm Chasers vs Columbus Clippers — ID: 171089
+⚠️ No se encontró mercado 'ganador' para 171089
+⚾ Chicago Cubs vs Miami Marlins — ID: 163932
+✅ Guardado: ganador_163932.json
+🎯 Descarga del mercado GANADOR completada.
+
+🟡 Ejecutando: calcular_mercado_ganador.py
+⚠️ No hay cuota para partido 162547, se omite.
+⚠️ No hay cuota para partido 162548, se omite.
+⚠️ No hay cuota para partido 162549, se omite.
+⚠️ No hay cuota para partido 162550, se omite.
+⚠️ No hay cuota para partido 162551, se omite.
+⚠️ No hay cuota para partido 162553, se omite.
+⚠️ No hay cuota para partido 169176, se omite.
+⚠️ No hay cuota para partido 169180, se omite.
+⚠️ No hay cuota para partido 169184, se omite.
+⚠️ No hay cuota para partido 169185, se omite.
+⚠️ No hay cuota para partido 169186, se omite.
+⚠️ No hay cuota para partido 169187, se omite.
+⚠️ No hay cuota para partido 169188, se omite.
+⚠️ No hay cuota para partido 169189, se omite.
+⚠️ No hay cuota para partido 169190, se omite.
+⚠️ No hay cuota para partido 169191, se omite.
+⚠️ No hay cuota para partido 169192, se omite.
+⚠️ No hay cuota para partido 169193, se omite.
+⚠️ No hay cuota para partido 169194, se omite.
+⚠️ No hay cuota para partido 169195, se omite.
+⚠️ No hay cuota para partido 169196, se omite.
+⚠️ No hay cuota para partido 169992, se omite.
+⚠️ No hay cuota para partido 169993, se omite.
+⚠️ No hay cuota para partido 170276, se omite.
+⚠️ No hay cuota para partido 170277, se omite.
+⚠️ No hay cuota para partido 170278, se omite.
+⚠️ No hay cuota para partido 170279, se omite.
+⚠️ No hay cuota para partido 170280, se omite.
+⚠️ No hay cuota para partido 170586, se omite.
+⚠️ No hay cuota para partido 171070, se omite.
+⚠️ No hay cuota para partido 171071, se omite.
+⚠️ No hay cuota para partido 171072, se omite.
+⚠️ No hay cuota para partido 171073, se omite.
+⚠️ No hay cuota para partido 171074, se omite.
+⚠️ No hay cuota para partido 171075, se omite.
+⚠️ No hay cuota para partido 171076, se omite.
+⚠️ No hay cuota para partido 171077, se omite.
+⚠️ No hay cuota para partido 171078, se omite.
+⚠️ No hay cuota para partido 171079, se omite.
+⚠️ No hay cuota para partido 171080, se omite.
+⚠️ No hay cuota para partido 171081, se omite.
+⚠️ No hay cuota para partido 171082, se omite.
+⚠️ No hay cuota para partido 171083, se omite.
+⚠️ No hay cuota para partido 171084, se omite.
+⚠️ No hay cuota para partido 171085, se omite.
+⚠️ No hay cuota para partido 171086, se omite.
+⚠️ No hay cuota para partido 171087, se omite.
+⚠️ No hay cuota para partido 171088, se omite.
+⚠️ No hay cuota para partido 171089, se omite.
+✅ Predicciones del mercado GANADOR guardadas en: D:\sampro_v6\beisbol\predicciones\predicciones_ganador_2025-05-14.json
+
+🟡 Ejecutando: clasificar_mercado_ganador.py
+✅ Clasificación completada: 58 picks guardados en D:\sampro_v6\beisbol\predicciones\predicciones_ganador_clasificadas_2025-05-14.json
+
+🟡 Ejecutando: generar_visual_ganador.py
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\New_York_Mets_vs_Pittsburgh_Pirates_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Seattle_Mariners_vs_New_York_Yankees_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\San_Diego_Padres_vs_Los_Angeles_Angels_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Atlanta_Braves_vs_Washington_Nationals_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Houston_Astros_vs_Kansas_City_Royals_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Detroit_Tigers_vs_Boston_Red_Sox_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Cleveland_Guardians_vs_Milwaukee_Brewers_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Texas_Rangers_vs_Colorado_Rockies_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Philadelphia_Phillies_vs_St.Louis_Cardinals_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Chicago_Cubs_vs_Miami_Marlins_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\San_Francisco_Giants_vs_Arizona_Diamondbacks_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Atlanta_Braves_vs_Washington_Nationals_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Baltimore_Orioles_vs_Minnesota_Twins_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Cincinnati_Reds_vs_Chicago_White_Sox_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Cleveland_Guardians_vs_Milwaukee_Brewers_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Detroit_Tigers_vs_Boston_Red_Sox_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Houston_Astros_vs_Kansas_City_Royals_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Los_Angeles_Dodgers_vs_Athletics_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\New_York_Mets_vs_Pittsburgh_Pirates_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\San_Diego_Padres_vs_Los_Angeles_Angels_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Seattle_Mariners_vs_New_York_Yankees_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Texas_Rangers_vs_Colorado_Rockies_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Philadelphia_Phillies_vs_St.Louis_Cardinals_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Toronto_Blue_Jays_vs_Tampa_Bay_Rays_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Chicago_Cubs_vs_Miami_Marlins_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\San_Francisco_Giants_vs_Arizona_Diamondbacks_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Philadelphia_Phillies_vs_St.Louis_Cardinals_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\San_Francisco_Giants_vs_Arizona_Diamondbacks_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Seattle_Mariners_vs_New_York_Yankees_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\New_York_Mets_vs_Pittsburgh_Pirates_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Detroit_Tigers_vs_Boston_Red_Sox_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Cleveland_Guardians_vs_Milwaukee_Brewers_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Cincinnati_Reds_vs_Chicago_White_Sox_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Baltimore_Orioles_vs_Minnesota_Twins_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Atlanta_Braves_vs_Washington_Nationals_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Toronto_Blue_Jays_vs_Tampa_Bay_Rays_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Chicago_Cubs_vs_Miami_Marlins_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Nippon_Ham_Fighters_vs_Orix_Buffaloes_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Yokohama_BayStars_vs_Hanshin_Tigers_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Rakuten_Gold._Eagles_vs_Chiba_Lotte_Marines_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Hiroshima_Carp_vs_Yomiuri_Giants_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Fukuoka_S._Hawks_vs_Seibu_Lions_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Chunichi_Dragons_vs_Yakult_Swallows_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Chunichi_Dragons_vs_Yakult_Swallows_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Fukuoka_S._Hawks_vs_Seibu_Lions_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Hiroshima_Carp_vs_Yomiuri_Giants_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Nippon_Ham_Fighters_vs_Orix_Buffaloes_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Rakuten_Gold._Eagles_vs_Chiba_Lotte_Marines_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Hanwha_Eagles_vs_Doosan_Bears_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\KIA_Tigers_vs_Lotte_Giants_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\LG_Twins_vs_Kiwoom_Heroes_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Samsung_Lions_vs_KT_Wiz_Suwon_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\SSG_Landers_vs_NC_Dinos_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Samsung_Lions_vs_KT_Wiz_Suwon_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\SSG_Landers_vs_NC_Dinos_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\LG_Twins_vs_Kiwoom_Heroes_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\Hanwha_Eagles_vs_Doosan_Bears_ganador.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\ganador\KIA_Tigers_vs_Lotte_Giants_ganador.png
+🎯 Visuales del mercado GANADOR generadas.
+
+🟡 Ejecutando: descargar_mercado_overunder.py
+🔍 Procesando 58 partidos para OVER/UNDER...
+⚾ Round Rock Express vs Oklahoma City Dodgers — ID: 162549
+⚠️ No se encontró mercado OVER/UNDER para 162549
+⚾ Texas Rangers vs Colorado Rockies — ID: 163913
+✅ Guardado: overunder_163913.json
+⚾ Houston Astros vs Kansas City Royals — ID: 163908
+✅ Guardado: overunder_163908.json
+⚾ Albuquerque Isotopes vs Tacoma Rainiers — ID: 162547
+⚠️ No se encontró mercado OVER/UNDER para 162547
+⚾ Diablos Rojos vs Tabasco — ID: 169191
+✅ Guardado: overunder_169191.json
+⚾ Puebla vs Yucatan — ID: 169194
+✅ Guardado: overunder_169194.json
+⚾ Queretaro vs Quintana Roo — ID: 169195
+✅ Guardado: overunder_169195.json
+⚾ Bravos de Leon vs Oaxaca — ID: 169187
+✅ Guardado: overunder_169187.json
+⚾ Campeche vs Veracruz — ID: 169189
+✅ Guardado: overunder_169189.json
+⚾ Laguna vs Aguascalientes — ID: 169190
+✅ Guardado: overunder_169190.json
+⚾ Monterrey vs Chihuahua — ID: 169193
+✅ Guardado: overunder_169193.json
+⚾ Saltillo vs Dos Laredos — ID: 169196
+✅ Guardado: overunder_169196.json
+⚾ Las Vegas Aviators vs El Paso Chihuahuas — ID: 162548
+⚠️ No se encontró mercado OVER/UNDER para 162548
+⚾ Caliente de Durango vs Jalisco — ID: 169188
+⚠️ No se encontró mercado OVER/UNDER para 169188
+⚾ San Diego Padres vs Los Angeles Angels — ID: 163911
+✅ Guardado: overunder_163911.json
+⚾ Seattle Mariners vs New York Yankees — ID: 163912
+✅ Guardado: overunder_163912.json
+⚾ San Francisco Giants vs Arizona Diamondbacks — ID: 163917
+✅ Guardado: overunder_163917.json
+⚾ Monclova vs Toros de Tijuana — ID: 169192
+⚠️ No se encontró mercado OVER/UNDER para 169192
+⚾ Los Angeles Dodgers vs Athletics — ID: 163909
+✅ Guardado: overunder_163909.json
+⚾ Nippon Ham Fighters vs Orix Buffaloes — ID: 166016
+✅ Guardado: overunder_166016.json
+⚾ Rakuten Gold. Eagles vs Chiba Lotte Marines — ID: 166017
+✅ Guardado: overunder_166017.json
+⚾ Chunichi Dragons vs Yakult Swallows — ID: 166013
+✅ Guardado: overunder_166013.json
+⚾ Fukuoka S. Hawks vs Seibu Lions — ID: 166014
+✅ Guardado: overunder_166014.json
+⚾ Hiroshima Carp vs Yomiuri Giants — ID: 166015
+✅ Guardado: overunder_166015.json
+⚾ Samsung Lions vs KT Wiz Suwon — ID: 166942
+✅ Guardado: overunder_166942.json
+⚾ SSG Landers vs NC Dinos — ID: 166943
+✅ Guardado: overunder_166943.json
+⚾ LG Twins vs Kiwoom Heroes — ID: 166944
+✅ Guardado: overunder_166944.json
+⚾ Hanwha Eagles vs Doosan Bears — ID: 166945
+✅ Guardado: overunder_166945.json
+⚾ KIA Tigers vs Lotte Giants — ID: 166946
+✅ Guardado: overunder_166946.json
+⚾ Fubon Guardians vs TSG Hawks — ID: 170278
+⚠️ No se encontró mercado OVER/UNDER para 170278
+⚾ Rakuten Monkeys vs Uni Lions — ID: 170279
+⚠️ No se encontró mercado OVER/UNDER para 170279
+⚾ Wei Chuan Dragons vs Chinatrust Brothers — ID: 170280
+⚠️ No se encontró mercado OVER/UNDER para 170280
+⚾ Scranton/WB vs Toledo Mud Hens — ID: 171080
+⚠️ No se encontró mercado OVER/UNDER para 171080
+⚾ Syracuse Mets vs Lehigh Valley IronPigs — ID: 171081
+⚠️ No se encontró mercado OVER/UNDER para 171081
+⚾ Sugar Land vs Reno Aces — ID: 162553
+⚠️ No se encontró mercado OVER/UNDER para 162553
+⚾ Baltimore Orioles vs Minnesota Twins — ID: 163929
+✅ Guardado: overunder_163929.json
+⚾ Philadelphia Phillies vs St.Louis Cardinals — ID: 163918
+✅ Guardado: overunder_163918.json
+⚾ Memphis Redbirds vs Nashville Sounds — ID: 171082
+⚠️ No se encontró mercado OVER/UNDER para 171082
+⚾ Iowa Cubs vs St. Paul — ID: 171083
+⚠️ No se encontró mercado OVER/UNDER para 171083
+⚾ Cleveland Guardians vs Milwaukee Brewers — ID: 163927
+✅ Guardado: overunder_163927.json
+⚾ Las Tunas vs Granma — ID: 169993
+✅ Guardado: overunder_169993.json
+⚾ Baltimore Orioles vs Minnesota Twins — ID: 163904
+✅ Guardado: overunder_163904.json
+⚾ Memphis Redbirds vs Nashville Sounds — ID: 171079
+⚠️ No se encontró mercado OVER/UNDER para 171079
+⚾ San Francisco Giants vs Arizona Diamondbacks — ID: 163919
+✅ Guardado: overunder_163919.json
+⚾ Seattle Mariners vs New York Yankees — ID: 163921
+✅ Guardado: overunder_163921.json
+⚾ Buffalo Bisons vs Worcester — ID: 171084
+⚠️ No se encontró mercado OVER/UNDER para 171084
+⚾ Indianapolis Indians vs Louisville Bats — ID: 171085
+⚠️ No se encontró mercado OVER/UNDER para 171085
+⚾ Rochester Red Wings vs Durham Bulls — ID: 171086
+⚠️ No se encontró mercado OVER/UNDER para 171086
+⚾ Philadelphia Phillies vs St.Louis Cardinals — ID: 163914
+✅ Guardado: overunder_163914.json
+⚾ Norfolk Tides vs Jacksonville Jumbo Shrimp — ID: 171087
+⚠️ No se encontró mercado OVER/UNDER para 171087
+⚾ Detroit Tigers vs Boston Red Sox — ID: 163926
+✅ Guardado: overunder_163926.json
+⚾ Gwinnett Stripers vs Charlotte Knights — ID: 171088
+⚠️ No se encontró mercado OVER/UNDER para 171088
+⚾ Toronto Blue Jays vs Tampa Bay Rays — ID: 163931
+✅ Guardado: overunder_163931.json
+⚾ New York Mets vs Pittsburgh Pirates — ID: 163923
+✅ Guardado: overunder_163923.json
+⚾ Cincinnati Reds vs Chicago White Sox — ID: 163928
+✅ Guardado: overunder_163928.json
+⚾ Atlanta Braves vs Washington Nationals — ID: 163930
+✅ Guardado: overunder_163930.json
+⚾ Omaha Storm Chasers vs Columbus Clippers — ID: 171089
+⚠️ No se encontró mercado OVER/UNDER para 171089
+⚾ Chicago Cubs vs Miami Marlins — ID: 163932
+✅ Guardado: overunder_163932.json
+🎯 Descarga del mercado OVER/UNDER completada.
+
+🟡 Ejecutando: calcular_mercado_overunder.py
+✅ Predicciones OVER/UNDER guardadas en: D:\sampro_v6\beisbol\predicciones\predicciones_overunder_2025-05-14.json
+
+🟡 Ejecutando: clasificar_mercado_overunder.py
+✅ Clasificación OVER/UNDER completada: 70 picks guardados.
+
+🟡 Ejecutando: generar_visual_overunder.py
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\New_York_Mets_vs_Pittsburgh_Pirates_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Seattle_Mariners_vs_New_York_Yankees_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\San_Diego_Padres_vs_Los_Angeles_Angels_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Atlanta_Braves_vs_Washington_Nationals_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Houston_Astros_vs_Kansas_City_Royals_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Detroit_Tigers_vs_Boston_Red_Sox_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Cleveland_Guardians_vs_Milwaukee_Brewers_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Texas_Rangers_vs_Colorado_Rockies_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Philadelphia_Phillies_vs_St.Louis_Cardinals_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Chicago_Cubs_vs_Miami_Marlins_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\San_Francisco_Giants_vs_Arizona_Diamondbacks_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Atlanta_Braves_vs_Washington_Nationals_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Baltimore_Orioles_vs_Minnesota_Twins_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Cincinnati_Reds_vs_Chicago_White_Sox_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Cleveland_Guardians_vs_Milwaukee_Brewers_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Detroit_Tigers_vs_Boston_Red_Sox_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Houston_Astros_vs_Kansas_City_Royals_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Los_Angeles_Dodgers_vs_Athletics_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\New_York_Mets_vs_Pittsburgh_Pirates_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\San_Diego_Padres_vs_Los_Angeles_Angels_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Seattle_Mariners_vs_New_York_Yankees_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Texas_Rangers_vs_Colorado_Rockies_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Philadelphia_Phillies_vs_St.Louis_Cardinals_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Toronto_Blue_Jays_vs_Tampa_Bay_Rays_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Chicago_Cubs_vs_Miami_Marlins_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\San_Francisco_Giants_vs_Arizona_Diamondbacks_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Philadelphia_Phillies_vs_St.Louis_Cardinals_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\San_Francisco_Giants_vs_Arizona_Diamondbacks_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Seattle_Mariners_vs_New_York_Yankees_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\New_York_Mets_vs_Pittsburgh_Pirates_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Detroit_Tigers_vs_Boston_Red_Sox_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Cleveland_Guardians_vs_Milwaukee_Brewers_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Cincinnati_Reds_vs_Chicago_White_Sox_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Baltimore_Orioles_vs_Minnesota_Twins_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Atlanta_Braves_vs_Washington_Nationals_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Toronto_Blue_Jays_vs_Tampa_Bay_Rays_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Chicago_Cubs_vs_Miami_Marlins_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Nippon_Ham_Fighters_vs_Orix_Buffaloes_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Yokohama_BayStars_vs_Hanshin_Tigers_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Rakuten_Gold._Eagles_vs_Chiba_Lotte_Marines_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Hiroshima_Carp_vs_Yomiuri_Giants_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Fukuoka_S._Hawks_vs_Seibu_Lions_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Chunichi_Dragons_vs_Yakult_Swallows_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Fukuoka_S._Hawks_vs_Seibu_Lions_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Hiroshima_Carp_vs_Yomiuri_Giants_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Nippon_Ham_Fighters_vs_Orix_Buffaloes_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Rakuten_Gold._Eagles_vs_Chiba_Lotte_Marines_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Hanwha_Eagles_vs_Doosan_Bears_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\LG_Twins_vs_Kiwoom_Heroes_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Samsung_Lions_vs_KT_Wiz_Suwon_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\SSG_Landers_vs_NC_Dinos_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Samsung_Lions_vs_KT_Wiz_Suwon_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\LG_Twins_vs_Kiwoom_Heroes_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Hanwha_Eagles_vs_Doosan_Bears_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Aguascalientes_vs_Saltillo_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Laguna_vs_Toros_de_Tijuana_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Tabasco_vs_Bravos_de_Leon_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Yucatan_vs_Veracruz_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Laguna_vs_Toros_de_Tijuana_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Bravos_de_Leon_vs_Oaxaca_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Campeche_vs_Veracruz_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Laguna_vs_Aguascalientes_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Diablos_Rojos_vs_Tabasco_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Monterrey_vs_Chihuahua_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Puebla_vs_Yucatan_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Queretaro_vs_Quintana_Roo_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Saltillo_vs_Dos_Laredos_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Santiago_de_Cuba_vs_Las_Tunas_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Las_Tunas_vs_Granma_UNDER9.5.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\overunder\Trebic_vs_Draci_Brno_UNDER9.5.png
+🎯 Visuales del mercado OVER/UNDER generadas.
+
+🟡 Ejecutando: descargar_mercado_total_equipo.py
+🔍 Procesando 58 partidos para TOTAL POR EQUIPO...
+⚾ Round Rock Express vs Oklahoma City Dodgers — ID: 162549
+⚠️ No se encontró mercado TOTAL EQUIPO para 162549
+⚾ Texas Rangers vs Colorado Rockies — ID: 163913
+✅ Guardado: total_equipo_163913.json
+⚾ Houston Astros vs Kansas City Royals — ID: 163908
+✅ Guardado: total_equipo_163908.json
+⚾ Albuquerque Isotopes vs Tacoma Rainiers — ID: 162547
+⚠️ No se encontró mercado TOTAL EQUIPO para 162547
+⚾ Diablos Rojos vs Tabasco — ID: 169191
+✅ Guardado: total_equipo_169191.json
+⚾ Puebla vs Yucatan — ID: 169194
+✅ Guardado: total_equipo_169194.json
+⚾ Queretaro vs Quintana Roo — ID: 169195
+✅ Guardado: total_equipo_169195.json
+⚾ Bravos de Leon vs Oaxaca — ID: 169187
+✅ Guardado: total_equipo_169187.json
+⚾ Campeche vs Veracruz — ID: 169189
+✅ Guardado: total_equipo_169189.json
+⚾ Laguna vs Aguascalientes — ID: 169190
+✅ Guardado: total_equipo_169190.json
+⚾ Monterrey vs Chihuahua — ID: 169193
+✅ Guardado: total_equipo_169193.json
+⚾ Saltillo vs Dos Laredos — ID: 169196
+✅ Guardado: total_equipo_169196.json
+⚾ Las Vegas Aviators vs El Paso Chihuahuas — ID: 162548
+⚠️ No se encontró mercado TOTAL EQUIPO para 162548
+⚾ Caliente de Durango vs Jalisco — ID: 169188
+⚠️ No se encontró mercado TOTAL EQUIPO para 169188
+⚾ San Diego Padres vs Los Angeles Angels — ID: 163911
+✅ Guardado: total_equipo_163911.json
+⚾ Seattle Mariners vs New York Yankees — ID: 163912
+✅ Guardado: total_equipo_163912.json
+⚾ San Francisco Giants vs Arizona Diamondbacks — ID: 163917
+✅ Guardado: total_equipo_163917.json
+⚾ Monclova vs Toros de Tijuana — ID: 169192
+⚠️ No se encontró mercado TOTAL EQUIPO para 169192
+⚾ Los Angeles Dodgers vs Athletics — ID: 163909
+✅ Guardado: total_equipo_163909.json
+⚾ Nippon Ham Fighters vs Orix Buffaloes — ID: 166016
+✅ Guardado: total_equipo_166016.json
+⚾ Rakuten Gold. Eagles vs Chiba Lotte Marines — ID: 166017
+✅ Guardado: total_equipo_166017.json
+⚾ Chunichi Dragons vs Yakult Swallows — ID: 166013
+✅ Guardado: total_equipo_166013.json
+⚾ Fukuoka S. Hawks vs Seibu Lions — ID: 166014
+✅ Guardado: total_equipo_166014.json
+⚾ Hiroshima Carp vs Yomiuri Giants — ID: 166015
+✅ Guardado: total_equipo_166015.json
+⚾ Samsung Lions vs KT Wiz Suwon — ID: 166942
+✅ Guardado: total_equipo_166942.json
+⚾ SSG Landers vs NC Dinos — ID: 166943
+✅ Guardado: total_equipo_166943.json
+⚾ LG Twins vs Kiwoom Heroes — ID: 166944
+✅ Guardado: total_equipo_166944.json
+⚾ Hanwha Eagles vs Doosan Bears — ID: 166945
+✅ Guardado: total_equipo_166945.json
+⚾ KIA Tigers vs Lotte Giants — ID: 166946
+✅ Guardado: total_equipo_166946.json
+⚾ Fubon Guardians vs TSG Hawks — ID: 170278
+⚠️ No se encontró mercado TOTAL EQUIPO para 170278
+⚾ Rakuten Monkeys vs Uni Lions — ID: 170279
+⚠️ No se encontró mercado TOTAL EQUIPO para 170279
+⚾ Wei Chuan Dragons vs Chinatrust Brothers — ID: 170280
+⚠️ No se encontró mercado TOTAL EQUIPO para 170280
+⚾ Scranton/WB vs Toledo Mud Hens — ID: 171080
+⚠️ No se encontró mercado TOTAL EQUIPO para 171080
+⚾ Syracuse Mets vs Lehigh Valley IronPigs — ID: 171081
+⚠️ No se encontró mercado TOTAL EQUIPO para 171081
+⚾ Sugar Land vs Reno Aces — ID: 162553
+⚠️ No se encontró mercado TOTAL EQUIPO para 162553
+⚾ Baltimore Orioles vs Minnesota Twins — ID: 163929
+✅ Guardado: total_equipo_163929.json
+⚾ Philadelphia Phillies vs St.Louis Cardinals — ID: 163918
+✅ Guardado: total_equipo_163918.json
+⚾ Memphis Redbirds vs Nashville Sounds — ID: 171082
+⚠️ No se encontró mercado TOTAL EQUIPO para 171082
+⚾ Iowa Cubs vs St. Paul — ID: 171083
+⚠️ No se encontró mercado TOTAL EQUIPO para 171083
+⚾ Cleveland Guardians vs Milwaukee Brewers — ID: 163927
+✅ Guardado: total_equipo_163927.json
+⚾ Las Tunas vs Granma — ID: 169993
+✅ Guardado: total_equipo_169993.json
+⚾ Baltimore Orioles vs Minnesota Twins — ID: 163904
+✅ Guardado: total_equipo_163904.json
+⚾ Memphis Redbirds vs Nashville Sounds — ID: 171079
+⚠️ No se encontró mercado TOTAL EQUIPO para 171079
+⚾ San Francisco Giants vs Arizona Diamondbacks — ID: 163919
+✅ Guardado: total_equipo_163919.json
+⚾ Seattle Mariners vs New York Yankees — ID: 163921
+✅ Guardado: total_equipo_163921.json
+⚾ Buffalo Bisons vs Worcester — ID: 171084
+⚠️ No se encontró mercado TOTAL EQUIPO para 171084
+⚾ Indianapolis Indians vs Louisville Bats — ID: 171085
+⚠️ No se encontró mercado TOTAL EQUIPO para 171085
+⚾ Rochester Red Wings vs Durham Bulls — ID: 171086
+⚠️ No se encontró mercado TOTAL EQUIPO para 171086
+⚾ Philadelphia Phillies vs St.Louis Cardinals — ID: 163914
+✅ Guardado: total_equipo_163914.json
+⚾ Norfolk Tides vs Jacksonville Jumbo Shrimp — ID: 171087
+⚠️ No se encontró mercado TOTAL EQUIPO para 171087
+⚾ Detroit Tigers vs Boston Red Sox — ID: 163926
+✅ Guardado: total_equipo_163926.json
+⚾ Gwinnett Stripers vs Charlotte Knights — ID: 171088
+⚠️ No se encontró mercado TOTAL EQUIPO para 171088
+⚾ Toronto Blue Jays vs Tampa Bay Rays — ID: 163931
+✅ Guardado: total_equipo_163931.json
+⚾ New York Mets vs Pittsburgh Pirates — ID: 163923
+✅ Guardado: total_equipo_163923.json
+⚾ Cincinnati Reds vs Chicago White Sox — ID: 163928
+✅ Guardado: total_equipo_163928.json
+⚾ Atlanta Braves vs Washington Nationals — ID: 163930
+✅ Guardado: total_equipo_163930.json
+⚾ Omaha Storm Chasers vs Columbus Clippers — ID: 171089
+⚠️ No se encontró mercado TOTAL EQUIPO para 171089
+⚾ Chicago Cubs vs Miami Marlins — ID: 163932
+✅ Guardado: total_equipo_163932.json
+🎯 Descarga del mercado TOTAL EQUIPO completada.
+
+🟡 Ejecutando: calcular_mercado_total_equipo.py
+✅ Predicciones TOTAL EQUIPO actualizadas y guardadas en: D:\sampro_v6\beisbol\predicciones\predicciones_total_equipo_2025-05-14.json
+
+🟡 Ejecutando: clasificar_mercado_total_equipo.py
+✅ Clasificación TOTAL EQUIPO completada: 345 picks guardados.
+
+🟡 Ejecutando: generar_visual_total_equipo.py
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Seattle_Mariners_SeattleMarinersOVER1.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Seattle_Mariners_SeattleMarinersOVER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Seattle_Mariners_SeattleMarinersOVER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Atlanta_Braves_AtlantaBravesUNDER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Atlanta_Braves_AtlantaBravesUNDER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Atlanta_Braves_AtlantaBravesUNDER8.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Atlanta_Braves_AtlantaBravesUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Atlanta_Braves_AtlantaBravesUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Atlanta_Braves_AtlantaBravesUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Atlanta_Braves_AtlantaBravesUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Houston_Astros_HoustonAstrosUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Houston_Astros_HoustonAstrosUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cleveland_Guardians_ClevelandGuardiansUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cleveland_Guardians_ClevelandGuardiansUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cleveland_Guardians_ClevelandGuardiansUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Texas_Rangers_TexasRangersUNDER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Texas_Rangers_TexasRangersUNDER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Texas_Rangers_TexasRangersUNDER8.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Texas_Rangers_TexasRangersUNDER9.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Texas_Rangers_TexasRangersUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Texas_Rangers_TexasRangersUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Texas_Rangers_TexasRangersUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Texas_Rangers_TexasRangersUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Philadelphia_Phillies_PhiladelphiaPhilliesUNDER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Philadelphia_Phillies_PhiladelphiaPhilliesUNDER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Philadelphia_Phillies_PhiladelphiaPhilliesUNDER8.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Philadelphia_Phillies_PhiladelphiaPhilliesUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Philadelphia_Phillies_PhiladelphiaPhilliesUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Philadelphia_Phillies_PhiladelphiaPhilliesUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Philadelphia_Phillies_PhiladelphiaPhilliesUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chicago_Cubs_ChicagoCubsUNDER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chicago_Cubs_ChicagoCubsUNDER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chicago_Cubs_ChicagoCubsUNDER8.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chicago_Cubs_ChicagoCubsUNDER9.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chicago_Cubs_ChicagoCubsUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chicago_Cubs_ChicagoCubsUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chicago_Cubs_ChicagoCubsUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chicago_Cubs_ChicagoCubsUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Atlanta_Braves_AtlantaBravesUNDER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Atlanta_Braves_AtlantaBravesUNDER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Atlanta_Braves_AtlantaBravesUNDER8.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Atlanta_Braves_AtlantaBravesUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Atlanta_Braves_AtlantaBravesUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Atlanta_Braves_AtlantaBravesUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Atlanta_Braves_AtlantaBravesUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Baltimore_Orioles_BaltimoreOriolesUNDER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Baltimore_Orioles_BaltimoreOriolesUNDER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Baltimore_Orioles_BaltimoreOriolesUNDER8.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Baltimore_Orioles_BaltimoreOriolesUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Baltimore_Orioles_BaltimoreOriolesUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Baltimore_Orioles_BaltimoreOriolesUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Baltimore_Orioles_BaltimoreOriolesUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cincinnati_Reds_CincinnatiRedsUNDER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cincinnati_Reds_CincinnatiRedsUNDER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cincinnati_Reds_CincinnatiRedsUNDER8.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cincinnati_Reds_CincinnatiRedsUNDER9.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cincinnati_Reds_CincinnatiRedsUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cincinnati_Reds_CincinnatiRedsUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cincinnati_Reds_CincinnatiRedsUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cincinnati_Reds_CincinnatiRedsUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cleveland_Guardians_ClevelandGuardiansUNDER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cleveland_Guardians_ClevelandGuardiansUNDER8.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cleveland_Guardians_ClevelandGuardiansUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cleveland_Guardians_ClevelandGuardiansUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cleveland_Guardians_ClevelandGuardiansUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cleveland_Guardians_ClevelandGuardiansUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Detroit_Tigers_DetroitTigersUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Detroit_Tigers_DetroitTigersUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Detroit_Tigers_DetroitTigersUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Detroit_Tigers_DetroitTigersUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Houston_Astros_HoustonAstrosUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Houston_Astros_HoustonAstrosUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Los_Angeles_Dodgers_LosAngelesDodgersUNDER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Los_Angeles_Dodgers_LosAngelesDodgersUNDER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Los_Angeles_Dodgers_LosAngelesDodgersUNDER8.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Los_Angeles_Dodgers_LosAngelesDodgersUNDER9.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Los_Angeles_Dodgers_LosAngelesDodgersUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Los_Angeles_Dodgers_LosAngelesDodgersUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Los_Angeles_Dodgers_LosAngelesDodgersUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Los_Angeles_Dodgers_LosAngelesDodgersUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\New_York_Mets_NewYorkMetsUNDER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\New_York_Mets_NewYorkMetsUNDER8.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\New_York_Mets_NewYorkMetsUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\New_York_Mets_NewYorkMetsUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\New_York_Mets_NewYorkMetsUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\New_York_Mets_NewYorkMetsUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\San_Diego_Padres_SanDiegoPadresUNDER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\San_Diego_Padres_SanDiegoPadresUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\San_Diego_Padres_SanDiegoPadresUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\San_Diego_Padres_SanDiegoPadresUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\San_Diego_Padres_SanDiegoPadresUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Seattle_Mariners_SeattleMarinersOVER1.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Seattle_Mariners_SeattleMarinersOVER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Seattle_Mariners_SeattleMarinersOVER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Seattle_Mariners_SeattleMarinersOVER0.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Seattle_Mariners_SeattleMarinersOVER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Texas_Rangers_TexasRangersUNDER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Texas_Rangers_TexasRangersUNDER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Texas_Rangers_TexasRangersUNDER8.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Texas_Rangers_TexasRangersUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Texas_Rangers_TexasRangersUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Texas_Rangers_TexasRangersUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Texas_Rangers_TexasRangersUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Philadelphia_Phillies_PhiladelphiaPhilliesUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Philadelphia_Phillies_PhiladelphiaPhilliesUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Philadelphia_Phillies_PhiladelphiaPhilliesUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Philadelphia_Phillies_PhiladelphiaPhilliesUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Toronto_Blue_Jays_TorontoBlueJaysUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Toronto_Blue_Jays_TorontoBlueJaysUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Toronto_Blue_Jays_TorontoBlueJaysUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Toronto_Blue_Jays_TorontoBlueJaysUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chicago_Cubs_ChicagoCubsUNDER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chicago_Cubs_ChicagoCubsUNDER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chicago_Cubs_ChicagoCubsUNDER8.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chicago_Cubs_ChicagoCubsUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chicago_Cubs_ChicagoCubsUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chicago_Cubs_ChicagoCubsUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chicago_Cubs_ChicagoCubsUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\San_Francisco_Giants_SanFranciscoGiantsOVER1.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\San_Francisco_Giants_SanFranciscoGiantsOVER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Philadelphia_Phillies_PhiladelphiaPhilliesUNDER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Philadelphia_Phillies_PhiladelphiaPhilliesUNDER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Philadelphia_Phillies_PhiladelphiaPhilliesUNDER8.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Philadelphia_Phillies_PhiladelphiaPhilliesUNDER9.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Philadelphia_Phillies_PhiladelphiaPhilliesUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Philadelphia_Phillies_PhiladelphiaPhilliesUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Philadelphia_Phillies_PhiladelphiaPhilliesUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Philadelphia_Phillies_PhiladelphiaPhilliesUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\New_York_Mets_NewYorkMetsUNDER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\New_York_Mets_NewYorkMetsUNDER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\New_York_Mets_NewYorkMetsUNDER8.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\New_York_Mets_NewYorkMetsUNDER9.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\New_York_Mets_NewYorkMetsUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\New_York_Mets_NewYorkMetsUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\New_York_Mets_NewYorkMetsUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\New_York_Mets_NewYorkMetsUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Detroit_Tigers_DetroitTigersUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Detroit_Tigers_DetroitTigersUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Detroit_Tigers_DetroitTigersUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cleveland_Guardians_ClevelandGuardiansUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cleveland_Guardians_ClevelandGuardiansUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cleveland_Guardians_ClevelandGuardiansUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cleveland_Guardians_ClevelandGuardiansUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cincinnati_Reds_CincinnatiRedsUNDER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cincinnati_Reds_CincinnatiRedsUNDER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cincinnati_Reds_CincinnatiRedsUNDER8.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cincinnati_Reds_CincinnatiRedsUNDER9.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cincinnati_Reds_CincinnatiRedsUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cincinnati_Reds_CincinnatiRedsUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cincinnati_Reds_CincinnatiRedsUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Cincinnati_Reds_CincinnatiRedsUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Baltimore_Orioles_BaltimoreOriolesUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Baltimore_Orioles_BaltimoreOriolesUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Baltimore_Orioles_BaltimoreOriolesUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Baltimore_Orioles_BaltimoreOriolesUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Atlanta_Braves_AtlantaBravesUNDER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Atlanta_Braves_AtlantaBravesUNDER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Atlanta_Braves_AtlantaBravesUNDER8.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Atlanta_Braves_AtlantaBravesUNDER9.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Atlanta_Braves_AtlantaBravesUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Atlanta_Braves_AtlantaBravesUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Atlanta_Braves_AtlantaBravesUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Atlanta_Braves_AtlantaBravesUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Toronto_Blue_Jays_TorontoBlueJaysUNDER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Toronto_Blue_Jays_TorontoBlueJaysUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Toronto_Blue_Jays_TorontoBlueJaysUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Toronto_Blue_Jays_TorontoBlueJaysUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Toronto_Blue_Jays_TorontoBlueJaysUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chicago_Cubs_ChicagoCubsUNDER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chicago_Cubs_ChicagoCubsUNDER8.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chicago_Cubs_ChicagoCubsUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chicago_Cubs_ChicagoCubsUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chicago_Cubs_ChicagoCubsUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chicago_Cubs_ChicagoCubsUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Nippon_Ham_Fighters_NipponHamFightersOVER1.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Nippon_Ham_Fighters_NipponHamFightersOVER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Nippon_Ham_Fighters_NipponHamFightersOVER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Nippon_Ham_Fighters_NipponHamFightersOVER0.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Nippon_Ham_Fighters_NipponHamFightersOVER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Yokohama_BayStars_YokohamaBayStarsOVER1.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Yokohama_BayStars_YokohamaBayStarsOVER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Yokohama_BayStars_YokohamaBayStarsOVER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Yokohama_BayStars_YokohamaBayStarsOVER0.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Yokohama_BayStars_YokohamaBayStarsOVER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Yokohama_BayStars_YokohamaBayStarsOVER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Yokohama_BayStars_YokohamaBayStarsOVER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Rakuten_Gold._Eagles_RakutenGold.EaglesOVER1.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Rakuten_Gold._Eagles_RakutenGold.EaglesOVER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Rakuten_Gold._Eagles_RakutenGold.EaglesOVER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Rakuten_Gold._Eagles_RakutenGold.EaglesOVER0.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Rakuten_Gold._Eagles_RakutenGold.EaglesOVER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Rakuten_Gold._Eagles_RakutenGold.EaglesOVER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Hiroshima_Carp_HiroshimaCarpOVER1.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Hiroshima_Carp_HiroshimaCarpOVER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Hiroshima_Carp_HiroshimaCarpOVER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Hiroshima_Carp_HiroshimaCarpOVER0.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Hiroshima_Carp_HiroshimaCarpOVER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Hiroshima_Carp_HiroshimaCarpOVER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Fukuoka_S._Hawks_FukuokaS.HawksOVER1.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Fukuoka_S._Hawks_FukuokaS.HawksOVER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Fukuoka_S._Hawks_FukuokaS.HawksOVER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Fukuoka_S._Hawks_FukuokaS.HawksOVER0.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Fukuoka_S._Hawks_FukuokaS.HawksOVER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chunichi_Dragons_ChunichiDragonsOVER1.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chunichi_Dragons_ChunichiDragonsOVER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chunichi_Dragons_ChunichiDragonsOVER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chunichi_Dragons_ChunichiDragonsOVER0.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chunichi_Dragons_ChunichiDragonsOVER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chunichi_Dragons_ChunichiDragonsOVER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chunichi_Dragons_ChunichiDragonsOVER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chunichi_Dragons_ChunichiDragonsOVER1.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chunichi_Dragons_ChunichiDragonsOVER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chunichi_Dragons_ChunichiDragonsOVER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chunichi_Dragons_ChunichiDragonsOVER0.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chunichi_Dragons_ChunichiDragonsOVER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chunichi_Dragons_ChunichiDragonsOVER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Chunichi_Dragons_ChunichiDragonsOVER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Fukuoka_S._Hawks_FukuokaS.HawksOVER1.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Fukuoka_S._Hawks_FukuokaS.HawksOVER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Fukuoka_S._Hawks_FukuokaS.HawksOVER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Fukuoka_S._Hawks_FukuokaS.HawksOVER0.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Fukuoka_S._Hawks_FukuokaS.HawksOVER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Fukuoka_S._Hawks_FukuokaS.HawksOVER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Hiroshima_Carp_HiroshimaCarpOVER1.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Hiroshima_Carp_HiroshimaCarpOVER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Hiroshima_Carp_HiroshimaCarpOVER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Hiroshima_Carp_HiroshimaCarpOVER0.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Hiroshima_Carp_HiroshimaCarpOVER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Hiroshima_Carp_HiroshimaCarpOVER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Nippon_Ham_Fighters_NipponHamFightersOVER1.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Nippon_Ham_Fighters_NipponHamFightersOVER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Nippon_Ham_Fighters_NipponHamFightersOVER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Nippon_Ham_Fighters_NipponHamFightersOVER0.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Nippon_Ham_Fighters_NipponHamFightersOVER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Nippon_Ham_Fighters_NipponHamFightersOVER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Nippon_Ham_Fighters_NipponHamFightersOVER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Rakuten_Gold._Eagles_RakutenGold.EaglesOVER1.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Rakuten_Gold._Eagles_RakutenGold.EaglesOVER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Rakuten_Gold._Eagles_RakutenGold.EaglesOVER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Rakuten_Gold._Eagles_RakutenGold.EaglesOVER0.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Rakuten_Gold._Eagles_RakutenGold.EaglesOVER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Hanwha_Eagles_HanwhaEaglesUNDER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Hanwha_Eagles_HanwhaEaglesUNDER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Hanwha_Eagles_HanwhaEaglesUNDER8.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Hanwha_Eagles_HanwhaEaglesUNDER9.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Hanwha_Eagles_HanwhaEaglesUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Hanwha_Eagles_HanwhaEaglesUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Hanwha_Eagles_HanwhaEaglesUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Hanwha_Eagles_HanwhaEaglesUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\KIA_Tigers_KIATigersOVER1.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\KIA_Tigers_KIATigersUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\KIA_Tigers_KIATigersUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\KIA_Tigers_KIATigersUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\LG_Twins_LGTwinsUNDER1.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\LG_Twins_LGTwinsUNDER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\LG_Twins_LGTwinsUNDER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\LG_Twins_LGTwinsUNDER8.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\LG_Twins_LGTwinsUNDER9.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\LG_Twins_LGTwinsUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\LG_Twins_LGTwinsUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\LG_Twins_LGTwinsUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\LG_Twins_LGTwinsUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Samsung_Lions_SamsungLionsOVER1.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Samsung_Lions_SamsungLionsOVER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\SSG_Landers_SSGLandersUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\SSG_Landers_SSGLandersUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\SSG_Landers_SSGLandersUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\SSG_Landers_SSGLandersUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Samsung_Lions_SamsungLionsUNDER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Samsung_Lions_SamsungLionsUNDER8.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Samsung_Lions_SamsungLionsUNDER9.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Samsung_Lions_SamsungLionsUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Samsung_Lions_SamsungLionsUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Samsung_Lions_SamsungLionsUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Samsung_Lions_SamsungLionsUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\SSG_Landers_SSGLandersUNDER1.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\SSG_Landers_SSGLandersUNDER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\SSG_Landers_SSGLandersUNDER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\SSG_Landers_SSGLandersUNDER8.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\SSG_Landers_SSGLandersUNDER9.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\SSG_Landers_SSGLandersUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\SSG_Landers_SSGLandersUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\SSG_Landers_SSGLandersUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\SSG_Landers_SSGLandersUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\LG_Twins_LGTwinsUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\LG_Twins_LGTwinsUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\LG_Twins_LGTwinsUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Hanwha_Eagles_HanwhaEaglesOVER1.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Hanwha_Eagles_HanwhaEaglesOVER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\KIA_Tigers_KIATigersUNDER2.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\KIA_Tigers_KIATigersUNDER3.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\KIA_Tigers_KIATigersUNDER8.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\KIA_Tigers_KIATigersUNDER9.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\KIA_Tigers_KIATigersUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\KIA_Tigers_KIATigersUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\KIA_Tigers_KIATigersUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\KIA_Tigers_KIATigersUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Aguascalientes_AguascalientesUNDER7.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Aguascalientes_AguascalientesUNDER6.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Aguascalientes_AguascalientesUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Laguna_LagunaUNDER4.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Laguna_LagunaUNDER5.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Laguna_LagunaUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Tabasco_TabascoUNDER3.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Tabasco_TabascoUNDER4.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Tabasco_TabascoUNDER5.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Tabasco_TabascoUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Yucatan_YucatanUNDER3.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Yucatan_YucatanUNDER4.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Laguna_LagunaUNDER4.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Laguna_LagunaUNDER5.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Laguna_LagunaUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Bravos_de_Leon_BravosdeLeonUNDER7.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Bravos_de_Leon_BravosdeLeonUNDER6.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Bravos_de_Leon_BravosdeLeonUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Campeche_CampecheUNDER4.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Campeche_CampecheUNDER5.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Campeche_CampecheUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Laguna_LagunaUNDER5.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Laguna_LagunaUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Laguna_LagunaUNDER6.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Diablos_Rojos_DiablosRojosUNDER8.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Diablos_Rojos_DiablosRojosUNDER8.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Diablos_Rojos_DiablosRojosUNDER9.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Diablos_Rojos_DiablosRojosUNDER9.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Diablos_Rojos_DiablosRojosUNDER10.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Monterrey_MonterreyUNDER4.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Monterrey_MonterreyUNDER5.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Monterrey_MonterreyUNDER4.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Puebla_PueblaUNDER5.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Puebla_PueblaUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Puebla_PueblaUNDER6.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Queretaro_QueretaroUNDER8.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Queretaro_QueretaroUNDER8.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Queretaro_QueretaroUNDER9.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Queretaro_QueretaroUNDER7.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Queretaro_QueretaroUNDER7.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Saltillo_SaltilloUNDER5.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Saltillo_SaltilloUNDER7.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Saltillo_SaltilloUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Saltillo_SaltilloUNDER6.0_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Saltillo_SaltilloUNDER6.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Santiago_de_Cuba_SantiagodeCubaUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Las_Tunas_LasTunasUNDER5.5_total_equipo.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\total_equipo\Trebic_TrebicUNDER4.0_total_equipo.png
+🎯 Visuales TOTAL EQUIPO generadas con éxito.
+
+🟡 Ejecutando: descargar_mercado_primera_mitad.py
+🔍 Procesando 58 partidos para mercado PRIMERA MITAD...
+⚾ Round Rock Express vs Oklahoma City Dodgers — ID: 162549
+⚠️ No se encontró mercado PRIMERA MITAD para 162549
+⚾ Texas Rangers vs Colorado Rockies — ID: 163913
+✅ Guardado: primera_mitad_163913.json
+⚾ Houston Astros vs Kansas City Royals — ID: 163908
+✅ Guardado: primera_mitad_163908.json
+⚾ Albuquerque Isotopes vs Tacoma Rainiers — ID: 162547
+⚠️ No se encontró mercado PRIMERA MITAD para 162547
+⚾ Diablos Rojos vs Tabasco — ID: 169191
+⚠️ No se encontró mercado PRIMERA MITAD para 169191
+⚾ Puebla vs Yucatan — ID: 169194
+⚠️ No se encontró mercado PRIMERA MITAD para 169194
+⚾ Queretaro vs Quintana Roo — ID: 169195
+⚠️ No se encontró mercado PRIMERA MITAD para 169195
+⚾ Bravos de Leon vs Oaxaca — ID: 169187
+⚠️ No se encontró mercado PRIMERA MITAD para 169187
+⚾ Campeche vs Veracruz — ID: 169189
+⚠️ No se encontró mercado PRIMERA MITAD para 169189
+⚾ Laguna vs Aguascalientes — ID: 169190
+⚠️ No se encontró mercado PRIMERA MITAD para 169190
+⚾ Monterrey vs Chihuahua — ID: 169193
+⚠️ No se encontró mercado PRIMERA MITAD para 169193
+⚾ Saltillo vs Dos Laredos — ID: 169196
+⚠️ No se encontró mercado PRIMERA MITAD para 169196
+⚾ Las Vegas Aviators vs El Paso Chihuahuas — ID: 162548
+⚠️ No se encontró mercado PRIMERA MITAD para 162548
+⚾ Caliente de Durango vs Jalisco — ID: 169188
+⚠️ No se encontró mercado PRIMERA MITAD para 169188
+⚾ San Diego Padres vs Los Angeles Angels — ID: 163911
+✅ Guardado: primera_mitad_163911.json
+⚾ Seattle Mariners vs New York Yankees — ID: 163912
+✅ Guardado: primera_mitad_163912.json
+⚾ San Francisco Giants vs Arizona Diamondbacks — ID: 163917
+✅ Guardado: primera_mitad_163917.json
+⚾ Monclova vs Toros de Tijuana — ID: 169192
+⚠️ No se encontró mercado PRIMERA MITAD para 169192
+⚾ Los Angeles Dodgers vs Athletics — ID: 163909
+✅ Guardado: primera_mitad_163909.json
+⚾ Nippon Ham Fighters vs Orix Buffaloes — ID: 166016
+✅ Guardado: primera_mitad_166016.json
+⚾ Rakuten Gold. Eagles vs Chiba Lotte Marines — ID: 166017
+✅ Guardado: primera_mitad_166017.json
+⚾ Chunichi Dragons vs Yakult Swallows — ID: 166013
+✅ Guardado: primera_mitad_166013.json
+⚾ Fukuoka S. Hawks vs Seibu Lions — ID: 166014
+✅ Guardado: primera_mitad_166014.json
+⚾ Hiroshima Carp vs Yomiuri Giants — ID: 166015
+✅ Guardado: primera_mitad_166015.json
+⚾ Samsung Lions vs KT Wiz Suwon — ID: 166942
+✅ Guardado: primera_mitad_166942.json
+⚾ SSG Landers vs NC Dinos — ID: 166943
+✅ Guardado: primera_mitad_166943.json
+⚾ LG Twins vs Kiwoom Heroes — ID: 166944
+✅ Guardado: primera_mitad_166944.json
+⚾ Hanwha Eagles vs Doosan Bears — ID: 166945
+✅ Guardado: primera_mitad_166945.json
+⚾ KIA Tigers vs Lotte Giants — ID: 166946
+✅ Guardado: primera_mitad_166946.json
+⚾ Fubon Guardians vs TSG Hawks — ID: 170278
+⚠️ No se encontró mercado PRIMERA MITAD para 170278
+⚾ Rakuten Monkeys vs Uni Lions — ID: 170279
+⚠️ No se encontró mercado PRIMERA MITAD para 170279
+⚾ Wei Chuan Dragons vs Chinatrust Brothers — ID: 170280
+⚠️ No se encontró mercado PRIMERA MITAD para 170280
+⚾ Scranton/WB vs Toledo Mud Hens — ID: 171080
+⚠️ No se encontró mercado PRIMERA MITAD para 171080
+⚾ Syracuse Mets vs Lehigh Valley IronPigs — ID: 171081
+⚠️ No se encontró mercado PRIMERA MITAD para 171081
+⚾ Sugar Land vs Reno Aces — ID: 162553
+⚠️ No se encontró mercado PRIMERA MITAD para 162553
+⚾ Baltimore Orioles vs Minnesota Twins — ID: 163929
+✅ Guardado: primera_mitad_163929.json
+⚾ Philadelphia Phillies vs St.Louis Cardinals — ID: 163918
+✅ Guardado: primera_mitad_163918.json
+⚾ Memphis Redbirds vs Nashville Sounds — ID: 171082
+⚠️ No se encontró mercado PRIMERA MITAD para 171082
+⚾ Iowa Cubs vs St. Paul — ID: 171083
+⚠️ No se encontró mercado PRIMERA MITAD para 171083
+⚾ Cleveland Guardians vs Milwaukee Brewers — ID: 163927
+✅ Guardado: primera_mitad_163927.json
+⚾ Las Tunas vs Granma — ID: 169993
+⚠️ No se encontró mercado PRIMERA MITAD para 169993
+⚾ Baltimore Orioles vs Minnesota Twins — ID: 163904
+✅ Guardado: primera_mitad_163904.json
+⚾ Memphis Redbirds vs Nashville Sounds — ID: 171079
+⚠️ No se encontró mercado PRIMERA MITAD para 171079
+⚾ San Francisco Giants vs Arizona Diamondbacks — ID: 163919
+✅ Guardado: primera_mitad_163919.json
+⚾ Seattle Mariners vs New York Yankees — ID: 163921
+✅ Guardado: primera_mitad_163921.json
+⚾ Buffalo Bisons vs Worcester — ID: 171084
+⚠️ No se encontró mercado PRIMERA MITAD para 171084
+⚾ Indianapolis Indians vs Louisville Bats — ID: 171085
+⚠️ No se encontró mercado PRIMERA MITAD para 171085
+⚾ Rochester Red Wings vs Durham Bulls — ID: 171086
+⚠️ No se encontró mercado PRIMERA MITAD para 171086
+⚾ Philadelphia Phillies vs St.Louis Cardinals — ID: 163914
+✅ Guardado: primera_mitad_163914.json
+⚾ Norfolk Tides vs Jacksonville Jumbo Shrimp — ID: 171087
+⚠️ No se encontró mercado PRIMERA MITAD para 171087
+⚾ Detroit Tigers vs Boston Red Sox — ID: 163926
+✅ Guardado: primera_mitad_163926.json
+⚾ Gwinnett Stripers vs Charlotte Knights — ID: 171088
+⚠️ No se encontró mercado PRIMERA MITAD para 171088
+⚾ Toronto Blue Jays vs Tampa Bay Rays — ID: 163931
+✅ Guardado: primera_mitad_163931.json
+⚾ New York Mets vs Pittsburgh Pirates — ID: 163923
+✅ Guardado: primera_mitad_163923.json
+⚾ Cincinnati Reds vs Chicago White Sox — ID: 163928
+✅ Guardado: primera_mitad_163928.json
+⚾ Atlanta Braves vs Washington Nationals — ID: 163930
+✅ Guardado: primera_mitad_163930.json
+⚾ Omaha Storm Chasers vs Columbus Clippers — ID: 171089
+⚠️ No se encontró mercado PRIMERA MITAD para 171089
+⚾ Chicago Cubs vs Miami Marlins — ID: 163932
+✅ Guardado: primera_mitad_163932.json
+🎯 Descarga del mercado PRIMERA MITAD completada.
+
+🟡 Ejecutando: calcular_mercado_primera_mitad.py
+✅ Predicciones PRIMERA MITAD guardadas en: D:\sampro_v6\beisbol\predicciones\predicciones_primera_mitad_2025-05-14.json
+
+🟡 Ejecutando: clasificar_mercado_primera_mitad.py
+✅ Clasificación PRIMERA MITAD completada: 0 picks guardados.
+
+🟡 Ejecutando: generar_visual_primera_mitad.py
+🎯 Visuales PRIMERA MITAD generadas.
+
+🟡 Ejecutando: descargar_mercado_parimpar.py
+🔍 Procesando 58 partidos para mercado PAR/IMPAR...
+⚾ Round Rock Express vs Oklahoma City Dodgers — ID: 162549
+⚠️ No se encontró mercado PAR/IMPAR para 162549
+⚾ Texas Rangers vs Colorado Rockies — ID: 163913
+✅ Guardado: parimpar_163913.json
+⚾ Houston Astros vs Kansas City Royals — ID: 163908
+✅ Guardado: parimpar_163908.json
+⚾ Albuquerque Isotopes vs Tacoma Rainiers — ID: 162547
+⚠️ No se encontró mercado PAR/IMPAR para 162547
+⚾ Diablos Rojos vs Tabasco — ID: 169191
+✅ Guardado: parimpar_169191.json
+⚾ Puebla vs Yucatan — ID: 169194
+✅ Guardado: parimpar_169194.json
+⚾ Queretaro vs Quintana Roo — ID: 169195
+✅ Guardado: parimpar_169195.json
+⚾ Bravos de Leon vs Oaxaca — ID: 169187
+✅ Guardado: parimpar_169187.json
+⚾ Campeche vs Veracruz — ID: 169189
+✅ Guardado: parimpar_169189.json
+⚾ Laguna vs Aguascalientes — ID: 169190
+✅ Guardado: parimpar_169190.json
+⚾ Monterrey vs Chihuahua — ID: 169193
+✅ Guardado: parimpar_169193.json
+⚾ Saltillo vs Dos Laredos — ID: 169196
+✅ Guardado: parimpar_169196.json
+⚾ Las Vegas Aviators vs El Paso Chihuahuas — ID: 162548
+⚠️ No se encontró mercado PAR/IMPAR para 162548
+⚾ Caliente de Durango vs Jalisco — ID: 169188
+⚠️ No se encontró mercado PAR/IMPAR para 169188
+⚾ San Diego Padres vs Los Angeles Angels — ID: 163911
+✅ Guardado: parimpar_163911.json
+⚾ Seattle Mariners vs New York Yankees — ID: 163912
+✅ Guardado: parimpar_163912.json
+⚾ San Francisco Giants vs Arizona Diamondbacks — ID: 163917
+✅ Guardado: parimpar_163917.json
+⚾ Monclova vs Toros de Tijuana — ID: 169192
+⚠️ No se encontró mercado PAR/IMPAR para 169192
+⚾ Los Angeles Dodgers vs Athletics — ID: 163909
+✅ Guardado: parimpar_163909.json
+⚾ Nippon Ham Fighters vs Orix Buffaloes — ID: 166016
+✅ Guardado: parimpar_166016.json
+⚾ Rakuten Gold. Eagles vs Chiba Lotte Marines — ID: 166017
+✅ Guardado: parimpar_166017.json
+⚾ Chunichi Dragons vs Yakult Swallows — ID: 166013
+✅ Guardado: parimpar_166013.json
+⚾ Fukuoka S. Hawks vs Seibu Lions — ID: 166014
+✅ Guardado: parimpar_166014.json
+⚾ Hiroshima Carp vs Yomiuri Giants — ID: 166015
+✅ Guardado: parimpar_166015.json
+⚾ Samsung Lions vs KT Wiz Suwon — ID: 166942
+✅ Guardado: parimpar_166942.json
+⚾ SSG Landers vs NC Dinos — ID: 166943
+✅ Guardado: parimpar_166943.json
+⚾ LG Twins vs Kiwoom Heroes — ID: 166944
+✅ Guardado: parimpar_166944.json
+⚾ Hanwha Eagles vs Doosan Bears — ID: 166945
+✅ Guardado: parimpar_166945.json
+⚾ KIA Tigers vs Lotte Giants — ID: 166946
+✅ Guardado: parimpar_166946.json
+⚾ Fubon Guardians vs TSG Hawks — ID: 170278
+⚠️ No se encontró mercado PAR/IMPAR para 170278
+⚾ Rakuten Monkeys vs Uni Lions — ID: 170279
+⚠️ No se encontró mercado PAR/IMPAR para 170279
+⚾ Wei Chuan Dragons vs Chinatrust Brothers — ID: 170280
+⚠️ No se encontró mercado PAR/IMPAR para 170280
+⚾ Scranton/WB vs Toledo Mud Hens — ID: 171080
+⚠️ No se encontró mercado PAR/IMPAR para 171080
+⚾ Syracuse Mets vs Lehigh Valley IronPigs — ID: 171081
+⚠️ No se encontró mercado PAR/IMPAR para 171081
+⚾ Sugar Land vs Reno Aces — ID: 162553
+⚠️ No se encontró mercado PAR/IMPAR para 162553
+⚾ Baltimore Orioles vs Minnesota Twins — ID: 163929
+✅ Guardado: parimpar_163929.json
+⚾ Philadelphia Phillies vs St.Louis Cardinals — ID: 163918
+✅ Guardado: parimpar_163918.json
+⚾ Memphis Redbirds vs Nashville Sounds — ID: 171082
+⚠️ No se encontró mercado PAR/IMPAR para 171082
+⚾ Iowa Cubs vs St. Paul — ID: 171083
+⚠️ No se encontró mercado PAR/IMPAR para 171083
+⚾ Cleveland Guardians vs Milwaukee Brewers — ID: 163927
+✅ Guardado: parimpar_163927.json
+⚾ Las Tunas vs Granma — ID: 169993
+✅ Guardado: parimpar_169993.json
+⚾ Baltimore Orioles vs Minnesota Twins — ID: 163904
+✅ Guardado: parimpar_163904.json
+⚾ Memphis Redbirds vs Nashville Sounds — ID: 171079
+⚠️ No se encontró mercado PAR/IMPAR para 171079
+⚾ San Francisco Giants vs Arizona Diamondbacks — ID: 163919
+✅ Guardado: parimpar_163919.json
+⚾ Seattle Mariners vs New York Yankees — ID: 163921
+✅ Guardado: parimpar_163921.json
+⚾ Buffalo Bisons vs Worcester — ID: 171084
+⚠️ No se encontró mercado PAR/IMPAR para 171084
+⚾ Indianapolis Indians vs Louisville Bats — ID: 171085
+⚠️ No se encontró mercado PAR/IMPAR para 171085
+⚾ Rochester Red Wings vs Durham Bulls — ID: 171086
+⚠️ No se encontró mercado PAR/IMPAR para 171086
+⚾ Philadelphia Phillies vs St.Louis Cardinals — ID: 163914
+✅ Guardado: parimpar_163914.json
+⚾ Norfolk Tides vs Jacksonville Jumbo Shrimp — ID: 171087
+⚠️ No se encontró mercado PAR/IMPAR para 171087
+⚾ Detroit Tigers vs Boston Red Sox — ID: 163926
+✅ Guardado: parimpar_163926.json
+⚾ Gwinnett Stripers vs Charlotte Knights — ID: 171088
+⚠️ No se encontró mercado PAR/IMPAR para 171088
+⚾ Toronto Blue Jays vs Tampa Bay Rays — ID: 163931
+✅ Guardado: parimpar_163931.json
+⚾ New York Mets vs Pittsburgh Pirates — ID: 163923
+✅ Guardado: parimpar_163923.json
+⚾ Cincinnati Reds vs Chicago White Sox — ID: 163928
+✅ Guardado: parimpar_163928.json
+⚾ Atlanta Braves vs Washington Nationals — ID: 163930
+✅ Guardado: parimpar_163930.json
+⚾ Omaha Storm Chasers vs Columbus Clippers — ID: 171089
+⚠️ No se encontró mercado PAR/IMPAR para 171089
+⚾ Chicago Cubs vs Miami Marlins — ID: 163932
+✅ Guardado: parimpar_163932.json
+🎯 Descarga del mercado PAR/IMPAR completada.
+
+🟡 Ejecutando: calcular_mercado_parimpar.py
+✅ Predicciones PAR/IMPAR guardadas en: D:\sampro_v6\beisbol\predicciones\predicciones_parimpar_2025-05-14.json
+
+🟡 Ejecutando: clasificar_mercado_parimpar.py
+✅ Clasificación PAR/IMPAR completada: 0 picks guardados.
+
+🟡 Ejecutando: generar_visual_parimpar.py
+🎯 Visuales PAR/IMPAR generadas.
+
+🟡 Ejecutando: descargar_mercado_btts.py
+python: can't open file 'D:\\sampro_v6\\beisbol\\scripts\\descargar_mercado_btts.py': [Errno 2] No such file or directory
+⛔ Error ejecutando descargar_mercado_btts.py
+
+🟡 Ejecutando: calcular_mercado_btts.py
+✅ Predicciones BTTS guardadas en: D:\sampro_v6\beisbol\predicciones\predicciones_btts_2025-05-14.json
+
+🟡 Ejecutando: clasificar_mercado_btts.py
+✅ Clasificación BTTS completada: 107 picks guardados.
+
+🟡 Ejecutando: generar_visual_btts.py
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Albuquerque_Isotopes_vs_Tacoma_Rainiers_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Las_Vegas_Aviators_vs_El_Paso_Chihuahuas_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Round_Rock_Express_vs_Oklahoma_City_Dodgers_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Sacramento_River_Cats_vs_Salt_Lake_Bees_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Sugar_Land_vs_Reno_Aces_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Sugar_Land_vs_Reno_Aces_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\New_York_Mets_vs_Pittsburgh_Pirates_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Seattle_Mariners_vs_New_York_Yankees_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\San_Diego_Padres_vs_Los_Angeles_Angels_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Atlanta_Braves_vs_Washington_Nationals_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Houston_Astros_vs_Kansas_City_Royals_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Detroit_Tigers_vs_Boston_Red_Sox_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Cleveland_Guardians_vs_Milwaukee_Brewers_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Texas_Rangers_vs_Colorado_Rockies_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Philadelphia_Phillies_vs_St.Louis_Cardinals_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Chicago_Cubs_vs_Miami_Marlins_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\San_Francisco_Giants_vs_Arizona_Diamondbacks_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Atlanta_Braves_vs_Washington_Nationals_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Baltimore_Orioles_vs_Minnesota_Twins_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Cincinnati_Reds_vs_Chicago_White_Sox_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Cleveland_Guardians_vs_Milwaukee_Brewers_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Detroit_Tigers_vs_Boston_Red_Sox_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Houston_Astros_vs_Kansas_City_Royals_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Los_Angeles_Dodgers_vs_Athletics_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\New_York_Mets_vs_Pittsburgh_Pirates_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\San_Diego_Padres_vs_Los_Angeles_Angels_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Seattle_Mariners_vs_New_York_Yankees_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Texas_Rangers_vs_Colorado_Rockies_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Philadelphia_Phillies_vs_St.Louis_Cardinals_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Toronto_Blue_Jays_vs_Tampa_Bay_Rays_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Chicago_Cubs_vs_Miami_Marlins_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\San_Francisco_Giants_vs_Arizona_Diamondbacks_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Philadelphia_Phillies_vs_St.Louis_Cardinals_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\San_Francisco_Giants_vs_Arizona_Diamondbacks_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Seattle_Mariners_vs_New_York_Yankees_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\New_York_Mets_vs_Pittsburgh_Pirates_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Detroit_Tigers_vs_Boston_Red_Sox_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Cleveland_Guardians_vs_Milwaukee_Brewers_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Cincinnati_Reds_vs_Chicago_White_Sox_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Baltimore_Orioles_vs_Minnesota_Twins_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Atlanta_Braves_vs_Washington_Nationals_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Toronto_Blue_Jays_vs_Tampa_Bay_Rays_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Chicago_Cubs_vs_Miami_Marlins_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Nippon_Ham_Fighters_vs_Orix_Buffaloes_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Yokohama_BayStars_vs_Hanshin_Tigers_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Rakuten_Gold._Eagles_vs_Chiba_Lotte_Marines_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Hiroshima_Carp_vs_Yomiuri_Giants_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Fukuoka_S._Hawks_vs_Seibu_Lions_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Chunichi_Dragons_vs_Yakult_Swallows_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Chunichi_Dragons_vs_Yakult_Swallows_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Fukuoka_S._Hawks_vs_Seibu_Lions_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Hiroshima_Carp_vs_Yomiuri_Giants_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Nippon_Ham_Fighters_vs_Orix_Buffaloes_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Rakuten_Gold._Eagles_vs_Chiba_Lotte_Marines_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Hanwha_Eagles_vs_Doosan_Bears_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\KIA_Tigers_vs_Lotte_Giants_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\LG_Twins_vs_Kiwoom_Heroes_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Samsung_Lions_vs_KT_Wiz_Suwon_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\SSG_Landers_vs_NC_Dinos_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Samsung_Lions_vs_KT_Wiz_Suwon_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\SSG_Landers_vs_NC_Dinos_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\LG_Twins_vs_Kiwoom_Heroes_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Hanwha_Eagles_vs_Doosan_Bears_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\KIA_Tigers_vs_Lotte_Giants_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Aguascalientes_vs_Saltillo_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Laguna_vs_Toros_de_Tijuana_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Tabasco_vs_Bravos_de_Leon_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Yucatan_vs_Veracruz_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Laguna_vs_Toros_de_Tijuana_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Bravos_de_Leon_vs_Oaxaca_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Caliente_de_Durango_vs_Jalisco_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Campeche_vs_Veracruz_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Laguna_vs_Aguascalientes_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Diablos_Rojos_vs_Tabasco_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Monclova_vs_Toros_de_Tijuana_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Monterrey_vs_Chihuahua_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Puebla_vs_Yucatan_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Queretaro_vs_Quintana_Roo_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Saltillo_vs_Dos_Laredos_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Santiago_de_Cuba_vs_Las_Tunas_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Las_Tunas_vs_Granma_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Fubon_Guardians_vs_TSG_Hawks_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Wei_Chuan_Dragons_vs_Chinatrust_Brothers_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Fubon_Guardians_vs_TSG_Hawks_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Rakuten_Monkeys_vs_Uni_Lions_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Wei_Chuan_Dragons_vs_Chinatrust_Brothers_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Trebic_vs_Draci_Brno_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Gwinnett_Stripers_vs_Charlotte_Knights_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Buffalo_Bisons_vs_Worcester_BTTS.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\btts\Rochester_Red_Wings_vs_Durham_Bulls_BTTS.png
+Traceback (most recent call last):
+  File "D:\sampro_v6\beisbol\scripts\generar_visual_btts.py", line 54, in <module>
+    img.save(ruta)
+    ~~~~~~~~^^^^^^
+  File "C:\Users\mario\AppData\Roaming\Python\Python313\site-packages\PIL\Image.py", line 2576, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\sampro_v6\\beisbol\\visuales\\imagenes\\btts\\Scranton/WB_vs_Toledo_Mud_Hens_BTTS.png'
+⛔ Error ejecutando generar_visual_btts.py
+
+🟡 Ejecutando: calcular_mercado_runline.py
+✅ Predicciones RUN LINE guardadas en: D:\sampro_v6\beisbol\predicciones\predicciones_runline_2025-05-14.json
+
+🟡 Ejecutando: clasificar_mercado_runline.py
+✅ Clasificación RUN LINE completada: 107 picks guardados.
+
+🟡 Ejecutando: generar_visual_runline.py
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Albuquerque_Isotopes_vs_Tacoma_Rainiers_TacomaRainiers+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Las_Vegas_Aviators_vs_El_Paso_Chihuahuas_ElPasoChihuahuas+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Round_Rock_Express_vs_Oklahoma_City_Dodgers_OklahomaCityDodgers+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Sacramento_River_Cats_vs_Salt_Lake_Bees_SaltLakeBees+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Sugar_Land_vs_Reno_Aces_RenoAces+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Sugar_Land_vs_Reno_Aces_RenoAces+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\New_York_Mets_vs_Pittsburgh_Pirates_PittsburghPirates+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Seattle_Mariners_vs_New_York_Yankees_NewYorkYankees+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\San_Diego_Padres_vs_Los_Angeles_Angels_LosAngelesAngels+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Atlanta_Braves_vs_Washington_Nationals_WashingtonNationals+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Houston_Astros_vs_Kansas_City_Royals_KansasCityRoyals+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Detroit_Tigers_vs_Boston_Red_Sox_BostonRedSox+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Cleveland_Guardians_vs_Milwaukee_Brewers_MilwaukeeBrewers+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Texas_Rangers_vs_Colorado_Rockies_ColoradoRockies+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Philadelphia_Phillies_vs_St.Louis_Cardinals_St.LouisCardinals+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Chicago_Cubs_vs_Miami_Marlins_MiamiMarlins+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\San_Francisco_Giants_vs_Arizona_Diamondbacks_ArizonaDiamondbacks+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Atlanta_Braves_vs_Washington_Nationals_WashingtonNationals+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Baltimore_Orioles_vs_Minnesota_Twins_MinnesotaTwins+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Cincinnati_Reds_vs_Chicago_White_Sox_ChicagoWhiteSox+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Cleveland_Guardians_vs_Milwaukee_Brewers_MilwaukeeBrewers+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Detroit_Tigers_vs_Boston_Red_Sox_BostonRedSox+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Houston_Astros_vs_Kansas_City_Royals_KansasCityRoyals+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Los_Angeles_Dodgers_vs_Athletics_Athletics+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\New_York_Mets_vs_Pittsburgh_Pirates_PittsburghPirates+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\San_Diego_Padres_vs_Los_Angeles_Angels_LosAngelesAngels+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Seattle_Mariners_vs_New_York_Yankees_NewYorkYankees+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Texas_Rangers_vs_Colorado_Rockies_ColoradoRockies+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Philadelphia_Phillies_vs_St.Louis_Cardinals_St.LouisCardinals+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Toronto_Blue_Jays_vs_Tampa_Bay_Rays_TampaBayRays+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Chicago_Cubs_vs_Miami_Marlins_MiamiMarlins+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\San_Francisco_Giants_vs_Arizona_Diamondbacks_ArizonaDiamondbacks+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Philadelphia_Phillies_vs_St.Louis_Cardinals_St.LouisCardinals+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\San_Francisco_Giants_vs_Arizona_Diamondbacks_ArizonaDiamondbacks+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Seattle_Mariners_vs_New_York_Yankees_NewYorkYankees+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\New_York_Mets_vs_Pittsburgh_Pirates_PittsburghPirates+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Detroit_Tigers_vs_Boston_Red_Sox_BostonRedSox+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Cleveland_Guardians_vs_Milwaukee_Brewers_MilwaukeeBrewers+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Cincinnati_Reds_vs_Chicago_White_Sox_ChicagoWhiteSox+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Baltimore_Orioles_vs_Minnesota_Twins_MinnesotaTwins+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Atlanta_Braves_vs_Washington_Nationals_WashingtonNationals+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Toronto_Blue_Jays_vs_Tampa_Bay_Rays_TampaBayRays+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Chicago_Cubs_vs_Miami_Marlins_MiamiMarlins+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Nippon_Ham_Fighters_vs_Orix_Buffaloes_OrixBuffaloes+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Yokohama_BayStars_vs_Hanshin_Tigers_HanshinTigers+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Rakuten_Gold._Eagles_vs_Chiba_Lotte_Marines_ChibaLotteMarines+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Hiroshima_Carp_vs_Yomiuri_Giants_YomiuriGiants+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Fukuoka_S._Hawks_vs_Seibu_Lions_SeibuLions+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Chunichi_Dragons_vs_Yakult_Swallows_YakultSwallows+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Chunichi_Dragons_vs_Yakult_Swallows_YakultSwallows+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Fukuoka_S._Hawks_vs_Seibu_Lions_SeibuLions+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Hiroshima_Carp_vs_Yomiuri_Giants_YomiuriGiants+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Nippon_Ham_Fighters_vs_Orix_Buffaloes_OrixBuffaloes+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Rakuten_Gold._Eagles_vs_Chiba_Lotte_Marines_ChibaLotteMarines+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Hanwha_Eagles_vs_Doosan_Bears_DoosanBears+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\KIA_Tigers_vs_Lotte_Giants_LotteGiants+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\LG_Twins_vs_Kiwoom_Heroes_KiwoomHeroes+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Samsung_Lions_vs_KT_Wiz_Suwon_KTWizSuwon+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\SSG_Landers_vs_NC_Dinos_NCDinos+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Samsung_Lions_vs_KT_Wiz_Suwon_KTWizSuwon+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\SSG_Landers_vs_NC_Dinos_NCDinos+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\LG_Twins_vs_Kiwoom_Heroes_KiwoomHeroes+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Hanwha_Eagles_vs_Doosan_Bears_DoosanBears+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\KIA_Tigers_vs_Lotte_Giants_LotteGiants+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Aguascalientes_vs_Saltillo_Saltillo+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Laguna_vs_Toros_de_Tijuana_TorosdeTijuana+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Tabasco_vs_Bravos_de_Leon_BravosdeLeon+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Yucatan_vs_Veracruz_Veracruz+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Laguna_vs_Toros_de_Tijuana_TorosdeTijuana+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Bravos_de_Leon_vs_Oaxaca_Oaxaca+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Caliente_de_Durango_vs_Jalisco_Jalisco+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Campeche_vs_Veracruz_Veracruz+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Laguna_vs_Aguascalientes_Aguascalientes+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Diablos_Rojos_vs_Tabasco_Tabasco+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Monclova_vs_Toros_de_Tijuana_TorosdeTijuana+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Monterrey_vs_Chihuahua_Chihuahua+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Puebla_vs_Yucatan_Yucatan+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Queretaro_vs_Quintana_Roo_QuintanaRoo+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Saltillo_vs_Dos_Laredos_DosLaredos+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Santiago_de_Cuba_vs_Las_Tunas_LasTunas+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Las_Tunas_vs_Granma_Granma+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Fubon_Guardians_vs_TSG_Hawks_TSGHawks+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Wei_Chuan_Dragons_vs_Chinatrust_Brothers_ChinatrustBrothers+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Fubon_Guardians_vs_TSG_Hawks_TSGHawks+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Rakuten_Monkeys_vs_Uni_Lions_UniLions+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Wei_Chuan_Dragons_vs_Chinatrust_Brothers_ChinatrustBrothers+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Trebic_vs_Draci_Brno_DraciBrno+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Gwinnett_Stripers_vs_Charlotte_Knights_CharlotteKnights+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Buffalo_Bisons_vs_Worcester_Worcester+1.5_runline.png
+✅ Imagen guardada: D:\sampro_v6\beisbol\visuales\imagenes\runline\Rochester_Red_Wings_vs_Durham_Bulls_DurhamBulls+1.5_runline.png
+Traceback (most recent call last):
+  File "D:\sampro_v6\beisbol\scripts\generar_visual_runline.py", line 54, in <module>
+    img.save(ruta)
+    ~~~~~~~~^^^^^^
+  File "C:\Users\mario\AppData\Roaming\Python\Python313\site-packages\PIL\Image.py", line 2576, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\sampro_v6\\beisbol\\visuales\\imagenes\\runline\\Scranton/WB_vs_Toledo_Mud_Hens_ToledoMudHens+1.5_runline.png'
+⛔ Error ejecutando generar_visual_runline.py
+
+🟡 Ejecutando: generar_html_visuales_total_equipo.py
+✅ Página HTML generada: D:\sampro_v6\beisbol\visuales\picks_visuales_2025-05-14.html
+
+🟡 Ejecutando: generar_html_picks_completo.py
+✅ HTML generado: D:\sampro_v6\beisbol\visuales\picks_completos_2025-05-14.html
+
+✅ EJECUCIÓN COMPLETA DEL MÓDULO BÉISBOL.

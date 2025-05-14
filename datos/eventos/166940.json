@@ -1,0 +1,168 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "166940"
+  },
+  "errors": [],
+  "results": 7,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2764,
+        "name": "Pohang Steelers",
+        "logo": "https://media.api-sports.io/football/teams/2764.png"
+      },
+      "player": {
+        "id": 34560,
+        "name": "Dong-Woon Sim"
+      },
+      "assist": {
+        "id": 33952,
+        "name": "Dong-Hyun Yang"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 60,
+        "extra": null
+      },
+      "team": {
+        "id": 2764,
+        "name": "Pohang Steelers",
+        "logo": "https://media.api-sports.io/football/teams/2764.png"
+      },
+      "player": {
+        "id": 99596,
+        "name": "Ji-Soo Hwang"
+      },
+      "assist": {
+        "id": 44639,
+        "name": "Muralha"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 62,
+        "extra": null
+      },
+      "team": {
+        "id": 2756,
+        "name": "Suwon City FC",
+        "logo": "https://media.api-sports.io/football/teams/2756.png"
+      },
+      "player": {
+        "id": 34257,
+        "name": "Jae-An Lee"
+      },
+      "assist": {
+        "id": 99192,
+        "name": "Chang-Gyun Lim"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 67,
+        "extra": null
+      },
+      "team": {
+        "id": 2756,
+        "name": "Suwon City FC",
+        "logo": "https://media.api-sports.io/football/teams/2756.png"
+      },
+      "player": {
+        "id": 34316,
+        "name": "Jae-Hun Hwang"
+      },
+      "assist": {
+        "id": 99603,
+        "name": "Han-Won Kim"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 71,
+        "extra": null
+      },
+      "team": {
+        "id": 2764,
+        "name": "Pohang Steelers",
+        "logo": "https://media.api-sports.io/football/teams/2764.png"
+      },
+      "player": {
+        "id": 15442,
+        "name": "Lulinha"
+      },
+      "assist": {
+        "id": 34518,
+        "name": "Won-Jin Jung"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 76,
+        "extra": null
+      },
+      "team": {
+        "id": 2756,
+        "name": "Suwon City FC",
+        "logo": "https://media.api-sports.io/football/teams/2756.png"
+      },
+      "player": {
+        "id": 34253,
+        "name": "Boo-Gwan Kim"
+      },
+      "assist": {
+        "id": 34799,
+        "name": "Geun-Hwan Kim"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 81,
+        "extra": null
+      },
+      "team": {
+        "id": 2756,
+        "name": "Suwon City FC",
+        "logo": "https://media.api-sports.io/football/teams/2756.png"
+      },
+      "player": {
+        "id": 34170,
+        "name": "Yong-Hyun Kwon"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "166942"
+  },
+  "errors": [],
+  "results": 10,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 23,
+        "extra": null
+      },
+      "team": {
+        "id": 2764,
+        "name": "Pohang Steelers",
+        "logo": "https://media.api-sports.io/football/teams/2764.png"
+      },
+      "player": {
+        "id": 15442,
+        "name": "Lulinha"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Penalty",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 43,
+        "extra": null
+      },
+      "team": {
+        "id": 2764,
+        "name": "Pohang Steelers",
+        "logo": "https://media.api-sports.io/football/teams/2764.png"
+      },
+      "player": {
+        "id": 33952,
+        "name": "Dong-Hyun Yang"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2763,
+        "name": "Incheon United",
+        "logo": "https://media.api-sports.io/football/teams/2763.png"
+      },
+      "player": {
+        "id": 99230,
+        "name": "Do-Hyuk Kim"
+      },
+      "assist": {
+        "id": 34561,
+        "name": "Si-Woo Song"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 50,
+        "extra": null
+      },
+      "team": {
+        "id": 2764,
+        "name": "Pohang Steelers",
+        "logo": "https://media.api-sports.io/football/teams/2764.png"
+      },
+      "player": {
+        "id": 34544,
+        "name": "Soo-Chul Cho"
+      },
+      "assist": {
+        "id": 44639,
+        "name": "Muralha"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 56,
+        "extra": null
+      },
+      "team": {
+        "id": 2763,
+        "name": "Incheon United",
+        "logo": "https://media.api-sports.io/football/teams/2763.png"
+      },
+      "player": {
+        "id": 99354,
+        "name": "Tae-Su Kim"
+      },
+      "assist": {
+        "id": 34555,
+        "name": "Sung-Wook Jin"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 72,
+        "extra": null
+      },
+      "team": {
+        "id": 2763,
+        "name": "Incheon United",
+        "logo": "https://media.api-sports.io/football/teams/2763.png"
+      },
+      "player": {
+        "id": 9024,
+        "name": "K. Velkoski"
+      },
+      "assist": {
+        "id": 34535,
+        "name": "Dae-Joong Kim"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 74,
+        "extra": null
+      },
+      "team": {
+        "id": 2764,
+        "name": "Pohang Steelers",
+        "logo": "https://media.api-sports.io/football/teams/2764.png"
+      },
+      "player": {
+        "id": 15442,
+        "name": "Lulinha"
+      },
+      "assist": {
+        "id": 89052,
+        "name": "L. Veselinovi\u0107"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 77,
+        "extra": null
+      },
+      "team": {
+        "id": 2763,
+        "name": "Incheon United",
+        "logo": "https://media.api-sports.io/football/teams/2763.png"
+      },
+      "player": {
+        "id": 91806,
+        "name": "K. Oris"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 79,
+        "extra": null
+      },
+      "team": {
+        "id": 2764,
+        "name": "Pohang Steelers",
+        "logo": "https://media.api-sports.io/football/teams/2764.png"
+      },
+      "player": {
+        "id": 33952,
+        "name": "Dong-Hyun Yang"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 82,
+        "extra": null
+      },
+      "team": {
+        "id": 2764,
+        "name": "Pohang Steelers",
+        "logo": "https://media.api-sports.io/football/teams/2764.png"
+      },
+      "player": {
+        "id": 99596,
+        "name": "Ji-Soo Hwang"
+      },
+      "assist": {
+        "id": 34585,
+        "name": "Sun-Yong Park"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ]
+}

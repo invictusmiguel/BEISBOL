@@ -1,0 +1,160 @@
+{
+  "get": "fixtures/statistics",
+  "parameters": {
+    "fixture": "169186"
+  },
+  "errors": [],
+  "results": 2,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "team": {
+        "id": 2298,
+        "name": "FC Juarez",
+        "logo": "https://media.api-sports.io/football/teams/2298.png"
+      },
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 3
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 7
+        },
+        {
+          "type": "Total Shots",
+          "value": 19
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 9
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 12
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 7
+        },
+        {
+          "type": "Fouls",
+          "value": 13
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 11
+        },
+        {
+          "type": "Offsides",
+          "value": 3
+        },
+        {
+          "type": "Ball Possession",
+          "value": "53%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 0
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 4
+        },
+        {
+          "type": "Total passes",
+          "value": 331
+        },
+        {
+          "type": "Passes accurate",
+          "value": 259
+        },
+        {
+          "type": "Passes %",
+          "value": "78%"
+        }
+      ]
+    },
+    {
+      "team": {
+        "id": 2314,
+        "name": "Atletico San Luis",
+        "logo": "https://media.api-sports.io/football/teams/2314.png"
+      },
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 6
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 3
+        },
+        {
+          "type": "Total Shots",
+          "value": 10
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 1
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 4
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 6
+        },
+        {
+          "type": "Fouls",
+          "value": 15
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 2
+        },
+        {
+          "type": "Offsides",
+          "value": 0
+        },
+        {
+          "type": "Ball Possession",
+          "value": "47%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 2
+        },
+        {
+          "type": "Total passes",
+          "value": 316
+        },
+        {
+          "type": "Passes accurate",
+          "value": 241
+        },
+        {
+          "type": "Passes %",
+          "value": "76%"
+        }
+      ]
+    }
+  ]
+}

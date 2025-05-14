@@ -1,0 +1,190 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "166010"
+  },
+  "errors": [],
+  "results": 8,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 10,
+        "extra": null
+      },
+      "team": {
+        "id": 414,
+        "name": "Roda",
+        "logo": "https://media.api-sports.io/football/teams/414.png"
+      },
+      "player": {
+        "id": 24953,
+        "name": "Yann Bisseck"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 423,
+        "name": "FC OSS",
+        "logo": "https://media.api-sports.io/football/teams/423.png"
+      },
+      "player": {
+        "id": 37827,
+        "name": "R. Stuij van den Herik"
+      },
+      "assist": {
+        "id": 37826,
+        "name": "L. Piqu\u00e9"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 67,
+        "extra": null
+      },
+      "team": {
+        "id": 423,
+        "name": "FC OSS",
+        "logo": "https://media.api-sports.io/football/teams/423.png"
+      },
+      "player": {
+        "id": 38697,
+        "name": "G. Damen"
+      },
+      "assist": {
+        "id": 62796,
+        "name": "S. Bulut"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 70,
+        "extra": null
+      },
+      "team": {
+        "id": 414,
+        "name": "Roda",
+        "logo": "https://media.api-sports.io/football/teams/414.png"
+      },
+      "player": {
+        "id": 67861,
+        "name": "R. Roesch"
+      },
+      "assist": {
+        "id": 37082,
+        "name": "M. Remans"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 83,
+        "extra": null
+      },
+      "team": {
+        "id": 414,
+        "name": "Roda",
+        "logo": "https://media.api-sports.io/football/teams/414.png"
+      },
+      "player": {
+        "id": 24953,
+        "name": "Y. Bisseck"
+      },
+      "assist": {
+        "id": 37062,
+        "name": "R. Jensen"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 88,
+        "extra": null
+      },
+      "team": {
+        "id": 414,
+        "name": "Roda",
+        "logo": "https://media.api-sports.io/football/teams/414.png"
+      },
+      "player": {
+        "id": 37064,
+        "name": "Pepijn Schlosser"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": null
+      },
+      "team": {
+        "id": 423,
+        "name": "FC OSS",
+        "logo": "https://media.api-sports.io/football/teams/423.png"
+      },
+      "player": {
+        "id": 37828,
+        "name": "Dean van der Sluys"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 1
+      },
+      "team": {
+        "id": 423,
+        "name": "FC OSS",
+        "logo": "https://media.api-sports.io/football/teams/423.png"
+      },
+      "player": {
+        "id": 37761,
+        "name": "C. Peters"
+      },
+      "assist": {
+        "id": 61976,
+        "name": "C. \u00c7elik"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ]
+}

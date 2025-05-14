@@ -1,0 +1,190 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163904"
+  },
+  "errors": [],
+  "results": 8,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2558,
+        "name": "Comerciantes Unidos",
+        "logo": "https://media.api-sports.io/football/teams/2558.png"
+      },
+      "player": {
+        "id": 39968,
+        "name": "A. Carnero"
+      },
+      "assist": {
+        "id": 40013,
+        "name": "G. Panduro"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 52,
+        "extra": null
+      },
+      "team": {
+        "id": 4226,
+        "name": "Santos",
+        "logo": "https://media.api-sports.io/football/teams/4226.png"
+      },
+      "player": {
+        "id": 95800,
+        "name": "K. Barrios"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 55,
+        "extra": null
+      },
+      "team": {
+        "id": 2558,
+        "name": "Comerciantes Unidos",
+        "logo": "https://media.api-sports.io/football/teams/2558.png"
+      },
+      "player": {
+        "id": 40011,
+        "name": "F. Gil"
+      },
+      "assist": {
+        "id": 40012,
+        "name": "J. Palacios"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 62,
+        "extra": null
+      },
+      "team": {
+        "id": 2558,
+        "name": "Comerciantes Unidos",
+        "logo": "https://media.api-sports.io/football/teams/2558.png"
+      },
+      "player": {
+        "id": 40009,
+        "name": "J. Urteaga"
+      },
+      "assist": {
+        "id": 67908,
+        "name": "J. Goicochea"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 63,
+        "extra": null
+      },
+      "team": {
+        "id": 4226,
+        "name": "Santos",
+        "logo": "https://media.api-sports.io/football/teams/4226.png"
+      },
+      "player": {
+        "id": 95807,
+        "name": "V. Castrill\u00f3n"
+      },
+      "assist": {
+        "id": 95802,
+        "name": "L. Spataro"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 65,
+        "extra": null
+      },
+      "team": {
+        "id": 4226,
+        "name": "Santos",
+        "logo": "https://media.api-sports.io/football/teams/4226.png"
+      },
+      "player": {
+        "id": 95809,
+        "name": "J. Falcon\u00ed"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 86,
+        "extra": null
+      },
+      "team": {
+        "id": 4226,
+        "name": "Santos",
+        "logo": "https://media.api-sports.io/football/teams/4226.png"
+      },
+      "player": {
+        "id": 95799,
+        "name": "M. Ahmed"
+      },
+      "assist": {
+        "id": 125204,
+        "name": "F. Ram\u00edrez"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 3
+      },
+      "team": {
+        "id": 4226,
+        "name": "Santos",
+        "logo": "https://media.api-sports.io/football/teams/4226.png"
+      },
+      "player": {
+        "id": 95801,
+        "name": "P. Serra"
+      },
+      "assist": {
+        "id": 95757,
+        "name": "P. Alva"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ]
+}

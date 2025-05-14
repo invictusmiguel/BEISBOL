@@ -1,0 +1,18 @@
+{
+  "id": 14,
+  "name": "Match Winner",
+  "values": [
+    {
+      "value": "Home",
+      "odd": "1.30"
+    },
+    {
+      "value": "Draw",
+      "odd": "12.00"
+    },
+    {
+      "value": "Away",
+      "odd": "4.00"
+    }
+  ]
+}

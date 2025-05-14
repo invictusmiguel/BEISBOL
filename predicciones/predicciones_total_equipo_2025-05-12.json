@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 163891,
+    "fecha": "2025-05-12T23:10:00+00:00",
+    "equipo": "New York Mets",
+    "λ_estimado": 4.0,
+    "pick": "New York Mets OVER 1.5",
+    "cuota": 1.12,
+    "probabilidad": 0.9084,
+    "valor_esperado": 0.0174
+  },
+  {
+    "id": 163891,
+    "fecha": "2025-05-12T23:10:00+00:00",
+    "equipo": "New York Mets",
+    "λ_estimado": 4.0,
+    "pick": "New York Mets UNDER 1.5",
+    "cuota": 5.75,
+    "probabilidad": 0.0916,
+    "valor_esperado": -0.4733
+  },
+  {
+    "id": 163891,
+    "fecha": "2025-05-12T23:10:00+00:00",
+    "equipo": "New York Mets",
+    "λ_estimado": 4.0,
+    "pick": "New York Mets OVER 2.5",
+    "cuota": 1.31,
+    "probabilidad": 0.7619,
+    "valor_esperado": -0.0019
+  },
+  {
+    "id": 163891,
+    "fecha": "2025-05-12T23:10:00+00:00",
+    "equipo": "New York Mets",
+    "λ_estimado": 4.0,
+    "pick": "New York Mets UNDER 2.5",
+    "cuota": 3.2,
+    "probabilidad": 0.2381,
+    "valor_esperado": -0.2381
+  },
+  {
+    "id": 163891,
+    "fecha": "2025-05-12T23:10:00+00:00",
+    "equipo": "New York Mets",
+    "λ_estimado": 4.0,
+    "pick": "New York Mets OVER 3.5",
+    "cuota": 1.68,
+    "probabilidad": 0.5665,
+    "valor_esperado": -0.0483
+  },
+  {
+    "id": 163891,
+    "fecha": "2025-05-12T23:10:00+00:00",
+    "equipo": "New York Mets",
+    "λ_estimado": 4.0,
+    "pick": "New York Mets UNDER 3.5",
+    "cuota": 2.15,
+    "probabilidad": 0.4335,
+    "valor_esperado": -0.068
+  },
+  {
+    "id": 163891,
+    "fecha": "2025-05-12T23:10:00+00:00",
+    "equipo": "New York Mets",
+    "λ_estimado": 4.0,
+    "pick": "New York Mets OVER 0.5",
+    "cuota": 1.02,
+    "probabilidad": 0.9817,
+    "valor_esperado": 0.0013
+  },
+  {
+    "id": 163891,
+    "fecha": "2025-05-12T23:10:00+00:00",
+    "equipo": "New York Mets",
+    "λ_estimado": 4.0,
+    "pick": "New York Mets UNDER 0.5",
+    "cuota": 13.0,
+    "probabilidad": 0.0183,
+    "valor_esperado": -0.7621
+  },
+  {
+    "id": 163891,
+    "fecha": "2025-05-12T23:10:00+00:00",
+    "equipo": "New York Mets",
+    "λ_estimado": 4.0,
+    "pick": "New York Mets OVER 8.5",
+    "cuota": 10.0,
+    "probabilidad": 0.0214,
+    "valor_esperado": -0.786
+  },
+  {
+    "id": 163891,
+    "fecha": "2025-05-12T23:10:00+00:00",
+    "equipo": "New York Mets",
+    "λ_estimado": 4.0,
+    "pick": "New York Mets UNDER 8.5",
+    "cuota": 1.04,
+    "probabilidad": 0.9786,
+    "valor_esperado": 0.0177
+  },
+  {
+    "id": 163891,
+    "fecha": "2025-05-12T23:10:00+00:00",
+    "equipo": "New York Mets",
+    "λ_estimado": 4.0,
+    "pick": "New York Mets OVER 9.5",
+    "cuota": 15.0,
+    "probabilidad": 0.0081,
+    "valor_esperado": -0.8785
+  },
+  {
+    "id": 163891,
+    "fecha": "2025-05-12T23:10:00+00:00",
+    "equipo": "New York Mets",
+    "λ_estimado": 4.0,
+    "pick": "New York Mets UNDER 9.5",
+    "cuota": 1.02,
+    "probabilidad": 0.9919,
+    "valor_esperado": 0.0117
+  },
+  {
+    "id": 163891,
+    "fecha": "2025-05-12T23:10:00+00:00",
+    "equipo": "New York Mets",
+    "λ_estimado": 4.0,
+    "pick": "New York Mets OVER 4.5",
+    "cuota": 2.3,
+    "probabilidad": 0.3712,
+    "valor_esperado": -0.1462
+  },
+  {
+    "id": 163891,
+    "fecha": "2025-05-12T23:10:00+00:00",
+    "equipo": "New York Mets",
+    "λ_estimado": 4.0,
+    "pick": "New York Mets UNDER 4.5",
+    "cuota": 1.57,
+    "probabilidad": 0.6288,
+    "valor_esperado": -0.0128
+  },
+  {
+    "id": 163891,
+    "fecha": "2025-05-12T23:10:00+00:00",
+    "equipo": "New York Mets",
+    "λ_estimado": 4.0,
+    "pick": "New York Mets OVER 7.5",
+    "cuota": 7.25,
+    "probabilidad": 0.0511,
+    "valor_esperado": -0.6295
+  },
+  {
+    "id": 163891,
+    "fecha": "2025-05-12T23:10:00+00:00",
+    "equipo": "New York Mets",
+    "λ_estimado": 4.0,
+    "pick": "New York Mets UNDER 7.5",
+    "cuota": 1.08,
+    "probabilidad": 0.9489,
+    "valor_esperado": 0.0248
+  },
+  {
+    "id": 163891,
+    "fecha": "2025-05-12T23:10:00+00:00",
+    "equipo": "New York Mets",
+    "λ_estimado": 4.0,
+    "pick": "New York Mets OVER 5.5",
+    "cuota": 3.2,
+    "probabilidad": 0.2149,
+    "valor_esperado": -0.3123
+  },
+  {
+    "id": 163891,
+    "fecha": "2025-05-12T23:10:00+00:00",
+    "equipo": "New York Mets",
+    "λ_estimado": 4.0,
+    "pick": "New York Mets UNDER 5.5",
+    "cuota": 1.31,
+    "probabilidad": 0.7851,
+    "valor_esperado": 0.0285
+  },
+  {
+    "id": 163891,
+    "fecha": "2025-05-12T23:10:00+00:00",
+    "equipo": "New York Mets",
+    "λ_estimado": 4.0,
+    "pick": "New York Mets OVER 6.5",
+    "cuota": 4.75,
+    "probabilidad": 0.1107,
+    "valor_esperado": -0.4742
+  },
+  {
+    "id": 163891,
+    "fecha": "2025-05-12T23:10:00+00:00",
+    "equipo": "New York Mets",
+    "λ_estimado": 4.0,
+    "pick": "New York Mets UNDER 6.5",
+    "cuota": 1.16,
+    "probabilidad": 0.8893,
+    "valor_esperado": 0.0316
+  },
+  {
+    "id": 163894,
+    "fecha": "2025-05-12T23:15:00+00:00",
+    "equipo": "Atlanta Braves",
+    "λ_estimado": 4.0,
+    "pick": "Atlanta Braves OVER 1.5",
+    "cuota": 1.05,
+    "probabilidad": 0.9084,
+    "valor_esperado": -0.0462
+  },
+  {
+    "id": 163894,
+    "fecha": "2025-05-12T23:15:00+00:00",
+    "equipo": "Atlanta Braves",
+    "λ_estimado": 4.0,
+    "pick": "Atlanta Braves UNDER 1.5",
+    "cuota": 9.5,
+    "probabilidad": 0.0916,
+    "valor_esperado": -0.1298
+  },
+  {
+    "id": 163894,
+    "fecha": "2025-05-12T23:15:00+00:00",
+    "equipo": "Atlanta Braves",
+    "λ_estimado": 4.0,
+    "pick": "Atlanta Braves OVER 2.5",
+    "cuota": 1.16,
+    "probabilidad": 0.7619,
+    "valor_esperado": -0.1162
+  },
+  {
+    "id": 163894,
+    "fecha": "2025-05-12T23:15:00+00:00",
+    "equipo": "Atlanta Braves",
+    "λ_estimado": 4.0,
+    "pick": "Atlanta Braves UNDER 2.5",
+    "cuota": 4.75,
+    "probabilidad": 0.2381,
+    "valor_esperado": 0.131
+  },
+  {
+    "id": 163894,
+    "fecha": "2025-05-12T23:15:00+00:00",
+    "equipo": "Atlanta Braves",
+    "λ_estimado": 4.0,
+    "pick": "Atlanta Braves OVER 3.5",
+    "cuota": 1.38,
+    "probabilidad": 0.5665,
+    "valor_esperado": -0.2182
+  },
+  {
+    "id": 163894,
+    "fecha": "2025-05-12T23:15:00+00:00",
+    "equipo": "Atlanta Braves",
+    "λ_estimado": 4.0,
+    "pick": "Atlanta Braves UNDER 3.5",
+    "cuota": 2.9,
+    "probabilidad": 0.4335,
+    "valor_esperado": 0.2572
+  },
+  {
+    "id": 163894,
+    "fecha": "2025-05-12T23:15:00+00:00",
+    "equipo": "Atlanta Braves",
+    "λ_estimado": 4.0,
+    "pick": "Atlanta Braves OVER 0.5",
+    "cuota": 1.01,
+    "probabilidad": 0.9817,
+    "valor_esperado": -0.0085
+  },
+  {
+    "id": 163894,
+    "fecha": "2025-05-12T23:15:00+00:00",
+    "equipo": "Atlanta Braves",
+    "λ_estimado": 4.0,
+    "pick": "Atlanta Braves UNDER 0.5",
+    "cuota": 17.5,
+    "probabilidad": 0.0183,
+    "valor_esperado": -0.6798
+  },
+  {
+    "id": 163894,
+    "fecha": "2025-05-12T23:15:00+00:00",
+    "equipo": "Atlanta Braves",
+    "λ_estimado": 4.0,
+    "pick": "Atlanta Braves OVER 8.5",
+    "cuota": 7.0,
+    "probabilidad": 0.0214,
+    "valor_esperado": -0.8502
+  },
+  {
+    "id": 163894,
+    "fecha": "2025-05-12T23:15:00+00:00",
+    "equipo": "Atlanta Braves",
+    "λ_estimado": 4.0,
+    "pick": "Atlanta Braves UNDER 8.5",
+    "cuota": 1.09,
+    "probabilidad": 0.9786,
+    "valor_esperado": 0.0667
+  },
+  {
+    "id": 163894,
+    "fecha": "2025-05-12T23:15:00+00:00",
+    "equipo": "Atlanta Braves",
+    "λ_estimado": 4.0,
+    "pick": "Atlanta Braves OVER 9.5",
+    "cuota": 10.0,
+    "probabilidad": 0.0081,
+    "valor_esperado": -0.919
+  },
+  {
+    "id": 163894,
+    "fecha": "2025-05-12T23:15:00+00:00",
+    "equipo": "Atlanta Braves",
+    "λ_estimado": 4.0,
+    "pick": "Atlanta Braves UNDER 9.5",
+    "cuota": 1.04,
+    "probabilidad": 0.9919,
+    "valor_esperado": 0.0316
+  },
+  {
+    "id": 163894,
+    "fecha": "2025-05-12T23:15:00+00:00",
+    "equipo": "Atlanta Braves",
+    "λ_estimado": 4.0,
+    "pick": "Atlanta Braves OVER 4.5",
+    "cuota": 1.76,
+    "probabilidad": 0.3712,
+    "valor_esperado": -0.3467
+  },
+  {
+    "id": 163894,
+    "fecha": "2025-05-12T23:15:00+00:00",
+    "equipo": "Atlanta Braves",
+    "λ_estimado": 4.0,
+    "pick": "Atlanta Braves UNDER 4.5",
+    "cuota": 2.0,
+    "probabilidad": 0.6288,
+    "valor_esperado": 0.2576
+  },
+  {
+    "id": 163894,
+    "fecha": "2025-05-12T23:15:00+00:00",
+    "equipo": "Atlanta Braves",
+    "λ_estimado": 4.0,
+    "pick": "Atlanta Braves OVER 7.5",
+    "cuota": 4.75,
+    "probabilidad": 0.0511,
+    "valor_esperado": -0.7573
+  },
+  {
+    "id": 163894,
+    "fecha": "2025-05-12T23:15:00+00:00",
+    "equipo": "Atlanta Braves",
+    "λ_estimado": 4.0,
+    "pick": "Atlanta Braves UNDER 7.5",
+    "cuota": 1.16,
+    "probabilidad": 0.9489,
+    "valor_esperado": 0.1007
+  },
+  {
+    "id": 163894,
+    "fecha": "2025-05-12T23:15:00+00:00",
+    "equipo": "Atlanta Braves",
+    "λ_estimado": 4.0,
+    "pick": "Atlanta Braves OVER 5.5",
+    "cuota": 2.35,
+    "probabilidad": 0.2149,
+    "valor_esperado": -0.495
+  },
+  {
+    "id": 163894,
+    "fecha": "2025-05-12T23:15:00+00:00",
+    "equipo": "Atlanta Braves",
+    "λ_estimado": 4.0,
+    "pick": "Atlanta Braves UNDER 5.5",
+    "cuota": 1.55,
+    "probabilidad": 0.7851,
+    "valor_esperado": 0.2169
+  },
+  {
+    "id": 163894,
+    "fecha": "2025-05-12T23:15:00+00:00",
+    "equipo": "Atlanta Braves",
+    "λ_estimado": 4.0,
+    "pick": "Atlanta Braves OVER 6.5",
+    "cuota": 3.2,
+    "probabilidad": 0.1107,
+    "valor_esperado": -0.6458
+  },
+  {
+    "id": 163894,
+    "fecha": "2025-05-12T23:15:00+00:00",
+    "equipo": "Atlanta Braves",
+    "λ_estimado": 4.0,
+    "pick": "Atlanta Braves UNDER 6.5",
+    "cuota": 1.31,
+    "probabilidad": 0.8893,
+    "valor_esperado": 0.165
+  },
+  {
+    "id": 163897,
+    "fecha": "2025-05-12T22:40:00+00:00",
+    "equipo": "Detroit Tigers",
+    "λ_estimado": 4.0,
+    "pick": "Detroit Tigers OVER 1.5",
+    "cuota": 1.13,
+    "probabilidad": 0.9084,
+    "valor_esperado": 0.0265
+  },
+  {
+    "id": 163897,
+    "fecha": "2025-05-12T22:40:00+00:00",
+    "equipo": "Detroit Tigers",
+    "λ_estimado": 4.0,
+    "pick": "Detroit Tigers UNDER 1.5",
+    "cuota": 5.5,
+    "probabilidad": 0.0916,
+    "valor_esperado": -0.4962
+  },
+  {
+    "id": 163897,
+    "fecha": "2025-05-12T22:40:00+00:00",
+    "equipo": "Detroit Tigers",
+    "λ_estimado": 4.0,
+    "pick": "Detroit Tigers OVER 2.5",
+    "cuota": 1.33,
+    "probabilidad": 0.7619,
+    "valor_esperado": 0.0133
+  },
+  {
+    "id": 163897,
+    "fecha": "2025-05-12T22:40:00+00:00",
+    "equipo": "Detroit Tigers",
+    "λ_estimado": 4.0,
+    "pick": "Detroit Tigers UNDER 2.5",
+    "cuota": 3.1,
+    "probabilidad": 0.2381,
+    "valor_esperado": -0.2619
+  },
+  {
+    "id": 163897,
+    "fecha": "2025-05-12T22:40:00+00:00",
+    "equipo": "Detroit Tigers",
+    "λ_estimado": 4.0,
+    "pick": "Detroit Tigers OVER 3.5",
+    "cuota": 1.74,
+    "probabilidad": 0.5665,
+    "valor_esperado": -0.0143
+  },
+  {
+    "id": 163897,
+    "fecha": "2025-05-12T22:40:00+00:00",
+    "equipo": "Detroit Tigers",
+    "λ_estimado": 4.0,
+    "pick": "Detroit Tigers UNDER 3.5",
+    "cuota": 2.05,
+    "probabilidad": 0.4335,
+    "valor_esperado": -0.1113
+  },
+  {
+    "id": 163897,
+    "fecha": "2025-05-12T22:40:00+00:00",
+    "equipo": "Detroit Tigers",
+    "λ_estimado": 4.0,
+    "pick": "Detroit Tigers OVER 0.5",
+    "cuota": 1.03,
+    "probabilidad": 0.9817,
+    "valor_esperado": 0.0112
+  },
+  {
+    "id": 163897,
+    "fecha": "2025-05-12T22:40:00+00:00",
+    "equipo": "Detroit Tigers",
+    "λ_estimado": 4.0,
+    "pick": "Detroit Tigers UNDER 0.5",
+    "cuota": 12.0,
+    "probabilidad": 0.0183,
+    "valor_esperado": -0.7804
+  },
+  {
+    "id": 163897,
+    "fecha": "2025-05-12T22:40:00+00:00",
+    "equipo": "Detroit Tigers",
+    "λ_estimado": 4.0,
+    "pick": "Detroit Tigers OVER 8.5",
+    "cuota": 11.0,
+    "probabilidad": 0.0214,
+    "valor_esperado": -0.7646
+  },
+  {
+    "id": 163897,
+    "fecha": "2025-05-12T22:40:00+00:00",
+    "equipo": "Detroit Tigers",
+    "λ_estimado": 4.0,
+    "pick": "Detroit Tigers UNDER 8.5",
+    "cuota": 1.04,
+    "probabilidad": 0.9786,
+    "valor_esperado": 0.0177
+  },
+  {
+    "id": 163897,
+    "fecha": "2025-05-12T22:40:00+00:00",
+    "equipo": "Detroit Tigers",
+    "λ_estimado": 4.0,
+    "pick": "Detroit Tigers OVER 9.5",
+    "cuota": 15.0,
+    "probabilidad": 0.0081,
+    "valor_esperado": -0.8785
+  },
+  {
+    "id": 163897,
+    "fecha": "2025-05-12T22:40:00+00:00",
+    "equipo": "Detroit Tigers",
+    "λ_estimado": 4.0,
+    "pick": "Detroit Tigers UNDER 9.5",
+    "cuota": 1.02,
+    "probabilidad": 0.9919,
+    "valor_esperado": 0.0117
+  },
+  {
+    "id": 163897,
+    "fecha": "2025-05-12T22:40:00+00:00",
+    "equipo": "Detroit Tigers",
+    "λ_estimado": 4.0,
+    "pick": "Detroit Tigers OVER 4.5",
+    "cuota": 2.35,
+    "probabilidad": 0.3712,
+    "valor_esperado": -0.1277
+  },
+  {
+    "id": 163897,
+    "fecha": "2025-05-12T22:40:00+00:00",
+    "equipo": "Detroit Tigers",
+    "λ_estimado": 4.0,
+    "pick": "Detroit Tigers UNDER 4.5",
+    "cuota": 1.55,
+    "probabilidad": 0.6288,
+    "valor_esperado": -0.0254
+  },
+  {
+    "id": 163897,
+    "fecha": "2025-05-12T22:40:00+00:00",
+    "equipo": "Detroit Tigers",
+    "λ_estimado": 4.0,
+    "pick": "Detroit Tigers OVER 7.5",
+    "cuota": 7.25,
+    "probabilidad": 0.0511,
+    "valor_esperado": -0.6295
+  },
+  {
+    "id": 163897,
+    "fecha": "2025-05-12T22:40:00+00:00",
+    "equipo": "Detroit Tigers",
+    "λ_estimado": 4.0,
+    "pick": "Detroit Tigers UNDER 7.5",
+    "cuota": 1.08,
+    "probabilidad": 0.9489,
+    "valor_esperado": 0.0248
+  },
+  {
+    "id": 163897,
+    "fecha": "2025-05-12T22:40:00+00:00",
+    "equipo": "Detroit Tigers",
+    "λ_estimado": 4.0,
+    "pick": "Detroit Tigers OVER 5.5",
+    "cuota": 3.4,
+    "probabilidad": 0.2149,
+    "valor_esperado": -0.2693
+  },
+  {
+    "id": 163897,
+    "fecha": "2025-05-12T22:40:00+00:00",
+    "equipo": "Detroit Tigers",
+    "λ_estimado": 4.0,
+    "pick": "Detroit Tigers UNDER 5.5",
+    "cuota": 1.29,
+    "probabilidad": 0.7851,
+    "valor_esperado": 0.0128
+  },
+  {
+    "id": 163897,
+    "fecha": "2025-05-12T22:40:00+00:00",
+    "equipo": "Detroit Tigers",
+    "λ_estimado": 4.0,
+    "pick": "Detroit Tigers OVER 6.5",
+    "cuota": 5.0,
+    "probabilidad": 0.1107,
+    "valor_esperado": -0.4465
+  },
+  {
+    "id": 163897,
+    "fecha": "2025-05-12T22:40:00+00:00",
+    "equipo": "Detroit Tigers",
+    "λ_estimado": 4.0,
+    "pick": "Detroit Tigers UNDER 6.5",
+    "cuota": 1.15,
+    "probabilidad": 0.8893,
+    "valor_esperado": 0.0227
+  },
+  {
+    "id": 163898,
+    "fecha": "2025-05-12T22:10:00+00:00",
+    "equipo": "Cleveland Guardians",
+    "λ_estimado": 4.0,
+    "pick": "Cleveland Guardians OVER 1.5",
+    "cuota": 1.12,
+    "probabilidad": 0.9084,
+    "valor_esperado": 0.0174
+  },
+  {
+    "id": 163898,
+    "fecha": "2025-05-12T22:10:00+00:00",
+    "equipo": "Cleveland Guardians",
+    "λ_estimado": 4.0,
+    "pick": "Cleveland Guardians UNDER 1.5",
+    "cuota": 5.75,
+    "probabilidad": 0.0916,
+    "valor_esperado": -0.4733
+  },
+  {
+    "id": 163898,
+    "fecha": "2025-05-12T22:10:00+00:00",
+    "equipo": "Cleveland Guardians",
+    "λ_estimado": 4.0,
+    "pick": "Cleveland Guardians OVER 2.5",
+    "cuota": 1.31,
+    "probabilidad": 0.7619,
+    "valor_esperado": -0.0019
+  },
+  {
+    "id": 163898,
+    "fecha": "2025-05-12T22:10:00+00:00",
+    "equipo": "Cleveland Guardians",
+    "λ_estimado": 4.0,
+    "pick": "Cleveland Guardians UNDER 2.5",
+    "cuota": 3.2,
+    "probabilidad": 0.2381,
+    "valor_esperado": -0.2381
+  },
+  {
+    "id": 163898,
+    "fecha": "2025-05-12T22:10:00+00:00",
+    "equipo": "Cleveland Guardians",
+    "λ_estimado": 4.0,
+    "pick": "Cleveland Guardians OVER 3.5",
+    "cuota": 1.68,
+    "probabilidad": 0.5665,
+    "valor_esperado": -0.0483
+  },
+  {
+    "id": 163898,
+    "fecha": "2025-05-12T22:10:00+00:00",
+    "equipo": "Cleveland Guardians",
+    "λ_estimado": 4.0,
+    "pick": "Cleveland Guardians UNDER 3.5",
+    "cuota": 2.15,
+    "probabilidad": 0.4335,
+    "valor_esperado": -0.068
+  },
+  {
+    "id": 163898,
+    "fecha": "2025-05-12T22:10:00+00:00",
+    "equipo": "Cleveland Guardians",
+    "λ_estimado": 4.0,
+    "pick": "Cleveland Guardians OVER 0.5",
+    "cuota": 1.02,
+    "probabilidad": 0.9817,
+    "valor_esperado": 0.0013
+  },
+  {
+    "id": 163898,
+    "fecha": "2025-05-12T22:10:00+00:00",
+    "equipo": "Cleveland Guardians",
+    "λ_estimado": 4.0,
+    "pick": "Cleveland Guardians UNDER 0.5",
+    "cuota": 13.0,
+    "probabilidad": 0.0183,
+    "valor_esperado": -0.7621
+  },
+  {
+    "id": 163898,
+    "fecha": "2025-05-12T22:10:00+00:00",
+    "equipo": "Cleveland Guardians",
+    "λ_estimado": 4.0,
+    "pick": "Cleveland Guardians OVER 8.5",
+    "cuota": 9.5,
+    "probabilidad": 0.0214,
+    "valor_esperado": -0.7967
+  },
+  {
+    "id": 163898,
+    "fecha": "2025-05-12T22:10:00+00:00",
+    "equipo": "Cleveland Guardians",
+    "λ_estimado": 4.0,
+    "pick": "Cleveland Guardians UNDER 8.5",
+    "cuota": 1.05,
+    "probabilidad": 0.9786,
+    "valor_esperado": 0.0275
+  },
+  {
+    "id": 163898,
+    "fecha": "2025-05-12T22:10:00+00:00",
+    "equipo": "Cleveland Guardians",
+    "λ_estimado": 4.0,
+    "pick": "Cleveland Guardians OVER 9.5",
+    "cuota": 13.0,
+    "probabilidad": 0.0081,
+    "valor_esperado": -0.8947
+  },
+  {
+    "id": 163898,
+    "fecha": "2025-05-12T22:10:00+00:00",
+    "equipo": "Cleveland Guardians",
+    "λ_estimado": 4.0,
+    "pick": "Cleveland Guardians UNDER 9.5",
+    "cuota": 1.02,
+    "probabilidad": 0.9919,
+    "valor_esperado": 0.0117
+  },
+  {
+    "id": 163898,
+    "fecha": "2025-05-12T22:10:00+00:00",
+    "equipo": "Cleveland Guardians",
+    "λ_estimado": 4.0,
+    "pick": "Cleveland Guardians OVER 4.5",
+    "cuota": 2.25,
+    "probabilidad": 0.3712,
+    "valor_esperado": -0.1648
+  },
+  {
+    "id": 163898,
+    "fecha": "2025-05-12T22:10:00+00:00",
+    "equipo": "Cleveland Guardians",
+    "λ_estimado": 4.0,
+    "pick": "Cleveland Guardians UNDER 4.5",
+    "cuota": 1.6,
+    "probabilidad": 0.6288,
+    "valor_esperado": 0.0061
+  },
+  {
+    "id": 163898,
+    "fecha": "2025-05-12T22:10:00+00:00",
+    "equipo": "Cleveland Guardians",
+    "λ_estimado": 4.0,
+    "pick": "Cleveland Guardians OVER 7.5",
+    "cuota": 6.75,
+    "probabilidad": 0.0511,
+    "valor_esperado": -0.6551
+  },
+  {
+    "id": 163898,
+    "fecha": "2025-05-12T22:10:00+00:00",
+    "equipo": "Cleveland Guardians",
+    "λ_estimado": 4.0,
+    "pick": "Cleveland Guardians UNDER 7.5",
+    "cuota": 1.1,
+    "probabilidad": 0.9489,
+    "valor_esperado": 0.0438
+  },
+  {
+    "id": 163898,
+    "fecha": "2025-05-12T22:10:00+00:00",
+    "equipo": "Cleveland Guardians",
+    "λ_estimado": 4.0,
+    "pick": "Cleveland Guardians OVER 5.5",
+    "cuota": 3.1,
+    "probabilidad": 0.2149,
+    "valor_esperado": -0.3338
+  },
+  {
+    "id": 163898,
+    "fecha": "2025-05-12T22:10:00+00:00",
+    "equipo": "Cleveland Guardians",
+    "λ_estimado": 4.0,
+    "pick": "Cleveland Guardians UNDER 5.5",
+    "cuota": 1.33,
+    "probabilidad": 0.7851,
+    "valor_esperado": 0.0442
+  },
+  {
+    "id": 163898,
+    "fecha": "2025-05-12T22:10:00+00:00",
+    "equipo": "Cleveland Guardians",
+    "λ_estimado": 4.0,
+    "pick": "Cleveland Guardians OVER 6.5",
+    "cuota": 4.5,
+    "probabilidad": 0.1107,
+    "valor_esperado": -0.5018
+  },
+  {
+    "id": 163898,
+    "fecha": "2025-05-12T22:10:00+00:00",
+    "equipo": "Cleveland Guardians",
+    "λ_estimado": 4.0,
+    "pick": "Cleveland Guardians UNDER 6.5",
+    "cuota": 1.18,
+    "probabilidad": 0.8893,
+    "valor_esperado": 0.0494
+  },
+  {
+    "id": 163900,
+    "fecha": "2025-05-12T22:45:00+00:00",
+    "equipo": "Philadelphia Phillies",
+    "λ_estimado": 4.0,
+    "pick": "Philadelphia Phillies OVER 1.5",
+    "cuota": 1.06,
+    "probabilidad": 0.9084,
+    "valor_esperado": -0.0371
+  },
+  {
+    "id": 163900,
+    "fecha": "2025-05-12T22:45:00+00:00",
+    "equipo": "Philadelphia Phillies",
+    "λ_estimado": 4.0,
+    "pick": "Philadelphia Phillies UNDER 1.5",
+    "cuota": 9.0,
+    "probabilidad": 0.0916,
+    "valor_esperado": -0.1756
+  },
+  {
+    "id": 163900,
+    "fecha": "2025-05-12T22:45:00+00:00",
+    "equipo": "Philadelphia Phillies",
+    "λ_estimado": 4.0,
+    "pick": "Philadelphia Phillies OVER 2.5",
+    "cuota": 1.18,
+    "probabilidad": 0.7619,
+    "valor_esperado": -0.101
+  },
+  {
+    "id": 163900,
+    "fecha": "2025-05-12T22:45:00+00:00",
+    "equipo": "Philadelphia Phillies",
+    "λ_estimado": 4.0,
+    "pick": "Philadelphia Phillies UNDER 2.5",
+    "cuota": 4.5,
+    "probabilidad": 0.2381,
+    "valor_esperado": 0.0715
+  },
+  {
+    "id": 163900,
+    "fecha": "2025-05-12T22:45:00+00:00",
+    "equipo": "Philadelphia Phillies",
+    "λ_estimado": 4.0,
+    "pick": "Philadelphia Phillies OVER 3.5",
+    "cuota": 1.4,
+    "probabilidad": 0.5665,
+    "valor_esperado": -0.2069
+  },
+  {
+    "id": 163900,
+    "fecha": "2025-05-12T22:45:00+00:00",
+    "equipo": "Philadelphia Phillies",
+    "λ_estimado": 4.0,
+    "pick": "Philadelphia Phillies UNDER 3.5",
+    "cuota": 2.85,
+    "probabilidad": 0.4335,
+    "valor_esperado": 0.2355
+  },
+  {
+    "id": 163900,
+    "fecha": "2025-05-12T22:45:00+00:00",
+    "equipo": "Philadelphia Phillies",
+    "λ_estimado": 4.0,
+    "pick": "Philadelphia Phillies OVER 0.5",
+    "cuota": 1.01,
+    "probabilidad": 0.9817,
+    "valor_esperado": -0.0085
+  },
+  {
+    "id": 163900,
+    "fecha": "2025-05-12T22:45:00+00:00",
+    "equipo": "Philadelphia Phillies",
+    "λ_estimado": 4.0,
+    "pick": "Philadelphia Phillies UNDER 0.5",
+    "cuota": 17.0,
+    "probabilidad": 0.0183,
+    "valor_esperado": -0.6889
+  },
+  {
+    "id": 163900,
+    "fecha": "2025-05-12T22:45:00+00:00",
+    "equipo": "Philadelphia Phillies",
+    "λ_estimado": 4.0,
+    "pick": "Philadelphia Phillies OVER 8.5",
+    "cuota": 7.25,
+    "probabilidad": 0.0214,
+    "valor_esperado": -0.8448
+  },
+  {
+    "id": 163900,
+    "fecha": "2025-05-12T22:45:00+00:00",
+    "equipo": "Philadelphia Phillies",
+    "λ_estimado": 4.0,
+    "pick": "Philadelphia Phillies UNDER 8.5",
+    "cuota": 1.08,
+    "probabilidad": 0.9786,
+    "valor_esperado": 0.0569
+  },
+  {
+    "id": 163900,
+    "fecha": "2025-05-12T22:45:00+00:00",
+    "equipo": "Philadelphia Phillies",
+    "λ_estimado": 4.0,
+    "pick": "Philadelphia Phillies OVER 9.5",
+    "cuota": 10.0,
+    "probabilidad": 0.0081,
+    "valor_esperado": -0.919
+  },
+  {
+    "id": 163900,
+    "fecha": "2025-05-12T22:45:00+00:00",
+    "equipo": "Philadelphia Phillies",
+    "λ_estimado": 4.0,
+    "pick": "Philadelphia Phillies UNDER 9.5",
+    "cuota": 1.04,
+    "probabilidad": 0.9919,
+    "valor_esperado": 0.0316
+  },
+  {
+    "id": 163900,
+    "fecha": "2025-05-12T22:45:00+00:00",
+    "equipo": "Philadelphia Phillies",
+    "λ_estimado": 4.0,
+    "pick": "Philadelphia Phillies OVER 4.5",
+    "cuota": 1.8,
+    "probabilidad": 0.3712,
+    "valor_esperado": -0.3318
+  },
+  {
+    "id": 163900,
+    "fecha": "2025-05-12T22:45:00+00:00",
+    "equipo": "Philadelphia Phillies",
+    "λ_estimado": 4.0,
+    "pick": "Philadelphia Phillies UNDER 4.5",
+    "cuota": 1.95,
+    "probabilidad": 0.6288,
+    "valor_esperado": 0.2262
+  },
+  {
+    "id": 163900,
+    "fecha": "2025-05-12T22:45:00+00:00",
+    "equipo": "Philadelphia Phillies",
+    "λ_estimado": 4.0,
+    "pick": "Philadelphia Phillies OVER 7.5",
+    "cuota": 5.0,
+    "probabilidad": 0.0511,
+    "valor_esperado": -0.7445
+  },
+  {
+    "id": 163900,
+    "fecha": "2025-05-12T22:45:00+00:00",
+    "equipo": "Philadelphia Phillies",
+    "λ_estimado": 4.0,
+    "pick": "Philadelphia Phillies UNDER 7.5",
+    "cuota": 1.15,
+    "probabilidad": 0.9489,
+    "valor_esperado": 0.0912
+  },
+  {
+    "id": 163900,
+    "fecha": "2025-05-12T22:45:00+00:00",
+    "equipo": "Philadelphia Phillies",
+    "λ_estimado": 4.0,
+    "pick": "Philadelphia Phillies OVER 5.5",
+    "cuota": 2.4,
+    "probabilidad": 0.2149,
+    "valor_esperado": -0.4842
+  },
+  {
+    "id": 163900,
+    "fecha": "2025-05-12T22:45:00+00:00",
+    "equipo": "Philadelphia Phillies",
+    "λ_estimado": 4.0,
+    "pick": "Philadelphia Phillies UNDER 5.5",
+    "cuota": 1.52,
+    "probabilidad": 0.7851,
+    "valor_esperado": 0.1934
+  },
+  {
+    "id": 163900,
+    "fecha": "2025-05-12T22:45:00+00:00",
+    "equipo": "Philadelphia Phillies",
+    "λ_estimado": 4.0,
+    "pick": "Philadelphia Phillies OVER 6.5",
+    "cuota": 3.4,
+    "probabilidad": 0.1107,
+    "valor_esperado": -0.6236
+  },
+  {
+    "id": 163900,
+    "fecha": "2025-05-12T22:45:00+00:00",
+    "equipo": "Philadelphia Phillies",
+    "λ_estimado": 4.0,
+    "pick": "Philadelphia Phillies UNDER 6.5",
+    "cuota": 1.29,
+    "probabilidad": 0.8893,
+    "valor_esperado": 0.1472
+  },
+  {
+    "id": 163901,
+    "fecha": "2025-05-12T23:40:00+00:00",
+    "equipo": "Chicago Cubs",
+    "λ_estimado": 4.0,
+    "pick": "Chicago Cubs OVER 1.5",
+    "cuota": 1.05,
+    "probabilidad": 0.9084,
+    "valor_esperado": -0.0462
+  },
+  {
+    "id": 163901,
+    "fecha": "2025-05-12T23:40:00+00:00",
+    "equipo": "Chicago Cubs",
+    "λ_estimado": 4.0,
+    "pick": "Chicago Cubs UNDER 1.5",
+    "cuota": 9.5,
+    "probabilidad": 0.0916,
+    "valor_esperado": -0.1298
+  },
+  {
+    "id": 163901,
+    "fecha": "2025-05-12T23:40:00+00:00",
+    "equipo": "Chicago Cubs",
+    "λ_estimado": 4.0,
+    "pick": "Chicago Cubs OVER 2.5",
+    "cuota": 1.15,
+    "probabilidad": 0.7619,
+    "valor_esperado": -0.1238
+  },
+  {
+    "id": 163901,
+    "fecha": "2025-05-12T23:40:00+00:00",
+    "equipo": "Chicago Cubs",
+    "λ_estimado": 4.0,
+    "pick": "Chicago Cubs UNDER 2.5",
+    "cuota": 5.0,
+    "probabilidad": 0.2381,
+    "valor_esperado": 0.1905
+  },
+  {
+    "id": 163901,
+    "fecha": "2025-05-12T23:40:00+00:00",
+    "equipo": "Chicago Cubs",
+    "λ_estimado": 4.0,
+    "pick": "Chicago Cubs OVER 3.5",
+    "cuota": 1.36,
+    "probabilidad": 0.5665,
+    "valor_esperado": -0.2296
+  },
+  {
+    "id": 163901,
+    "fecha": "2025-05-12T23:40:00+00:00",
+    "equipo": "Chicago Cubs",
+    "λ_estimado": 4.0,
+    "pick": "Chicago Cubs UNDER 3.5",
+    "cuota": 3.0,
+    "probabilidad": 0.4335,
+    "valor_esperado": 0.3005
+  },
+  {
+    "id": 163901,
+    "fecha": "2025-05-12T23:40:00+00:00",
+    "equipo": "Chicago Cubs",
+    "λ_estimado": 4.0,
+    "pick": "Chicago Cubs OVER 0.5",
+    "cuota": 1.01,
+    "probabilidad": 0.9817,
+    "valor_esperado": -0.0085
+  },
+  {
+    "id": 163901,
+    "fecha": "2025-05-12T23:40:00+00:00",
+    "equipo": "Chicago Cubs",
+    "λ_estimado": 4.0,
+    "pick": "Chicago Cubs UNDER 0.5",
+    "cuota": 17.5,
+    "probabilidad": 0.0183,
+    "valor_esperado": -0.6798
+  },
+  {
+    "id": 163901,
+    "fecha": "2025-05-12T23:40:00+00:00",
+    "equipo": "Chicago Cubs",
+    "λ_estimado": 4.0,
+    "pick": "Chicago Cubs OVER 8.5",
+    "cuota": 6.75,
+    "probabilidad": 0.0214,
+    "valor_esperado": -0.8556
+  },
+  {
+    "id": 163901,
+    "fecha": "2025-05-12T23:40:00+00:00",
+    "equipo": "Chicago Cubs",
+    "λ_estimado": 4.0,
+    "pick": "Chicago Cubs UNDER 8.5",
+    "cuota": 1.1,
+    "probabilidad": 0.9786,
+    "valor_esperado": 0.0765
+  },
+  {
+    "id": 163901,
+    "fecha": "2025-05-12T23:40:00+00:00",
+    "equipo": "Chicago Cubs",
+    "λ_estimado": 4.0,
+    "pick": "Chicago Cubs OVER 9.5",
+    "cuota": 9.5,
+    "probabilidad": 0.0081,
+    "valor_esperado": -0.923
+  },
+  {
+    "id": 163901,
+    "fecha": "2025-05-12T23:40:00+00:00",
+    "equipo": "Chicago Cubs",
+    "λ_estimado": 4.0,
+    "pick": "Chicago Cubs UNDER 9.5",
+    "cuota": 1.05,
+    "probabilidad": 0.9919,
+    "valor_esperado": 0.0415
+  },
+  {
+    "id": 163901,
+    "fecha": "2025-05-12T23:40:00+00:00",
+    "equipo": "Chicago Cubs",
+    "λ_estimado": 4.0,
+    "pick": "Chicago Cubs OVER 4.5",
+    "cuota": 1.74,
+    "probabilidad": 0.3712,
+    "valor_esperado": -0.3541
+  },
+  {
+    "id": 163901,
+    "fecha": "2025-05-12T23:40:00+00:00",
+    "equipo": "Chicago Cubs",
+    "λ_estimado": 4.0,
+    "pick": "Chicago Cubs UNDER 4.5",
+    "cuota": 2.05,
+    "probabilidad": 0.6288,
+    "valor_esperado": 0.289
+  },
+  {
+    "id": 163901,
+    "fecha": "2025-05-12T23:40:00+00:00",
+    "equipo": "Chicago Cubs",
+    "λ_estimado": 4.0,
+    "pick": "Chicago Cubs OVER 7.5",
+    "cuota": 4.5,
+    "probabilidad": 0.0511,
+    "valor_esperado": -0.77
+  },
+  {
+    "id": 163901,
+    "fecha": "2025-05-12T23:40:00+00:00",
+    "equipo": "Chicago Cubs",
+    "λ_estimado": 4.0,
+    "pick": "Chicago Cubs UNDER 7.5",
+    "cuota": 1.18,
+    "probabilidad": 0.9489,
+    "valor_esperado": 0.1197
+  },
+  {
+    "id": 163901,
+    "fecha": "2025-05-12T23:40:00+00:00",
+    "equipo": "Chicago Cubs",
+    "λ_estimado": 4.0,
+    "pick": "Chicago Cubs OVER 5.5",
+    "cuota": 2.3,
+    "probabilidad": 0.2149,
+    "valor_esperado": -0.5057
+  },
+  {
+    "id": 163901,
+    "fecha": "2025-05-12T23:40:00+00:00",
+    "equipo": "Chicago Cubs",
+    "λ_estimado": 4.0,
+    "pick": "Chicago Cubs UNDER 5.5",
+    "cuota": 1.57,
+    "probabilidad": 0.7851,
+    "valor_esperado": 0.2326
+  },
+  {
+    "id": 163901,
+    "fecha": "2025-05-12T23:40:00+00:00",
+    "equipo": "Chicago Cubs",
+    "λ_estimado": 4.0,
+    "pick": "Chicago Cubs OVER 6.5",
+    "cuota": 3.15,
+    "probabilidad": 0.1107,
+    "valor_esperado": -0.6513
+  },
+  {
+    "id": 163901,
+    "fecha": "2025-05-12T23:40:00+00:00",
+    "equipo": "Chicago Cubs",
+    "λ_estimado": 4.0,
+    "pick": "Chicago Cubs UNDER 6.5",
+    "cuota": 1.32,
+    "probabilidad": 0.8893,
+    "valor_esperado": 0.1739
+  },
+  {
+    "id": 169176,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "equipo": "Aguascalientes",
+    "λ_estimado": 4.0,
+    "pick": "Aguascalientes OVER 7.0",
+    "cuota": 2.05,
+    "probabilidad": 0.0511,
+    "valor_esperado": -0.8952
+  },
+  {
+    "id": 169176,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "equipo": "Aguascalientes",
+    "λ_estimado": 4.0,
+    "pick": "Aguascalientes UNDER 7.0",
+    "cuota": 1.67,
+    "probabilidad": 0.9489,
+    "valor_esperado": 0.5847
+  },
+  {
+    "id": 169176,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "equipo": "Aguascalientes",
+    "λ_estimado": 4.0,
+    "pick": "Aguascalientes OVER 6.0",
+    "cuota": 1.64,
+    "probabilidad": 0.1107,
+    "valor_esperado": -0.8185
+  },
+  {
+    "id": 169176,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "equipo": "Aguascalientes",
+    "λ_estimado": 4.0,
+    "pick": "Aguascalientes UNDER 6.0",
+    "cuota": 2.1,
+    "probabilidad": 0.8893,
+    "valor_esperado": 0.8675
+  },
+  {
+    "id": 169176,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "equipo": "Aguascalientes",
+    "λ_estimado": 4.0,
+    "pick": "Aguascalientes OVER 6.5",
+    "cuota": 1.83,
+    "probabilidad": 0.1107,
+    "valor_esperado": -0.7974
+  },
+  {
+    "id": 169176,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "equipo": "Aguascalientes",
+    "λ_estimado": 4.0,
+    "pick": "Aguascalientes UNDER 6.5",
+    "cuota": 1.85,
+    "probabilidad": 0.8893,
+    "valor_esperado": 0.6452
+  },
+  {
+    "id": 169180,
+    "fecha": "2025-05-12T00:30:00+00:00",
+    "equipo": "Laguna",
+    "λ_estimado": 4.0,
+    "pick": "Laguna OVER 4.0",
+    "cuota": 1.5,
+    "probabilidad": 0.3712,
+    "valor_esperado": -0.4432
+  },
+  {
+    "id": 169180,
+    "fecha": "2025-05-12T00:30:00+00:00",
+    "equipo": "Laguna",
+    "λ_estimado": 4.0,
+    "pick": "Laguna UNDER 4.0",
+    "cuota": 2.38,
+    "probabilidad": 0.6288,
+    "valor_esperado": 0.4965
+  },
+  {
+    "id": 169180,
+    "fecha": "2025-05-12T00:30:00+00:00",
+    "equipo": "Laguna",
+    "λ_estimado": 4.0,
+    "pick": "Laguna OVER 5.0",
+    "cuota": 1.9,
+    "probabilidad": 0.2149,
+    "valor_esperado": -0.5917
+  },
+  {
+    "id": 169180,
+    "fecha": "2025-05-12T00:30:00+00:00",
+    "equipo": "Laguna",
+    "λ_estimado": 4.0,
+    "pick": "Laguna UNDER 5.0",
+    "cuota": 1.78,
+    "probabilidad": 0.7851,
+    "valor_esperado": 0.3975
+  },
+  {
+    "id": 169180,
+    "fecha": "2025-05-12T00:30:00+00:00",
+    "equipo": "Laguna",
+    "λ_estimado": 4.0,
+    "pick": "Laguna OVER 4.5",
+    "cuota": 1.71,
+    "probabilidad": 0.3712,
+    "valor_esperado": -0.3652
+  },
+  {
+    "id": 169180,
+    "fecha": "2025-05-12T00:30:00+00:00",
+    "equipo": "Laguna",
+    "λ_estimado": 4.0,
+    "pick": "Laguna UNDER 4.5",
+    "cuota": 1.99,
+    "probabilidad": 0.6288,
+    "valor_esperado": 0.2513
+  },
+  {
+    "id": 169184,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "equipo": "Tabasco",
+    "λ_estimado": 4.0,
+    "pick": "Tabasco OVER 3.5",
+    "cuota": 1.66,
+    "probabilidad": 0.5665,
+    "valor_esperado": -0.0596
+  },
+  {
+    "id": 169184,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "equipo": "Tabasco",
+    "λ_estimado": 4.0,
+    "pick": "Tabasco UNDER 3.5",
+    "cuota": 2.06,
+    "probabilidad": 0.4335,
+    "valor_esperado": -0.107
+  },
+  {
+    "id": 169184,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "equipo": "Tabasco",
+    "λ_estimado": 4.0,
+    "pick": "Tabasco OVER 3.0",
+    "cuota": 1.43,
+    "probabilidad": 0.5665,
+    "valor_esperado": -0.1899
+  },
+  {
+    "id": 169184,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "equipo": "Tabasco",
+    "λ_estimado": 4.0,
+    "pick": "Tabasco UNDER 3.0",
+    "cuota": 2.58,
+    "probabilidad": 0.4335,
+    "valor_esperado": 0.1184
+  },
+  {
+    "id": 169184,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "equipo": "Tabasco",
+    "λ_estimado": 4.0,
+    "pick": "Tabasco OVER 4.0",
+    "cuota": 1.7,
+    "probabilidad": 0.3712,
+    "valor_esperado": -0.369
+  },
+  {
+    "id": 169184,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "equipo": "Tabasco",
+    "λ_estimado": 4.0,
+    "pick": "Tabasco UNDER 4.0",
+    "cuota": 2.01,
+    "probabilidad": 0.6288,
+    "valor_esperado": 0.2639
+  },
+  {
+    "id": 169184,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "equipo": "Tabasco",
+    "λ_estimado": 4.0,
+    "pick": "Tabasco OVER 5.0",
+    "cuota": 2.26,
+    "probabilidad": 0.2149,
+    "valor_esperado": -0.5143
+  },
+  {
+    "id": 169184,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "equipo": "Tabasco",
+    "λ_estimado": 4.0,
+    "pick": "Tabasco UNDER 5.0",
+    "cuota": 1.55,
+    "probabilidad": 0.7851,
+    "valor_esperado": 0.2169
+  },
+  {
+    "id": 169184,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "equipo": "Tabasco",
+    "λ_estimado": 4.0,
+    "pick": "Tabasco OVER 4.5",
+    "cuota": 1.94,
+    "probabilidad": 0.3712,
+    "valor_esperado": -0.2799
+  },
+  {
+    "id": 169184,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "equipo": "Tabasco",
+    "λ_estimado": 4.0,
+    "pick": "Tabasco UNDER 4.5",
+    "cuota": 1.75,
+    "probabilidad": 0.6288,
+    "valor_esperado": 0.1004
+  },
+  {
+    "id": 169185,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "equipo": "Yucatan",
+    "λ_estimado": 4.0,
+    "pick": "Yucatan OVER 3.5",
+    "cuota": 1.71,
+    "probabilidad": 0.5665,
+    "valor_esperado": -0.0313
+  },
+  {
+    "id": 169185,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "equipo": "Yucatan",
+    "λ_estimado": 4.0,
+    "pick": "Yucatan UNDER 3.5",
+    "cuota": 1.99,
+    "probabilidad": 0.4335,
+    "valor_esperado": -0.1373
+  },
+  {
+    "id": 169185,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "equipo": "Yucatan",
+    "λ_estimado": 4.0,
+    "pick": "Yucatan OVER 3.0",
+    "cuota": 1.46,
+    "probabilidad": 0.5665,
+    "valor_esperado": -0.1729
+  },
+  {
+    "id": 169185,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "equipo": "Yucatan",
+    "λ_estimado": 4.0,
+    "pick": "Yucatan UNDER 3.0",
+    "cuota": 2.49,
+    "probabilidad": 0.4335,
+    "valor_esperado": 0.0794
+  },
+  {
+    "id": 169185,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "equipo": "Yucatan",
+    "λ_estimado": 4.0,
+    "pick": "Yucatan OVER 4.0",
+    "cuota": 1.95,
+    "probabilidad": 0.3712,
+    "valor_esperado": -0.2762
+  },
+  {
+    "id": 169185,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "equipo": "Yucatan",
+    "λ_estimado": 4.0,
+    "pick": "Yucatan UNDER 4.0",
+    "cuota": 1.74,
+    "probabilidad": 0.6288,
+    "valor_esperado": 0.0941
+  },
+  {
+    "id": 169992,
+    "fecha": "2025-05-12T18:00:00+00:00",
+    "equipo": "Santiago de Cuba",
+    "λ_estimado": 4.0,
+    "pick": "Santiago de Cuba OVER 5.5",
+    "cuota": 1.81,
+    "probabilidad": 0.2149,
+    "valor_esperado": -0.611
+  },
+  {
+    "id": 169992,
+    "fecha": "2025-05-12T18:00:00+00:00",
+    "equipo": "Santiago de Cuba",
+    "λ_estimado": 4.0,
+    "pick": "Santiago de Cuba UNDER 5.5",
+    "cuota": 1.81,
+    "probabilidad": 0.7851,
+    "valor_esperado": 0.421
+  }
+]

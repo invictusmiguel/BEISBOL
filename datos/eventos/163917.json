@@ -1,0 +1,212 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163917"
+  },
+  "errors": [],
+  "results": 9,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 20,
+        "extra": null
+      },
+      "team": {
+        "id": 2558,
+        "name": "Comerciantes Unidos",
+        "logo": "https://media.api-sports.io/football/teams/2558.png"
+      },
+      "player": {
+        "id": 40010,
+        "name": "E. Borges"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 31,
+        "extra": null
+      },
+      "team": {
+        "id": 2572,
+        "name": "Cultural Santa Rosa",
+        "logo": "https://media.api-sports.io/football/teams/2572.png"
+      },
+      "player": {
+        "id": 40125,
+        "name": "S. Hern\u00e1ndez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 37,
+        "extra": null
+      },
+      "team": {
+        "id": 2572,
+        "name": "Cultural Santa Rosa",
+        "logo": "https://media.api-sports.io/football/teams/2572.png"
+      },
+      "player": {
+        "id": 40071,
+        "name": "A. Conrad"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 63,
+        "extra": null
+      },
+      "team": {
+        "id": 2572,
+        "name": "Cultural Santa Rosa",
+        "logo": "https://media.api-sports.io/football/teams/2572.png"
+      },
+      "player": {
+        "id": 67916,
+        "name": "W. Castro"
+      },
+      "assist": {
+        "id": 67913,
+        "name": "A. Jim\u00e9nez"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 70,
+        "extra": null
+      },
+      "team": {
+        "id": 2572,
+        "name": "Cultural Santa Rosa",
+        "logo": "https://media.api-sports.io/football/teams/2572.png"
+      },
+      "player": {
+        "id": 40081,
+        "name": "L. Muchotrigo"
+      },
+      "assist": {
+        "id": 67914,
+        "name": "A. Morales"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 76,
+        "extra": null
+      },
+      "team": {
+        "id": 2572,
+        "name": "Cultural Santa Rosa",
+        "logo": "https://media.api-sports.io/football/teams/2572.png"
+      },
+      "player": {
+        "id": 40125,
+        "name": "S. Hern\u00e1ndez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 77,
+        "extra": null
+      },
+      "team": {
+        "id": 2572,
+        "name": "Cultural Santa Rosa",
+        "logo": "https://media.api-sports.io/football/teams/2572.png"
+      },
+      "player": {
+        "id": 70120,
+        "name": "M. Oviedo"
+      },
+      "assist": {
+        "id": 64246,
+        "name": "L. Roca"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 2558,
+        "name": "Comerciantes Unidos",
+        "logo": "https://media.api-sports.io/football/teams/2558.png"
+      },
+      "player": {
+        "id": 67908,
+        "name": "J. Goicochea"
+      },
+      "assist": {
+        "id": 39968,
+        "name": "A. Carnero"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 84,
+        "extra": null
+      },
+      "team": {
+        "id": 2558,
+        "name": "Comerciantes Unidos",
+        "logo": "https://media.api-sports.io/football/teams/2558.png"
+      },
+      "player": {
+        "id": 40012,
+        "name": "J. Palacios"
+      },
+      "assist": {
+        "id": 73835,
+        "name": "A. Castillo"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    }
+  ]
+}

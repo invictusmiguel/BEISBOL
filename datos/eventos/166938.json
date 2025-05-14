@@ -1,0 +1,234 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "166938"
+  },
+  "errors": [],
+  "results": 10,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 50,
+        "extra": null
+      },
+      "team": {
+        "id": 2763,
+        "name": "Incheon United",
+        "logo": "https://media.api-sports.io/football/teams/2763.png"
+      },
+      "player": {
+        "id": 91806,
+        "name": "K. Oris"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 56,
+        "extra": null
+      },
+      "team": {
+        "id": 2763,
+        "name": "Incheon United",
+        "logo": "https://media.api-sports.io/football/teams/2763.png"
+      },
+      "player": {
+        "id": 34818,
+        "name": "Se-Jik Park"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 57,
+        "extra": null
+      },
+      "team": {
+        "id": 2767,
+        "name": "Ulsan Hyundai FC",
+        "logo": "https://media.api-sports.io/football/teams/2767.png"
+      },
+      "player": {
+        "id": 34178,
+        "name": "Sang-Woon Han"
+      },
+      "assist": {
+        "id": 27127,
+        "name": "I. Kovacec"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 64,
+        "extra": null
+      },
+      "team": {
+        "id": 2763,
+        "name": "Incheon United",
+        "logo": "https://media.api-sports.io/football/teams/2763.png"
+      },
+      "player": {
+        "id": 91806,
+        "name": "K. Oris"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 69,
+        "extra": null
+      },
+      "team": {
+        "id": 2767,
+        "name": "Ulsan Hyundai FC",
+        "logo": "https://media.api-sports.io/football/teams/2767.png"
+      },
+      "player": {
+        "id": 34749,
+        "name": "Seung-Jun Kim"
+      },
+      "assist": {
+        "id": 34180,
+        "name": "Jung-Hyub Lee"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 69,
+        "extra": null
+      },
+      "team": {
+        "id": 2763,
+        "name": "Incheon United",
+        "logo": "https://media.api-sports.io/football/teams/2763.png"
+      },
+      "player": {
+        "id": 34818,
+        "name": "Se-Jik Park"
+      },
+      "assist": {
+        "id": 34561,
+        "name": "Si-Woo Song"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 73,
+        "extra": null
+      },
+      "team": {
+        "id": 2767,
+        "name": "Ulsan Hyundai FC",
+        "logo": "https://media.api-sports.io/football/teams/2767.png"
+      },
+      "player": {
+        "id": 34802,
+        "name": "Jae-Sung Lee"
+      },
+      "assist": {
+        "id": 35031,
+        "name": "Chi-Gon Kim"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 2763,
+        "name": "Incheon United",
+        "logo": "https://media.api-sports.io/football/teams/2763.png"
+      },
+      "player": {
+        "id": 91806,
+        "name": "K. Oris"
+      },
+      "assist": {
+        "id": 34555,
+        "name": "Sung-Wook Jin"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 83,
+        "extra": null
+      },
+      "team": {
+        "id": 2763,
+        "name": "Incheon United",
+        "logo": "https://media.api-sports.io/football/teams/2763.png"
+      },
+      "player": {
+        "id": 9024,
+        "name": "K. Velkoski"
+      },
+      "assist": {
+        "id": 99604,
+        "name": "Je-Heon Song"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 87,
+        "extra": null
+      },
+      "team": {
+        "id": 2767,
+        "name": "Ulsan Hyundai FC",
+        "logo": "https://media.api-sports.io/football/teams/2767.png"
+      },
+      "player": {
+        "id": 34180,
+        "name": "Jung-Hyub Lee"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

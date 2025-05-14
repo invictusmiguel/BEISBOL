@@ -1,0 +1,212 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163914"
+  },
+  "errors": [],
+  "results": 9,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 45,
+        "extra": 3
+      },
+      "team": {
+        "id": 2564,
+        "name": "Atletico Grau",
+        "logo": "https://media.api-sports.io/football/teams/2564.png"
+      },
+      "player": {
+        "id": 95652,
+        "name": "R. Huaccha"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 50,
+        "extra": null
+      },
+      "team": {
+        "id": 2562,
+        "name": "Cienciano",
+        "logo": "https://media.api-sports.io/football/teams/2562.png"
+      },
+      "player": {
+        "id": 39991,
+        "name": "J. Obeso"
+      },
+      "assist": {
+        "id": 39992,
+        "name": "R. Palomino"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 58,
+        "extra": null
+      },
+      "team": {
+        "id": 2564,
+        "name": "Atletico Grau",
+        "logo": "https://media.api-sports.io/football/teams/2564.png"
+      },
+      "player": {
+        "id": 95652,
+        "name": "R. Huaccha"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 65,
+        "extra": null
+      },
+      "team": {
+        "id": 2562,
+        "name": "Cienciano",
+        "logo": "https://media.api-sports.io/football/teams/2562.png"
+      },
+      "player": {
+        "id": 39982,
+        "name": "D. Reyes"
+      },
+      "assist": {
+        "id": 39994,
+        "name": "R. Tito"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 69,
+        "extra": null
+      },
+      "team": {
+        "id": 2562,
+        "name": "Cienciano",
+        "logo": "https://media.api-sports.io/football/teams/2562.png"
+      },
+      "player": {
+        "id": 39988,
+        "name": "R. G\u00f3mez"
+      },
+      "assist": {
+        "id": 70118,
+        "name": "A. Saravia"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 75,
+        "extra": null
+      },
+      "team": {
+        "id": 2564,
+        "name": "Atletico Grau",
+        "logo": "https://media.api-sports.io/football/teams/2564.png"
+      },
+      "player": {
+        "id": 95689,
+        "name": "M. Rios"
+      },
+      "assist": {
+        "id": 39970,
+        "name": "D. Gonz\u00e1les"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 2564,
+        "name": "Atletico Grau",
+        "logo": "https://media.api-sports.io/football/teams/2564.png"
+      },
+      "player": {
+        "id": 39950,
+        "name": "V. Labr\u00edn"
+      },
+      "assist": {
+        "id": 39963,
+        "name": "R. Torres"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 2564,
+        "name": "Atletico Grau",
+        "logo": "https://media.api-sports.io/football/teams/2564.png"
+      },
+      "player": {
+        "id": 95688,
+        "name": "R. C\u00e9spedes"
+      },
+      "assist": {
+        "id": 95845,
+        "name": "C. Tr\u00edas"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 2
+      },
+      "team": {
+        "id": 2562,
+        "name": "Cienciano",
+        "logo": "https://media.api-sports.io/football/teams/2562.png"
+      },
+      "player": {
+        "id": 39978,
+        "name": "J. Cuero"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

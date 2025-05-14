@@ -1,0 +1,16 @@
+{
+  "game_id": 166008,
+  "fecha": "2025-05-13T09:00:00+00:00",
+  "home": {
+    "team": "Yokohama BayStars",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  },
+  "away": {
+    "team": "Hanshin Tigers",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  }
+}

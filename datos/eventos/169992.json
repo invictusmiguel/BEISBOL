@@ -1,0 +1,388 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "169992"
+  },
+  "errors": [],
+  "results": 17,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 7,
+        "extra": null
+      },
+      "team": {
+        "id": 2577,
+        "name": "GAZ Metan Medias",
+        "logo": "https://media.api-sports.io/football/teams/2577.png"
+      },
+      "player": {
+        "id": 43047,
+        "name": "R\u0103zvan Popa"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 12,
+        "extra": null
+      },
+      "team": {
+        "id": 2577,
+        "name": "GAZ Metan Medias",
+        "logo": "https://media.api-sports.io/football/teams/2577.png"
+      },
+      "player": {
+        "id": 11034,
+        "name": "S. Bu\u0219"
+      },
+      "assist": {
+        "id": 43173,
+        "name": "Ely Fernandes"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 16,
+        "extra": null
+      },
+      "team": {
+        "id": 570,
+        "name": "Viitorul Constanta",
+        "logo": "https://media.api-sports.io/football/teams/570.png"
+      },
+      "player": {
+        "id": 43283,
+        "name": "G. Iancu"
+      },
+      "assist": {
+        "id": 43072,
+        "name": "R. Boboc"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 25,
+        "extra": null
+      },
+      "team": {
+        "id": 570,
+        "name": "Viitorul Constanta",
+        "logo": "https://media.api-sports.io/football/teams/570.png"
+      },
+      "player": {
+        "id": 43080,
+        "name": "Andrei Artean"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 42,
+        "extra": null
+      },
+      "team": {
+        "id": 570,
+        "name": "Viitorul Constanta",
+        "logo": "https://media.api-sports.io/football/teams/570.png"
+      },
+      "player": {
+        "id": 43085,
+        "name": "Lyes Houri"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 45,
+        "extra": null
+      },
+      "team": {
+        "id": 2577,
+        "name": "GAZ Metan Medias",
+        "logo": "https://media.api-sports.io/football/teams/2577.png"
+      },
+      "player": {
+        "id": 43157,
+        "name": "Ionu\u021b Larie"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 570,
+        "name": "Viitorul Constanta",
+        "logo": "https://media.api-sports.io/football/teams/570.png"
+      },
+      "player": {
+        "id": 43080,
+        "name": "A. Artean"
+      },
+      "assist": {
+        "id": 43264,
+        "name": "S. Filip"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 53,
+        "extra": null
+      },
+      "team": {
+        "id": 570,
+        "name": "Viitorul Constanta",
+        "logo": "https://media.api-sports.io/football/teams/570.png"
+      },
+      "player": {
+        "id": 43079,
+        "name": "V. Achim"
+      },
+      "assist": {
+        "id": 125631,
+        "name": "M. Dulca"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 64,
+        "extra": null
+      },
+      "team": {
+        "id": 570,
+        "name": "Viitorul Constanta",
+        "logo": "https://media.api-sports.io/football/teams/570.png"
+      },
+      "player": {
+        "id": 43090,
+        "name": "B. \u021a\u00eeru"
+      },
+      "assist": {
+        "id": 43082,
+        "name": "A. Ciobanu"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 570,
+        "name": "Viitorul Constanta",
+        "logo": "https://media.api-sports.io/football/teams/570.png"
+      },
+      "player": {
+        "id": 43090,
+        "name": "Bogdan \u021a\u00eeru"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 2577,
+        "name": "GAZ Metan Medias",
+        "logo": "https://media.api-sports.io/football/teams/2577.png"
+      },
+      "player": {
+        "id": 43117,
+        "name": "N. Ro\u0219u"
+      },
+      "assist": {
+        "id": 21037,
+        "name": "M. Diakota"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 2577,
+        "name": "GAZ Metan Medias",
+        "logo": "https://media.api-sports.io/football/teams/2577.png"
+      },
+      "player": {
+        "id": 43161,
+        "name": "R. Romeo"
+      },
+      "assist": {
+        "id": 43165,
+        "name": "N. Chamed"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 70,
+        "extra": null
+      },
+      "team": {
+        "id": 570,
+        "name": "Viitorul Constanta",
+        "logo": "https://media.api-sports.io/football/teams/570.png"
+      },
+      "player": {
+        "id": 43081,
+        "name": "C. Casap"
+      },
+      "assist": {
+        "id": 61819,
+        "name": "C. Matei"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 74,
+        "extra": null
+      },
+      "team": {
+        "id": 570,
+        "name": "Viitorul Constanta",
+        "logo": "https://media.api-sports.io/football/teams/570.png"
+      },
+      "player": {
+        "id": 43283,
+        "name": "G. Iancu"
+      },
+      "assist": {
+        "id": 43085,
+        "name": "L. Houri"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 82,
+        "extra": null
+      },
+      "team": {
+        "id": 2577,
+        "name": "GAZ Metan Medias",
+        "logo": "https://media.api-sports.io/football/teams/2577.png"
+      },
+      "player": {
+        "id": 43173,
+        "name": "Ely Fernandes"
+      },
+      "assist": {
+        "id": 21037,
+        "name": "M. Diakota"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 84,
+        "extra": null
+      },
+      "team": {
+        "id": 2577,
+        "name": "GAZ Metan Medias",
+        "logo": "https://media.api-sports.io/football/teams/2577.png"
+      },
+      "player": {
+        "id": 21037,
+        "name": "Mickael Diakota"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 89,
+        "extra": null
+      },
+      "team": {
+        "id": 570,
+        "name": "Viitorul Constanta",
+        "logo": "https://media.api-sports.io/football/teams/570.png"
+      },
+      "player": {
+        "id": 43093,
+        "name": "Rivaldinho"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Penalty",
+      "comments": null
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163893"
+  },
+  "errors": [],
+  "results": 8,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 50,
+        "extra": null
+      },
+      "team": {
+        "id": 4226,
+        "name": "Santos",
+        "logo": "https://media.api-sports.io/football/teams/4226.png"
+      },
+      "player": {
+        "id": 95799,
+        "name": "M. Ahmed"
+      },
+      "assist": {
+        "id": 95801,
+        "name": "P. Serra"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 63,
+        "extra": null
+      },
+      "team": {
+        "id": 2568,
+        "name": "Deportivo Coopsol",
+        "logo": "https://media.api-sports.io/football/teams/2568.png"
+      },
+      "player": {
+        "id": 40034,
+        "name": "C. P\u00e9rez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 2568,
+        "name": "Deportivo Coopsol",
+        "logo": "https://media.api-sports.io/football/teams/2568.png"
+      },
+      "player": {
+        "id": 40033,
+        "name": "S. Ciganda"
+      },
+      "assist": {
+        "id": 40018,
+        "name": "B. Arana"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 68,
+        "extra": null
+      },
+      "team": {
+        "id": 4226,
+        "name": "Santos",
+        "logo": "https://media.api-sports.io/football/teams/4226.png"
+      },
+      "player": {
+        "id": 95807,
+        "name": "V. Castrill\u00f3n"
+      },
+      "assist": {
+        "id": 95721,
+        "name": "G. Alencastre"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 70,
+        "extra": null
+      },
+      "team": {
+        "id": 2568,
+        "name": "Deportivo Coopsol",
+        "logo": "https://media.api-sports.io/football/teams/2568.png"
+      },
+      "player": {
+        "id": 40030,
+        "name": "I. Kahn"
+      },
+      "assist": {
+        "id": 40027,
+        "name": "J. G\u00f3mez"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 83,
+        "extra": null
+      },
+      "team": {
+        "id": 4226,
+        "name": "Santos",
+        "logo": "https://media.api-sports.io/football/teams/4226.png"
+      },
+      "player": {
+        "id": 95757,
+        "name": "P. Alva"
+      },
+      "assist": {
+        "id": 95802,
+        "name": "L. Spataro"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 2568,
+        "name": "Deportivo Coopsol",
+        "logo": "https://media.api-sports.io/football/teams/2568.png"
+      },
+      "player": {
+        "id": 40034,
+        "name": "C. P\u00e9rez"
+      },
+      "assist": {
+        "id": 70409,
+        "name": "D. Kong"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 89,
+        "extra": null
+      },
+      "team": {
+        "id": 4226,
+        "name": "Santos",
+        "logo": "https://media.api-sports.io/football/teams/4226.png"
+      },
+      "player": {
+        "id": 40108,
+        "name": "J. Sotil"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

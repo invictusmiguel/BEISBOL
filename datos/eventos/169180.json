@@ -1,0 +1,388 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "169180"
+  },
+  "errors": [],
+  "results": 17,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 23,
+        "extra": null
+      },
+      "team": {
+        "id": 2284,
+        "name": "Monarcas",
+        "logo": "https://media.api-sports.io/football/teams/2284.png"
+      },
+      "player": {
+        "id": 35939,
+        "name": "E. Del \u00c1ngel"
+      },
+      "assist": {
+        "id": 35729,
+        "name": "L. Mendoza"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 44,
+        "extra": null
+      },
+      "team": {
+        "id": 2288,
+        "name": "Necaxa",
+        "logo": "https://media.api-sports.io/football/teams/2288.png"
+      },
+      "player": {
+        "id": 41451,
+        "name": "Juan Delgado"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 45,
+        "extra": null
+      },
+      "team": {
+        "id": 2284,
+        "name": "Monarcas",
+        "logo": "https://media.api-sports.io/football/teams/2284.png"
+      },
+      "player": {
+        "id": 2429,
+        "name": "\u00c9. Flores"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 54,
+        "extra": null
+      },
+      "team": {
+        "id": 2288,
+        "name": "Necaxa",
+        "logo": "https://media.api-sports.io/football/teams/2288.png"
+      },
+      "player": {
+        "id": 11588,
+        "name": "M. Quiroga"
+      },
+      "assist": {
+        "id": 35687,
+        "name": "J. Angulo"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 58,
+        "extra": null
+      },
+      "team": {
+        "id": 2288,
+        "name": "Necaxa",
+        "logo": "https://media.api-sports.io/football/teams/2288.png"
+      },
+      "player": {
+        "id": 11493,
+        "name": "Maximiliano Salas"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 63,
+        "extra": null
+      },
+      "team": {
+        "id": 2288,
+        "name": "Necaxa",
+        "logo": "https://media.api-sports.io/football/teams/2288.png"
+      },
+      "player": {
+        "id": 11588,
+        "name": "M. Quiroga"
+      },
+      "assist": {
+        "id": 41451,
+        "name": "J. Delgado"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 64,
+        "extra": null
+      },
+      "team": {
+        "id": 2284,
+        "name": "Monarcas",
+        "logo": "https://media.api-sports.io/football/teams/2284.png"
+      },
+      "player": {
+        "id": 35956,
+        "name": "G. Lezcano"
+      },
+      "assist": {
+        "id": 35946,
+        "name": "M. Osuna"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 73,
+        "extra": null
+      },
+      "team": {
+        "id": 2288,
+        "name": "Necaxa",
+        "logo": "https://media.api-sports.io/football/teams/2288.png"
+      },
+      "player": {
+        "id": 11493,
+        "name": "M. Salas"
+      },
+      "assist": {
+        "id": 36471,
+        "name": "R. Ch\u00e1vez"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 75,
+        "extra": null
+      },
+      "team": {
+        "id": 2284,
+        "name": "Monarcas",
+        "logo": "https://media.api-sports.io/football/teams/2284.png"
+      },
+      "player": {
+        "id": 2556,
+        "name": "Sebasti\u00e1n Vegas"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 77,
+        "extra": null
+      },
+      "team": {
+        "id": 2284,
+        "name": "Monarcas",
+        "logo": "https://media.api-sports.io/football/teams/2284.png"
+      },
+      "player": {
+        "id": 2455,
+        "name": "Fernando Aristeguieta"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 79,
+        "extra": null
+      },
+      "team": {
+        "id": 2284,
+        "name": "Monarcas",
+        "logo": "https://media.api-sports.io/football/teams/2284.png"
+      },
+      "player": {
+        "id": 2455,
+        "name": "F. Aristeguieta"
+      },
+      "assist": {
+        "id": 35958,
+        "name": "M. Sansores"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 81,
+        "extra": null
+      },
+      "team": {
+        "id": 2288,
+        "name": "Necaxa",
+        "logo": "https://media.api-sports.io/football/teams/2288.png"
+      },
+      "player": {
+        "id": 35687,
+        "name": "J. Angulo"
+      },
+      "assist": {
+        "id": 35642,
+        "name": "K. Mercado"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 83,
+        "extra": null
+      },
+      "team": {
+        "id": 2284,
+        "name": "Monarcas",
+        "logo": "https://media.api-sports.io/football/teams/2284.png"
+      },
+      "player": {
+        "id": 35936,
+        "name": "Mario Trejo"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 84,
+        "extra": null
+      },
+      "team": {
+        "id": 2288,
+        "name": "Necaxa",
+        "logo": "https://media.api-sports.io/football/teams/2288.png"
+      },
+      "player": {
+        "id": 35639,
+        "name": "F. Gallegos"
+      },
+      "assist": {
+        "id": 44435,
+        "name": "C. Baeza"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 2284,
+        "name": "Monarcas",
+        "logo": "https://media.api-sports.io/football/teams/2284.png"
+      },
+      "player": {
+        "id": 35939,
+        "name": "E. Del \u00c1ngel"
+      },
+      "assist": {
+        "id": 35954,
+        "name": "S. Ferreira"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 1
+      },
+      "team": {
+        "id": 2288,
+        "name": "Necaxa",
+        "logo": "https://media.api-sports.io/football/teams/2288.png"
+      },
+      "player": {
+        "id": 11588,
+        "name": "M. Quiroga"
+      },
+      "assist": {
+        "id": 35640,
+        "name": "E. Herrera"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": null
+      },
+      "team": {
+        "id": 2284,
+        "name": "Monarcas",
+        "logo": "https://media.api-sports.io/football/teams/2284.png"
+      },
+      "player": {
+        "id": 35954,
+        "name": "Sebasti\u00e1n Ferreira"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    }
+  ]
+}

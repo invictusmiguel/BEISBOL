@@ -1,0 +1,16 @@
+{
+  "game_id": 171085,
+  "fecha": "2025-05-14T22:05:00+00:00",
+  "home": {
+    "team": "Indianapolis Indians",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  },
+  "away": {
+    "team": "Louisville Bats",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  }
+}

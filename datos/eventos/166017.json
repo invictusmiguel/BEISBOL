@@ -1,0 +1,168 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "166017"
+  },
+  "errors": [],
+  "results": 7,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 24,
+        "extra": null
+      },
+      "team": {
+        "id": 203,
+        "name": "NAC Breda",
+        "logo": "https://media.api-sports.io/football/teams/203.png"
+      },
+      "player": {
+        "id": 38706,
+        "name": "A. Verschueren"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 26,
+        "extra": null
+      },
+      "team": {
+        "id": 423,
+        "name": "FC OSS",
+        "logo": "https://media.api-sports.io/football/teams/423.png"
+      },
+      "player": {
+        "id": 56604,
+        "name": "Dennis van der Heijden"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 203,
+        "name": "NAC Breda",
+        "logo": "https://media.api-sports.io/football/teams/203.png"
+      },
+      "player": {
+        "id": 38699,
+        "name": "L. Ili\u0107"
+      },
+      "assist": {
+        "id": 37587,
+        "name": "J. van der Gaag"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 67,
+        "extra": null
+      },
+      "team": {
+        "id": 203,
+        "name": "NAC Breda",
+        "logo": "https://media.api-sports.io/football/teams/203.png"
+      },
+      "player": {
+        "id": 38694,
+        "name": "P. van Anholt"
+      },
+      "assist": {
+        "id": 38691,
+        "name": "J. Mashart"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 68,
+        "extra": null
+      },
+      "team": {
+        "id": 423,
+        "name": "FC OSS",
+        "logo": "https://media.api-sports.io/football/teams/423.png"
+      },
+      "player": {
+        "id": 37827,
+        "name": "R. Stuij van den Herik"
+      },
+      "assist": {
+        "id": 38697,
+        "name": "G. Damen"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 423,
+        "name": "FC OSS",
+        "logo": "https://media.api-sports.io/football/teams/423.png"
+      },
+      "player": {
+        "id": 37060,
+        "name": "H. Dijkhuizen"
+      },
+      "assist": {
+        "id": 37761,
+        "name": "C. Peters"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 82,
+        "extra": null
+      },
+      "team": {
+        "id": 203,
+        "name": "NAC Breda",
+        "logo": "https://media.api-sports.io/football/teams/203.png"
+      },
+      "player": {
+        "id": 37028,
+        "name": "F. Stokkers"
+      },
+      "assist": {
+        "id": 36834,
+        "name": "Nacho Monsalve"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ]
+}

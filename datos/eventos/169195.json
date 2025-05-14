@@ -1,0 +1,212 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "169195"
+  },
+  "errors": [],
+  "results": 9,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 25,
+        "extra": null
+      },
+      "team": {
+        "id": 2290,
+        "name": "Club Queretaro",
+        "logo": "https://media.api-sports.io/football/teams/2290.png"
+      },
+      "player": {
+        "id": 35872,
+        "name": "J. Pereira"
+      },
+      "assist": {
+        "id": 36172,
+        "name": "J. Escoboza"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 43,
+        "extra": null
+      },
+      "team": {
+        "id": 2290,
+        "name": "Club Queretaro",
+        "logo": "https://media.api-sports.io/football/teams/2290.png"
+      },
+      "player": {
+        "id": 35970,
+        "name": "L. Romo"
+      },
+      "assist": {
+        "id": 36172,
+        "name": "J. Escoboza"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2314,
+        "name": "Atletico San Luis",
+        "logo": "https://media.api-sports.io/football/teams/2314.png"
+      },
+      "player": {
+        "id": 36057,
+        "name": "Ian Gonz\u00e1lez"
+      },
+      "assist": {
+        "id": 6485,
+        "name": "G. Berterame"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 47,
+        "extra": null
+      },
+      "team": {
+        "id": 2314,
+        "name": "Atletico San Luis",
+        "logo": "https://media.api-sports.io/football/teams/2314.png"
+      },
+      "player": {
+        "id": 36034,
+        "name": "Unai Bilbao"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 55,
+        "extra": null
+      },
+      "team": {
+        "id": 2314,
+        "name": "Atletico San Luis",
+        "logo": "https://media.api-sports.io/football/teams/2314.png"
+      },
+      "player": {
+        "id": 36053,
+        "name": "O. Ben\u00edtez"
+      },
+      "assist": {
+        "id": 36054,
+        "name": "J. Castro"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 71,
+        "extra": null
+      },
+      "team": {
+        "id": 2290,
+        "name": "Club Queretaro",
+        "logo": "https://media.api-sports.io/football/teams/2290.png"
+      },
+      "player": {
+        "id": 35986,
+        "name": "A. Del Valle"
+      },
+      "assist": {
+        "id": 35689,
+        "name": "F. Castillo"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 71,
+        "extra": null
+      },
+      "team": {
+        "id": 2290,
+        "name": "Club Queretaro",
+        "logo": "https://media.api-sports.io/football/teams/2290.png"
+      },
+      "player": {
+        "id": 35981,
+        "name": "M. Ruiz"
+      },
+      "assist": {
+        "id": 13298,
+        "name": "S. Lucum\u00ed"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 72,
+        "extra": null
+      },
+      "team": {
+        "id": 2314,
+        "name": "Atletico San Luis",
+        "logo": "https://media.api-sports.io/football/teams/2314.png"
+      },
+      "player": {
+        "id": 36046,
+        "name": "N. Maya"
+      },
+      "assist": {
+        "id": 35815,
+        "name": "\u00d3. Mac\u00edas"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 81,
+        "extra": null
+      },
+      "team": {
+        "id": 2290,
+        "name": "Club Queretaro",
+        "logo": "https://media.api-sports.io/football/teams/2290.png"
+      },
+      "player": {
+        "id": 35988,
+        "name": "A. Loba"
+      },
+      "assist": {
+        "id": 35731,
+        "name": "E. Triverio"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ]
+}

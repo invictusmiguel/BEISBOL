@@ -1,0 +1,1553 @@
+PS C:\Users\mario> cd D:\sampro_v6\beisbol\
+PS D:\sampro_v6\beisbol> tree /F
+Listado de rutas de carpetas
+El número de serie del volumen es 34F4-315D
+D:.
+│   datos.zip
+│   ejecucion.txt
+│   Factores_Clave_para_Predicci_n_en_B_isbol.csv
+│   fórmulas clave utilizadas para predecir resultados en partidos de béisbol.docx
+│   fórmulas mercados de apuestas en béisbol.docx
+│   Mercados_de_B_isbol_y_Datos_Necesarios_para_Predecir.csv
+│   predecir mercados de apuestas en béisbol como los que mencionas.docx
+│   predicción certera en partidos de béisbol.docx
+│
+├───api
+│   │   beisbol_api.py
+│   │
+│   └───__pycache__
+│           beisbol_api.cpython-313.pyc
+│
+├───datos
+│   │   juegos_hoy.json
+│   │
+│   ├───cuotas
+│   │       odds_162547.json
+│   │       odds_162548.json
+│   │       odds_162549.json
+│   │       odds_162550.json
+│   │       odds_162551.json
+│   │       odds_162553.json
+│   │       odds_163891.json
+│   │       odds_163892.json
+│   │       odds_163893.json
+│   │       odds_163894.json
+│   │       odds_163896.json
+│   │       odds_163897.json
+│   │       odds_163898.json
+│   │       odds_163899.json
+│   │       odds_163900.json
+│   │       odds_163901.json
+│   │       odds_163902.json
+│   │       odds_163903.json
+│   │       odds_163904.json
+│   │       odds_163905.json
+│   │       odds_163906.json
+│   │       odds_163907.json
+│   │       odds_163908.json
+│   │       odds_163909.json
+│   │       odds_163910.json
+│   │       odds_163911.json
+│   │       odds_163912.json
+│   │       odds_163913.json
+│   │       odds_163914.json
+│   │       odds_163915.json
+│   │       odds_163916.json
+│   │       odds_163917.json
+│   │       odds_163918.json
+│   │       odds_163919.json
+│   │       odds_163921.json
+│   │       odds_163923.json
+│   │       odds_163926.json
+│   │       odds_163927.json
+│   │       odds_163928.json
+│   │       odds_163929.json
+│   │       odds_163930.json
+│   │       odds_163931.json
+│   │       odds_163932.json
+│   │       odds_166007.json
+│   │       odds_166008.json
+│   │       odds_166009.json
+│   │       odds_166010.json
+│   │       odds_166011.json
+│   │       odds_166012.json
+│   │       odds_166013.json
+│   │       odds_166014.json
+│   │       odds_166015.json
+│   │       odds_166016.json
+│   │       odds_166017.json
+│   │       odds_166937.json
+│   │       odds_166938.json
+│   │       odds_166939.json
+│   │       odds_166940.json
+│   │       odds_166941.json
+│   │       odds_166942.json
+│   │       odds_166943.json
+│   │       odds_166944.json
+│   │       odds_166945.json
+│   │       odds_166946.json
+│   │       odds_169176.json
+│   │       odds_169180.json
+│   │       odds_169184.json
+│   │       odds_169185.json
+│   │       odds_169186.json
+│   │       odds_169187.json
+│   │       odds_169188.json
+│   │       odds_169189.json
+│   │       odds_169190.json
+│   │       odds_169191.json
+│   │       odds_169192.json
+│   │       odds_169193.json
+│   │       odds_169194.json
+│   │       odds_169195.json
+│   │       odds_169196.json
+│   │       odds_169992.json
+│   │       odds_169993.json
+│   │       odds_170276.json
+│   │       odds_170277.json
+│   │       odds_170278.json
+│   │       odds_170279.json
+│   │       odds_170280.json
+│   │       odds_170586.json
+│   │       odds_171070.json
+│   │       odds_171071.json
+│   │       odds_171072.json
+│   │       odds_171073.json
+│   │       odds_171074.json
+│   │       odds_171075.json
+│   │       odds_171076.json
+│   │       odds_171077.json
+│   │       odds_171078.json
+│   │       odds_171079.json
+│   │       odds_171080.json
+│   │       odds_171081.json
+│   │       odds_171082.json
+│   │       odds_171083.json
+│   │       odds_171084.json
+│   │       odds_171085.json
+│   │       odds_171086.json
+│   │       odds_171087.json
+│   │       odds_171088.json
+│   │       odds_171089.json
+│   │
+│   ├───estadisticas_equipo
+│   │       162547.json
+│   │       162548.json
+│   │       162549.json
+│   │       162550.json
+│   │       162551.json
+│   │       162553.json
+│   │       163891.json
+│   │       163892.json
+│   │       163893.json
+│   │       163894.json
+│   │       163896.json
+│   │       163897.json
+│   │       163898.json
+│   │       163899.json
+│   │       163900.json
+│   │       163901.json
+│   │       163902.json
+│   │       163903.json
+│   │       163904.json
+│   │       163905.json
+│   │       163906.json
+│   │       163907.json
+│   │       163908.json
+│   │       163909.json
+│   │       163910.json
+│   │       163911.json
+│   │       163912.json
+│   │       163913.json
+│   │       163914.json
+│   │       163915.json
+│   │       163916.json
+│   │       163917.json
+│   │       163918.json
+│   │       163919.json
+│   │       163921.json
+│   │       163923.json
+│   │       163926.json
+│   │       163927.json
+│   │       163928.json
+│   │       163929.json
+│   │       163930.json
+│   │       163931.json
+│   │       163932.json
+│   │       166007.json
+│   │       166008.json
+│   │       166009.json
+│   │       166010.json
+│   │       166011.json
+│   │       166012.json
+│   │       166013.json
+│   │       166014.json
+│   │       166015.json
+│   │       166016.json
+│   │       166017.json
+│   │       166937.json
+│   │       166938.json
+│   │       166939.json
+│   │       166940.json
+│   │       166941.json
+│   │       166942.json
+│   │       166943.json
+│   │       166944.json
+│   │       166945.json
+│   │       166946.json
+│   │       169176.json
+│   │       169180.json
+│   │       169184.json
+│   │       169185.json
+│   │       169186.json
+│   │       169187.json
+│   │       169188.json
+│   │       169189.json
+│   │       169190.json
+│   │       169191.json
+│   │       169192.json
+│   │       169193.json
+│   │       169194.json
+│   │       169195.json
+│   │       169196.json
+│   │       169992.json
+│   │       169993.json
+│   │       170276.json
+│   │       170277.json
+│   │       170278.json
+│   │       170279.json
+│   │       170280.json
+│   │       170586.json
+│   │       171070.json
+│   │       171071.json
+│   │       171072.json
+│   │       171073.json
+│   │       171074.json
+│   │       171075.json
+│   │       171076.json
+│   │       171077.json
+│   │       171078.json
+│   │       171079.json
+│   │       171080.json
+│   │       171081.json
+│   │       171082.json
+│   │       171083.json
+│   │       171084.json
+│   │       171085.json
+│   │       171086.json
+│   │       171087.json
+│   │       171088.json
+│   │       171089.json
+│   │
+│   ├───estadisticas_jugadores
+│   │       162547.json
+│   │       162548.json
+│   │       162549.json
+│   │       162550.json
+│   │       162551.json
+│   │       162553.json
+│   │       163891.json
+│   │       163892.json
+│   │       163893.json
+│   │       163894.json
+│   │       163896.json
+│   │       163897.json
+│   │       163898.json
+│   │       163899.json
+│   │       163900.json
+│   │       163901.json
+│   │       163902.json
+│   │       163903.json
+│   │       163904.json
+│   │       163905.json
+│   │       163906.json
+│   │       163907.json
+│   │       163908.json
+│   │       163909.json
+│   │       163910.json
+│   │       163911.json
+│   │       163912.json
+│   │       163913.json
+│   │       163914.json
+│   │       163915.json
+│   │       163916.json
+│   │       163917.json
+│   │       163918.json
+│   │       163919.json
+│   │       163921.json
+│   │       163923.json
+│   │       163926.json
+│   │       163927.json
+│   │       163928.json
+│   │       163929.json
+│   │       163930.json
+│   │       163931.json
+│   │       163932.json
+│   │       166007.json
+│   │       166008.json
+│   │       166009.json
+│   │       166010.json
+│   │       166011.json
+│   │       166012.json
+│   │       166013.json
+│   │       166014.json
+│   │       166015.json
+│   │       166016.json
+│   │       166017.json
+│   │       166937.json
+│   │       166938.json
+│   │       166939.json
+│   │       166940.json
+│   │       166941.json
+│   │       166942.json
+│   │       166943.json
+│   │       166944.json
+│   │       166945.json
+│   │       166946.json
+│   │       169176.json
+│   │       169180.json
+│   │       169184.json
+│   │       169185.json
+│   │       169186.json
+│   │       169187.json
+│   │       169188.json
+│   │       169189.json
+│   │       169190.json
+│   │       169191.json
+│   │       169192.json
+│   │       169193.json
+│   │       169194.json
+│   │       169195.json
+│   │       169196.json
+│   │       169992.json
+│   │       169993.json
+│   │       170276.json
+│   │       170277.json
+│   │       170278.json
+│   │       170279.json
+│   │       170280.json
+│   │       170586.json
+│   │       171070.json
+│   │       171071.json
+│   │       171072.json
+│   │       171073.json
+│   │       171074.json
+│   │       171075.json
+│   │       171076.json
+│   │       171077.json
+│   │       171078.json
+│   │       171079.json
+│   │       171080.json
+│   │       171081.json
+│   │       171082.json
+│   │       171083.json
+│   │       171084.json
+│   │       171085.json
+│   │       171086.json
+│   │       171087.json
+│   │       171088.json
+│   │       171089.json
+│   │
+│   ├───eventos
+│   │       162547.json
+│   │       162548.json
+│   │       162549.json
+│   │       162550.json
+│   │       162551.json
+│   │       162553.json
+│   │       163891.json
+│   │       163892.json
+│   │       163893.json
+│   │       163894.json
+│   │       163896.json
+│   │       163897.json
+│   │       163898.json
+│   │       163899.json
+│   │       163900.json
+│   │       163901.json
+│   │       163902.json
+│   │       163903.json
+│   │       163904.json
+│   │       163905.json
+│   │       163906.json
+│   │       163907.json
+│   │       163908.json
+│   │       163909.json
+│   │       163910.json
+│   │       163911.json
+│   │       163912.json
+│   │       163913.json
+│   │       163914.json
+│   │       163915.json
+│   │       163916.json
+│   │       163917.json
+│   │       163918.json
+│   │       163919.json
+│   │       163921.json
+│   │       163923.json
+│   │       163926.json
+│   │       163927.json
+│   │       163928.json
+│   │       163929.json
+│   │       163930.json
+│   │       163931.json
+│   │       163932.json
+│   │       166007.json
+│   │       166008.json
+│   │       166009.json
+│   │       166010.json
+│   │       166011.json
+│   │       166012.json
+│   │       166013.json
+│   │       166014.json
+│   │       166015.json
+│   │       166016.json
+│   │       166017.json
+│   │       166937.json
+│   │       166938.json
+│   │       166939.json
+│   │       166940.json
+│   │       166941.json
+│   │       166942.json
+│   │       166943.json
+│   │       166944.json
+│   │       166945.json
+│   │       166946.json
+│   │       169176.json
+│   │       169180.json
+│   │       169184.json
+│   │       169185.json
+│   │       169186.json
+│   │       169187.json
+│   │       169188.json
+│   │       169189.json
+│   │       169190.json
+│   │       169191.json
+│   │       169192.json
+│   │       169193.json
+│   │       169194.json
+│   │       169195.json
+│   │       169196.json
+│   │       169992.json
+│   │       169993.json
+│   │       170276.json
+│   │       170277.json
+│   │       170278.json
+│   │       170279.json
+│   │       170280.json
+│   │       170586.json
+│   │       171070.json
+│   │       171071.json
+│   │       171072.json
+│   │       171073.json
+│   │       171074.json
+│   │       171075.json
+│   │       171076.json
+│   │       171077.json
+│   │       171078.json
+│   │       171079.json
+│   │       171080.json
+│   │       171081.json
+│   │       171082.json
+│   │       171083.json
+│   │       171084.json
+│   │       171085.json
+│   │       171086.json
+│   │       171087.json
+│   │       171088.json
+│   │       171089.json
+│   │
+│   ├───h2h
+│   │       162547.json
+│   │       162548.json
+│   │       162549.json
+│   │       162550.json
+│   │       162551.json
+│   │       162553.json
+│   │       163891.json
+│   │       163892.json
+│   │       163893.json
+│   │       163894.json
+│   │       163896.json
+│   │       163897.json
+│   │       163898.json
+│   │       163899.json
+│   │       163900.json
+│   │       163901.json
+│   │       163902.json
+│   │       163903.json
+│   │       163904.json
+│   │       163905.json
+│   │       163906.json
+│   │       163907.json
+│   │       163908.json
+│   │       163909.json
+│   │       163910.json
+│   │       163911.json
+│   │       163912.json
+│   │       163913.json
+│   │       163914.json
+│   │       163915.json
+│   │       163916.json
+│   │       163917.json
+│   │       163918.json
+│   │       163919.json
+│   │       163921.json
+│   │       163923.json
+│   │       163926.json
+│   │       163927.json
+│   │       163928.json
+│   │       163929.json
+│   │       163930.json
+│   │       163931.json
+│   │       163932.json
+│   │       166007.json
+│   │       166008.json
+│   │       166009.json
+│   │       166010.json
+│   │       166011.json
+│   │       166012.json
+│   │       166013.json
+│   │       166014.json
+│   │       166015.json
+│   │       166016.json
+│   │       166017.json
+│   │       166937.json
+│   │       166938.json
+│   │       166939.json
+│   │       166940.json
+│   │       166941.json
+│   │       166942.json
+│   │       166943.json
+│   │       166944.json
+│   │       166945.json
+│   │       166946.json
+│   │       169176.json
+│   │       169180.json
+│   │       169184.json
+│   │       169185.json
+│   │       169186.json
+│   │       169187.json
+│   │       169188.json
+│   │       169189.json
+│   │       169190.json
+│   │       169191.json
+│   │       169192.json
+│   │       169193.json
+│   │       169194.json
+│   │       169195.json
+│   │       169196.json
+│   │       169992.json
+│   │       169993.json
+│   │       170276.json
+│   │       170277.json
+│   │       170278.json
+│   │       170279.json
+│   │       170280.json
+│   │       170586.json
+│   │       171070.json
+│   │       171071.json
+│   │       171072.json
+│   │       171073.json
+│   │       171074.json
+│   │       171075.json
+│   │       171076.json
+│   │       171077.json
+│   │       171078.json
+│   │       171079.json
+│   │       171080.json
+│   │       171081.json
+│   │       171082.json
+│   │       171083.json
+│   │       171084.json
+│   │       171085.json
+│   │       171086.json
+│   │       171087.json
+│   │       171088.json
+│   │       171089.json
+│   │
+│   ├───mercados
+│   │   ├───btts
+│   │   ├───ganador
+│   │   │       ganador_163891.json
+│   │   │       ganador_163892.json
+│   │   │       ganador_163893.json
+│   │   │       ganador_163894.json
+│   │   │       ganador_163896.json
+│   │   │       ganador_163897.json
+│   │   │       ganador_163898.json
+│   │   │       ganador_163899.json
+│   │   │       ganador_163900.json
+│   │   │       ganador_163901.json
+│   │   │       ganador_163902.json
+│   │   │       ganador_163903.json
+│   │   │       ganador_163904.json
+│   │   │       ganador_163905.json
+│   │   │       ganador_163906.json
+│   │   │       ganador_163907.json
+│   │   │       ganador_163908.json
+│   │   │       ganador_163909.json
+│   │   │       ganador_163910.json
+│   │   │       ganador_163911.json
+│   │   │       ganador_163912.json
+│   │   │       ganador_163913.json
+│   │   │       ganador_163914.json
+│   │   │       ganador_163915.json
+│   │   │       ganador_163916.json
+│   │   │       ganador_163917.json
+│   │   │       ganador_163918.json
+│   │   │       ganador_163919.json
+│   │   │       ganador_163921.json
+│   │   │       ganador_163923.json
+│   │   │       ganador_163926.json
+│   │   │       ganador_163927.json
+│   │   │       ganador_163928.json
+│   │   │       ganador_163929.json
+│   │   │       ganador_163930.json
+│   │   │       ganador_163931.json
+│   │   │       ganador_163932.json
+│   │   │       ganador_166007.json
+│   │   │       ganador_166008.json
+│   │   │       ganador_166009.json
+│   │   │       ganador_166010.json
+│   │   │       ganador_166011.json
+│   │   │       ganador_166012.json
+│   │   │       ganador_166013.json
+│   │   │       ganador_166014.json
+│   │   │       ganador_166015.json
+│   │   │       ganador_166016.json
+│   │   │       ganador_166017.json
+│   │   │       ganador_166937.json
+│   │   │       ganador_166938.json
+│   │   │       ganador_166939.json
+│   │   │       ganador_166940.json
+│   │   │       ganador_166941.json
+│   │   │       ganador_166942.json
+│   │   │       ganador_166943.json
+│   │   │       ganador_166944.json
+│   │   │       ganador_166945.json
+│   │   │       ganador_166946.json
+│   │   │
+│   │   ├───overunder
+│   │   │       overunder_163891.json
+│   │   │       overunder_163892.json
+│   │   │       overunder_163893.json
+│   │   │       overunder_163894.json
+│   │   │       overunder_163896.json
+│   │   │       overunder_163897.json
+│   │   │       overunder_163898.json
+│   │   │       overunder_163899.json
+│   │   │       overunder_163900.json
+│   │   │       overunder_163901.json
+│   │   │       overunder_163902.json
+│   │   │       overunder_163903.json
+│   │   │       overunder_163904.json
+│   │   │       overunder_163905.json
+│   │   │       overunder_163906.json
+│   │   │       overunder_163907.json
+│   │   │       overunder_163908.json
+│   │   │       overunder_163909.json
+│   │   │       overunder_163910.json
+│   │   │       overunder_163911.json
+│   │   │       overunder_163912.json
+│   │   │       overunder_163913.json
+│   │   │       overunder_163914.json
+│   │   │       overunder_163915.json
+│   │   │       overunder_163916.json
+│   │   │       overunder_163917.json
+│   │   │       overunder_163918.json
+│   │   │       overunder_163919.json
+│   │   │       overunder_163921.json
+│   │   │       overunder_163923.json
+│   │   │       overunder_163926.json
+│   │   │       overunder_163927.json
+│   │   │       overunder_163928.json
+│   │   │       overunder_163929.json
+│   │   │       overunder_163930.json
+│   │   │       overunder_163931.json
+│   │   │       overunder_163932.json
+│   │   │       overunder_166007.json
+│   │   │       overunder_166008.json
+│   │   │       overunder_166009.json
+│   │   │       overunder_166010.json
+│   │   │       overunder_166011.json
+│   │   │       overunder_166012.json
+│   │   │       overunder_166013.json
+│   │   │       overunder_166014.json
+│   │   │       overunder_166015.json
+│   │   │       overunder_166016.json
+│   │   │       overunder_166017.json
+│   │   │       overunder_166937.json
+│   │   │       overunder_166938.json
+│   │   │       overunder_166939.json
+│   │   │       overunder_166940.json
+│   │   │       overunder_166941.json
+│   │   │       overunder_166942.json
+│   │   │       overunder_166943.json
+│   │   │       overunder_166944.json
+│   │   │       overunder_166945.json
+│   │   │       overunder_166946.json
+│   │   │       overunder_169176.json
+│   │   │       overunder_169180.json
+│   │   │       overunder_169184.json
+│   │   │       overunder_169185.json
+│   │   │       overunder_169186.json
+│   │   │       overunder_169187.json
+│   │   │       overunder_169189.json
+│   │   │       overunder_169190.json
+│   │   │       overunder_169191.json
+│   │   │       overunder_169193.json
+│   │   │       overunder_169194.json
+│   │   │       overunder_169195.json
+│   │   │       overunder_169196.json
+│   │   │       overunder_169992.json
+│   │   │       overunder_169993.json
+│   │   │       overunder_170586.json
+│   │   │
+│   │   ├───parimpar
+│   │   │       parimpar_163891.json
+│   │   │       parimpar_163892.json
+│   │   │       parimpar_163893.json
+│   │   │       parimpar_163894.json
+│   │   │       parimpar_163896.json
+│   │   │       parimpar_163897.json
+│   │   │       parimpar_163898.json
+│   │   │       parimpar_163899.json
+│   │   │       parimpar_163900.json
+│   │   │       parimpar_163901.json
+│   │   │       parimpar_163902.json
+│   │   │       parimpar_163903.json
+│   │   │       parimpar_163904.json
+│   │   │       parimpar_163905.json
+│   │   │       parimpar_163906.json
+│   │   │       parimpar_163907.json
+│   │   │       parimpar_163908.json
+│   │   │       parimpar_163909.json
+│   │   │       parimpar_163910.json
+│   │   │       parimpar_163911.json
+│   │   │       parimpar_163912.json
+│   │   │       parimpar_163913.json
+│   │   │       parimpar_163914.json
+│   │   │       parimpar_163915.json
+│   │   │       parimpar_163916.json
+│   │   │       parimpar_163917.json
+│   │   │       parimpar_163918.json
+│   │   │       parimpar_163919.json
+│   │   │       parimpar_163921.json
+│   │   │       parimpar_163923.json
+│   │   │       parimpar_163926.json
+│   │   │       parimpar_163927.json
+│   │   │       parimpar_163928.json
+│   │   │       parimpar_163929.json
+│   │   │       parimpar_163930.json
+│   │   │       parimpar_163931.json
+│   │   │       parimpar_163932.json
+│   │   │       parimpar_166007.json
+│   │   │       parimpar_166008.json
+│   │   │       parimpar_166009.json
+│   │   │       parimpar_166010.json
+│   │   │       parimpar_166011.json
+│   │   │       parimpar_166012.json
+│   │   │       parimpar_166013.json
+│   │   │       parimpar_166014.json
+│   │   │       parimpar_166015.json
+│   │   │       parimpar_166016.json
+│   │   │       parimpar_166017.json
+│   │   │       parimpar_166937.json
+│   │   │       parimpar_166938.json
+│   │   │       parimpar_166939.json
+│   │   │       parimpar_166940.json
+│   │   │       parimpar_166941.json
+│   │   │       parimpar_166942.json
+│   │   │       parimpar_166943.json
+│   │   │       parimpar_166944.json
+│   │   │       parimpar_166945.json
+│   │   │       parimpar_166946.json
+│   │   │       parimpar_169176.json
+│   │   │       parimpar_169180.json
+│   │   │       parimpar_169184.json
+│   │   │       parimpar_169185.json
+│   │   │       parimpar_169186.json
+│   │   │       parimpar_169187.json
+│   │   │       parimpar_169189.json
+│   │   │       parimpar_169190.json
+│   │   │       parimpar_169191.json
+│   │   │       parimpar_169193.json
+│   │   │       parimpar_169194.json
+│   │   │       parimpar_169195.json
+│   │   │       parimpar_169196.json
+│   │   │       parimpar_169992.json
+│   │   │       parimpar_169993.json
+│   │   │       parimpar_170586.json
+│   │   │
+│   │   ├───primera_mitad
+│   │   │       primera_mitad_163891.json
+│   │   │       primera_mitad_163892.json
+│   │   │       primera_mitad_163893.json
+│   │   │       primera_mitad_163894.json
+│   │   │       primera_mitad_163896.json
+│   │   │       primera_mitad_163897.json
+│   │   │       primera_mitad_163898.json
+│   │   │       primera_mitad_163899.json
+│   │   │       primera_mitad_163900.json
+│   │   │       primera_mitad_163901.json
+│   │   │       primera_mitad_163902.json
+│   │   │       primera_mitad_163903.json
+│   │   │       primera_mitad_163904.json
+│   │   │       primera_mitad_163905.json
+│   │   │       primera_mitad_163906.json
+│   │   │       primera_mitad_163907.json
+│   │   │       primera_mitad_163908.json
+│   │   │       primera_mitad_163909.json
+│   │   │       primera_mitad_163910.json
+│   │   │       primera_mitad_163911.json
+│   │   │       primera_mitad_163912.json
+│   │   │       primera_mitad_163913.json
+│   │   │       primera_mitad_163914.json
+│   │   │       primera_mitad_163915.json
+│   │   │       primera_mitad_163916.json
+│   │   │       primera_mitad_163917.json
+│   │   │       primera_mitad_163918.json
+│   │   │       primera_mitad_163919.json
+│   │   │       primera_mitad_163921.json
+│   │   │       primera_mitad_163923.json
+│   │   │       primera_mitad_163926.json
+│   │   │       primera_mitad_163927.json
+│   │   │       primera_mitad_163928.json
+│   │   │       primera_mitad_163929.json
+│   │   │       primera_mitad_163930.json
+│   │   │       primera_mitad_163931.json
+│   │   │       primera_mitad_163932.json
+│   │   │       primera_mitad_166007.json
+│   │   │       primera_mitad_166008.json
+│   │   │       primera_mitad_166009.json
+│   │   │       primera_mitad_166010.json
+│   │   │       primera_mitad_166011.json
+│   │   │       primera_mitad_166012.json
+│   │   │       primera_mitad_166013.json
+│   │   │       primera_mitad_166014.json
+│   │   │       primera_mitad_166015.json
+│   │   │       primera_mitad_166016.json
+│   │   │       primera_mitad_166017.json
+│   │   │       primera_mitad_166937.json
+│   │   │       primera_mitad_166938.json
+│   │   │       primera_mitad_166939.json
+│   │   │       primera_mitad_166940.json
+│   │   │       primera_mitad_166941.json
+│   │   │       primera_mitad_166942.json
+│   │   │       primera_mitad_166943.json
+│   │   │       primera_mitad_166944.json
+│   │   │       primera_mitad_166945.json
+│   │   │       primera_mitad_166946.json
+│   │   │
+│   │   ├───runline
+│   │   └───total_equipo
+│   │           total_equipo_163891.json
+│   │           total_equipo_163892.json
+│   │           total_equipo_163893.json
+│   │           total_equipo_163894.json
+│   │           total_equipo_163896.json
+│   │           total_equipo_163897.json
+│   │           total_equipo_163898.json
+│   │           total_equipo_163899.json
+│   │           total_equipo_163900.json
+│   │           total_equipo_163901.json
+│   │           total_equipo_163902.json
+│   │           total_equipo_163903.json
+│   │           total_equipo_163904.json
+│   │           total_equipo_163905.json
+│   │           total_equipo_163906.json
+│   │           total_equipo_163907.json
+│   │           total_equipo_163908.json
+│   │           total_equipo_163909.json
+│   │           total_equipo_163910.json
+│   │           total_equipo_163911.json
+│   │           total_equipo_163912.json
+│   │           total_equipo_163913.json
+│   │           total_equipo_163914.json
+│   │           total_equipo_163915.json
+│   │           total_equipo_163916.json
+│   │           total_equipo_163917.json
+│   │           total_equipo_163918.json
+│   │           total_equipo_163919.json
+│   │           total_equipo_163921.json
+│   │           total_equipo_163923.json
+│   │           total_equipo_163926.json
+│   │           total_equipo_163927.json
+│   │           total_equipo_163928.json
+│   │           total_equipo_163929.json
+│   │           total_equipo_163930.json
+│   │           total_equipo_163931.json
+│   │           total_equipo_163932.json
+│   │           total_equipo_166007.json
+│   │           total_equipo_166008.json
+│   │           total_equipo_166009.json
+│   │           total_equipo_166010.json
+│   │           total_equipo_166011.json
+│   │           total_equipo_166012.json
+│   │           total_equipo_166013.json
+│   │           total_equipo_166014.json
+│   │           total_equipo_166015.json
+│   │           total_equipo_166016.json
+│   │           total_equipo_166017.json
+│   │           total_equipo_166937.json
+│   │           total_equipo_166938.json
+│   │           total_equipo_166939.json
+│   │           total_equipo_166940.json
+│   │           total_equipo_166941.json
+│   │           total_equipo_166942.json
+│   │           total_equipo_166943.json
+│   │           total_equipo_166944.json
+│   │           total_equipo_166945.json
+│   │           total_equipo_166946.json
+│   │           total_equipo_169176.json
+│   │           total_equipo_169180.json
+│   │           total_equipo_169184.json
+│   │           total_equipo_169185.json
+│   │           total_equipo_169186.json
+│   │           total_equipo_169187.json
+│   │           total_equipo_169189.json
+│   │           total_equipo_169190.json
+│   │           total_equipo_169191.json
+│   │           total_equipo_169193.json
+│   │           total_equipo_169194.json
+│   │           total_equipo_169195.json
+│   │           total_equipo_169196.json
+│   │           total_equipo_169992.json
+│   │           total_equipo_169993.json
+│   │           total_equipo_170586.json
+│   │
+│   ├───procesados
+│   │       avanzado_162547.json
+│   │       avanzado_162548.json
+│   │       avanzado_162549.json
+│   │       avanzado_162550.json
+│   │       avanzado_162551.json
+│   │       avanzado_162553.json
+│   │       avanzado_163891.json
+│   │       avanzado_163892.json
+│   │       avanzado_163893.json
+│   │       avanzado_163894.json
+│   │       avanzado_163896.json
+│   │       avanzado_163897.json
+│   │       avanzado_163898.json
+│   │       avanzado_163899.json
+│   │       avanzado_163900.json
+│   │       avanzado_163901.json
+│   │       avanzado_163902.json
+│   │       avanzado_163903.json
+│   │       avanzado_163904.json
+│   │       avanzado_163905.json
+│   │       avanzado_163906.json
+│   │       avanzado_163907.json
+│   │       avanzado_163908.json
+│   │       avanzado_163909.json
+│   │       avanzado_163910.json
+│   │       avanzado_163911.json
+│   │       avanzado_163912.json
+│   │       avanzado_163913.json
+│   │       avanzado_163914.json
+│   │       avanzado_163915.json
+│   │       avanzado_163916.json
+│   │       avanzado_163917.json
+│   │       avanzado_163918.json
+│   │       avanzado_163919.json
+│   │       avanzado_163921.json
+│   │       avanzado_163923.json
+│   │       avanzado_163926.json
+│   │       avanzado_163927.json
+│   │       avanzado_163928.json
+│   │       avanzado_163929.json
+│   │       avanzado_163930.json
+│   │       avanzado_163931.json
+│   │       avanzado_163932.json
+│   │       avanzado_166007.json
+│   │       avanzado_166008.json
+│   │       avanzado_166009.json
+│   │       avanzado_166010.json
+│   │       avanzado_166011.json
+│   │       avanzado_166012.json
+│   │       avanzado_166013.json
+│   │       avanzado_166014.json
+│   │       avanzado_166015.json
+│   │       avanzado_166016.json
+│   │       avanzado_166017.json
+│   │       avanzado_166937.json
+│   │       avanzado_166938.json
+│   │       avanzado_166939.json
+│   │       avanzado_166940.json
+│   │       avanzado_166941.json
+│   │       avanzado_166942.json
+│   │       avanzado_166943.json
+│   │       avanzado_166944.json
+│   │       avanzado_166945.json
+│   │       avanzado_166946.json
+│   │       avanzado_169176.json
+│   │       avanzado_169180.json
+│   │       avanzado_169184.json
+│   │       avanzado_169185.json
+│   │       avanzado_169186.json
+│   │       avanzado_169187.json
+│   │       avanzado_169188.json
+│   │       avanzado_169189.json
+│   │       avanzado_169190.json
+│   │       avanzado_169191.json
+│   │       avanzado_169192.json
+│   │       avanzado_169193.json
+│   │       avanzado_169194.json
+│   │       avanzado_169195.json
+│   │       avanzado_169196.json
+│   │       avanzado_169992.json
+│   │       avanzado_169993.json
+│   │       avanzado_170276.json
+│   │       avanzado_170277.json
+│   │       avanzado_170278.json
+│   │       avanzado_170279.json
+│   │       avanzado_170280.json
+│   │       avanzado_170586.json
+│   │       avanzado_171070.json
+│   │       avanzado_171071.json
+│   │       avanzado_171072.json
+│   │       avanzado_171073.json
+│   │       avanzado_171074.json
+│   │       avanzado_171075.json
+│   │       avanzado_171076.json
+│   │       avanzado_171077.json
+│   │       avanzado_171078.json
+│   │       avanzado_171079.json
+│   │       avanzado_171080.json
+│   │       avanzado_171081.json
+│   │       avanzado_171082.json
+│   │       avanzado_171083.json
+│   │       avanzado_171084.json
+│   │       avanzado_171085.json
+│   │       avanzado_171086.json
+│   │       avanzado_171087.json
+│   │       avanzado_171088.json
+│   │       avanzado_171089.json
+│   │
+│   └───zonas
+├───logs
+├───predicciones
+│       predicciones_beisbol_2025-05-12.json
+│       predicciones_btts_2025-05-12.json
+│       predicciones_btts_2025-05-13.json
+│       predicciones_btts_2025-05-14.json
+│       predicciones_btts_clasificadas_2025-05-12.json
+│       predicciones_btts_clasificadas_2025-05-13.json
+│       predicciones_btts_clasificadas_2025-05-14.json
+│       predicciones_clasificadas_2025-05-12.json
+│       predicciones_ganador_2025-05-12.json
+│       predicciones_ganador_2025-05-13.json
+│       predicciones_ganador_2025-05-14.json
+│       predicciones_ganador_clasificadas_2025-05-12.json
+│       predicciones_ganador_clasificadas_2025-05-13.json
+│       predicciones_ganador_clasificadas_2025-05-14.json
+│       predicciones_overunder_2025-05-12.json
+│       predicciones_overunder_2025-05-13.json
+│       predicciones_overunder_2025-05-14.json
+│       predicciones_overunder_clasificadas_2025-05-12.json
+│       predicciones_overunder_clasificadas_2025-05-13.json
+│       predicciones_overunder_clasificadas_2025-05-14.json
+│       predicciones_parimpar_2025-05-12.json
+│       predicciones_parimpar_2025-05-13.json
+│       predicciones_parimpar_2025-05-14.json
+│       predicciones_parimpar_clasificadas_2025-05-12.json
+│       predicciones_parimpar_clasificadas_2025-05-13.json
+│       predicciones_parimpar_clasificadas_2025-05-14.json
+│       predicciones_primera_mitad_2025-05-12.json
+│       predicciones_primera_mitad_2025-05-13.json
+│       predicciones_primera_mitad_2025-05-14.json
+│       predicciones_primera_mitad_clasificadas_2025-05-12.json
+│       predicciones_primera_mitad_clasificadas_2025-05-13.json
+│       predicciones_primera_mitad_clasificadas_2025-05-14.json
+│       predicciones_runline_2025-05-12.json
+│       predicciones_runline_2025-05-13.json
+│       predicciones_runline_2025-05-14.json
+│       predicciones_runline_clasificadas_2025-05-12.json
+│       predicciones_runline_clasificadas_2025-05-13.json
+│       predicciones_runline_clasificadas_2025-05-14.json
+│       predicciones_total_equipo_2025-05-12.json
+│       predicciones_total_equipo_2025-05-13.json
+│       predicciones_total_equipo_2025-05-14.json
+│       predicciones_total_equipo_clasificadas_2025-05-12.json
+│       predicciones_total_equipo_clasificadas_2025-05-13.json
+│       predicciones_total_equipo_clasificadas_2025-05-14.json
+│
+├───scripts
+│       app.py
+│       calcular_mercado_btts.py
+│       calcular_mercado_ganador.py
+│       calcular_mercado_overunder.py
+│       calcular_mercado_parimpar.py
+│       calcular_mercado_primera_mitad.py
+│       calcular_mercado_runline.py
+│       calcular_mercado_total_equipo.py
+│       calcular_predicciones_beisbol.py
+│       clasificar_confianza_beisbol.py
+│       clasificar_mercado_btts.py
+│       clasificar_mercado_ganador.py
+│       clasificar_mercado_overunder.py
+│       clasificar_mercado_parimpar.py
+│       clasificar_mercado_primera_mitad.py
+│       clasificar_mercado_runline.py
+│       clasificar_mercado_total_equipo.py
+│       descargar_datos_beisbol.py
+│       descargar_datos_por_partido_beisbol.py
+│       descargar_mercado_ganador.py
+│       descargar_mercado_overunder.py
+│       descargar_mercado_parimpar.py
+│       descargar_mercado_primera_mitad.py
+│       descargar_mercado_runline.py
+│       descargar_mercado_total_equipo.py
+│       descargar_partidos_beisbol.py
+│       ejecutar_modulo_beisbol.py
+│       escargar_mercado_parimpar.py
+│       generar_html_picks_completo.py
+│       generar_html_visuales.py
+│       generar_html_visuales_total_equipo.py
+│       generar_visual_btts.py
+│       generar_visual_ganador.py
+│       generar_visual_overunder.py
+│       generar_visual_parimpar.py
+│       generar_visual_primera_mitad.py
+│       generar_visual_runline.py
+│       generar_visual_total_equipo.py
+│       iniciar_beisbol.bat
+│       procesar_datos_avanzados_beisbol.py
+│
+└───visuales
+    │   picks_completos_2025-05-12.html
+    │   picks_completos_2025-05-13.html
+    │   picks_completos_2025-05-14.html
+    │   picks_visuales_2025-05-12.html
+    │   picks_visuales_2025-05-13.html
+    │   picks_visuales_2025-05-14.html
+    │
+    └───imagenes
+        ├───btts
+        │       Aguascalientes_vs_Saltillo_BTTS.png
+        │       Albuquerque_Isotopes_vs_Tacoma_Rainiers_BTTS.png
+        │       Atlanta_Braves_vs_Washington_Nationals_BTTS.png
+        │       Baltimore_Orioles_vs_Minnesota_Twins_BTTS.png
+        │       Bravos_de_Leon_vs_Oaxaca_BTTS.png
+        │       Buffalo_Bisons_vs_Worcester_BTTS.png
+        │       Caliente_de_Durango_vs_Jalisco_BTTS.png
+        │       Campeche_vs_Veracruz_BTTS.png
+        │       Chicago_Cubs_vs_Miami_Marlins_BTTS.png
+        │       Chunichi_Dragons_vs_Yakult_Swallows_BTTS.png
+        │       Cincinnati_Reds_vs_Chicago_White_Sox_BTTS.png
+        │       Cleveland_Guardians_vs_Milwaukee_Brewers_BTTS.png
+        │       Detroit_Tigers_vs_Boston_Red_Sox_BTTS.png
+        │       Diablos_Rojos_vs_Tabasco_BTTS.png
+        │       Fubon_Guardians_vs_TSG_Hawks_BTTS.png
+        │       Fukuoka_S._Hawks_vs_Seibu_Lions_BTTS.png
+        │       Gwinnett_Stripers_vs_Charlotte_Knights_BTTS.png
+        │       Hanwha_Eagles_vs_Doosan_Bears_BTTS.png
+        │       Hiroshima_Carp_vs_Yomiuri_Giants_BTTS.png
+        │       Houston_Astros_vs_Kansas_City_Royals_BTTS.png
+        │       KIA_Tigers_vs_Lotte_Giants_BTTS.png
+        │       Laguna_vs_Aguascalientes_BTTS.png
+        │       Laguna_vs_Toros_de_Tijuana_BTTS.png
+        │       Las_Tunas_vs_Granma_BTTS.png
+        │       Las_Vegas_Aviators_vs_El_Paso_Chihuahuas_BTTS.png
+        │       LG_Twins_vs_Kiwoom_Heroes_BTTS.png
+        │       Los_Angeles_Dodgers_vs_Athletics_BTTS.png
+        │       Monclova_vs_Toros_de_Tijuana_BTTS.png
+        │       Monterrey_vs_Chihuahua_BTTS.png
+        │       New_York_Mets_vs_Pittsburgh_Pirates_BTTS.png
+        │       Nippon_Ham_Fighters_vs_Orix_Buffaloes_BTTS.png
+        │       Philadelphia_Phillies_vs_St.Louis_Cardinals_BTTS.png
+        │       Puebla_vs_Yucatan_BTTS.png
+        │       Queretaro_vs_Quintana_Roo_BTTS.png
+        │       Rakuten_Gold._Eagles_vs_Chiba_Lotte_Marines_BTTS.png
+        │       Rakuten_Monkeys_vs_Uni_Lions_BTTS.png
+        │       Rochester_Red_Wings_vs_Durham_Bulls_BTTS.png
+        │       Round_Rock_Express_vs_Oklahoma_City_Dodgers_BTTS.png
+        │       Sacramento_River_Cats_vs_Salt_Lake_Bees_BTTS.png
+        │       Saltillo_vs_Dos_Laredos_BTTS.png
+        │       Samsung_Lions_vs_KT_Wiz_Suwon_BTTS.png
+        │       Santiago_de_Cuba_vs_Las_Tunas_BTTS.png
+        │       San_Diego_Padres_vs_Los_Angeles_Angels_BTTS.png
+        │       San_Francisco_Giants_vs_Arizona_Diamondbacks_BTTS.png
+        │       Seattle_Mariners_vs_New_York_Yankees_BTTS.png
+        │       SSG_Landers_vs_NC_Dinos_BTTS.png
+        │       Sugar_Land_vs_Reno_Aces_BTTS.png
+        │       Tabasco_vs_Bravos_de_Leon_BTTS.png
+        │       Texas_Rangers_vs_Colorado_Rockies_BTTS.png
+        │       Toronto_Blue_Jays_vs_Tampa_Bay_Rays_BTTS.png
+        │       Trebic_vs_Draci_Brno_BTTS.png
+        │       Wei_Chuan_Dragons_vs_Chinatrust_Brothers_BTTS.png
+        │       Yokohama_BayStars_vs_Hanshin_Tigers_BTTS.png
+        │       Yucatan_vs_Veracruz_BTTS.png
+        │
+        ├───ganador
+        │       Atlanta_Braves_vs_Washington_Nationals_ganador.png
+        │       Baltimore_Orioles_vs_Minnesota_Twins_ganador.png
+        │       Chicago_Cubs_vs_Miami_Marlins_ganador.png
+        │       Chunichi_Dragons_vs_Yakult_Swallows_ganador.png
+        │       Cincinnati_Reds_vs_Chicago_White_Sox_ganador.png
+        │       Cleveland_Guardians_vs_Milwaukee_Brewers_ganador.png
+        │       Detroit_Tigers_vs_Boston_Red_Sox_ganador.png
+        │       Fukuoka_S._Hawks_vs_Seibu_Lions_ganador.png
+        │       Hanwha_Eagles_vs_Doosan_Bears_ganador.png
+        │       Hiroshima_Carp_vs_Yomiuri_Giants_ganador.png
+        │       Houston_Astros_vs_Kansas_City_Royals_ganador.png
+        │       KIA_Tigers_vs_Lotte_Giants_ganador.png
+        │       LG_Twins_vs_Kiwoom_Heroes_ganador.png
+        │       Los_Angeles_Dodgers_vs_Athletics_ganador.png
+        │       New_York_Mets_vs_Pittsburgh_Pirates_ganador.png
+        │       Nippon_Ham_Fighters_vs_Orix_Buffaloes_ganador.png
+        │       Philadelphia_Phillies_vs_St.Louis_Cardinals_ganador.png
+        │       Rakuten_Gold._Eagles_vs_Chiba_Lotte_Marines_ganador.png
+        │       Samsung_Lions_vs_KT_Wiz_Suwon_ganador.png
+        │       San_Diego_Padres_vs_Los_Angeles_Angels_ganador.png
+        │       San_Francisco_Giants_vs_Arizona_Diamondbacks_ganador.png
+        │       Seattle_Mariners_vs_New_York_Yankees_ganador.png
+        │       SSG_Landers_vs_NC_Dinos_ganador.png
+        │       Texas_Rangers_vs_Colorado_Rockies_ganador.png
+        │       Toronto_Blue_Jays_vs_Tampa_Bay_Rays_ganador.png
+        │       Yokohama_BayStars_vs_Hanshin_Tigers_ganador.png
+        │
+        ├───overunder
+        │       Aguascalientes_vs_Saltillo_OVER9.5.png
+        │       Aguascalientes_vs_Saltillo_UNDER9.5.png
+        │       Atlanta_Braves_vs_Washington_Nationals_UNDER9.5.png
+        │       Baltimore_Orioles_vs_Minnesota_Twins_UNDER9.5.png
+        │       Bravos_de_Leon_vs_Oaxaca_UNDER9.5.png
+        │       Campeche_vs_Veracruz_UNDER9.5.png
+        │       Chicago_Cubs_vs_Miami_Marlins_UNDER9.5.png
+        │       Chunichi_Dragons_vs_Yakult_Swallows_UNDER9.5.png
+        │       Cincinnati_Reds_vs_Chicago_White_Sox_UNDER9.5.png
+        │       Cleveland_Guardians_vs_Milwaukee_Brewers_UNDER9.5.png
+        │       Detroit_Tigers_vs_Boston_Red_Sox_UNDER9.5.png
+        │       Diablos_Rojos_vs_Tabasco_UNDER9.5.png
+        │       Fukuoka_S._Hawks_vs_Seibu_Lions_UNDER9.5.png
+        │       Hanwha_Eagles_vs_Doosan_Bears_UNDER9.5.png
+        │       Hiroshima_Carp_vs_Yomiuri_Giants_UNDER9.5.png
+        │       Houston_Astros_vs_Kansas_City_Royals_UNDER9.5.png
+        │       Laguna_vs_Aguascalientes_UNDER9.5.png
+        │       Laguna_vs_Toros_de_Tijuana_OVER9.5.png
+        │       Laguna_vs_Toros_de_Tijuana_UNDER9.5.png
+        │       Las_Tunas_vs_Granma_UNDER9.5.png
+        │       LG_Twins_vs_Kiwoom_Heroes_UNDER9.5.png
+        │       Los_Angeles_Dodgers_vs_Athletics_UNDER9.5.png
+        │       Monterrey_vs_Chihuahua_UNDER9.5.png
+        │       New_York_Mets_vs_Pittsburgh_Pirates_UNDER9.5.png
+        │       Nippon_Ham_Fighters_vs_Orix_Buffaloes_UNDER9.5.png
+        │       Philadelphia_Phillies_vs_St.Louis_Cardinals_UNDER9.5.png
+        │       Puebla_vs_Yucatan_UNDER9.5.png
+        │       Queretaro_vs_Quintana_Roo_UNDER9.5.png
+        │       Rakuten_Gold._Eagles_vs_Chiba_Lotte_Marines_UNDER9.5.png
+        │       Saltillo_vs_Dos_Laredos_UNDER9.5.png
+        │       Samsung_Lions_vs_KT_Wiz_Suwon_UNDER9.5.png
+        │       Santiago_de_Cuba_vs_Las_Tunas_OVER9.5.png
+        │       Santiago_de_Cuba_vs_Las_Tunas_UNDER9.5.png
+        │       San_Diego_Padres_vs_Los_Angeles_Angels_UNDER9.5.png
+        │       San_Francisco_Giants_vs_Arizona_Diamondbacks_UNDER9.5.png
+        │       Seattle_Mariners_vs_New_York_Yankees_UNDER9.5.png
+        │       SSG_Landers_vs_NC_Dinos_UNDER9.5.png
+        │       Tabasco_vs_Bravos_de_Leon_UNDER9.5.png
+        │       Texas_Rangers_vs_Colorado_Rockies_UNDER9.5.png
+        │       Toronto_Blue_Jays_vs_Tampa_Bay_Rays_UNDER9.5.png
+        │       Trebic_vs_Draci_Brno_UNDER9.5.png
+        │       Yokohama_BayStars_vs_Hanshin_Tigers_UNDER9.5.png
+        │       Yucatan_vs_Veracruz_UNDER9.5.png
+        │
+        ├───parimpar
+        ├───primera_mitad
+        │       Laguna_vs_Toros_de_Tijuana_Toros_de_Tijuana_gana_1H_1H.png
+        │
+        ├───runline
+        │       Aguascalientes_vs_Saltillo_Saltillo+1.5_runline.png
+        │       Albuquerque_Isotopes_vs_Tacoma_Rainiers_TacomaRainiers+1.5_runline.png
+        │       Atlanta_Braves_vs_Washington_Nationals_WashingtonNationals+1.5_runline.png
+        │       Baltimore_Orioles_vs_Minnesota_Twins_MinnesotaTwins+1.5_runline.png
+        │       Bravos_de_Leon_vs_Oaxaca_Oaxaca+1.5_runline.png
+        │       Buffalo_Bisons_vs_Worcester_Worcester+1.5_runline.png
+        │       Caliente_de_Durango_vs_Jalisco_Jalisco+1.5_runline.png
+        │       Campeche_vs_Veracruz_Veracruz+1.5_runline.png
+        │       Chicago_Cubs_vs_Miami_Marlins_MiamiMarlins+1.5_runline.png
+        │       Chunichi_Dragons_vs_Yakult_Swallows_YakultSwallows+1.5_runline.png
+        │       Cincinnati_Reds_vs_Chicago_White_Sox_ChicagoWhiteSox+1.5_runline.png
+        │       Cleveland_Guardians_vs_Milwaukee_Brewers_MilwaukeeBrewers+1.5_runline.png
+        │       Detroit_Tigers_vs_Boston_Red_Sox_BostonRedSox+1.5_runline.png
+        │       Diablos_Rojos_vs_Tabasco_Tabasco+1.5_runline.png
+        │       Fubon_Guardians_vs_TSG_Hawks_TSGHawks+1.5_runline.png
+        │       Fukuoka_S._Hawks_vs_Seibu_Lions_SeibuLions+1.5_runline.png
+        │       Gwinnett_Stripers_vs_Charlotte_Knights_CharlotteKnights+1.5_runline.png
+        │       Hanwha_Eagles_vs_Doosan_Bears_DoosanBears+1.5_runline.png
+        │       Hiroshima_Carp_vs_Yomiuri_Giants_YomiuriGiants+1.5_runline.png
+        │       Houston_Astros_vs_Kansas_City_Royals_KansasCityRoyals+1.5_runline.png
+        │       KIA_Tigers_vs_Lotte_Giants_LotteGiants+1.5_runline.png
+        │       Laguna_vs_Aguascalientes_Aguascalientes+1.5_runline.png
+        │       Laguna_vs_Toros_de_Tijuana_TorosdeTijuana+1.5_runline.png
+        │       Las_Tunas_vs_Granma_Granma+1.5_runline.png
+        │       Las_Vegas_Aviators_vs_El_Paso_Chihuahuas_ElPasoChihuahuas+1.5_runline.png
+        │       LG_Twins_vs_Kiwoom_Heroes_KiwoomHeroes+1.5_runline.png
+        │       Los_Angeles_Dodgers_vs_Athletics_Athletics+1.5_runline.png
+        │       Monclova_vs_Toros_de_Tijuana_TorosdeTijuana+1.5_runline.png
+        │       Monterrey_vs_Chihuahua_Chihuahua+1.5_runline.png
+        │       New_York_Mets_vs_Pittsburgh_Pirates_PittsburghPirates+1.5_runline.png
+        │       Nippon_Ham_Fighters_vs_Orix_Buffaloes_OrixBuffaloes+1.5_runline.png
+        │       Philadelphia_Phillies_vs_St.Louis_Cardinals_St.LouisCardinals+1.5_runline.png
+        │       Puebla_vs_Yucatan_Yucatan+1.5_runline.png
+        │       Queretaro_vs_Quintana_Roo_QuintanaRoo+1.5_runline.png
+        │       Rakuten_Gold._Eagles_vs_Chiba_Lotte_Marines_ChibaLotteMarines+1.5_runline.png
+        │       Rakuten_Monkeys_vs_Uni_Lions_UniLions+1.5_runline.png
+        │       Rochester_Red_Wings_vs_Durham_Bulls_DurhamBulls+1.5_runline.png
+        │       Round_Rock_Express_vs_Oklahoma_City_Dodgers_OklahomaCityDodgers+1.5_runline.png
+        │       Sacramento_River_Cats_vs_Salt_Lake_Bees_SaltLakeBees+1.5_runline.png
+        │       Saltillo_vs_Dos_Laredos_DosLaredos+1.5_runline.png
+        │       Samsung_Lions_vs_KT_Wiz_Suwon_KTWizSuwon+1.5_runline.png
+        │       Santiago_de_Cuba_vs_Las_Tunas_LasTunas+1.5_runline.png
+        │       San_Diego_Padres_vs_Los_Angeles_Angels_LosAngelesAngels+1.5_runline.png
+        │       San_Francisco_Giants_vs_Arizona_Diamondbacks_ArizonaDiamondbacks+1.5_runline.png
+        │       Seattle_Mariners_vs_New_York_Yankees_NewYorkYankees+1.5_runline.png
+        │       SSG_Landers_vs_NC_Dinos_NCDinos+1.5_runline.png
+        │       Sugar_Land_vs_Reno_Aces_RenoAces+1.5_runline.png
+        │       Tabasco_vs_Bravos_de_Leon_BravosdeLeon+1.5_runline.png
+        │       Texas_Rangers_vs_Colorado_Rockies_ColoradoRockies+1.5_runline.png
+        │       Toronto_Blue_Jays_vs_Tampa_Bay_Rays_TampaBayRays+1.5_runline.png
+        │       Trebic_vs_Draci_Brno_DraciBrno+1.5_runline.png
+        │       Wei_Chuan_Dragons_vs_Chinatrust_Brothers_ChinatrustBrothers+1.5_runline.png
+        │       Yokohama_BayStars_vs_Hanshin_Tigers_HanshinTigers+1.5_runline.png
+        │       Yucatan_vs_Veracruz_Veracruz+1.5_runline.png
+        │
+        └───total_equipo
+                Aguascalientes_AguascalientesUNDER6.0_total_equipo.png
+                Aguascalientes_AguascalientesUNDER6.5_total_equipo.png
+                Aguascalientes_AguascalientesUNDER7.0_total_equipo.png
+                Atlanta_Braves_AtlantaBravesUNDER2.5_total_equipo.png
+                Atlanta_Braves_AtlantaBravesUNDER3.5_total_equipo.png
+                Atlanta_Braves_AtlantaBravesUNDER4.5_total_equipo.png
+                Atlanta_Braves_AtlantaBravesUNDER5.5_total_equipo.png
+                Atlanta_Braves_AtlantaBravesUNDER6.5_total_equipo.png
+                Atlanta_Braves_AtlantaBravesUNDER7.5_total_equipo.png
+                Atlanta_Braves_AtlantaBravesUNDER8.5_total_equipo.png
+                Atlanta_Braves_AtlantaBravesUNDER9.5_total_equipo.png
+                Baltimore_Orioles_BaltimoreOriolesUNDER2.5_total_equipo.png
+                Baltimore_Orioles_BaltimoreOriolesUNDER3.5_total_equipo.png
+                Baltimore_Orioles_BaltimoreOriolesUNDER4.5_total_equipo.png
+                Baltimore_Orioles_BaltimoreOriolesUNDER5.5_total_equipo.png
+                Baltimore_Orioles_BaltimoreOriolesUNDER6.5_total_equipo.png
+                Baltimore_Orioles_BaltimoreOriolesUNDER7.5_total_equipo.png
+                Baltimore_Orioles_BaltimoreOriolesUNDER8.5_total_equipo.png
+                Bravos_de_Leon_BravosdeLeonUNDER6.0_total_equipo.png
+                Bravos_de_Leon_BravosdeLeonUNDER6.5_total_equipo.png
+                Bravos_de_Leon_BravosdeLeonUNDER7.0_total_equipo.png
+                Campeche_CampecheUNDER4.0_total_equipo.png
+                Campeche_CampecheUNDER4.5_total_equipo.png
+                Campeche_CampecheUNDER5.0_total_equipo.png
+                Chicago_Cubs_ChicagoCubsUNDER2.5_total_equipo.png
+                Chicago_Cubs_ChicagoCubsUNDER3.5_total_equipo.png
+                Chicago_Cubs_ChicagoCubsUNDER4.5_total_equipo.png
+                Chicago_Cubs_ChicagoCubsUNDER5.5_total_equipo.png
+                Chicago_Cubs_ChicagoCubsUNDER6.5_total_equipo.png
+                Chicago_Cubs_ChicagoCubsUNDER7.5_total_equipo.png
+                Chicago_Cubs_ChicagoCubsUNDER8.5_total_equipo.png
+                Chicago_Cubs_ChicagoCubsUNDER9.5_total_equipo.png
+                Chunichi_Dragons_ChunichiDragonsOVER0.5_total_equipo.png
+                Chunichi_Dragons_ChunichiDragonsOVER1.5_total_equipo.png
+                Chunichi_Dragons_ChunichiDragonsOVER2.5_total_equipo.png
+                Chunichi_Dragons_ChunichiDragonsOVER3.5_total_equipo.png
+                Chunichi_Dragons_ChunichiDragonsOVER4.5_total_equipo.png
+                Chunichi_Dragons_ChunichiDragonsOVER5.5_total_equipo.png
+                Chunichi_Dragons_ChunichiDragonsOVER6.5_total_equipo.png
+                Cincinnati_Reds_CincinnatiRedsUNDER2.5_total_equipo.png
+                Cincinnati_Reds_CincinnatiRedsUNDER3.5_total_equipo.png
+                Cincinnati_Reds_CincinnatiRedsUNDER4.5_total_equipo.png
+                Cincinnati_Reds_CincinnatiRedsUNDER5.5_total_equipo.png
+                Cincinnati_Reds_CincinnatiRedsUNDER6.5_total_equipo.png
+                Cincinnati_Reds_CincinnatiRedsUNDER7.5_total_equipo.png
+                Cincinnati_Reds_CincinnatiRedsUNDER8.5_total_equipo.png
+                Cincinnati_Reds_CincinnatiRedsUNDER9.5_total_equipo.png
+                Cleveland_Guardians_ClevelandGuardiansOVER1.5_total_equipo.png
+                Cleveland_Guardians_ClevelandGuardiansOVER2.5_total_equipo.png
+                Cleveland_Guardians_ClevelandGuardiansOVER3.5_total_equipo.png
+                Cleveland_Guardians_ClevelandGuardiansOVER4.5_total_equipo.png
+                Cleveland_Guardians_ClevelandGuardiansUNDER3.5_total_equipo.png
+                Cleveland_Guardians_ClevelandGuardiansUNDER4.5_total_equipo.png
+                Cleveland_Guardians_ClevelandGuardiansUNDER5.5_total_equipo.png
+                Cleveland_Guardians_ClevelandGuardiansUNDER6.5_total_equipo.png
+                Cleveland_Guardians_ClevelandGuardiansUNDER7.5_total_equipo.png
+                Cleveland_Guardians_ClevelandGuardiansUNDER8.5_total_equipo.png
+                Detroit_Tigers_DetroitTigersOVER1.5_total_equipo.png
+                Detroit_Tigers_DetroitTigersOVER2.5_total_equipo.png
+                Detroit_Tigers_DetroitTigersOVER3.5_total_equipo.png
+                Detroit_Tigers_DetroitTigersOVER4.5_total_equipo.png
+                Detroit_Tigers_DetroitTigersUNDER4.5_total_equipo.png
+                Detroit_Tigers_DetroitTigersUNDER5.5_total_equipo.png
+                Detroit_Tigers_DetroitTigersUNDER6.5_total_equipo.png
+                Detroit_Tigers_DetroitTigersUNDER7.5_total_equipo.png
+                Diablos_Rojos_DiablosRojosUNDER10.0_total_equipo.png
+                Diablos_Rojos_DiablosRojosUNDER8.0_total_equipo.png
+                Diablos_Rojos_DiablosRojosUNDER8.5_total_equipo.png
+                Diablos_Rojos_DiablosRojosUNDER9.0_total_equipo.png
+                Diablos_Rojos_DiablosRojosUNDER9.5_total_equipo.png
+                Fukuoka_S._Hawks_FukuokaS.HawksOVER0.5_total_equipo.png
+                Fukuoka_S._Hawks_FukuokaS.HawksOVER1.5_total_equipo.png
+                Fukuoka_S._Hawks_FukuokaS.HawksOVER2.5_total_equipo.png
+                Fukuoka_S._Hawks_FukuokaS.HawksOVER3.5_total_equipo.png
+                Fukuoka_S._Hawks_FukuokaS.HawksOVER4.5_total_equipo.png
+                Fukuoka_S._Hawks_FukuokaS.HawksOVER5.5_total_equipo.png
+                Hanwha_Eagles_HanwhaEaglesOVER1.5_total_equipo.png
+                Hanwha_Eagles_HanwhaEaglesOVER2.5_total_equipo.png
+                Hanwha_Eagles_HanwhaEaglesUNDER2.5_total_equipo.png
+                Hanwha_Eagles_HanwhaEaglesUNDER3.5_total_equipo.png
+                Hanwha_Eagles_HanwhaEaglesUNDER4.5_total_equipo.png
+                Hanwha_Eagles_HanwhaEaglesUNDER5.5_total_equipo.png
+                Hanwha_Eagles_HanwhaEaglesUNDER6.5_total_equipo.png
+                Hanwha_Eagles_HanwhaEaglesUNDER7.5_total_equipo.png
+                Hanwha_Eagles_HanwhaEaglesUNDER8.5_total_equipo.png
+                Hanwha_Eagles_HanwhaEaglesUNDER9.5_total_equipo.png
+                Hiroshima_Carp_HiroshimaCarpOVER0.5_total_equipo.png
+                Hiroshima_Carp_HiroshimaCarpOVER1.5_total_equipo.png
+                Hiroshima_Carp_HiroshimaCarpOVER2.5_total_equipo.png
+                Hiroshima_Carp_HiroshimaCarpOVER3.5_total_equipo.png
+                Hiroshima_Carp_HiroshimaCarpOVER4.5_total_equipo.png
+                Hiroshima_Carp_HiroshimaCarpOVER5.5_total_equipo.png
+                Hiroshima_Carp_HiroshimaCarpOVER6.5_total_equipo.png
+                Houston_Astros_HoustonAstrosUNDER5.5_total_equipo.png
+                Houston_Astros_HoustonAstrosUNDER6.5_total_equipo.png
+                KIA_Tigers_KIATigersOVER1.5_total_equipo.png
+                KIA_Tigers_KIATigersUNDER2.5_total_equipo.png
+                KIA_Tigers_KIATigersUNDER3.5_total_equipo.png
+                KIA_Tigers_KIATigersUNDER4.5_total_equipo.png
+                KIA_Tigers_KIATigersUNDER5.5_total_equipo.png
+                KIA_Tigers_KIATigersUNDER6.5_total_equipo.png
+                KIA_Tigers_KIATigersUNDER7.5_total_equipo.png
+                KIA_Tigers_KIATigersUNDER8.5_total_equipo.png
+                KIA_Tigers_KIATigersUNDER9.5_total_equipo.png
+                Laguna_LagunaUNDER4.0_total_equipo.png
+                Laguna_LagunaUNDER4.5_total_equipo.png
+                Laguna_LagunaUNDER5.0_total_equipo.png
+                Laguna_LagunaUNDER5.5_total_equipo.png
+                Laguna_LagunaUNDER6.0_total_equipo.png
+                Las_Tunas_LasTunasUNDER5.5_total_equipo.png
+                LG_Twins_LGTwinsUNDER1.5_total_equipo.png
+                LG_Twins_LGTwinsUNDER2.5_total_equipo.png
+                LG_Twins_LGTwinsUNDER3.5_total_equipo.png
+                LG_Twins_LGTwinsUNDER4.5_total_equipo.png
+                LG_Twins_LGTwinsUNDER5.5_total_equipo.png
+                LG_Twins_LGTwinsUNDER6.5_total_equipo.png
+                LG_Twins_LGTwinsUNDER7.5_total_equipo.png
+                LG_Twins_LGTwinsUNDER8.5_total_equipo.png
+                LG_Twins_LGTwinsUNDER9.5_total_equipo.png
+                Los_Angeles_Dodgers_LosAngelesDodgersUNDER2.5_total_equipo.png
+                Los_Angeles_Dodgers_LosAngelesDodgersUNDER3.5_total_equipo.png
+                Los_Angeles_Dodgers_LosAngelesDodgersUNDER4.5_total_equipo.png
+                Los_Angeles_Dodgers_LosAngelesDodgersUNDER5.5_total_equipo.png
+                Los_Angeles_Dodgers_LosAngelesDodgersUNDER6.5_total_equipo.png
+                Los_Angeles_Dodgers_LosAngelesDodgersUNDER7.5_total_equipo.png
+                Los_Angeles_Dodgers_LosAngelesDodgersUNDER8.5_total_equipo.png
+                Los_Angeles_Dodgers_LosAngelesDodgersUNDER9.5_total_equipo.png
+                Monterrey_MonterreyUNDER4.0_total_equipo.png
+                Monterrey_MonterreyUNDER4.5_total_equipo.png
+                Monterrey_MonterreyUNDER5.0_total_equipo.png
+                New_York_Mets_NewYorkMetsOVER1.5_total_equipo.png
+                New_York_Mets_NewYorkMetsOVER2.5_total_equipo.png
+                New_York_Mets_NewYorkMetsOVER3.5_total_equipo.png
+                New_York_Mets_NewYorkMetsOVER4.5_total_equipo.png
+                New_York_Mets_NewYorkMetsUNDER2.5_total_equipo.png
+                New_York_Mets_NewYorkMetsUNDER3.5_total_equipo.png
+                New_York_Mets_NewYorkMetsUNDER4.5_total_equipo.png
+                New_York_Mets_NewYorkMetsUNDER5.5_total_equipo.png
+                New_York_Mets_NewYorkMetsUNDER6.5_total_equipo.png
+                New_York_Mets_NewYorkMetsUNDER7.5_total_equipo.png
+                New_York_Mets_NewYorkMetsUNDER8.5_total_equipo.png
+                New_York_Mets_NewYorkMetsUNDER9.5_total_equipo.png
+                Nippon_Ham_Fighters_NipponHamFightersOVER0.5_total_equipo.png
+                Nippon_Ham_Fighters_NipponHamFightersOVER1.5_total_equipo.png
+                Nippon_Ham_Fighters_NipponHamFightersOVER2.5_total_equipo.png
+                Nippon_Ham_Fighters_NipponHamFightersOVER3.5_total_equipo.png
+                Nippon_Ham_Fighters_NipponHamFightersOVER4.5_total_equipo.png
+                Nippon_Ham_Fighters_NipponHamFightersOVER5.5_total_equipo.png
+                Nippon_Ham_Fighters_NipponHamFightersOVER6.5_total_equipo.png
+                Philadelphia_Phillies_PhiladelphiaPhilliesUNDER2.5_total_equipo.png
+                Philadelphia_Phillies_PhiladelphiaPhilliesUNDER3.5_total_equipo.png
+                Philadelphia_Phillies_PhiladelphiaPhilliesUNDER4.5_total_equipo.png
+                Philadelphia_Phillies_PhiladelphiaPhilliesUNDER5.5_total_equipo.png
+                Philadelphia_Phillies_PhiladelphiaPhilliesUNDER6.5_total_equipo.png
+                Philadelphia_Phillies_PhiladelphiaPhilliesUNDER7.5_total_equipo.png
+                Philadelphia_Phillies_PhiladelphiaPhilliesUNDER8.5_total_equipo.png
+                Philadelphia_Phillies_PhiladelphiaPhilliesUNDER9.5_total_equipo.png
+                Puebla_PueblaUNDER5.0_total_equipo.png
+                Puebla_PueblaUNDER5.5_total_equipo.png
+                Puebla_PueblaUNDER6.0_total_equipo.png
+                Queretaro_QueretaroUNDER7.0_total_equipo.png
+                Queretaro_QueretaroUNDER7.5_total_equipo.png
+                Queretaro_QueretaroUNDER8.0_total_equipo.png
+                Queretaro_QueretaroUNDER8.5_total_equipo.png
+                Queretaro_QueretaroUNDER9.0_total_equipo.png
+                Rakuten_Gold._Eagles_RakutenGold.EaglesOVER0.5_total_equipo.png
+                Rakuten_Gold._Eagles_RakutenGold.EaglesOVER1.5_total_equipo.png
+                Rakuten_Gold._Eagles_RakutenGold.EaglesOVER2.5_total_equipo.png
+                Rakuten_Gold._Eagles_RakutenGold.EaglesOVER3.5_total_equipo.png
+                Rakuten_Gold._Eagles_RakutenGold.EaglesOVER4.5_total_equipo.png
+                Rakuten_Gold._Eagles_RakutenGold.EaglesOVER5.5_total_equipo.png
+                Saltillo_SaltilloUNDER5.0_total_equipo.png
+                Saltillo_SaltilloUNDER5.5_total_equipo.png
+                Saltillo_SaltilloUNDER6.0_total_equipo.png
+                Saltillo_SaltilloUNDER6.5_total_equipo.png
+                Saltillo_SaltilloUNDER7.0_total_equipo.png
+                Samsung_Lions_SamsungLionsOVER1.5_total_equipo.png
+                Samsung_Lions_SamsungLionsOVER2.5_total_equipo.png
+                Samsung_Lions_SamsungLionsUNDER3.5_total_equipo.png
+                Samsung_Lions_SamsungLionsUNDER4.5_total_equipo.png
+                Samsung_Lions_SamsungLionsUNDER5.5_total_equipo.png
+                Samsung_Lions_SamsungLionsUNDER6.5_total_equipo.png
+                Samsung_Lions_SamsungLionsUNDER7.5_total_equipo.png
+                Samsung_Lions_SamsungLionsUNDER8.5_total_equipo.png
+                Samsung_Lions_SamsungLionsUNDER9.5_total_equipo.png
+                Santiago_de_Cuba_SantiagodeCubaUNDER5.5_total_equipo.png
+                San_Diego_Padres_SanDiegoPadresUNDER3.5_total_equipo.png
+                San_Diego_Padres_SanDiegoPadresUNDER4.5_total_equipo.png
+                San_Diego_Padres_SanDiegoPadresUNDER5.5_total_equipo.png
+                San_Diego_Padres_SanDiegoPadresUNDER6.5_total_equipo.png
+                San_Diego_Padres_SanDiegoPadresUNDER7.5_total_equipo.png
+                San_Francisco_Giants_SanFranciscoGiantsOVER1.5_total_equipo.png
+                San_Francisco_Giants_SanFranciscoGiantsOVER2.5_total_equipo.png
+                Seattle_Mariners_SeattleMarinersOVER0.5_total_equipo.png
+                Seattle_Mariners_SeattleMarinersOVER1.5_total_equipo.png
+                Seattle_Mariners_SeattleMarinersOVER2.5_total_equipo.png
+                Seattle_Mariners_SeattleMarinersOVER3.5_total_equipo.png
+                Seattle_Mariners_SeattleMarinersOVER4.5_total_equipo.png
+                SSG_Landers_SSGLandersUNDER1.5_total_equipo.png
+                SSG_Landers_SSGLandersUNDER2.5_total_equipo.png
+                SSG_Landers_SSGLandersUNDER3.5_total_equipo.png
+                SSG_Landers_SSGLandersUNDER4.5_total_equipo.png
+                SSG_Landers_SSGLandersUNDER5.5_total_equipo.png
+                SSG_Landers_SSGLandersUNDER6.5_total_equipo.png
+                SSG_Landers_SSGLandersUNDER7.5_total_equipo.png
+                SSG_Landers_SSGLandersUNDER8.5_total_equipo.png
+                SSG_Landers_SSGLandersUNDER9.5_total_equipo.png
+                Tabasco_TabascoOVER3.5_total_equipo.png
+                Tabasco_TabascoUNDER3.0_total_equipo.png
+                Tabasco_TabascoUNDER4.0_total_equipo.png
+                Tabasco_TabascoUNDER4.5_total_equipo.png
+                Tabasco_TabascoUNDER5.0_total_equipo.png
+                Texas_Rangers_TexasRangersUNDER2.5_total_equipo.png
+                Texas_Rangers_TexasRangersUNDER3.5_total_equipo.png
+                Texas_Rangers_TexasRangersUNDER4.5_total_equipo.png
+                Texas_Rangers_TexasRangersUNDER5.5_total_equipo.png
+                Texas_Rangers_TexasRangersUNDER6.5_total_equipo.png
+                Texas_Rangers_TexasRangersUNDER7.5_total_equipo.png
+                Texas_Rangers_TexasRangersUNDER8.5_total_equipo.png
+                Texas_Rangers_TexasRangersUNDER9.5_total_equipo.png
+                Toronto_Blue_Jays_TorontoBlueJaysUNDER3.5_total_equipo.png
+                Toronto_Blue_Jays_TorontoBlueJaysUNDER4.5_total_equipo.png
+                Toronto_Blue_Jays_TorontoBlueJaysUNDER5.5_total_equipo.png
+                Toronto_Blue_Jays_TorontoBlueJaysUNDER6.5_total_equipo.png
+                Toronto_Blue_Jays_TorontoBlueJaysUNDER7.5_total_equipo.png
+                Trebic_TrebicUNDER4.0_total_equipo.png
+                Yokohama_BayStars_YokohamaBayStarsOVER0.5_total_equipo.png
+                Yokohama_BayStars_YokohamaBayStarsOVER1.5_total_equipo.png
+                Yokohama_BayStars_YokohamaBayStarsOVER2.5_total_equipo.png
+                Yokohama_BayStars_YokohamaBayStarsOVER3.5_total_equipo.png
+                Yokohama_BayStars_YokohamaBayStarsOVER4.5_total_equipo.png
+                Yokohama_BayStars_YokohamaBayStarsOVER5.5_total_equipo.png
+                Yokohama_BayStars_YokohamaBayStarsOVER6.5_total_equipo.png
+                Yucatan_YucatanOVER3.5_total_equipo.png
+                Yucatan_YucatanUNDER3.0_total_equipo.png
+                Yucatan_YucatanUNDER4.0_total_equipo.png

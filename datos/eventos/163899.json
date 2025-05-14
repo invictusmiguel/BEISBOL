@@ -1,0 +1,168 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163899"
+  },
+  "errors": [],
+  "results": 7,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 8,
+        "extra": null
+      },
+      "team": {
+        "id": 2563,
+        "name": "Union Huaral",
+        "logo": "https://media.api-sports.io/football/teams/2563.png"
+      },
+      "player": {
+        "id": 40151,
+        "name": "D. Saffadi"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 52,
+        "extra": null
+      },
+      "team": {
+        "id": 2562,
+        "name": "Cienciano",
+        "logo": "https://media.api-sports.io/football/teams/2562.png"
+      },
+      "player": {
+        "id": 39985,
+        "name": "H. Ancajima"
+      },
+      "assist": {
+        "id": 39989,
+        "name": "E. Kuncho"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 65,
+        "extra": null
+      },
+      "team": {
+        "id": 2562,
+        "name": "Cienciano",
+        "logo": "https://media.api-sports.io/football/teams/2562.png"
+      },
+      "player": {
+        "id": 39986,
+        "name": "L. Garc\u00eda"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 2563,
+        "name": "Union Huaral",
+        "logo": "https://media.api-sports.io/football/teams/2563.png"
+      },
+      "player": {
+        "id": 40150,
+        "name": "K. Rosell"
+      },
+      "assist": {
+        "id": 40158,
+        "name": "J. Gonz\u00e1les Vigil"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 77,
+        "extra": null
+      },
+      "team": {
+        "id": 2563,
+        "name": "Union Huaral",
+        "logo": "https://media.api-sports.io/football/teams/2563.png"
+      },
+      "player": {
+        "id": 40152,
+        "name": "D. S\u00e1nchez"
+      },
+      "assist": {
+        "id": 40026,
+        "name": "J. Cotrina"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 77,
+        "extra": null
+      },
+      "team": {
+        "id": 2563,
+        "name": "Union Huaral",
+        "logo": "https://media.api-sports.io/football/teams/2563.png"
+      },
+      "player": {
+        "id": 40146,
+        "name": "L. Aguirre"
+      },
+      "assist": {
+        "id": 40162,
+        "name": "F. Vivas"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 2562,
+        "name": "Cienciano",
+        "logo": "https://media.api-sports.io/football/teams/2562.png"
+      },
+      "player": {
+        "id": 39994,
+        "name": "R. Tito"
+      },
+      "assist": {
+        "id": 70118,
+        "name": "A. Saravia"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    }
+  ]
+}

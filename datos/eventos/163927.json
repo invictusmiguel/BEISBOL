@@ -1,0 +1,212 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163927"
+  },
+  "errors": [],
+  "results": 9,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 23,
+        "extra": null
+      },
+      "team": {
+        "id": 2559,
+        "name": "Juan Aurich",
+        "logo": "https://media.api-sports.io/football/teams/2559.png"
+      },
+      "player": {
+        "id": 70113,
+        "name": "F. P\u00e9rez"
+      },
+      "assist": {
+        "id": 40044,
+        "name": "E. \u00c1vila"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 28,
+        "extra": null
+      },
+      "team": {
+        "id": 2571,
+        "name": "Sport Loreto",
+        "logo": "https://media.api-sports.io/football/teams/2571.png"
+      },
+      "player": {
+        "id": 40128,
+        "name": "J. L\u00f3pez de Castilla"
+      },
+      "assist": {
+        "id": 67921,
+        "name": "R. Alzamora"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 48,
+        "extra": null
+      },
+      "team": {
+        "id": 2571,
+        "name": "Sport Loreto",
+        "logo": "https://media.api-sports.io/football/teams/2571.png"
+      },
+      "player": {
+        "id": 39759,
+        "name": "W. Calder\u00f3n"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 54,
+        "extra": null
+      },
+      "team": {
+        "id": 2559,
+        "name": "Juan Aurich",
+        "logo": "https://media.api-sports.io/football/teams/2559.png"
+      },
+      "player": {
+        "id": 40052,
+        "name": "R. Acosta"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 64,
+        "extra": null
+      },
+      "team": {
+        "id": 2559,
+        "name": "Juan Aurich",
+        "logo": "https://media.api-sports.io/football/teams/2559.png"
+      },
+      "player": {
+        "id": 40054,
+        "name": "A. Carrillo"
+      },
+      "assist": {
+        "id": 40056,
+        "name": "P. Sabroso"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 2559,
+        "name": "Juan Aurich",
+        "logo": "https://media.api-sports.io/football/teams/2559.png"
+      },
+      "player": {
+        "id": 40045,
+        "name": "M. Castro"
+      },
+      "assist": {
+        "id": 64249,
+        "name": "J. Espinoza"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 76,
+        "extra": null
+      },
+      "team": {
+        "id": 2571,
+        "name": "Sport Loreto",
+        "logo": "https://media.api-sports.io/football/teams/2571.png"
+      },
+      "player": {
+        "id": 40127,
+        "name": "J. Jayo"
+      },
+      "assist": {
+        "id": 67926,
+        "name": "L. Montoya"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 77,
+        "extra": null
+      },
+      "team": {
+        "id": 2559,
+        "name": "Juan Aurich",
+        "logo": "https://media.api-sports.io/football/teams/2559.png"
+      },
+      "player": {
+        "id": 40052,
+        "name": "R. Acosta"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 83,
+        "extra": null
+      },
+      "team": {
+        "id": 2571,
+        "name": "Sport Loreto",
+        "logo": "https://media.api-sports.io/football/teams/2571.png"
+      },
+      "player": {
+        "id": 67923,
+        "name": "D. Mart\u00ednez"
+      },
+      "assist": {
+        "id": 70127,
+        "name": "D. Ca\u00f1ari"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ]
+}

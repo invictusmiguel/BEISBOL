@@ -1,0 +1,410 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "169191"
+  },
+  "errors": [],
+  "results": 18,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 15,
+        "extra": null
+      },
+      "team": {
+        "id": 2284,
+        "name": "Monarcas",
+        "logo": "https://media.api-sports.io/football/teams/2284.png"
+      },
+      "player": {
+        "id": 35954,
+        "name": "S. Ferreira"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 29,
+        "extra": null
+      },
+      "team": {
+        "id": 2284,
+        "name": "Monarcas",
+        "logo": "https://media.api-sports.io/football/teams/2284.png"
+      },
+      "player": {
+        "id": 35661,
+        "name": "Joaqu\u00edn Mart\u00ednez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 40,
+        "extra": null
+      },
+      "team": {
+        "id": 2295,
+        "name": "Cruz Azul",
+        "logo": "https://media.api-sports.io/football/teams/2295.png"
+      },
+      "player": {
+        "id": 2616,
+        "name": "J. Rodr\u00edguez"
+      },
+      "assist": {
+        "id": 35576,
+        "name": "O. Pineda"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 45,
+        "extra": null
+      },
+      "team": {
+        "id": 2284,
+        "name": "Monarcas",
+        "logo": "https://media.api-sports.io/football/teams/2284.png"
+      },
+      "player": {
+        "id": 35944,
+        "name": "Rodrigo Millar"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 55,
+        "extra": null
+      },
+      "team": {
+        "id": 2284,
+        "name": "Monarcas",
+        "logo": "https://media.api-sports.io/football/teams/2284.png"
+      },
+      "player": {
+        "id": 35954,
+        "name": "S. Ferreira"
+      },
+      "assist": {
+        "id": 35958,
+        "name": "M. Sansores"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 56,
+        "extra": null
+      },
+      "team": {
+        "id": 2284,
+        "name": "Monarcas",
+        "logo": "https://media.api-sports.io/football/teams/2284.png"
+      },
+      "player": {
+        "id": 2570,
+        "name": "Gabriel Achilier"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 58,
+        "extra": null
+      },
+      "team": {
+        "id": 2295,
+        "name": "Cruz Azul",
+        "logo": "https://media.api-sports.io/football/teams/2295.png"
+      },
+      "player": {
+        "id": 2879,
+        "name": "Roberto Alvarado"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 64,
+        "extra": null
+      },
+      "team": {
+        "id": 2284,
+        "name": "Monarcas",
+        "logo": "https://media.api-sports.io/football/teams/2284.png"
+      },
+      "player": {
+        "id": 35937,
+        "name": "Efrain Velarde"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 69,
+        "extra": null
+      },
+      "team": {
+        "id": 2295,
+        "name": "Cruz Azul",
+        "logo": "https://media.api-sports.io/football/teams/2295.png"
+      },
+      "player": {
+        "id": 35576,
+        "name": "O. Pineda"
+      },
+      "assist": {
+        "id": 16552,
+        "name": "B. Angulo"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 69,
+        "extra": null
+      },
+      "team": {
+        "id": 2284,
+        "name": "Monarcas",
+        "logo": "https://media.api-sports.io/football/teams/2284.png"
+      },
+      "player": {
+        "id": 2570,
+        "name": "G. Achilier"
+      },
+      "assist": {
+        "id": 13439,
+        "name": "J. Ortiz"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 75,
+        "extra": null
+      },
+      "team": {
+        "id": 2284,
+        "name": "Monarcas",
+        "logo": "https://media.api-sports.io/football/teams/2284.png"
+      },
+      "player": {
+        "id": 35944,
+        "name": "R. Millar"
+      },
+      "assist": {
+        "id": 2429,
+        "name": "\u00c9. Flores"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 76,
+        "extra": null
+      },
+      "team": {
+        "id": 2295,
+        "name": "Cruz Azul",
+        "logo": "https://media.api-sports.io/football/teams/2295.png"
+      },
+      "player": {
+        "id": 2616,
+        "name": "J. Rodr\u00edguez"
+      },
+      "assist": {
+        "id": 5916,
+        "name": "G. Fern\u00e1ndez"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 2284,
+        "name": "Monarcas",
+        "logo": "https://media.api-sports.io/football/teams/2284.png"
+      },
+      "player": {
+        "id": 35958,
+        "name": "M. Sansores"
+      },
+      "assist": {
+        "id": 2455,
+        "name": "F. Aristeguieta"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 2295,
+        "name": "Cruz Azul",
+        "logo": "https://media.api-sports.io/football/teams/2295.png"
+      },
+      "player": {
+        "id": 5916,
+        "name": "Guillermo Fern\u00e1ndez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 81,
+        "extra": null
+      },
+      "team": {
+        "id": 2284,
+        "name": "Monarcas",
+        "logo": "https://media.api-sports.io/football/teams/2284.png"
+      },
+      "player": {
+        "id": 35954,
+        "name": "S. Ferreira"
+      },
+      "assist": {
+        "id": 35937,
+        "name": "E. Velarde"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 84,
+        "extra": null
+      },
+      "team": {
+        "id": 2295,
+        "name": "Cruz Azul",
+        "logo": "https://media.api-sports.io/football/teams/2295.png"
+      },
+      "player": {
+        "id": 35578,
+        "name": "M. Caraglio"
+      },
+      "assist": {
+        "id": 35572,
+        "name": "Josu\u00e9 Dom\u00ednguez"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 4
+      },
+      "team": {
+        "id": 2295,
+        "name": "Cruz Azul",
+        "logo": "https://media.api-sports.io/football/teams/2295.png"
+      },
+      "player": {
+        "id": 5916,
+        "name": "G. Fern\u00e1ndez"
+      },
+      "assist": {
+        "id": 35575,
+        "name": "Edgar M\u00e9ndez"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": null
+      },
+      "team": {
+        "id": 2295,
+        "name": "Cruz Azul",
+        "logo": "https://media.api-sports.io/football/teams/2295.png"
+      },
+      "player": {
+        "id": 35560,
+        "name": "Pablo Aguilar"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    }
+  ]
+}

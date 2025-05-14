@@ -1,0 +1,168 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163891"
+  },
+  "errors": [],
+  "results": 7,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 12,
+        "extra": null
+      },
+      "team": {
+        "id": 2559,
+        "name": "Juan Aurich",
+        "logo": "https://media.api-sports.io/football/teams/2559.png"
+      },
+      "player": {
+        "id": 40055,
+        "name": "B. Montenegro"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 60,
+        "extra": null
+      },
+      "team": {
+        "id": 2572,
+        "name": "Cultural Santa Rosa",
+        "logo": "https://media.api-sports.io/football/teams/2572.png"
+      },
+      "player": {
+        "id": 40125,
+        "name": "S. Hern\u00e1ndez"
+      },
+      "assist": {
+        "id": 67912,
+        "name": "J. Asenjo"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 65,
+        "extra": null
+      },
+      "team": {
+        "id": 2572,
+        "name": "Cultural Santa Rosa",
+        "logo": "https://media.api-sports.io/football/teams/2572.png"
+      },
+      "player": {
+        "id": 40078,
+        "name": "A. Llanos"
+      },
+      "assist": {
+        "id": 64246,
+        "name": "L. Roca"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 70,
+        "extra": null
+      },
+      "team": {
+        "id": 2559,
+        "name": "Juan Aurich",
+        "logo": "https://media.api-sports.io/football/teams/2559.png"
+      },
+      "player": {
+        "id": 40056,
+        "name": "P. Sabroso"
+      },
+      "assist": {
+        "id": 40045,
+        "name": "M. Castro"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 77,
+        "extra": null
+      },
+      "team": {
+        "id": 2559,
+        "name": "Juan Aurich",
+        "logo": "https://media.api-sports.io/football/teams/2559.png"
+      },
+      "player": {
+        "id": 70109,
+        "name": "J. Mendoza"
+      },
+      "assist": {
+        "id": 40048,
+        "name": "B. Pajuelo"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 2572,
+        "name": "Cultural Santa Rosa",
+        "logo": "https://media.api-sports.io/football/teams/2572.png"
+      },
+      "player": {
+        "id": 67918,
+        "name": "C. Ruiz"
+      },
+      "assist": {
+        "id": 73834,
+        "name": "J. Sulca"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 2559,
+        "name": "Juan Aurich",
+        "logo": "https://media.api-sports.io/football/teams/2559.png"
+      },
+      "player": {
+        "id": 40055,
+        "name": "B. Montenegro"
+      },
+      "assist": {
+        "id": 70113,
+        "name": "F. P\u00e9rez"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ]
+}

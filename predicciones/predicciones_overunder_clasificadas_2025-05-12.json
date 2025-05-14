@@ -1,0 +1,123 @@
+[
+  {
+    "id": 163891,
+    "fecha": "2025-05-12T23:10:00+00:00",
+    "pick": "UNDER 9.5",
+    "equipos": "New York Mets vs Pittsburgh Pirates",
+    "λ_total": 8.0,
+    "probabilidad": 0.7166,
+    "cuota": 1.8,
+    "valor_esperado": 0.29,
+    "confianza": "alta"
+  },
+  {
+    "id": 163894,
+    "fecha": "2025-05-12T23:15:00+00:00",
+    "pick": "UNDER 9.5",
+    "equipos": "Atlanta Braves vs Washington Nationals",
+    "λ_total": 8.0,
+    "probabilidad": 0.7166,
+    "cuota": 1.8,
+    "valor_esperado": 0.29,
+    "confianza": "alta"
+  },
+  {
+    "id": 163897,
+    "fecha": "2025-05-12T22:40:00+00:00",
+    "pick": "UNDER 9.5",
+    "equipos": "Detroit Tigers vs Boston Red Sox",
+    "λ_total": 8.0,
+    "probabilidad": 0.7166,
+    "cuota": 1.91,
+    "valor_esperado": 0.369,
+    "confianza": "alta"
+  },
+  {
+    "id": 163898,
+    "fecha": "2025-05-12T22:10:00+00:00",
+    "pick": "UNDER 9.5",
+    "equipos": "Cleveland Guardians vs Milwaukee Brewers",
+    "λ_total": 8.0,
+    "probabilidad": 0.7166,
+    "cuota": 1.91,
+    "valor_esperado": 0.369,
+    "confianza": "alta"
+  },
+  {
+    "id": 163900,
+    "fecha": "2025-05-12T22:45:00+00:00",
+    "pick": "UNDER 9.5",
+    "equipos": "Philadelphia Phillies vs St.Louis Cardinals",
+    "λ_total": 8.0,
+    "probabilidad": 0.7166,
+    "cuota": 1.91,
+    "valor_esperado": 0.369,
+    "confianza": "alta"
+  },
+  {
+    "id": 163901,
+    "fecha": "2025-05-12T23:40:00+00:00",
+    "pick": "UNDER 9.5",
+    "equipos": "Chicago Cubs vs Miami Marlins",
+    "λ_total": 8.0,
+    "probabilidad": 0.7166,
+    "cuota": 1.8,
+    "valor_esperado": 0.29,
+    "confianza": "alta"
+  },
+  {
+    "id": 169176,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "pick": "UNDER 9.5",
+    "equipos": "Aguascalientes vs Saltillo",
+    "λ_total": 8.0,
+    "probabilidad": 0.7166,
+    "cuota": 1.83,
+    "valor_esperado": 0.311,
+    "confianza": "alta"
+  },
+  {
+    "id": 169180,
+    "fecha": "2025-05-12T00:30:00+00:00",
+    "pick": "UNDER 9.5",
+    "equipos": "Laguna vs Toros de Tijuana",
+    "λ_total": 8.0,
+    "probabilidad": 0.7166,
+    "cuota": 1.83,
+    "valor_esperado": 0.311,
+    "confianza": "alta"
+  },
+  {
+    "id": 169184,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "pick": "UNDER 9.5",
+    "equipos": "Tabasco vs Bravos de Leon",
+    "λ_total": 8.0,
+    "probabilidad": 0.7166,
+    "cuota": 1.83,
+    "valor_esperado": 0.311,
+    "confianza": "alta"
+  },
+  {
+    "id": 169185,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "pick": "UNDER 9.5",
+    "equipos": "Yucatan vs Veracruz",
+    "λ_total": 8.0,
+    "probabilidad": 0.7166,
+    "cuota": 1.83,
+    "valor_esperado": 0.311,
+    "confianza": "alta"
+  },
+  {
+    "id": 169992,
+    "fecha": "2025-05-12T18:00:00+00:00",
+    "pick": "UNDER 9.5",
+    "equipos": "Santiago de Cuba vs Las Tunas",
+    "λ_total": 8.0,
+    "probabilidad": 0.7166,
+    "cuota": 1.83,
+    "valor_esperado": 0.311,
+    "confianza": "alta"
+  }
+]

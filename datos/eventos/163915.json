@@ -1,0 +1,322 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163915"
+  },
+  "errors": [],
+  "results": 14,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 21,
+        "extra": null
+      },
+      "team": {
+        "id": 2571,
+        "name": "Sport Loreto",
+        "logo": "https://media.api-sports.io/football/teams/2571.png"
+      },
+      "player": {
+        "id": 67924,
+        "name": "O. Pacheco"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 30,
+        "extra": null
+      },
+      "team": {
+        "id": 2571,
+        "name": "Sport Loreto",
+        "logo": "https://media.api-sports.io/football/teams/2571.png"
+      },
+      "player": {
+        "id": 40127,
+        "name": "J. Jayo"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 33,
+        "extra": null
+      },
+      "team": {
+        "id": 2566,
+        "name": "Sport Victoria",
+        "logo": "https://media.api-sports.io/football/teams/2566.png"
+      },
+      "player": {
+        "id": 39957,
+        "name": "P. Basilio"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 35,
+        "extra": null
+      },
+      "team": {
+        "id": 2571,
+        "name": "Sport Loreto",
+        "logo": "https://media.api-sports.io/football/teams/2571.png"
+      },
+      "player": {
+        "id": 40128,
+        "name": "J. L\u00f3pez de Castilla"
+      },
+      "assist": {
+        "id": 67921,
+        "name": "R. Alzamora"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 58,
+        "extra": null
+      },
+      "team": {
+        "id": 2566,
+        "name": "Sport Victoria",
+        "logo": "https://media.api-sports.io/football/teams/2566.png"
+      },
+      "player": {
+        "id": null,
+        "name": null
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 61,
+        "extra": null
+      },
+      "team": {
+        "id": 2571,
+        "name": "Sport Loreto",
+        "logo": "https://media.api-sports.io/football/teams/2571.png"
+      },
+      "player": {
+        "id": 70128,
+        "name": "C. Velarde"
+      },
+      "assist": {
+        "id": 67928,
+        "name": "Diego Silva"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 63,
+        "extra": null
+      },
+      "team": {
+        "id": 2571,
+        "name": "Sport Loreto",
+        "logo": "https://media.api-sports.io/football/teams/2571.png"
+      },
+      "player": {
+        "id": 67928,
+        "name": "Diego Silva"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 66,
+        "extra": null
+      },
+      "team": {
+        "id": 2571,
+        "name": "Sport Loreto",
+        "logo": "https://media.api-sports.io/football/teams/2571.png"
+      },
+      "player": {
+        "id": 40127,
+        "name": "J. Jayo"
+      },
+      "assist": {
+        "id": 64234,
+        "name": "J. Barrueta"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 68,
+        "extra": null
+      },
+      "team": {
+        "id": 2566,
+        "name": "Sport Victoria",
+        "logo": "https://media.api-sports.io/football/teams/2566.png"
+      },
+      "player": {
+        "id": 64249,
+        "name": "J. Espinoza"
+      },
+      "assist": {
+        "id": 70125,
+        "name": "C. Zambrano"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 76,
+        "extra": null
+      },
+      "team": {
+        "id": 2566,
+        "name": "Sport Victoria",
+        "logo": "https://media.api-sports.io/football/teams/2566.png"
+      },
+      "player": {
+        "id": 70123,
+        "name": "M. Salgado"
+      },
+      "assist": {
+        "id": 70124,
+        "name": "R. S\u00e1nchez"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 79,
+        "extra": null
+      },
+      "team": {
+        "id": 2571,
+        "name": "Sport Loreto",
+        "logo": "https://media.api-sports.io/football/teams/2571.png"
+      },
+      "player": {
+        "id": null,
+        "name": null
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 81,
+        "extra": null
+      },
+      "team": {
+        "id": 2566,
+        "name": "Sport Victoria",
+        "logo": "https://media.api-sports.io/football/teams/2566.png"
+      },
+      "player": {
+        "id": 70407,
+        "name": "A. Navarro"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 2566,
+        "name": "Sport Victoria",
+        "logo": "https://media.api-sports.io/football/teams/2566.png"
+      },
+      "player": {
+        "id": 39957,
+        "name": "P. Basilio"
+      },
+      "assist": {
+        "id": 64244,
+        "name": "J. Montoya"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": null
+      },
+      "team": {
+        "id": 2566,
+        "name": "Sport Victoria",
+        "logo": "https://media.api-sports.io/football/teams/2566.png"
+      },
+      "player": {
+        "id": 70125,
+        "name": "C. Zambrano"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

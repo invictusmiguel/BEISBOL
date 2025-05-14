@@ -1,0 +1,344 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "166012"
+  },
+  "errors": [],
+  "results": 15,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 18,
+        "extra": null
+      },
+      "team": {
+        "id": 427,
+        "name": "Telstar",
+        "logo": "https://media.api-sports.io/football/teams/427.png"
+      },
+      "player": {
+        "id": 36584,
+        "name": "B. Benamar"
+      },
+      "assist": {
+        "id": 38791,
+        "name": "F. Korpershoek"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 24,
+        "extra": null
+      },
+      "team": {
+        "id": 419,
+        "name": "Almere City FC",
+        "logo": "https://media.api-sports.io/football/teams/419.png"
+      },
+      "player": {
+        "id": 37627,
+        "name": "T. Verheydt"
+      },
+      "assist": {
+        "id": 37668,
+        "name": "F. Hammouti"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 30,
+        "extra": null
+      },
+      "team": {
+        "id": 419,
+        "name": "Almere City FC",
+        "logo": "https://media.api-sports.io/football/teams/419.png"
+      },
+      "player": {
+        "id": 37627,
+        "name": "T. Verheydt"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 33,
+        "extra": null
+      },
+      "team": {
+        "id": 427,
+        "name": "Telstar",
+        "logo": "https://media.api-sports.io/football/teams/427.png"
+      },
+      "player": {
+        "id": 105294,
+        "name": "G. Plet"
+      },
+      "assist": {
+        "id": 1453,
+        "name": "C. Gilmour"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 51,
+        "extra": null
+      },
+      "team": {
+        "id": 419,
+        "name": "Almere City FC",
+        "logo": "https://media.api-sports.io/football/teams/419.png"
+      },
+      "player": {
+        "id": 37192,
+        "name": "Nick Venema"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 65,
+        "extra": null
+      },
+      "team": {
+        "id": 427,
+        "name": "Telstar",
+        "logo": "https://media.api-sports.io/football/teams/427.png"
+      },
+      "player": {
+        "id": 105294,
+        "name": "Glynor Plet"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 68,
+        "extra": null
+      },
+      "team": {
+        "id": 419,
+        "name": "Almere City FC",
+        "logo": "https://media.api-sports.io/football/teams/419.png"
+      },
+      "player": {
+        "id": 38825,
+        "name": "M. Kaandorp"
+      },
+      "assist": {
+        "id": 37689,
+        "name": "T. Hunte"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 72,
+        "extra": null
+      },
+      "team": {
+        "id": 419,
+        "name": "Almere City FC",
+        "logo": "https://media.api-sports.io/football/teams/419.png"
+      },
+      "player": {
+        "id": 37676,
+        "name": "A. Ahannach"
+      },
+      "assist": {
+        "id": 38111,
+        "name": "A. Absalem"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 79,
+        "extra": null
+      },
+      "team": {
+        "id": 427,
+        "name": "Telstar",
+        "logo": "https://media.api-sports.io/football/teams/427.png"
+      },
+      "player": {
+        "id": 38798,
+        "name": "S. Lynen"
+      },
+      "assist": {
+        "id": 38793,
+        "name": "S. Sno"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 419,
+        "name": "Almere City FC",
+        "logo": "https://media.api-sports.io/football/teams/419.png"
+      },
+      "player": {
+        "id": 37192,
+        "name": "N. Venema"
+      },
+      "assist": {
+        "id": 37681,
+        "name": "Y. Loen"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 419,
+        "name": "Almere City FC",
+        "logo": "https://media.api-sports.io/football/teams/419.png"
+      },
+      "player": {
+        "id": 37627,
+        "name": "T. Verheydt"
+      },
+      "assist": {
+        "id": 37679,
+        "name": "R. Kip"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 88,
+        "extra": null
+      },
+      "team": {
+        "id": 427,
+        "name": "Telstar",
+        "logo": "https://media.api-sports.io/football/teams/427.png"
+      },
+      "player": {
+        "id": 38789,
+        "name": "I. Bronkhorst"
+      },
+      "assist": {
+        "id": 92980,
+        "name": "R. Fernandes"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 88,
+        "extra": null
+      },
+      "team": {
+        "id": 427,
+        "name": "Telstar",
+        "logo": "https://media.api-sports.io/football/teams/427.png"
+      },
+      "player": {
+        "id": 38802,
+        "name": "S. van Doorm"
+      },
+      "assist": {
+        "id": 38794,
+        "name": "M. Springer"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 89,
+        "extra": null
+      },
+      "team": {
+        "id": 419,
+        "name": "Almere City FC",
+        "logo": "https://media.api-sports.io/football/teams/419.png"
+      },
+      "player": {
+        "id": 37192,
+        "name": "N. Venema"
+      },
+      "assist": {
+        "id": 6919,
+        "name": "S. Harrison"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": null
+      },
+      "team": {
+        "id": 419,
+        "name": "Almere City FC",
+        "logo": "https://media.api-sports.io/football/teams/419.png"
+      },
+      "player": {
+        "id": 38111,
+        "name": "Amir Absalem"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    }
+  ]
+}

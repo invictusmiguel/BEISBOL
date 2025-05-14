@@ -1,0 +1,190 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163923"
+  },
+  "errors": [],
+  "results": 8,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 7,
+        "extra": null
+      },
+      "team": {
+        "id": 2568,
+        "name": "Deportivo Coopsol",
+        "logo": "https://media.api-sports.io/football/teams/2568.png"
+      },
+      "player": {
+        "id": 40034,
+        "name": "C. P\u00e9rez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2568,
+        "name": "Deportivo Coopsol",
+        "logo": "https://media.api-sports.io/football/teams/2568.png"
+      },
+      "player": {
+        "id": 39384,
+        "name": "L. Valencia"
+      },
+      "assist": {
+        "id": 95705,
+        "name": "V. Eugenio"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 64,
+        "extra": null
+      },
+      "team": {
+        "id": 2568,
+        "name": "Deportivo Coopsol",
+        "logo": "https://media.api-sports.io/football/teams/2568.png"
+      },
+      "player": {
+        "id": 40029,
+        "name": "P. Guti\u00e9rrez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 68,
+        "extra": null
+      },
+      "team": {
+        "id": 2568,
+        "name": "Deportivo Coopsol",
+        "logo": "https://media.api-sports.io/football/teams/2568.png"
+      },
+      "player": {
+        "id": 95705,
+        "name": "V. Eugenio"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 69,
+        "extra": null
+      },
+      "team": {
+        "id": 2568,
+        "name": "Deportivo Coopsol",
+        "logo": "https://media.api-sports.io/football/teams/2568.png"
+      },
+      "player": {
+        "id": 40029,
+        "name": "P. Guti\u00e9rrez"
+      },
+      "assist": {
+        "id": 39908,
+        "name": "E. Machahuay"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 75,
+        "extra": null
+      },
+      "team": {
+        "id": 2569,
+        "name": "LOS Caimanes",
+        "logo": "https://media.api-sports.io/football/teams/2569.png"
+      },
+      "player": {
+        "id": 40066,
+        "name": "P. Orosco"
+      },
+      "assist": {
+        "id": 64227,
+        "name": "G. Carty"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 75,
+        "extra": null
+      },
+      "team": {
+        "id": 2568,
+        "name": "Deportivo Coopsol",
+        "logo": "https://media.api-sports.io/football/teams/2568.png"
+      },
+      "player": {
+        "id": 40030,
+        "name": "I. Kahn"
+      },
+      "assist": {
+        "id": 70409,
+        "name": "D. Kong"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 2569,
+        "name": "LOS Caimanes",
+        "logo": "https://media.api-sports.io/football/teams/2569.png"
+      },
+      "player": {
+        "id": 40062,
+        "name": "J. Carbajal"
+      },
+      "assist": {
+        "id": 73853,
+        "name": "R. Ferreyros"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    }
+  ]
+}

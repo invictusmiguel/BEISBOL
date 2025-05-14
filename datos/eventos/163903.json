@@ -1,0 +1,212 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "163903"
+  },
+  "errors": [],
+  "results": 9,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 10,
+        "extra": null
+      },
+      "team": {
+        "id": 2563,
+        "name": "Union Huaral",
+        "logo": "https://media.api-sports.io/football/teams/2563.png"
+      },
+      "player": {
+        "id": 40161,
+        "name": "M. Silva"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 58,
+        "extra": null
+      },
+      "team": {
+        "id": 2563,
+        "name": "Union Huaral",
+        "logo": "https://media.api-sports.io/football/teams/2563.png"
+      },
+      "player": {
+        "id": 40161,
+        "name": "M. Silva"
+      },
+      "assist": {
+        "id": 40160,
+        "name": "I. Rey"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 58,
+        "extra": null
+      },
+      "team": {
+        "id": 2563,
+        "name": "Union Huaral",
+        "logo": "https://media.api-sports.io/football/teams/2563.png"
+      },
+      "player": {
+        "id": 40151,
+        "name": "D. Saffadi"
+      },
+      "assist": {
+        "id": 40146,
+        "name": "L. Aguirre"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 65,
+        "extra": null
+      },
+      "team": {
+        "id": 2571,
+        "name": "Sport Loreto",
+        "logo": "https://media.api-sports.io/football/teams/2571.png"
+      },
+      "player": {
+        "id": 40128,
+        "name": "J. L\u00f3pez de Castilla"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 70,
+        "extra": null
+      },
+      "team": {
+        "id": 2563,
+        "name": "Union Huaral",
+        "logo": "https://media.api-sports.io/football/teams/2563.png"
+      },
+      "player": {
+        "id": 40153,
+        "name": "J. Viza"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 72,
+        "extra": null
+      },
+      "team": {
+        "id": 2571,
+        "name": "Sport Loreto",
+        "logo": "https://media.api-sports.io/football/teams/2571.png"
+      },
+      "player": {
+        "id": 67925,
+        "name": "D. Torres"
+      },
+      "assist": {
+        "id": 67928,
+        "name": "Diego Silva"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 2571,
+        "name": "Sport Loreto",
+        "logo": "https://media.api-sports.io/football/teams/2571.png"
+      },
+      "player": {
+        "id": 64235,
+        "name": "K. Palomino"
+      },
+      "assist": {
+        "id": 40105,
+        "name": "J. Barrera"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 2563,
+        "name": "Union Huaral",
+        "logo": "https://media.api-sports.io/football/teams/2563.png"
+      },
+      "player": {
+        "id": 40145,
+        "name": "R. Zapata"
+      },
+      "assist": {
+        "id": 40141,
+        "name": "J. Barreda"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": null
+      },
+      "team": {
+        "id": 2571,
+        "name": "Sport Loreto",
+        "logo": "https://media.api-sports.io/football/teams/2571.png"
+      },
+      "player": {
+        "id": 67928,
+        "name": "Diego Silva"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

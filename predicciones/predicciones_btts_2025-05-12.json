@@ -1,0 +1,123 @@
+[
+  {
+    "id": 163891,
+    "fecha": "2025-05-12T23:10:00+00:00",
+    "home": "New York Mets",
+    "away": "Pittsburgh Pirates",
+    "λ_home": 4.0,
+    "λ_away": 4.0,
+    "probabilidad_btts": 0.9637,
+    "cuota_btts": 1.8,
+    "valor_esperado": 0.7347
+  },
+  {
+    "id": 163894,
+    "fecha": "2025-05-12T23:15:00+00:00",
+    "home": "Atlanta Braves",
+    "away": "Washington Nationals",
+    "λ_home": 4.0,
+    "λ_away": 4.0,
+    "probabilidad_btts": 0.9637,
+    "cuota_btts": 1.8,
+    "valor_esperado": 0.7347
+  },
+  {
+    "id": 163897,
+    "fecha": "2025-05-12T22:40:00+00:00",
+    "home": "Detroit Tigers",
+    "away": "Boston Red Sox",
+    "λ_home": 4.0,
+    "λ_away": 4.0,
+    "probabilidad_btts": 0.9637,
+    "cuota_btts": 1.8,
+    "valor_esperado": 0.7347
+  },
+  {
+    "id": 163898,
+    "fecha": "2025-05-12T22:10:00+00:00",
+    "home": "Cleveland Guardians",
+    "away": "Milwaukee Brewers",
+    "λ_home": 4.0,
+    "λ_away": 4.0,
+    "probabilidad_btts": 0.9637,
+    "cuota_btts": 1.8,
+    "valor_esperado": 0.7347
+  },
+  {
+    "id": 163900,
+    "fecha": "2025-05-12T22:45:00+00:00",
+    "home": "Philadelphia Phillies",
+    "away": "St.Louis Cardinals",
+    "λ_home": 4.0,
+    "λ_away": 4.0,
+    "probabilidad_btts": 0.9637,
+    "cuota_btts": 1.8,
+    "valor_esperado": 0.7347
+  },
+  {
+    "id": 163901,
+    "fecha": "2025-05-12T23:40:00+00:00",
+    "home": "Chicago Cubs",
+    "away": "Miami Marlins",
+    "λ_home": 4.0,
+    "λ_away": 4.0,
+    "probabilidad_btts": 0.9637,
+    "cuota_btts": 1.8,
+    "valor_esperado": 0.7347
+  },
+  {
+    "id": 169176,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "home": "Aguascalientes",
+    "away": "Saltillo",
+    "λ_home": 4.0,
+    "λ_away": 4.0,
+    "probabilidad_btts": 0.9637,
+    "cuota_btts": 1.8,
+    "valor_esperado": 0.7347
+  },
+  {
+    "id": 169180,
+    "fecha": "2025-05-12T00:30:00+00:00",
+    "home": "Laguna",
+    "away": "Toros de Tijuana",
+    "λ_home": 4.0,
+    "λ_away": 4.0,
+    "probabilidad_btts": 0.9637,
+    "cuota_btts": 1.8,
+    "valor_esperado": 0.7347
+  },
+  {
+    "id": 169184,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "home": "Tabasco",
+    "away": "Bravos de Leon",
+    "λ_home": 4.0,
+    "λ_away": 4.0,
+    "probabilidad_btts": 0.9637,
+    "cuota_btts": 1.8,
+    "valor_esperado": 0.7347
+  },
+  {
+    "id": 169185,
+    "fecha": "2025-05-12T00:00:00+00:00",
+    "home": "Yucatan",
+    "away": "Veracruz",
+    "λ_home": 4.0,
+    "λ_away": 4.0,
+    "probabilidad_btts": 0.9637,
+    "cuota_btts": 1.8,
+    "valor_esperado": 0.7347
+  },
+  {
+    "id": 169992,
+    "fecha": "2025-05-12T18:00:00+00:00",
+    "home": "Santiago de Cuba",
+    "away": "Las Tunas",
+    "λ_home": 4.0,
+    "λ_away": 4.0,
+    "probabilidad_btts": 0.9637,
+    "cuota_btts": 1.8,
+    "valor_esperado": 0.7347
+  }
+]

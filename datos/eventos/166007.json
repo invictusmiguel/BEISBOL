@@ -1,0 +1,256 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "166007"
+  },
+  "errors": [],
+  "results": 11,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 36,
+        "extra": null
+      },
+      "team": {
+        "id": 199,
+        "name": "De Graafschap",
+        "logo": "https://media.api-sports.io/football/teams/199.png"
+      },
+      "player": {
+        "id": 37227,
+        "name": "Ted Van de Pavert"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 39,
+        "extra": null
+      },
+      "team": {
+        "id": 422,
+        "name": "FC Eindhoven",
+        "logo": "https://media.api-sports.io/football/teams/422.png"
+      },
+      "player": {
+        "id": 37653,
+        "name": "Rigino Cicilia"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 64,
+        "extra": null
+      },
+      "team": {
+        "id": 422,
+        "name": "FC Eindhoven",
+        "logo": "https://media.api-sports.io/football/teams/422.png"
+      },
+      "player": {
+        "id": 17636,
+        "name": "M. Makasi"
+      },
+      "assist": {
+        "id": 37658,
+        "name": "Marcelo Lopes"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 65,
+        "extra": null
+      },
+      "team": {
+        "id": 199,
+        "name": "De Graafschap",
+        "logo": "https://media.api-sports.io/football/teams/199.png"
+      },
+      "player": {
+        "id": 37237,
+        "name": "S. Nijland"
+      },
+      "assist": {
+        "id": 36850,
+        "name": "M. Hamdaoui"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 71,
+        "extra": null
+      },
+      "team": {
+        "id": 422,
+        "name": "FC Eindhoven",
+        "logo": "https://media.api-sports.io/football/teams/422.png"
+      },
+      "player": {
+        "id": 37653,
+        "name": "R. Cicilia"
+      },
+      "assist": {
+        "id": 36797,
+        "name": "J. Ogenia"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 76,
+        "extra": null
+      },
+      "team": {
+        "id": 199,
+        "name": "De Graafschap",
+        "logo": "https://media.api-sports.io/football/teams/199.png"
+      },
+      "player": {
+        "id": 37433,
+        "name": "G. Breinburg"
+      },
+      "assist": {
+        "id": 40242,
+        "name": "I. Mystakidis"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 199,
+        "name": "De Graafschap",
+        "logo": "https://media.api-sports.io/football/teams/199.png"
+      },
+      "player": {
+        "id": 40242,
+        "name": "Giannis Mystakidis"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 422,
+        "name": "FC Eindhoven",
+        "logo": "https://media.api-sports.io/football/teams/422.png"
+      },
+      "player": {
+        "id": 37647,
+        "name": "K. de Rooij"
+      },
+      "assist": {
+        "id": 37654,
+        "name": "A. Daniels"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 81,
+        "extra": null
+      },
+      "team": {
+        "id": 422,
+        "name": "FC Eindhoven",
+        "logo": "https://media.api-sports.io/football/teams/422.png"
+      },
+      "player": {
+        "id": 37634,
+        "name": "Jarno Janssen"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 82,
+        "extra": null
+      },
+      "team": {
+        "id": 199,
+        "name": "De Graafschap",
+        "logo": "https://media.api-sports.io/football/teams/199.png"
+      },
+      "player": {
+        "id": 37634,
+        "name": "J. Janssen"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Own Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 89,
+        "extra": null
+      },
+      "team": {
+        "id": 199,
+        "name": "De Graafschap",
+        "logo": "https://media.api-sports.io/football/teams/199.png"
+      },
+      "player": {
+        "id": 37224,
+        "name": "L. Owusu"
+      },
+      "assist": {
+        "id": 37226,
+        "name": "J. Tutuarima"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ]
+}

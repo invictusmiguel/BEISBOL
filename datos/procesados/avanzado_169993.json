@@ -1,0 +1,16 @@
+{
+  "game_id": 169993,
+  "fecha": "2025-05-14T18:00:00+00:00",
+  "home": {
+    "team": "Las Tunas",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  },
+  "away": {
+    "team": "Granma",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "166016"
+  },
+  "errors": [],
+  "results": 10,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 17,
+        "extra": null
+      },
+      "team": {
+        "id": 419,
+        "name": "Almere City FC",
+        "logo": "https://media.api-sports.io/football/teams/419.png"
+      },
+      "player": {
+        "id": 37627,
+        "name": "T. Verheydt"
+      },
+      "assist": {
+        "id": 37668,
+        "name": "F. Hammouti"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 34,
+        "extra": null
+      },
+      "team": {
+        "id": 419,
+        "name": "Almere City FC",
+        "logo": "https://media.api-sports.io/football/teams/419.png"
+      },
+      "player": {
+        "id": 37627,
+        "name": "T. Verheydt"
+      },
+      "assist": {
+        "id": 37676,
+        "name": "A. Ahannach"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 409,
+        "name": "Dordrecht",
+        "logo": "https://media.api-sports.io/football/teams/409.png"
+      },
+      "player": {
+        "id": 37710,
+        "name": "T. Kok"
+      },
+      "assist": {
+        "id": 37713,
+        "name": "R. Smith"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 64,
+        "extra": null
+      },
+      "team": {
+        "id": 419,
+        "name": "Almere City FC",
+        "logo": "https://media.api-sports.io/football/teams/419.png"
+      },
+      "player": {
+        "id": 37192,
+        "name": "N. Venema"
+      },
+      "assist": {
+        "id": 37689,
+        "name": "T. Hunte"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 67,
+        "extra": null
+      },
+      "team": {
+        "id": 409,
+        "name": "Dordrecht",
+        "logo": "https://media.api-sports.io/football/teams/409.png"
+      },
+      "player": {
+        "id": 129046,
+        "name": "A. El Bouchataoui"
+      },
+      "assist": {
+        "id": 37720,
+        "name": "Q. Hogesteger"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 73,
+        "extra": null
+      },
+      "team": {
+        "id": 409,
+        "name": "Dordrecht",
+        "logo": "https://media.api-sports.io/football/teams/409.png"
+      },
+      "player": {
+        "id": 37713,
+        "name": "Renny Smith"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 76,
+        "extra": null
+      },
+      "team": {
+        "id": 409,
+        "name": "Dordrecht",
+        "logo": "https://media.api-sports.io/football/teams/409.png"
+      },
+      "player": {
+        "id": 37712,
+        "name": "J. Schuurman"
+      },
+      "assist": {
+        "id": 37722,
+        "name": "T. Schalekamp"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 419,
+        "name": "Almere City FC",
+        "logo": "https://media.api-sports.io/football/teams/419.png"
+      },
+      "player": {
+        "id": 38825,
+        "name": "M. Kaandorp"
+      },
+      "assist": {
+        "id": 37683,
+        "name": "N. Vossebelt"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": null
+      },
+      "team": {
+        "id": 419,
+        "name": "Almere City FC",
+        "logo": "https://media.api-sports.io/football/teams/419.png"
+      },
+      "player": {
+        "id": 37689,
+        "name": "Torino Hunte"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 5
+      },
+      "team": {
+        "id": 409,
+        "name": "Dordrecht",
+        "logo": "https://media.api-sports.io/football/teams/409.png"
+      },
+      "player": {
+        "id": 37708,
+        "name": "D. Green"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

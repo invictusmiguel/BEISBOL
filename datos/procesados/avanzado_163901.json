@@ -1,0 +1,16 @@
+{
+  "game_id": 163901,
+  "fecha": "2025-05-12T23:40:00+00:00",
+  "home": {
+    "team": "Chicago Cubs",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  },
+  "away": {
+    "team": "Miami Marlins",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  }
+}

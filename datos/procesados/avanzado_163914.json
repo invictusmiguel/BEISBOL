@@ -1,0 +1,16 @@
+{
+  "game_id": 163914,
+  "fecha": "2025-05-14T22:15:00+00:00",
+  "home": {
+    "team": "Philadelphia Phillies",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  },
+  "away": {
+    "team": "St.Louis Cardinals",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  }
+}

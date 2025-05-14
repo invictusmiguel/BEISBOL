@@ -1,0 +1,16 @@
+{
+  "game_id": 163915,
+  "fecha": "2025-05-13T23:07:00+00:00",
+  "home": {
+    "team": "Toronto Blue Jays",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  },
+  "away": {
+    "team": "Tampa Bay Rays",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  }
+}

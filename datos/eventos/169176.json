@@ -1,0 +1,322 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "169176"
+  },
+  "errors": [],
+  "results": 14,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 31,
+        "extra": null
+      },
+      "team": {
+        "id": 2286,
+        "name": "U.N.A.M. - Pumas",
+        "logo": "https://media.api-sports.io/football/teams/2286.png"
+      },
+      "player": {
+        "id": 35902,
+        "name": "Jeison Angulo"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 34,
+        "extra": null
+      },
+      "team": {
+        "id": 2286,
+        "name": "U.N.A.M. - Pumas",
+        "logo": "https://media.api-sports.io/football/teams/2286.png"
+      },
+      "player": {
+        "id": 35855,
+        "name": "Juan Vig\u00f3n"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 37,
+        "extra": null
+      },
+      "team": {
+        "id": 2285,
+        "name": "Santos Laguna",
+        "logo": "https://media.api-sports.io/football/teams/2285.png"
+      },
+      "player": {
+        "id": 35777,
+        "name": "D\u00f3ria"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 43,
+        "extra": null
+      },
+      "team": {
+        "id": 2285,
+        "name": "Santos Laguna",
+        "logo": "https://media.api-sports.io/football/teams/2285.png"
+      },
+      "player": {
+        "id": 35781,
+        "name": "Hugo Rodriguez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2285,
+        "name": "Santos Laguna",
+        "logo": "https://media.api-sports.io/football/teams/2285.png"
+      },
+      "player": {
+        "id": 2561,
+        "name": "Diego Vald\u00e9s"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 58,
+        "extra": null
+      },
+      "team": {
+        "id": 2285,
+        "name": "Santos Laguna",
+        "logo": "https://media.api-sports.io/football/teams/2285.png"
+      },
+      "player": {
+        "id": 125668,
+        "name": "A. Lozano"
+      },
+      "assist": {
+        "id": 2884,
+        "name": "J. V\u00e1zquez"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 64,
+        "extra": null
+      },
+      "team": {
+        "id": 2286,
+        "name": "U.N.A.M. - Pumas",
+        "logo": "https://media.api-sports.io/football/teams/2286.png"
+      },
+      "player": {
+        "id": 35921,
+        "name": "I. Malcorra"
+      },
+      "assist": {
+        "id": 35925,
+        "name": "M. Rodr\u00edguez"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 68,
+        "extra": null
+      },
+      "team": {
+        "id": 2286,
+        "name": "U.N.A.M. - Pumas",
+        "logo": "https://media.api-sports.io/football/teams/2286.png"
+      },
+      "player": {
+        "id": 2518,
+        "name": "C. Gonz\u00e1lez"
+      },
+      "assist": {
+        "id": 35928,
+        "name": "J. Iturbe"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 72,
+        "extra": null
+      },
+      "team": {
+        "id": 2285,
+        "name": "Santos Laguna",
+        "logo": "https://media.api-sports.io/football/teams/2285.png"
+      },
+      "player": {
+        "id": 35788,
+        "name": "U. Rivas"
+      },
+      "assist": {
+        "id": 35789,
+        "name": "E. Aguirre"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 2286,
+        "name": "U.N.A.M. - Pumas",
+        "logo": "https://media.api-sports.io/football/teams/2286.png"
+      },
+      "player": {
+        "id": 35926,
+        "name": "P. Barrera"
+      },
+      "assist": {
+        "id": 35917,
+        "name": "K. Escamilla"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 2285,
+        "name": "Santos Laguna",
+        "logo": "https://media.api-sports.io/football/teams/2285.png"
+      },
+      "player": {
+        "id": 35780,
+        "name": "E. Orrant\u00eda"
+      },
+      "assist": {
+        "id": 127215,
+        "name": "E. Games"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 82,
+        "extra": null
+      },
+      "team": {
+        "id": 2286,
+        "name": "U.N.A.M. - Pumas",
+        "logo": "https://media.api-sports.io/football/teams/2286.png"
+      },
+      "player": {
+        "id": 35928,
+        "name": "J. Iturbe"
+      },
+      "assist": {
+        "id": 35914,
+        "name": "D. Cabrera"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": null
+      },
+      "team": {
+        "id": 2285,
+        "name": "Santos Laguna",
+        "logo": "https://media.api-sports.io/football/teams/2285.png"
+      },
+      "player": {
+        "id": 2884,
+        "name": "Jos\u00e9 Juan V\u00e1zquez"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 9
+      },
+      "team": {
+        "id": 2286,
+        "name": "U.N.A.M. - Pumas",
+        "logo": "https://media.api-sports.io/football/teams/2286.png"
+      },
+      "player": {
+        "id": 35914,
+        "name": "D. Cabrera"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Penalty",
+      "comments": null
+    }
+  ]
+}

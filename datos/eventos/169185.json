@@ -1,0 +1,278 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "169185"
+  },
+  "errors": [],
+  "results": 12,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2281,
+        "name": "Toluca",
+        "logo": "https://media.api-sports.io/football/teams/2281.png"
+      },
+      "player": {
+        "id": 35728,
+        "name": "G. Le\u00f3n"
+      },
+      "assist": {
+        "id": 35720,
+        "name": "F. Mancuello"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 2281,
+        "name": "Toluca",
+        "logo": "https://media.api-sports.io/football/teams/2281.png"
+      },
+      "player": {
+        "id": 35716,
+        "name": "K. Casta\u00f1eda"
+      },
+      "assist": {
+        "id": 16462,
+        "name": "A. Chal\u00e1"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 49,
+        "extra": null
+      },
+      "team": {
+        "id": 2281,
+        "name": "Toluca",
+        "logo": "https://media.api-sports.io/football/teams/2281.png"
+      },
+      "player": {
+        "id": 35717,
+        "name": "William da Silva"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 49,
+        "extra": null
+      },
+      "team": {
+        "id": 2291,
+        "name": "Puebla",
+        "logo": "https://media.api-sports.io/football/teams/2291.png"
+      },
+      "player": {
+        "id": 35747,
+        "name": "A. Acosta"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 61,
+        "extra": null
+      },
+      "team": {
+        "id": 2291,
+        "name": "Puebla",
+        "logo": "https://media.api-sports.io/football/teams/2291.png"
+      },
+      "player": {
+        "id": 35725,
+        "name": "D. Abella"
+      },
+      "assist": {
+        "id": 35766,
+        "name": "L. Cavallini"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 68,
+        "extra": null
+      },
+      "team": {
+        "id": 2291,
+        "name": "Puebla",
+        "logo": "https://media.api-sports.io/football/teams/2291.png"
+      },
+      "player": {
+        "id": 35747,
+        "name": "A. Acosta"
+      },
+      "assist": {
+        "id": 35819,
+        "name": "J. Z\u00e1rate"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 70,
+        "extra": null
+      },
+      "team": {
+        "id": 2281,
+        "name": "Toluca",
+        "logo": "https://media.api-sports.io/football/teams/2281.png"
+      },
+      "player": {
+        "id": 35711,
+        "name": "R. Salinas"
+      },
+      "assist": {
+        "id": 127231,
+        "name": "O. Mill\u00e1n"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 74,
+        "extra": null
+      },
+      "team": {
+        "id": 2291,
+        "name": "Puebla",
+        "logo": "https://media.api-sports.io/football/teams/2291.png"
+      },
+      "player": {
+        "id": 35751,
+        "name": "O. Fern\u00e1ndez"
+      },
+      "assist": {
+        "id": 35764,
+        "name": "J. Zavala"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 83,
+        "extra": null
+      },
+      "team": {
+        "id": 2291,
+        "name": "Puebla",
+        "logo": "https://media.api-sports.io/football/teams/2291.png"
+      },
+      "player": {
+        "id": 51457,
+        "name": "Maximiliano Perg"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 2281,
+        "name": "Toluca",
+        "logo": "https://media.api-sports.io/football/teams/2281.png"
+      },
+      "player": {
+        "id": 35709,
+        "name": "J. Maidana"
+      },
+      "assist": {
+        "id": 35717,
+        "name": "William da Silva"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": null
+      },
+      "team": {
+        "id": 2281,
+        "name": "Toluca",
+        "logo": "https://media.api-sports.io/football/teams/2281.png"
+      },
+      "player": {
+        "id": 35722,
+        "name": "Felipe Pardo"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": null
+      },
+      "team": {
+        "id": 2281,
+        "name": "Toluca",
+        "logo": "https://media.api-sports.io/football/teams/2281.png"
+      },
+      "player": {
+        "id": 35709,
+        "name": "Jonathan Maidana"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    }
+  ]
+}

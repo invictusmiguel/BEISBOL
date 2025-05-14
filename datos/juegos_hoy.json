@@ -1,0 +1,4238 @@
+{
+  "response": [
+    {
+      "id": 162549,
+      "date": "2025-05-14T00:05:00+00:00",
+      "time": "00:05",
+      "timestamp": 1747181100,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 4,
+        "name": "PCL",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/4.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 83,
+          "name": "Round Rock Express",
+          "logo": "https://media.api-sports.io/baseball/teams/83.png"
+        },
+        "away": {
+          "id": 81,
+          "name": "Oklahoma City Dodgers",
+          "logo": "https://media.api-sports.io/baseball/teams/81.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 8,
+          "errors": 2,
+          "innings": {
+            "1": 0,
+            "2": 3,
+            "3": 1,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 1,
+            "extra": null
+          },
+          "total": 5
+        },
+        "away": {
+          "hits": 15,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 6,
+            "4": 2,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 8
+        }
+      }
+    },
+    {
+      "id": 163913,
+      "date": "2025-05-14T00:05:00+00:00",
+      "time": "00:05",
+      "timestamp": 1747181100,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 1,
+        "name": "MLB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 35,
+          "name": "Texas Rangers",
+          "logo": "https://media.api-sports.io/baseball/teams/35.png"
+        },
+        "away": {
+          "id": 10,
+          "name": "Colorado Rockies",
+          "logo": "https://media.api-sports.io/baseball/teams/10.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 8,
+          "errors": 0,
+          "innings": {
+            "1": 3,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 1,
+            "9": null,
+            "extra": null
+          },
+          "total": 4
+        },
+        "away": {
+          "hits": 5,
+          "errors": 0,
+          "innings": {
+            "1": 1,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 1
+        }
+      }
+    },
+    {
+      "id": 163908,
+      "date": "2025-05-14T00:10:00+00:00",
+      "time": "00:10",
+      "timestamp": 1747181400,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 1,
+        "name": "MLB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 15,
+          "name": "Houston Astros",
+          "logo": "https://media.api-sports.io/baseball/teams/15.png"
+        },
+        "away": {
+          "id": 16,
+          "name": "Kansas City Royals",
+          "logo": "https://media.api-sports.io/baseball/teams/16.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 7,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 1,
+            "7": 0,
+            "8": 0,
+            "9": 1,
+            "extra": null
+          },
+          "total": 2
+        },
+        "away": {
+          "hits": 6,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 1
+        }
+      }
+    },
+    {
+      "id": 162547,
+      "date": "2025-05-14T00:35:00+00:00",
+      "time": "00:35",
+      "timestamp": 1747182900,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 4,
+        "name": "PCL",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/4.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 38,
+          "name": "Albuquerque Isotopes",
+          "logo": "https://media.api-sports.io/baseball/teams/38.png"
+        },
+        "away": {
+          "id": 86,
+          "name": "Tacoma Rainiers",
+          "logo": "https://media.api-sports.io/baseball/teams/86.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 4,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 1,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": 1
+        },
+        "away": {
+          "hits": 13,
+          "errors": 1,
+          "innings": {
+            "1": 1,
+            "2": 0,
+            "3": 4,
+            "4": 0,
+            "5": 0,
+            "6": 4,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": 9
+        }
+      }
+    },
+    {
+      "id": 169191,
+      "date": "2025-05-14T01:00:00+00:00",
+      "time": "01:00",
+      "timestamp": 1747184400,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 15,
+        "name": "Mexico",
+        "code": "MX",
+        "flag": "https://media.api-sports.io/flags/mx.svg"
+      },
+      "league": {
+        "id": 21,
+        "name": "LMB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/21.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 287,
+          "name": "Diablos Rojos",
+          "logo": "https://media.api-sports.io/baseball/teams/287.png"
+        },
+        "away": {
+          "id": 296,
+          "name": "Tabasco",
+          "logo": "https://media.api-sports.io/baseball/teams/296.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 15,
+          "errors": 1,
+          "innings": {
+            "1": 0,
+            "2": 5,
+            "3": 0,
+            "4": 1,
+            "5": 0,
+            "6": 6,
+            "7": 1,
+            "8": 3,
+            "9": null,
+            "extra": null
+          },
+          "total": 16
+        },
+        "away": {
+          "hits": 10,
+          "errors": 1,
+          "innings": {
+            "1": 0,
+            "2": 1,
+            "3": 0,
+            "4": 3,
+            "5": 1,
+            "6": 0,
+            "7": 0,
+            "8": 1,
+            "9": 0,
+            "extra": null
+          },
+          "total": 6
+        }
+      }
+    },
+    {
+      "id": 169194,
+      "date": "2025-05-14T01:00:00+00:00",
+      "time": "01:00",
+      "timestamp": 1747184400,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 15,
+        "name": "Mexico",
+        "code": "MX",
+        "flag": "https://media.api-sports.io/flags/mx.svg"
+      },
+      "league": {
+        "id": 21,
+        "name": "LMB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/21.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 292,
+          "name": "Puebla",
+          "logo": "https://media.api-sports.io/baseball/teams/292.png"
+        },
+        "away": {
+          "id": 298,
+          "name": "Yucatan",
+          "logo": "https://media.api-sports.io/baseball/teams/298.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 14,
+          "errors": 2,
+          "innings": {
+            "1": 2,
+            "2": 4,
+            "3": 3,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 2,
+            "9": null,
+            "extra": null
+          },
+          "total": 11
+        },
+        "away": {
+          "hits": 6,
+          "errors": 1,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 3,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 3
+        }
+      }
+    },
+    {
+      "id": 169195,
+      "date": "2025-05-14T01:00:00+00:00",
+      "time": "01:00",
+      "timestamp": 1747184400,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 15,
+        "name": "Mexico",
+        "code": "MX",
+        "flag": "https://media.api-sports.io/flags/mx.svg"
+      },
+      "league": {
+        "id": 21,
+        "name": "LMB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/21.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 914,
+          "name": "Queretaro",
+          "logo": "https://media.api-sports.io/baseball/teams/914.png"
+        },
+        "away": {
+          "id": 293,
+          "name": "Quintana Roo",
+          "logo": "https://media.api-sports.io/baseball/teams/293.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 13,
+          "errors": 1,
+          "innings": {
+            "1": 1,
+            "2": 1,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 1,
+            "7": 0,
+            "8": 0,
+            "9": 1,
+            "extra": null
+          },
+          "total": 4
+        },
+        "away": {
+          "hits": 15,
+          "errors": 0,
+          "innings": {
+            "1": 6,
+            "2": 0,
+            "3": 1,
+            "4": 1,
+            "5": 2,
+            "6": 1,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 11
+        }
+      }
+    },
+    {
+      "id": 169187,
+      "date": "2025-05-14T01:30:00+00:00",
+      "time": "01:30",
+      "timestamp": 1747186200,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 15,
+        "name": "Mexico",
+        "code": "MX",
+        "flag": "https://media.api-sports.io/flags/mx.svg"
+      },
+      "league": {
+        "id": 21,
+        "name": "LMB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/21.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 844,
+          "name": "Bravos de Leon",
+          "logo": "https://media.api-sports.io/baseball/teams/844.png"
+        },
+        "away": {
+          "id": 291,
+          "name": "Oaxaca",
+          "logo": "https://media.api-sports.io/baseball/teams/291.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 10,
+          "errors": 0,
+          "innings": {
+            "1": 1,
+            "2": 0,
+            "3": 0,
+            "4": 1,
+            "5": 2,
+            "6": 1,
+            "7": 0,
+            "8": 1,
+            "9": 0,
+            "extra": null
+          },
+          "total": 6
+        },
+        "away": {
+          "hits": 14,
+          "errors": 1,
+          "innings": {
+            "1": 1,
+            "2": 0,
+            "3": 5,
+            "4": 0,
+            "5": 1,
+            "6": 3,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 10
+        }
+      }
+    },
+    {
+      "id": 169189,
+      "date": "2025-05-14T01:30:00+00:00",
+      "time": "01:30",
+      "timestamp": 1747186200,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 15,
+        "name": "Mexico",
+        "code": "MX",
+        "flag": "https://media.api-sports.io/flags/mx.svg"
+      },
+      "league": {
+        "id": 21,
+        "name": "LMB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/21.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 282,
+          "name": "Campeche",
+          "logo": "https://media.api-sports.io/baseball/teams/282.png"
+        },
+        "away": {
+          "id": 457,
+          "name": "Veracruz",
+          "logo": "https://media.api-sports.io/baseball/teams/457.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 7,
+          "errors": 2,
+          "innings": {
+            "1": 0,
+            "2": 2,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 2,
+            "9": 0,
+            "extra": null
+          },
+          "total": 4
+        },
+        "away": {
+          "hits": 11,
+          "errors": 3,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 2,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 2,
+            "9": 1,
+            "extra": null
+          },
+          "total": 5
+        }
+      }
+    },
+    {
+      "id": 169190,
+      "date": "2025-05-14T01:30:00+00:00",
+      "time": "01:30",
+      "timestamp": 1747186200,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 15,
+        "name": "Mexico",
+        "code": "MX",
+        "flag": "https://media.api-sports.io/flags/mx.svg"
+      },
+      "league": {
+        "id": 21,
+        "name": "LMB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/21.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 285,
+          "name": "Laguna",
+          "logo": "https://media.api-sports.io/baseball/teams/285.png"
+        },
+        "away": {
+          "id": 281,
+          "name": "Aguascalientes",
+          "logo": "https://media.api-sports.io/baseball/teams/281.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 4,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 2,
+            "7": 0,
+            "8": 0,
+            "9": null,
+            "extra": null
+          },
+          "total": 2
+        },
+        "away": {
+          "hits": 11,
+          "errors": 1,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 1
+        }
+      }
+    },
+    {
+      "id": 169193,
+      "date": "2025-05-14T01:30:00+00:00",
+      "time": "01:30",
+      "timestamp": 1747186200,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 15,
+        "name": "Mexico",
+        "code": "MX",
+        "flag": "https://media.api-sports.io/flags/mx.svg"
+      },
+      "league": {
+        "id": 21,
+        "name": "LMB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/21.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 289,
+          "name": "Monterrey",
+          "logo": "https://media.api-sports.io/baseball/teams/289.png"
+        },
+        "away": {
+          "id": 809,
+          "name": "Chihuahua",
+          "logo": "https://media.api-sports.io/baseball/teams/809.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 11,
+          "errors": 3,
+          "innings": {
+            "1": 1,
+            "2": 0,
+            "3": 0,
+            "4": 4,
+            "5": 0,
+            "6": 0,
+            "7": 2,
+            "8": 4,
+            "9": null,
+            "extra": null
+          },
+          "total": 11
+        },
+        "away": {
+          "hits": 12,
+          "errors": 1,
+          "innings": {
+            "1": 1,
+            "2": 0,
+            "3": 1,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 3,
+            "9": 2,
+            "extra": null
+          },
+          "total": 7
+        }
+      }
+    },
+    {
+      "id": 169196,
+      "date": "2025-05-14T01:30:00+00:00",
+      "time": "01:30",
+      "timestamp": 1747186200,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 15,
+        "name": "Mexico",
+        "code": "MX",
+        "flag": "https://media.api-sports.io/flags/mx.svg"
+      },
+      "league": {
+        "id": 21,
+        "name": "LMB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/21.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 294,
+          "name": "Saltillo",
+          "logo": "https://media.api-sports.io/baseball/teams/294.png"
+        },
+        "away": {
+          "id": 283,
+          "name": "Dos Laredos",
+          "logo": "https://media.api-sports.io/baseball/teams/283.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 10,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 1,
+            "4": 0,
+            "5": 0,
+            "6": 1,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 2
+        },
+        "away": {
+          "hits": 16,
+          "errors": 2,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 3,
+            "5": 3,
+            "6": 8,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 14
+        }
+      }
+    },
+    {
+      "id": 162548,
+      "date": "2025-05-14T01:35:00+00:00",
+      "time": "01:35",
+      "timestamp": 1747186500,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 4,
+        "name": "PCL",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/4.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 80,
+          "name": "Las Vegas Aviators",
+          "logo": "https://media.api-sports.io/baseball/teams/80.png"
+        },
+        "away": {
+          "id": 49,
+          "name": "El Paso Chihuahuas",
+          "logo": "https://media.api-sports.io/baseball/teams/49.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 17,
+          "errors": 0,
+          "innings": {
+            "1": 8,
+            "2": 0,
+            "3": 0,
+            "4": 4,
+            "5": 0,
+            "6": 2,
+            "7": 0,
+            "8": 6,
+            "9": null,
+            "extra": null
+          },
+          "total": 20
+        },
+        "away": {
+          "hits": 5,
+          "errors": 2,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1,
+            "6": 1,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 2
+        }
+      }
+    },
+    {
+      "id": 169188,
+      "date": "2025-05-14T01:35:00+00:00",
+      "time": "01:35",
+      "timestamp": 1747186500,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 15,
+        "name": "Mexico",
+        "code": "MX",
+        "flag": "https://media.api-sports.io/flags/mx.svg"
+      },
+      "league": {
+        "id": 21,
+        "name": "LMB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/21.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 933,
+          "name": "Caliente de Durango",
+          "logo": "https://media.api-sports.io/baseball/teams/933.png"
+        },
+        "away": {
+          "id": 303,
+          "name": "Jalisco",
+          "logo": "https://media.api-sports.io/baseball/teams/303.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 21,
+          "errors": 1,
+          "innings": {
+            "1": 1,
+            "2": 0,
+            "3": 5,
+            "4": 0,
+            "5": 1,
+            "6": 1,
+            "7": 2,
+            "8": 9,
+            "9": null,
+            "extra": null
+          },
+          "total": 19
+        },
+        "away": {
+          "hits": 8,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 1,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 1,
+            "7": 0,
+            "8": 2,
+            "9": 0,
+            "extra": null
+          },
+          "total": 4
+        }
+      }
+    },
+    {
+      "id": 163911,
+      "date": "2025-05-14T01:40:00+00:00",
+      "time": "01:40",
+      "timestamp": 1747186800,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 1,
+        "name": "MLB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 30,
+          "name": "San Diego Padres",
+          "logo": "https://media.api-sports.io/baseball/teams/30.png"
+        },
+        "away": {
+          "id": 17,
+          "name": "Los Angeles Angels",
+          "logo": "https://media.api-sports.io/baseball/teams/17.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 6,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 2,
+            "6": 0,
+            "7": 0,
+            "8": 2,
+            "9": 2,
+            "extra": null
+          },
+          "total": 6
+        },
+        "away": {
+          "hits": 8,
+          "errors": 2,
+          "innings": {
+            "1": 1,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 3,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 4
+        }
+      }
+    },
+    {
+      "id": 163912,
+      "date": "2025-05-14T01:40:00+00:00",
+      "time": "01:40",
+      "timestamp": 1747186800,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 1,
+        "name": "MLB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 32,
+          "name": "Seattle Mariners",
+          "logo": "https://media.api-sports.io/baseball/teams/32.png"
+        },
+        "away": {
+          "id": 25,
+          "name": "New York Yankees",
+          "logo": "https://media.api-sports.io/baseball/teams/25.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 6,
+          "errors": 1,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 1,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "extra": 1
+          },
+          "total": 2
+        },
+        "away": {
+          "hits": 5,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 1,
+            "extra": 0
+          },
+          "total": 1
+        }
+      }
+    },
+    {
+      "id": 163917,
+      "date": "2025-05-14T01:45:00+00:00",
+      "time": "01:45",
+      "timestamp": 1747187100,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 1,
+        "name": "MLB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 31,
+          "name": "San Francisco Giants",
+          "logo": "https://media.api-sports.io/baseball/teams/31.png"
+        },
+        "away": {
+          "id": 2,
+          "name": "Arizona Diamondbacks",
+          "logo": "https://media.api-sports.io/baseball/teams/2.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 13,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 4,
+            "3": 0,
+            "4": 0,
+            "5": 3,
+            "6": 0,
+            "7": 0,
+            "8": 3,
+            "9": null,
+            "extra": null
+          },
+          "total": 10
+        },
+        "away": {
+          "hits": 11,
+          "errors": 2,
+          "innings": {
+            "1": 3,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 1,
+            "8": 0,
+            "9": 2,
+            "extra": null
+          },
+          "total": 6
+        }
+      }
+    },
+    {
+      "id": 169192,
+      "date": "2025-05-14T01:45:00+00:00",
+      "time": "01:45",
+      "timestamp": 1747187100,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 15,
+        "name": "Mexico",
+        "code": "MX",
+        "flag": "https://media.api-sports.io/flags/mx.svg"
+      },
+      "league": {
+        "id": 21,
+        "name": "LMB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/21.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 288,
+          "name": "Monclova",
+          "logo": "https://media.api-sports.io/baseball/teams/288.png"
+        },
+        "away": {
+          "id": 297,
+          "name": "Toros de Tijuana",
+          "logo": "https://media.api-sports.io/baseball/teams/297.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 4,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 2,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 1,
+            "9": null,
+            "extra": null
+          },
+          "total": 3
+        },
+        "away": {
+          "hits": 3,
+          "errors": 2,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 0
+        }
+      }
+    },
+    {
+      "id": 163909,
+      "date": "2025-05-14T02:10:00+00:00",
+      "time": "02:10",
+      "timestamp": 1747188600,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 1,
+        "name": "MLB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 18,
+          "name": "Los Angeles Dodgers",
+          "logo": "https://media.api-sports.io/baseball/teams/18.png"
+        },
+        "away": {
+          "id": 963,
+          "name": "Athletics",
+          "logo": "https://media.api-sports.io/baseball/teams/963.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 8,
+          "errors": 1,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 1,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 1
+        },
+        "away": {
+          "hits": 18,
+          "errors": 1,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 2,
+            "4": 0,
+            "5": 4,
+            "6": 0,
+            "7": 2,
+            "8": 1,
+            "9": 2,
+            "extra": null
+          },
+          "total": 11
+        }
+      }
+    },
+    {
+      "id": 166016,
+      "date": "2025-05-14T04:00:00+00:00",
+      "time": "04:00",
+      "timestamp": 1747195200,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 2,
+        "name": "Japan",
+        "code": "JP",
+        "flag": "https://media.api-sports.io/flags/jp.svg"
+      },
+      "league": {
+        "id": 2,
+        "name": "NPB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/2.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 60,
+          "name": "Nippon Ham Fighters",
+          "logo": "https://media.api-sports.io/baseball/teams/60.png"
+        },
+        "away": {
+          "id": 61,
+          "name": "Orix Buffaloes",
+          "logo": "https://media.api-sports.io/baseball/teams/61.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 10,
+          "errors": 1,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 3,
+            "6": 0,
+            "7": 2,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 5
+        },
+        "away": {
+          "hits": 10,
+          "errors": 0,
+          "innings": {
+            "1": 2,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1,
+            "6": 0,
+            "7": 0,
+            "8": 5,
+            "9": 1,
+            "extra": null
+          },
+          "total": 9
+        }
+      }
+    },
+    {
+      "id": 166017,
+      "date": "2025-05-14T04:00:00+00:00",
+      "time": "04:00",
+      "timestamp": 1747195200,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 2,
+        "name": "Japan",
+        "code": "JP",
+        "flag": "https://media.api-sports.io/flags/jp.svg"
+      },
+      "league": {
+        "id": 2,
+        "name": "NPB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/2.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 62,
+          "name": "Rakuten Gold. Eagles",
+          "logo": "https://media.api-sports.io/baseball/teams/62.png"
+        },
+        "away": {
+          "id": 55,
+          "name": "Chiba Lotte Marines",
+          "logo": "https://media.api-sports.io/baseball/teams/55.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 12,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 1,
+            "3": 1,
+            "4": 1,
+            "5": 1,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": null,
+            "extra": null
+          },
+          "total": 4
+        },
+        "away": {
+          "hits": 5,
+          "errors": 1,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 0
+        }
+      }
+    },
+    {
+      "id": 166013,
+      "date": "2025-05-14T09:00:00+00:00",
+      "time": "09:00",
+      "timestamp": 1747213200,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 2,
+        "name": "Japan",
+        "code": "JP",
+        "flag": "https://media.api-sports.io/flags/jp.svg"
+      },
+      "league": {
+        "id": 2,
+        "name": "NPB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/2.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 56,
+          "name": "Chunichi Dragons",
+          "logo": "https://media.api-sports.io/baseball/teams/56.png"
+        },
+        "away": {
+          "id": 64,
+          "name": "Yakult Swallows",
+          "logo": "https://media.api-sports.io/baseball/teams/64.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 4,
+          "errors": 0,
+          "innings": {
+            "1": 1,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 1,
+            "9": null,
+            "extra": null
+          },
+          "total": 2
+        },
+        "away": {
+          "hits": 5,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 0
+        }
+      }
+    },
+    {
+      "id": 166014,
+      "date": "2025-05-14T09:00:00+00:00",
+      "time": "09:00",
+      "timestamp": 1747213200,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 2,
+        "name": "Japan",
+        "code": "JP",
+        "flag": "https://media.api-sports.io/flags/jp.svg"
+      },
+      "league": {
+        "id": 2,
+        "name": "NPB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/2.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 57,
+          "name": "Fukuoka S. Hawks",
+          "logo": "https://media.api-sports.io/baseball/teams/57.png"
+        },
+        "away": {
+          "id": 63,
+          "name": "Seibu Lions",
+          "logo": "https://media.api-sports.io/baseball/teams/63.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 4,
+          "errors": 1,
+          "innings": {
+            "1": 0,
+            "2": 1,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 1
+        },
+        "away": {
+          "hits": 10,
+          "errors": 0,
+          "innings": {
+            "1": 1,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1,
+            "6": 0,
+            "7": 1,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 3
+        }
+      }
+    },
+    {
+      "id": 166015,
+      "date": "2025-05-14T09:00:00+00:00",
+      "time": "09:00",
+      "timestamp": 1747213200,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 2,
+        "name": "Japan",
+        "code": "JP",
+        "flag": "https://media.api-sports.io/flags/jp.svg"
+      },
+      "league": {
+        "id": 2,
+        "name": "NPB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/2.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 59,
+          "name": "Hiroshima Carp",
+          "logo": "https://media.api-sports.io/baseball/teams/59.png"
+        },
+        "away": {
+          "id": 66,
+          "name": "Yomiuri Giants",
+          "logo": "https://media.api-sports.io/baseball/teams/66.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 7,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 1,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 1,
+            "7": 0,
+            "8": 1,
+            "9": null,
+            "extra": null
+          },
+          "total": 3
+        },
+        "away": {
+          "hits": 5,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 0
+        }
+      }
+    },
+    {
+      "id": 166942,
+      "date": "2025-05-14T09:30:00+00:00",
+      "time": "09:30",
+      "timestamp": 1747215000,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 3,
+        "name": "South-Korea",
+        "code": "KR",
+        "flag": "https://media.api-sports.io/flags/kr.svg"
+      },
+      "league": {
+        "id": 5,
+        "name": "KBO",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/5.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 97,
+          "name": "Samsung Lions",
+          "logo": "https://media.api-sports.io/baseball/teams/97.png"
+        },
+        "away": {
+          "id": 91,
+          "name": "KT Wiz Suwon",
+          "logo": "https://media.api-sports.io/baseball/teams/91.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 6,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 1,
+            "5": 0,
+            "6": 1,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 2
+        },
+        "away": {
+          "hits": 8,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 2,
+            "5": 0,
+            "6": 1,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 3
+        }
+      }
+    },
+    {
+      "id": 166943,
+      "date": "2025-05-14T09:30:00+00:00",
+      "time": "09:30",
+      "timestamp": 1747215000,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 3,
+        "name": "South-Korea",
+        "code": "KR",
+        "flag": "https://media.api-sports.io/flags/kr.svg"
+      },
+      "league": {
+        "id": 5,
+        "name": "KBO",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/5.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 647,
+          "name": "SSG Landers",
+          "logo": "https://media.api-sports.io/baseball/teams/647.png"
+        },
+        "away": {
+          "id": 95,
+          "name": "NC Dinos",
+          "logo": "https://media.api-sports.io/baseball/teams/95.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 6,
+          "errors": 1,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 1,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 2,
+            "9": 0,
+            "extra": null
+          },
+          "total": 3
+        },
+        "away": {
+          "hits": 10,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 1,
+            "3": 4,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 1,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 6
+        }
+      }
+    },
+    {
+      "id": 166944,
+      "date": "2025-05-14T09:30:00+00:00",
+      "time": "09:30",
+      "timestamp": 1747215000,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 3,
+        "name": "South-Korea",
+        "code": "KR",
+        "flag": "https://media.api-sports.io/flags/kr.svg"
+      },
+      "league": {
+        "id": 5,
+        "name": "KBO",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/5.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 93,
+          "name": "LG Twins",
+          "logo": "https://media.api-sports.io/baseball/teams/93.png"
+        },
+        "away": {
+          "id": 92,
+          "name": "Kiwoom Heroes",
+          "logo": "https://media.api-sports.io/baseball/teams/92.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 15,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 4,
+            "4": 0,
+            "5": 0,
+            "6": 5,
+            "7": 1,
+            "8": 2,
+            "9": null,
+            "extra": null
+          },
+          "total": 12
+        },
+        "away": {
+          "hits": 5,
+          "errors": 2,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 0
+        }
+      }
+    },
+    {
+      "id": 166945,
+      "date": "2025-05-14T09:30:00+00:00",
+      "time": "09:30",
+      "timestamp": 1747215000,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 3,
+        "name": "South-Korea",
+        "code": "KR",
+        "flag": "https://media.api-sports.io/flags/kr.svg"
+      },
+      "league": {
+        "id": 5,
+        "name": "KBO",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/5.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 89,
+          "name": "Hanwha Eagles",
+          "logo": "https://media.api-sports.io/baseball/teams/89.png"
+        },
+        "away": {
+          "id": 88,
+          "name": "Doosan Bears",
+          "logo": "https://media.api-sports.io/baseball/teams/88.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 6,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 1,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 1
+        },
+        "away": {
+          "hits": 12,
+          "errors": 0,
+          "innings": {
+            "1": 2,
+            "2": 0,
+            "3": 0,
+            "4": 1,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 2,
+            "9": 2,
+            "extra": null
+          },
+          "total": 7
+        }
+      }
+    },
+    {
+      "id": 166946,
+      "date": "2025-05-14T09:30:00+00:00",
+      "time": "09:30",
+      "timestamp": 1747215000,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 3,
+        "name": "South-Korea",
+        "code": "KR",
+        "flag": "https://media.api-sports.io/flags/kr.svg"
+      },
+      "league": {
+        "id": 5,
+        "name": "KBO",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/5.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 90,
+          "name": "KIA Tigers",
+          "logo": "https://media.api-sports.io/baseball/teams/90.png"
+        },
+        "away": {
+          "id": 94,
+          "name": "Lotte Giants",
+          "logo": "https://media.api-sports.io/baseball/teams/94.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 8,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 0
+        },
+        "away": {
+          "hits": 11,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 2,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 2,
+            "9": 0,
+            "extra": null
+          },
+          "total": 4
+        }
+      }
+    },
+    {
+      "id": 170278,
+      "date": "2025-05-14T10:35:00+00:00",
+      "time": "10:35",
+      "timestamp": 1747218900,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 22,
+        "name": "Taiwan",
+        "code": "TW",
+        "flag": "https://media.api-sports.io/flags/tw.svg"
+      },
+      "league": {
+        "id": 29,
+        "name": "CPBL",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/29.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 349,
+          "name": "Fubon Guardians",
+          "logo": "https://media.api-sports.io/baseball/teams/349.png"
+        },
+        "away": {
+          "id": 915,
+          "name": "TSG Hawks",
+          "logo": "https://media.api-sports.io/baseball/teams/915.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 14,
+          "errors": 1,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 1,
+            "4": 1,
+            "5": 0,
+            "6": 0,
+            "7": 2,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 4
+        },
+        "away": {
+          "hits": 9,
+          "errors": 3,
+          "innings": {
+            "1": 0,
+            "2": 1,
+            "3": 0,
+            "4": 0,
+            "5": 2,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 3,
+            "extra": null
+          },
+          "total": 6
+        }
+      }
+    },
+    {
+      "id": 170279,
+      "date": "2025-05-14T10:35:00+00:00",
+      "time": "10:35",
+      "timestamp": 1747218900,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 22,
+        "name": "Taiwan",
+        "code": "TW",
+        "flag": "https://media.api-sports.io/flags/tw.svg"
+      },
+      "league": {
+        "id": 29,
+        "name": "CPBL",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/29.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 482,
+          "name": "Rakuten Monkeys",
+          "logo": "https://media.api-sports.io/baseball/teams/482.png"
+        },
+        "away": {
+          "id": 351,
+          "name": "Uni Lions",
+          "logo": "https://media.api-sports.io/baseball/teams/351.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 14,
+          "errors": 0,
+          "innings": {
+            "1": 1,
+            "2": 0,
+            "3": 4,
+            "4": 3,
+            "5": 0,
+            "6": 1,
+            "7": 1,
+            "8": 0,
+            "9": null,
+            "extra": null
+          },
+          "total": 10
+        },
+        "away": {
+          "hits": 5,
+          "errors": 1,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 1,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 1
+        }
+      }
+    },
+    {
+      "id": 170280,
+      "date": "2025-05-14T10:35:00+00:00",
+      "time": "10:35",
+      "timestamp": 1747218900,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 22,
+        "name": "Taiwan",
+        "code": "TW",
+        "flag": "https://media.api-sports.io/flags/tw.svg"
+      },
+      "league": {
+        "id": 29,
+        "name": "CPBL",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/29.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 569,
+          "name": "Wei Chuan Dragons",
+          "logo": "https://media.api-sports.io/baseball/teams/569.png"
+        },
+        "away": {
+          "id": 348,
+          "name": "Chinatrust Brothers",
+          "logo": "https://media.api-sports.io/baseball/teams/348.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 2,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 0
+        },
+        "away": {
+          "hits": 6,
+          "errors": 1,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 1,
+            "extra": null
+          },
+          "total": 1
+        }
+      }
+    },
+    {
+      "id": 171080,
+      "date": "2025-05-14T15:05:00+00:00",
+      "time": "15:05",
+      "timestamp": 1747235100,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 3,
+        "name": "IL",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/3.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 75,
+          "name": "Scranton/WB",
+          "logo": "https://media.api-sports.io/baseball/teams/75.png"
+        },
+        "away": {
+          "id": 77,
+          "name": "Toledo Mud Hens",
+          "logo": "https://media.api-sports.io/baseball/teams/77.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 8,
+          "errors": 3,
+          "innings": {
+            "1": 2,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 3,
+            "7": 0,
+            "8": 0,
+            "9": null,
+            "extra": null
+          },
+          "total": 5
+        },
+        "away": {
+          "hits": 6,
+          "errors": 1,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 1,
+            "5": 1,
+            "6": 0,
+            "7": 1,
+            "8": 0,
+            "9": 1,
+            "extra": null
+          },
+          "total": 4
+        }
+      }
+    },
+    {
+      "id": 171081,
+      "date": "2025-05-14T15:05:00+00:00",
+      "time": "15:05",
+      "timestamp": 1747235100,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 3,
+        "name": "IL",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/3.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 76,
+          "name": "Syracuse Mets",
+          "logo": "https://media.api-sports.io/baseball/teams/76.png"
+        },
+        "away": {
+          "id": 72,
+          "name": "Lehigh Valley IronPigs",
+          "logo": "https://media.api-sports.io/baseball/teams/72.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 11,
+          "errors": 2,
+          "innings": {
+            "1": 0,
+            "2": 2,
+            "3": 3,
+            "4": 2,
+            "5": 1,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "extra": 0
+          },
+          "total": 8
+        },
+        "away": {
+          "hits": 12,
+          "errors": 1,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 2,
+            "5": 4,
+            "6": 0,
+            "7": 0,
+            "8": 2,
+            "9": 0,
+            "extra": 10
+          },
+          "total": 18
+        }
+      }
+    },
+    {
+      "id": 162553,
+      "date": "2025-05-14T16:05:00+00:00",
+      "time": "16:05",
+      "timestamp": 1747238700,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 4,
+        "name": "PCL",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/4.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 593,
+          "name": "Sugar Land",
+          "logo": "https://media.api-sports.io/baseball/teams/593.png"
+        },
+        "away": {
+          "id": 82,
+          "name": "Reno Aces",
+          "logo": "https://media.api-sports.io/baseball/teams/82.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 10,
+          "errors": 2,
+          "innings": {
+            "1": 1,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 5,
+            "8": 0,
+            "9": 2,
+            "extra": null
+          },
+          "total": 8
+        },
+        "away": {
+          "hits": 10,
+          "errors": 1,
+          "innings": {
+            "1": 0,
+            "2": 2,
+            "3": 0,
+            "4": 0,
+            "5": 1,
+            "6": 3,
+            "7": 0,
+            "8": 0,
+            "9": 1,
+            "extra": null
+          },
+          "total": 7
+        }
+      }
+    },
+    {
+      "id": 163929,
+      "date": "2025-05-14T16:05:00+00:00",
+      "time": "16:05",
+      "timestamp": 1747238700,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 1,
+        "name": "MLB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 4,
+          "name": "Baltimore Orioles",
+          "logo": "https://media.api-sports.io/baseball/teams/4.png"
+        },
+        "away": {
+          "id": 22,
+          "name": "Minnesota Twins",
+          "logo": "https://media.api-sports.io/baseball/teams/22.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 4,
+          "errors": 1,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 3,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 3
+        },
+        "away": {
+          "hits": 9,
+          "errors": 4,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 4,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 2,
+            "extra": null
+          },
+          "total": 6
+        }
+      }
+    },
+    {
+      "id": 163918,
+      "date": "2025-05-14T17:05:00+00:00",
+      "time": "17:05",
+      "timestamp": 1747242300,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 1,
+        "name": "MLB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 27,
+          "name": "Philadelphia Phillies",
+          "logo": "https://media.api-sports.io/baseball/teams/27.png"
+        },
+        "away": {
+          "id": 33,
+          "name": "St.Louis Cardinals",
+          "logo": "https://media.api-sports.io/baseball/teams/33.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 7,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 2,
+            "8": 0,
+            "9": null,
+            "extra": null
+          },
+          "total": 2
+        },
+        "away": {
+          "hits": 6,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 1,
+            "8": 0,
+            "9": 0,
+            "extra": null
+          },
+          "total": 1
+        }
+      }
+    },
+    {
+      "id": 171082,
+      "date": "2025-05-14T17:05:00+00:00",
+      "time": "17:05",
+      "timestamp": 1747242300,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 3,
+        "name": "IL",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/3.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 41,
+          "name": "Memphis Redbirds",
+          "logo": "https://media.api-sports.io/baseball/teams/41.png"
+        },
+        "away": {
+          "id": 42,
+          "name": "Nashville Sounds",
+          "logo": "https://media.api-sports.io/baseball/teams/42.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 3,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": 0
+        },
+        "away": {
+          "hits": 13,
+          "errors": 0,
+          "innings": {
+            "1": 2,
+            "2": 0,
+            "3": 5,
+            "4": 0,
+            "5": 1,
+            "6": 0,
+            "7": 3,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": 11
+        }
+      }
+    },
+    {
+      "id": 171083,
+      "date": "2025-05-14T17:08:00+00:00",
+      "time": "17:08",
+      "timestamp": 1747242480,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Inning 9",
+        "short": "IN9"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 3,
+        "name": "IL",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/3.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 79,
+          "name": "Iowa Cubs",
+          "logo": "https://media.api-sports.io/baseball/teams/79.png"
+        },
+        "away": {
+          "id": 595,
+          "name": "St. Paul",
+          "logo": "https://media.api-sports.io/baseball/teams/595.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 9,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 1,
+            "4": 4,
+            "5": 4,
+            "6": 0,
+            "7": 0,
+            "8": 1,
+            "9": null,
+            "extra": null
+          },
+          "total": 10
+        },
+        "away": {
+          "hits": 12,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 2,
+            "6": 1,
+            "7": 0,
+            "8": 1,
+            "9": 1,
+            "extra": null
+          },
+          "total": 5
+        }
+      }
+    },
+    {
+      "id": 163927,
+      "date": "2025-05-14T17:10:00+00:00",
+      "time": "17:10",
+      "timestamp": 1747242600,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Finished",
+        "short": "FT"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 1,
+        "name": "MLB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 9,
+          "name": "Cleveland Guardians",
+          "logo": "https://media.api-sports.io/baseball/teams/9.png"
+        },
+        "away": {
+          "id": 20,
+          "name": "Milwaukee Brewers",
+          "logo": "https://media.api-sports.io/baseball/teams/20.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 7,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 1,
+            "3": 0,
+            "4": 1,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 3,
+            "9": 0,
+            "extra": null
+          },
+          "total": 5
+        },
+        "away": {
+          "hits": 13,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 1,
+            "3": 0,
+            "4": 0,
+            "5": 1,
+            "6": 3,
+            "7": 2,
+            "8": 0,
+            "9": 2,
+            "extra": null
+          },
+          "total": 9
+        }
+      }
+    },
+    {
+      "id": 169993,
+      "date": "2025-05-14T18:00:00+00:00",
+      "time": "18:00",
+      "timestamp": 1747245600,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 7,
+        "name": "Cuba",
+        "code": "CU",
+        "flag": "https://media.api-sports.io/flags/cu.svg"
+      },
+      "league": {
+        "id": 63,
+        "name": "Liga Elite",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/63.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 130,
+          "name": "Las Tunas",
+          "logo": "https://media.api-sports.io/baseball/teams/130.png"
+        },
+        "away": {
+          "id": 125,
+          "name": "Granma",
+          "logo": "https://media.api-sports.io/baseball/teams/125.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": null,
+          "errors": null,
+          "innings": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": null
+        },
+        "away": {
+          "hits": null,
+          "errors": null,
+          "innings": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": null
+        }
+      }
+    },
+    {
+      "id": 163904,
+      "date": "2025-05-14T18:35:00+00:00",
+      "time": "18:35",
+      "timestamp": 1747247700,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Inning 2",
+        "short": "IN2"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 1,
+        "name": "MLB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 4,
+          "name": "Baltimore Orioles",
+          "logo": "https://media.api-sports.io/baseball/teams/4.png"
+        },
+        "away": {
+          "id": 22,
+          "name": "Minnesota Twins",
+          "logo": "https://media.api-sports.io/baseball/teams/22.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 2,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": 0
+        },
+        "away": {
+          "hits": 3,
+          "errors": 0,
+          "innings": {
+            "1": 1,
+            "2": 2,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": 3
+        }
+      }
+    },
+    {
+      "id": 171079,
+      "date": "2025-05-14T19:05:00+00:00",
+      "time": "19:05",
+      "timestamp": 1747249500,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Inning 2",
+        "short": "IN2"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 3,
+        "name": "IL",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/3.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 41,
+          "name": "Memphis Redbirds",
+          "logo": "https://media.api-sports.io/baseball/teams/41.png"
+        },
+        "away": {
+          "id": 42,
+          "name": "Nashville Sounds",
+          "logo": "https://media.api-sports.io/baseball/teams/42.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 0,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": 0
+        },
+        "away": {
+          "hits": 0,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": 0
+        }
+      }
+    },
+    {
+      "id": 163919,
+      "date": "2025-05-14T19:45:00+00:00",
+      "time": "19:45",
+      "timestamp": 1747251900,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Inning 2",
+        "short": "IN2"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 1,
+        "name": "MLB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 31,
+          "name": "San Francisco Giants",
+          "logo": "https://media.api-sports.io/baseball/teams/31.png"
+        },
+        "away": {
+          "id": 2,
+          "name": "Arizona Diamondbacks",
+          "logo": "https://media.api-sports.io/baseball/teams/2.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 2,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": 0,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": 0
+        },
+        "away": {
+          "hits": 5,
+          "errors": 0,
+          "innings": {
+            "1": 1,
+            "2": 2,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": 3
+        }
+      }
+    },
+    {
+      "id": 163921,
+      "date": "2025-05-14T20:10:00+00:00",
+      "time": "20:10",
+      "timestamp": 1747253400,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Inning 1",
+        "short": "IN1"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 1,
+        "name": "MLB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 32,
+          "name": "Seattle Mariners",
+          "logo": "https://media.api-sports.io/baseball/teams/32.png"
+        },
+        "away": {
+          "id": 25,
+          "name": "New York Yankees",
+          "logo": "https://media.api-sports.io/baseball/teams/25.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": 0,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": 0
+        },
+        "away": {
+          "hits": 2,
+          "errors": 0,
+          "innings": {
+            "1": 0,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": 0
+        }
+      }
+    },
+    {
+      "id": 171084,
+      "date": "2025-05-14T22:05:00+00:00",
+      "time": "22:05",
+      "timestamp": 1747260300,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 3,
+        "name": "IL",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/3.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 67,
+          "name": "Buffalo Bisons",
+          "logo": "https://media.api-sports.io/baseball/teams/67.png"
+        },
+        "away": {
+          "id": 596,
+          "name": "Worcester",
+          "logo": "https://media.api-sports.io/baseball/teams/596.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": null,
+          "errors": null,
+          "innings": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": null
+        },
+        "away": {
+          "hits": null,
+          "errors": null,
+          "innings": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": null
+        }
+      }
+    },
+    {
+      "id": 171085,
+      "date": "2025-05-14T22:05:00+00:00",
+      "time": "22:05",
+      "timestamp": 1747260300,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 3,
+        "name": "IL",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/3.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 71,
+          "name": "Indianapolis Indians",
+          "logo": "https://media.api-sports.io/baseball/teams/71.png"
+        },
+        "away": {
+          "id": 73,
+          "name": "Louisville Bats",
+          "logo": "https://media.api-sports.io/baseball/teams/73.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": null,
+          "errors": null,
+          "innings": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": null
+        },
+        "away": {
+          "hits": null,
+          "errors": null,
+          "innings": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": null
+        }
+      }
+    },
+    {
+      "id": 171086,
+      "date": "2025-05-14T22:05:00+00:00",
+      "time": "22:05",
+      "timestamp": 1747260300,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 3,
+        "name": "IL",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/3.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 29,
+          "name": "Rochester Red Wings",
+          "logo": "https://media.api-sports.io/baseball/teams/29.png"
+        },
+        "away": {
+          "id": 69,
+          "name": "Durham Bulls",
+          "logo": "https://media.api-sports.io/baseball/teams/69.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": null,
+          "errors": null,
+          "innings": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": null
+        },
+        "away": {
+          "hits": null,
+          "errors": null,
+          "innings": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": null
+        }
+      }
+    },
+    {
+      "id": 163914,
+      "date": "2025-05-14T22:15:00+00:00",
+      "time": "22:15",
+      "timestamp": 1747260900,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 1,
+        "name": "MLB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 27,
+          "name": "Philadelphia Phillies",
+          "logo": "https://media.api-sports.io/baseball/teams/27.png"
+        },
+        "away": {
+          "id": 33,
+          "name": "St.Louis Cardinals",
+          "logo": "https://media.api-sports.io/baseball/teams/33.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": null,
+          "errors": null,
+          "innings": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": null
+        },
+        "away": {
+          "hits": null,
+          "errors": null,
+          "innings": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": null
+        }
+      }
+    },
+    {
+      "id": 171087,
+      "date": "2025-05-14T22:35:00+00:00",
+      "time": "22:35",
+      "timestamp": 1747262100,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 3,
+        "name": "IL",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/3.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 53,
+          "name": "Norfolk Tides",
+          "logo": "https://media.api-sports.io/baseball/teams/53.png"
+        },
+        "away": {
+          "id": 775,
+          "name": "Jacksonville Jumbo Shrimp",
+          "logo": "https://media.api-sports.io/baseball/teams/775.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": null,
+          "errors": null,
+          "innings": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": null
+        },
+        "away": {
+          "hits": null,
+          "errors": null,
+          "innings": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": null
+        }
+      }
+    },
+    {
+      "id": 163926,
+      "date": "2025-05-14T22:40:00+00:00",
+      "time": "22:40",
+      "timestamp": 1747262400,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 1,
+        "name": "MLB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 12,
+          "name": "Detroit Tigers",
+          "logo": "https://media.api-sports.io/baseball/teams/12.png"
+        },
+        "away": {
+          "id": 5,
+          "name": "Boston Red Sox",
+          "logo": "https://media.api-sports.io/baseball/teams/5.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": null,
+          "errors": null,
+          "innings": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": null
+        },
+        "away": {
+          "hits": null,
+          "errors": null,
+          "innings": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": null
+        }
+      }
+    },
+    {
+      "id": 171088,
+      "date": "2025-05-14T23:05:00+00:00",
+      "time": "23:05",
+      "timestamp": 1747263900,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 3,
+        "name": "IL",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/3.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 70,
+          "name": "Gwinnett Stripers",
+          "logo": "https://media.api-sports.io/baseball/teams/70.png"
+        },
+        "away": {
+          "id": 48,
+          "name": "Charlotte Knights",
+          "logo": "https://media.api-sports.io/baseball/teams/48.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": null,
+          "errors": null,
+          "innings": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": null
+        },
+        "away": {
+          "hits": null,
+          "errors": null,
+          "innings": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": null
+        }
+      }
+    },
+    {
+      "id": 163931,
+      "date": "2025-05-14T23:07:00+00:00",
+      "time": "23:07",
+      "timestamp": 1747264020,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 1,
+        "name": "MLB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 36,
+          "name": "Toronto Blue Jays",
+          "logo": "https://media.api-sports.io/baseball/teams/36.png"
+        },
+        "away": {
+          "id": 34,
+          "name": "Tampa Bay Rays",
+          "logo": "https://media.api-sports.io/baseball/teams/34.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": null,
+          "errors": null,
+          "innings": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": null
+        },
+        "away": {
+          "hits": null,
+          "errors": null,
+          "innings": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": null
+        }
+      }
+    },
+    {
+      "id": 163923,
+      "date": "2025-05-14T23:10:00+00:00",
+      "time": "23:10",
+      "timestamp": 1747264200,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 1,
+        "name": "MLB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 24,
+          "name": "New York Mets",
+          "logo": "https://media.api-sports.io/baseball/teams/24.png"
+        },
+        "away": {
+          "id": 28,
+          "name": "Pittsburgh Pirates",
+          "logo": "https://media.api-sports.io/baseball/teams/28.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": null,
+          "errors": null,
+          "innings": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": null
+        },
+        "away": {
+          "hits": null,
+          "errors": null,
+          "innings": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": null
+        }
+      }
+    },
+    {
+      "id": 163928,
+      "date": "2025-05-14T23:14:00+00:00",
+      "time": "23:14",
+      "timestamp": 1747264440,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 1,
+        "name": "MLB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 8,
+          "name": "Cincinnati Reds",
+          "logo": "https://media.api-sports.io/baseball/teams/8.png"
+        },
+        "away": {
+          "id": 7,
+          "name": "Chicago White Sox",
+          "logo": "https://media.api-sports.io/baseball/teams/7.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": null,
+          "errors": null,
+          "innings": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": null
+        },
+        "away": {
+          "hits": null,
+          "errors": null,
+          "innings": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": null
+        }
+      }
+    },
+    {
+      "id": 163930,
+      "date": "2025-05-14T23:15:00+00:00",
+      "time": "23:15",
+      "timestamp": 1747264500,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 1,
+        "name": "MLB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 3,
+          "name": "Atlanta Braves",
+          "logo": "https://media.api-sports.io/baseball/teams/3.png"
+        },
+        "away": {
+          "id": 37,
+          "name": "Washington Nationals",
+          "logo": "https://media.api-sports.io/baseball/teams/37.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": null,
+          "errors": null,
+          "innings": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": null
+        },
+        "away": {
+          "hits": null,
+          "errors": null,
+          "innings": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": null
+        }
+      }
+    },
+    {
+      "id": 171089,
+      "date": "2025-05-14T23:35:00+00:00",
+      "time": "23:35",
+      "timestamp": 1747265700,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 3,
+        "name": "IL",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/3.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 44,
+          "name": "Omaha Storm Chasers",
+          "logo": "https://media.api-sports.io/baseball/teams/44.png"
+        },
+        "away": {
+          "id": 68,
+          "name": "Columbus Clippers",
+          "logo": "https://media.api-sports.io/baseball/teams/68.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": null,
+          "errors": null,
+          "innings": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": null
+        },
+        "away": {
+          "hits": null,
+          "errors": null,
+          "innings": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": null
+        }
+      }
+    },
+    {
+      "id": 163932,
+      "date": "2025-05-14T23:40:00+00:00",
+      "time": "23:40",
+      "timestamp": 1747266000,
+      "timezone": "UTC",
+      "week": null,
+      "status": {
+        "long": "Not Started",
+        "short": "NS"
+      },
+      "country": {
+        "id": 1,
+        "name": "USA",
+        "code": "US",
+        "flag": "https://media.api-sports.io/flags/us.svg"
+      },
+      "league": {
+        "id": 1,
+        "name": "MLB",
+        "type": "League",
+        "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 6,
+          "name": "Chicago Cubs",
+          "logo": "https://media.api-sports.io/baseball/teams/6.png"
+        },
+        "away": {
+          "id": 19,
+          "name": "Miami Marlins",
+          "logo": "https://media.api-sports.io/baseball/teams/19.png"
+        }
+      },
+      "scores": {
+        "home": {
+          "hits": null,
+          "errors": null,
+          "innings": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": null
+        },
+        "away": {
+          "hits": null,
+          "errors": null,
+          "innings": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null,
+            "extra": null
+          },
+          "total": null
+        }
+      }
+    }
+  ]
+}

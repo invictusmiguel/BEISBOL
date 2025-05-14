@@ -1,0 +1,16 @@
+{
+  "game_id": 169196,
+  "fecha": "2025-05-14T01:30:00+00:00",
+  "home": {
+    "team": "Saltillo",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  },
+  "away": {
+    "team": "Dos Laredos",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  }
+}

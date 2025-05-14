@@ -1,0 +1,16 @@
+{
+  "game_id": 166015,
+  "fecha": "2025-05-14T09:00:00+00:00",
+  "home": {
+    "team": "Hiroshima Carp",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  },
+  "away": {
+    "team": "Yomiuri Giants",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  }
+}

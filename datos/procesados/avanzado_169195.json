@@ -1,0 +1,16 @@
+{
+  "game_id": 169195,
+  "fecha": "2025-05-14T01:00:00+00:00",
+  "home": {
+    "team": "Queretaro",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  },
+  "away": {
+    "team": "Quintana Roo",
+    "pitcher": {},
+    "h2h_avg_runs_scored": 4.0,
+    "h2h_avg_runs_allowed": 4.0
+  }
+}

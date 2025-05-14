@@ -1,0 +1,256 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "166015"
+  },
+  "errors": [],
+  "results": 11,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 17,
+        "extra": null
+      },
+      "team": {
+        "id": 420,
+        "name": "Cambuur",
+        "logo": "https://media.api-sports.io/football/teams/420.png"
+      },
+      "player": {
+        "id": 38710,
+        "name": "R. M\u00fchren"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Penalty",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 19,
+        "extra": null
+      },
+      "team": {
+        "id": 420,
+        "name": "Cambuur",
+        "logo": "https://media.api-sports.io/football/teams/420.png"
+      },
+      "player": {
+        "id": 38710,
+        "name": "R. M\u00fchren"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 65,
+        "extra": null
+      },
+      "team": {
+        "id": 412,
+        "name": "MVV",
+        "logo": "https://media.api-sports.io/football/teams/412.png"
+      },
+      "player": {
+        "id": 38769,
+        "name": "J. Holtby"
+      },
+      "assist": {
+        "id": 38780,
+        "name": "K. Kostons"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 65,
+        "extra": null
+      },
+      "team": {
+        "id": 412,
+        "name": "MVV",
+        "logo": "https://media.api-sports.io/football/teams/412.png"
+      },
+      "player": {
+        "id": 38783,
+        "name": "J. Schroijen"
+      },
+      "assist": {
+        "id": 38784,
+        "name": "A. van den Hurk"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 72,
+        "extra": null
+      },
+      "team": {
+        "id": 412,
+        "name": "MVV",
+        "logo": "https://media.api-sports.io/football/teams/412.png"
+      },
+      "player": {
+        "id": 38772,
+        "name": "Luc Mares"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 77,
+        "extra": null
+      },
+      "team": {
+        "id": 420,
+        "name": "Cambuur",
+        "logo": "https://media.api-sports.io/football/teams/420.png"
+      },
+      "player": {
+        "id": 37839,
+        "name": "R. Oratmangoen"
+      },
+      "assist": {
+        "id": 38709,
+        "name": "G. Korte"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 77,
+        "extra": null
+      },
+      "team": {
+        "id": 412,
+        "name": "MVV",
+        "logo": "https://media.api-sports.io/football/teams/412.png"
+      },
+      "player": {
+        "id": 38762,
+        "name": "R. Last"
+      },
+      "assist": {
+        "id": 2108,
+        "name": "W. Balikwisha"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 420,
+        "name": "Cambuur",
+        "logo": "https://media.api-sports.io/football/teams/420.png"
+      },
+      "player": {
+        "id": 38127,
+        "name": "M. Breij"
+      },
+      "assist": {
+        "id": 2293,
+        "name": "G. McEachran"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 412,
+        "name": "MVV",
+        "logo": "https://media.api-sports.io/football/teams/412.png"
+      },
+      "player": {
+        "id": 38764,
+        "name": "Shermar Martina"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 87,
+        "extra": null
+      },
+      "team": {
+        "id": 412,
+        "name": "MVV",
+        "logo": "https://media.api-sports.io/football/teams/412.png"
+      },
+      "player": {
+        "id": 38767,
+        "name": "J. Deom"
+      },
+      "assist": {
+        "id": 37021,
+        "name": "G. Vlijter"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 5
+      },
+      "team": {
+        "id": 420,
+        "name": "Cambuur",
+        "logo": "https://media.api-sports.io/football/teams/420.png"
+      },
+      "player": {
+        "id": 37046,
+        "name": "R. Maulun"
+      },
+      "assist": {
+        "id": 127801,
+        "name": "K. van der Kaap"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ]
+}
